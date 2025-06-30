@@ -254,7 +254,7 @@ function AnishMidewCode(iPlayer, iUnit, iX, iY)
 	local pPlotOwner = Players[iPlotOwner]
 	print(pPlotOwner)
 	local bEstablished = nil
-	if pPlotOwner:IsMinorCiv() then
+	if pPlotOwner and pPlotOwner:IsMinorCiv() then
 		--populating this will take and need a bit more work than what is here right now.
 		if Teams[pPlotOwner:GetTeam()]:IsAtWar(Teams[pPlayer:GetTeam()]) then
 			print("Hostile City-State!")
