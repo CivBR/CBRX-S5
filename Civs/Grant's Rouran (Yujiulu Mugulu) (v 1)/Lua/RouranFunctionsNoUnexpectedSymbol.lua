@@ -343,8 +343,8 @@ function GT_Nonor_UnitPreKill(capturedPlayerID, unitID, unitType, iX, iY, isDela
 		local capturingPlayer = Players[capturingPlayerID]
 		local capturedPlayer = Players[capturedPlayerID]
 		if not HasTrait(capturingPlayer, traitRouranID) then return end
-		local unit = capturedPlayerID:GetUnitByID(unitID)
-		if not unit:IsCombatUnit() then
+		local unit = capturedPlayer:GetUnitByID(unitID)
+		if unit and not unit:IsCombatUnit() then
 			if not unit:GetUnitClassType() == unitClassGreatGeneralID then return end
 			for ID = 0,(plot:GetNumUnits() - 1) do
 				local plotUnit = plot:GetUnit(ID)
