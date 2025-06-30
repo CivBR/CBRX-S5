@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GameData>
+
+	<Beliefs>
+		<Delete Type="BELIEF_AGYARIS" />
+		<Row>
+			<Type>BELIEF_AGYARIS</Type>
+			<Description>TXT_KEY_BELIEF_AGYARIS</Description>
+			<ShortDescription>TXT_KEY_BELIEF_AGYARIS_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+	</Beliefs>
+
+	<Belief_BuildingClassFaithPurchase>
+		<Row>
+			<BeliefType>BELIEF_AGYARIS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_AGYARIS</BuildingClassType>
+		</Row>
+	</Belief_BuildingClassFaithPurchase>
+
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_AGYARIS</Type>
+			<DefaultBuilding>BUILDING_AGYARIS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_AGYARIS</Description>
+		</Row>
+	</BuildingClasses>
+
+	<Buildings>
+		<Row>
+			<Type>BUILDING_AGYARIS</Type>
+			<BuildingClass>BUILDINGCLASS_AGYARIS</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>225</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<Description>TXT_KEY_BUILDING_AGYARIS</Description>
+			<Civilopedia>Text</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_AGYARIS_STRATEGY</Strategy>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>false</NeverCapture>
+			<ConquestProb>66</ConquestProb>
+			<PortraitIndex>33</PortraitIndex>
+			<BuildingProductionModifier>10</BuildingProductionModifier>
+		</Row>
+	</Buildings>
+
+  	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_AGYARIS</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AGYARIS</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+	</Building_Flavors>
+
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_AGYARIS</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AGYARIS</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BELIEF_AGYARIS">
+			<Text>Use [ICON_PEACE] Faith to purchase Agyaris (+2 [ICON_FOOD] Food, +2 [ICON_CULTURE] Culture, 10% [ICON_PRODUCTION] Production when constructing Buildings).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AGYARIS_SHORT">
+			<Text>Agyaris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGYARIS">
+			<Text>Agyari</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

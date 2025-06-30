@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Technologies>
+		<Update>
+			<Set Cost="700" />
+			<Where Type="TECH_STEEL" />
+		</Update>
+		<Update>
+			<Set Cost="700" />
+			<Where Type="TECH_ASTRONOMY" />
+		</Update>
+		<Update>
+			<Set Cost="700" />
+			<Where Type="TECH_ACOUSTICS" />
+		</Update>
+		<Update>
+			<Set Cost="700" />
+			<Where Type="TECH_BANKING" />
+		</Update>
+		<Update>
+			<Set Cost="700" />
+			<Where Type="TECH_PRINTING_PRESS" />
+		</Update>
+		<Update>
+			<Set Cost="700" />
+			<Where Type="TECH_GUNPOWDER" />
+		</Update>
+
+		<Update>
+			<Set Cost="895" />
+			<Where Type="TECH_ARCHITECTURE" />
+		</Update>
+		<Update>
+			<Set Cost="895" />
+			<Where Type="TECH_METALLURGY" />
+		</Update>
+		<Update>
+			<Set Cost="895" />
+			<Where Type="TECH_CHEMISTRY" />
+		</Update>
+
+		<Update>
+			<Set Cost="1800" />
+			<Where Type="TECH_RIFLING" />
+		</Update>
+		<Update>
+			<Set Cost="1800" />
+			<Where Type="TECH_MILITARY_SCIENCE" />
+		</Update>
+
+		<Update>
+			<Set Cost="2100" />
+			<Where Type="TECH_BIOLOGY" />
+		</Update>
+		<Update>
+			<Set Cost="2100" />
+			<Where Type="TECH_ELECTRICITY" />
+		</Update>
+		<Update>
+			<Set Cost="2100" />
+			<Where Type="TECH_STEAM_POWER" />
+		</Update>
+		<Update>
+			<Set Cost="2100" />
+			<Where Type="TECH_DYNAMITE" />
+		</Update>
+
+		<Update>
+			<Set Cost="2600" />
+			<Where Type="TECH_REFRIGERATION" />
+		</Update>
+		<Update>
+			<Set Cost="2600" />
+			<Where Type="TECH_RADIO" />
+		</Update>
+		<Update>
+			<Set Cost="2600" />
+			<Where Type="TECH_REPLACEABLE_PARTS" />
+		</Update>
+		<Update>
+			<Set Cost="2600" />
+			<Where Type="TECH_FLIGHT" />
+		</Update>
+		<Update>
+			<Set Cost="2600" />
+			<Where Type="TECH_RAILROAD" />
+		</Update>
+
+		<Update>
+			<Set Cost="3600" />
+			<Where Type="TECH_PLASTIC" />
+		</Update>
+		<Update>
+			<Set Cost="3600" />
+			<Where Type="TECH_ELECTRONICS" />
+		</Update>
+		<Update>
+			<Set Cost="3600" />
+			<Where Type="TECH_BALLISTICS" />
+		</Update>
+		<Update>
+			<Set Cost="3600" />
+			<Where Type="TECH_COMBUSTION" />
+		</Update>
+	</Technologies>
+</GameData>

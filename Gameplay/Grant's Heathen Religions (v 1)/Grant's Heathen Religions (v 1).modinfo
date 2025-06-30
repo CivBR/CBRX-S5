@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="9d9f6aba-ddd5-4b8e-b533-3c3a0fc367c6" version="1">
+  <Properties>
+    <Name>Grant's Heathen Religions</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds 32 new religions to the game, nearly all heathen and ancient belief systems which have survived in some form to this day.</Teaser>
+    <Description>Adds 32 new religions to the game, nearly all heathen and ancient belief systems which have survived in some form to this day. Compatible with Tomatekh's Historical Religions.</Description>
+    <Authors>Grant</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Tomatekh's Historical Religions Complete" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="7A7BD400076F5FC6F902646F3AF28A4A" import="1">Art/HeathenAtlas128.dds</File>
+    <File md5="1835D04C9104554D1789A8847EABE0F0" import="1">Art/HeathenAtlas16.dds</File>
+    <File md5="5BDD277B695D3946AE3E6BB9C9387B36" import="1">Art/HeathenAtlas214.dds</File>
+    <File md5="69EBAEC37858B1E3D957370AB3FE63C5" import="1">Art/HeathenAtlas24.dds</File>
+    <File md5="3E5DD40BBB3C0E32588B522AA7CDFEA1" import="1">Art/HeathenAtlas256.dds</File>
+    <File md5="2FD2AEAFBA8528B8C05FBEF654E37B1D" import="1">Art/HeathenAtlas32.dds</File>
+    <File md5="7B83B59019409961507258BB59DC553D" import="1">Art/HeathenAtlas48.dds</File>
+    <File md5="A7B6E7D0311C4BAE70F31F442AA4A002" import="1">Art/HeathenAtlas64.dds</File>
+    <File md5="BA0B183139B571AD4EEC5339FF48DFB4" import="1">Art/HeathenAtlas80.dds</File>
+    <File md5="C7D9520D6A7C9BBCC38CCF0305E279C3" import="1">Art/HeathenFontIcons.dds</File>
+    <File md5="141978866ED3E86219184BDC34DC3BF6" import="1">Art/HeathenFontIcons.ggxml</File>
+    <File md5="C770BC3185DB1A46711BC6FEAA0B10DD" import="0">Core/HeathenReligions.xml</File>
+    <File md5="879AC093D38925F7EDC4C7995E847F89" import="0">Core/HeathenReligionsCore.sql</File>
+    <File md5="8FA9E0E04D4C2AEB7BC345888F43CFBE" import="0">Core/HRIDRemapper.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/HRIDRemapper.sql</UpdateDatabase>
+      <UpdateDatabase>Core/HeathenReligionsCore.sql</UpdateDatabase>
+      <UpdateDatabase>Core/HeathenReligions.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

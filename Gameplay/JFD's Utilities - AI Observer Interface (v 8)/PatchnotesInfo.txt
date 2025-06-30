@@ -1,0 +1,12 @@
+==============================================
+--PATCHNOTES
+==============================================
+--Note due to chronic laziness info here may be neither accurate nor complete.
+----------------------------------------------
+Version 6
+----------------------------------------------
+*Overhauled user-interface to be more in-line with BNW aesthetic as well as to streamline/include certain information.
+*Integrated City Descriptions system from old CBR_Helper. See FeaturesInfo.txt.
+*
+==============================================
+==============================================

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_NONSECTARIANISM</Type>
+			<Description>TXT_KEY_BELIEF_NONSECTARIANISM</Description>
+			<ShortDescription>TXT_KEY_BELIEF_NONSECTARIANISM_SHORT</ShortDescription>
+			<Reformation>true</Reformation>
+      			<FaithBuildingTourism>5</FaithBuildingTourism>
+		</Row>
+	</Beliefs>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BELIEF_NONSECTARIANISM">
+			<Text>All Religious buildings give +5 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NONSECTARIANISM_SHORT">
+			<Text>Non-Sectarianism </Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/8/2021 2:00:39 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Zunism, Sun Worship -->
+		<Row Tag="TXT_KEY_RELIGION_ZUNISM">
+			<Text>Zunism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ZUNISM_PEDIA">
+			<Text>
+				Zunism was the religion of the Zunbils, a royal dynasty which ruled modern-day Afghanistan throughout the eighth century. The religion centered around Zun, the sun god, whose temple was located in the Zamindawar region. Zunism was notable for its blending of Zoroastrian, Buddhist, and Hindu beliefs into a single belief system, with even Zun himself being of unknown origin. Unfortunately, Zunism was wiped out by the Saffarids and Samanids, who introduced Islam to the region during their conquests.
+			</Text>
+		</Row>
+		<!-- Abka-i, Jurchen Shamanism -->
+		<Row Tag="TXT_KEY_RELIGION_ABKAI">
+			<Text>Abka-i</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ABKAI_PEDIA">
+			<Text>
+				Jurchen Shamanism traditionally involved shrines, or tangse, to spirits associated with a given family or clan, which were in turn tended to by local shamans. As the Jurchen tribes were united under Nurhaci in the late 16th century, however, the religion was centralized around Nurhaci’s own clan spirits, and the belief in multiple heavens was abolished in favor of a single heaven known as “Abka,” ruled by the sky-father Abka Enduri. Upon adopting the name “Manchu” and establishing the Qing dynasty of China, Nurhaci and his successors continued their traditional shamanistic practices, albeit in a more regulated form controlled by the Qing emperor. In this stage, shamanism served as a core part of the Manchu identity - when the Qianlong Emperor worried that Manchu bannermen had been losing their connection to their traditions, he issued the “Shamanic Code” in 1777 to codify and teach shamanic rituals, which had the added effect of codifying and standardizing many shamanistic practices. This importance also gave an air of mystique to the Manchu in the eyes of the Han residents of the Qing dynasty, who weren’t allowed to view Manchu rituals in practice. Upon the collapse of the Qing dynasty in the early 1900s, many Manchu began to assimilate into traditional Chinese religious practices, but the traditional religion still retains many followers in Manchuria to this day.
+			</Text>
+		</Row>
+		<!-- Yzngi, Nivkh Shamanism -->
+		<Row Tag="TXT_KEY_RELIGION_YZNGI">
+			<Text>Yzngi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_YZNGI_PEDIA">
+			<Text>
+				Yzngi is the religion of the Nivkh people of eastern Siberia. It is an animist religion, with fire and the sea in particular being venerated with gifts in exchange for protection. Bears are also worshiped, most notably through the Bear Festival, where a bear cub raised over the course of several years is dressed up, fed, and then ritually slain to please the mountain gods. Traditional Nivkh religious practices were suppressed by the Soviet Union throughout the 1900s, but since then, these beliefs have seen some resurgence as a part of the Nivkh cultural identity.
+			</Text>
+		</Row>
+		<!-- Balamon, Cham Hinduism -->
+		<Row Tag="TXT_KEY_RELIGION_BALAMON">
+			<Text>Balamon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_BALAMON_PEDIA">
+			<Text>
+				Balamon Hinduism is the branch of Hinduism practiced by the Cham people of southern Vietnam. Balamon is a Shaivist variant of Hinduism, meaning practitioners primarily worship Shiva as their supreme deity. Hinduism was first introduced to Champa as early as the 5th century CE, and it remained the primary religion of Champa for several hundred years afterwards. Around the 17th century, however, Islam became more popular with Cham royalty, and Champa was fully conquered by Vietnam in the early 19th century. The religious schism in the Cham populace led to Muslim and Hindu Cham peoples often living in separate villages and even being banned from intermarriage for a time. Today, however, Balamon is still practiced despite the tides of history, albeit with a significantly reduced following.
+			</Text>
+		</Row>
+		<!-- Almaqahism -->
+		<Row Tag="TXT_KEY_RELIGION_ALMAQAHISM">
+			<Text>Almaqahism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ALMAQAHISM_PEDIA">
+			<Text>
+				Almaqah was the moon god worshipped in the ancient kingdom of Saba in modern-day Yemen, as well as the kingdom of D’mt in Eritrea and Ethiopia. The royal family of Saba traced their ancestry back to him, though all people of Saba were considered children of Almaqah in one way or another. Almaqah was also associated with bulls and the weather. When Saba collapsed in the early third century AD, it was conquered by the Himyarites, who initially continued their worship of Almaqah (albeit in a reduced form) before eventually converting to Judaism, then Christianity under the rule of Aksum, and then finally Islam under the rule of the Arabs. Still, though Almaqah’s followers may be long gone, his temples remain standing to this very day in the deserts of Yemen.
+			</Text>
+		</Row>
+		<!-- Hubalism -->
+		<Row Tag="TXT_KEY_RELIGION_HUBALISM">
+			<Text>Hubalism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_HUBALISM_PEDIA">
+			<Text>
+				Hubal was a pre-Islamic deity worshiped in Arabia. Most notable for being the primary deity venerated at the Kaaba in Mecca before Muhammad’s arrival, the idol of Hubal at Mecca was used for divination purposes, with followers throwing arrows in front of the statue and interpreting the direction in which they fell. Hubal was not the only deity worshiped in Mecca at this time – up to 360 other idols were evidently present at the site, representing days of the year – but Hubal was considered the greatest of them all. Sadly, not much is known about the origins or worship of Hubal, as upon Muhammad’s conquest of Mecca in 630, he had the statue destroyed, and worship of Hubal effectively vanished overnight. The role of Hubal as the deity worshiped by the pagans at the Kaaba has also irreversibly shifted Hubal’s legacy to forever be defined in contrast to Allah, further complicating any research into the deity. Nowadays, Hubal is most often referenced in comparisons to other forms of “idol worship” by Islamists, namely with regards to secular ideologies.
+			</Text>
+		</Row>
+		<!-- Kristni, Norse Christianity -->
+		<Row Tag="TXT_KEY_RELIGION_KRISTNI">
+			<Text>Kristni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_KRISTNI_PEDIA">
+			<Text>
+				When Christianity was first introduced to Scandinavia, it was adopted mostly peacefully, but it didn’t entirely replace the local pagan religions at first – instead, the two belief systems combined into a syncretic amalgamation that slowly became less pagan and more Christian over time, effectively creating a version of Christianity with pagan elements. Preachers and baptists from the south, as well as captives of Viking raids, slowly introduced Christianity to the people of Denmark, Norway, and Sweden, and although few Scandinavian rulers outright persecuted Christians, not many of them converted at first, either. However, over time, more and more local chiefs and kings began adopting Christianity, in part for the purposes of alliance with their southern neighbors and in part due to the actions of the preachers which came to their lands. Missionaries destroyed local idols, built churches on holy lands to associate traditional sites of worship with Christianity, and even reportedly performed miracles and trials by fire for local rulers, and so slowly but surely, Christianity made its way into Nordic societies. Denmark became a Christian nation in 965, followed by Norway and then Sweden, but even after the rulers converted to Christianity and began financing the construction of churches, much of the population retained many of their traditional beliefs. Many pagan rituals were important parts of daily life for the peasantry, and in Sweden they even made up a key part of the legal system, so even nominally Christian citizens of the Norse kingdoms would often still continue to practice elements of their old religion without batting an eye. As the years have gone by, these pagan practices have slowly disappeared from Scandinavian life, although that’s not to say that pagan influence has vanished from Christianity entirely – for instance, many elements of the traditional Norse festival known as yule have instead become associated with modern-day celebrations of Christmas.
+			</Text>
+		</Row>
+		<!-- Attarism-->
+		<Row Tag="TXT_KEY_RELIGION_ATTARISM">
+			<Text>Attarism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ATTARISM_PEDIA">
+			<Text>
+				The name “Attar” has been attached to various deities with various roles throughout West Asia, but the deity was most prominently worshiped in ancient South Arabia. There, Attar represented the Morning Star or Venus, and served as a god of rain, fertility, and the hunt. Though he eventually supplanted ‘Il as the head god of the pantheon, he was also the patron deity of the kingdom of Ma’in in particular. Ritual hunts were often conducted in Attar’s honor, usually targeting gazelles, which along with ibexes and oryxes were considered sacred to Attar. It’s unknown what happened to Attar once the kingdom of Ma’in and its neighbor states fell under the rule of Saba, but as the Sabaeans worshiped Almaqah the moon god as their patron deity instead, it’s safe to assume that Attar vanished from South Arabia at this point.
+			</Text>
+		</Row>
+		<!-- Munkh Tenger-->
+		<Row Tag="TXT_KEY_RELIGION_MUNKHTENGER">
+			<Text>Munkh Tenger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_MUNKHTENGER_PEDIA">
+			<Text>
+				Tengrism before the arrival of Buddhism to Mongolia looked very different from its modern incarnation. Sometimes referred to as “Tengerism” or “Munkh Tenger,” this early form of Tengrism centered around the worship of a diverse collection of spirits and deities, though perhaps the most important of all was the great deity Munkh Tenger (or Tengri), who likely took the form of a force rather than a being in a strict sense at this point. Early Tengrism was in no way a unified religion, however, and different Turkic and Mongol tribes worshiped wildly different gods and spirits. The religion reportedly shared similarities with other East Asian folk religions, such as Manchu folk religion and even Shinto, and made its way as far east as Europe thanks to the Magyars, Huns, and Bulgars. As foreign influences such as Buddhism and Islam made their way into the steppes, however, Tengrism was both warped and diminished in reach, and the modern practice of Tengrism evolved through these interactions.
+			</Text>
+		</Row>
+		<!-- Phat Giao-->
+		<Row Tag="TXT_KEY_RELIGION_PHATGIAO">
+			<Text>Phat Giao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PHATGIAO_PEDIA">
+			<Text>
+				Buddhism in Vietnam, known as Phat Giao, has existed since the 3rd or 2nd century BCE. Originally arriving from either India or China, Mahayana Buddhism thrived in Vietnam and blended with elements of Vietnamese folk religion and Taoism to form a wholly unique form of worship. Constant interaction with China has also caused elements of Chinese spirituality to be incorporated, and Chinese and Vietnamese Buddhism have taken on similar characteristics over the centuries. Buddhism was first recognized as the state religion of Dai Viet in approximately 971 CE during the Dinh dynasty, and it reached its peak cultural influence during the Ly dynasty (whose founder was apparently raised in a Buddhist temple), but in the centuries to come, Confucianism and eventually Christianity would begin to push Buddhism out of the forefront of Vietnamese politics. Today, Buddhism has experienced somewhat of a revival in Vietnam, and although practice is far from centralized and few people in Vietnam associate with any particular denomination, Vietnamese Buddhism retains its unique flavor and practices all throughout the nation.
+			</Text>
+		</Row>
+		<!-- Illusim, Berber Polytheism-->
+		<Row Tag="TXT_KEY_RELIGION_ILLUISM">
+			<Text>Illuism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ILLUISM_PEDIA">
+			<Text>
+				Illuism is the term generally used to describe the traditional folk religions of the Amazigh people of the Maghreb. Many of the finer details of Illuism are sadly lost to time, but some practices were recorded by contemporary scholars or have survived into the modern day. Ancestor worship appears to have been a key element in Amazigh religions, particularly in Libya, where Herodotus notes that the local peoples would often pray by the tombs of their forebearers and even swear by their names. This veneration appears to have manifested in a variety of ways in Illuism, from mummification practices (including one mummy in Libya older than any found in Egypt) to the construction of large tombs for important members of Berber society. The Amazigh peoples also built megalithic structures, and apparently worshiped the sun and moon as well. Perhaps the most fascinating aspect of Illuism, however, was its flexibility - gods from various neighboring peoples, including the Egyptians, Carthaginians, Greeks, and Romans, were at some points adapted into Amazigh religion. Even Islam hasn’t fully managed to erase Illuism, as although Islam is now certainly the dominant religious force in the Maghreb, many traditional Tuareg practices survive to this day.
+			</Text>
+		</Row>
+		<!-- Satsana Phi-->
+		<Row Tag="TXT_KEY_RELIGION_LUNGSATSANAPHI">
+			<Text>Satsana Phi </Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_LUNGSATSANAPHI_PEDIA">
+			<Text>
+				Satsana Phi is the name most commonly given to the animist folk religion of the Tai peoples, such as the Thai, Lao, and Shan peoples. Followers of Satsana Phi believe in various spirits (known as phi) which take a variety of forms, from ancestral spirits to guardians of buildings and locations to primal forces of nature. In particular, the thirty-two spirits of the body, known as the khwan, are believed to protect one’s health and bring good fortune when cared for properly. Priests known as mophi are able to commune with spirits, and are called upon to perform various rituals, for instance re-binding the khwan to someone’s body and commemorating major events in one’s life with the baci ceremony. The introduction of Buddhism and Hinduism to Southeast Asia has altered the traditional animist practices in the region, but rather than erasing them, these imported religions have instead merged with traditional Satsana Phi to create a syncretic religion in which both traditional and Hindu deities are often worshiped. However, Satsana Phi is far from a monolithic religion - some groups lean more heavily toward animist aspects of the religion, while others lean more toward traditional Buddhist or Hindu practices.
+			</Text>
+		</Row>
+		<!-- Ulganism-->
+		<Row Tag="TXT_KEY_RELIGION_ULGANISM">
+			<Text>Ulganism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ULGANISM_PEDIA">
+			<Text>
+				Ulganism is an integral aspect of the spiritual and cultural heritage of the Altaic Turkic peoples residing in the vast expanses of southern Siberia. Their ancient beliefs, rituals, and practices connect them deeply to the natural world and the unseen realms. Let us delve into the heart of Khakas shamanism, with a special focus on the revered deity Ulgan.  Shamans, known as Kham Kirtinizi, play a pivotal role. Clad in ornate costumes, they wield large frame drums adorned with intricate depictions of the cosmos. These shamans serve as intermediaries, bridging the gap between the human realm and the spirit world. Their rituals involve trance states, drumming, and communing with spirits. Ulgan, the supreme god, stands at the cosmic helm. As the creator of the universe, he embodies benevolence and goodness. Associated with the sky and the sun, Ülgen radiates light and wisdom. His name, derived from Old Turkic roots, signifies richness and magnificence. Unlike mortal beings, Ulgan exists beyond time, without a discernible beginning or end.
+			</Text>
+		</Row>
+		<!-- Akseri Buga, Even Paganism-->
+		<Row Tag="TXT_KEY_RELIGION_AKSERIBUGA">
+			<Text>Akseri Buga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_AKSERIBUGA_PEDIA">
+			<Text>
+				Evenki Shamanism, also known as Akseri, is a rich and ancient spiritual tradition practiced by the Evenki people, an indigenous group inhabiting the vast Siberian taiga. Rooted in animism, Evenki shamanism revolves around communication between humans and spirits. The central figure in this tradition is the shaman, a special priest who acts as an intermediary between the earthly realm and the supernatural. The shaman’s soul is believed to have the remarkable ability to leave the physical body and journey to other cosmic realms, including an upper world in the sky and a lower world underground. Evenki shamanic practices involve rituals, wood carvings, and symbolic representations of animals, birds, and fish. The shaman’s dwelling, known as a yarnga, is a conical structure made from bark and fur, featuring a central hearth where smoke rises and connects the terrestrial, underwater, and celestial worlds.
+			</Text>
+		</Row>
+		<!-- Kuptyng, Selkup and Ket Shamanism-->
+		<Row Tag="TXT_KEY_RELIGION_KUPTYNG">
+			<Text>Kuptyng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_KUPTYNG_PEDIA">
+			<Text>
+				Kuptyng is a name that I, the mod author, had to invent based on Selkup and Ket linguistics particularly a shared word meaning spirits. But in this case it is used to represent their local Shamanic belief systems.  Selkup shamans inherited their revered calling alternately through visions or dreams. Under the guidance of experienced shamans, novices learned the art of healing and spiritual connection. Ritual tools included drumsticks, moccasins, mittens, tambourines, and staffs. Sacred songs held immense power, facilitating healing and maintaining community harmony. During trance states induced by drumming and chanting, Selkup shamans embarked on spiritual journeys, bridging the gap between earthly and spiritual realms. Amoung the Ket, kin-negotiated marriages were common, with influential shamans playing a role in matchmaking. Ket shamans received divine calls through visions or dreams, often accompanied by psychic illness. They used songs to connect with spirits and heal the sick. Unlike some cultures, Ket shamanism allowed both men and women to become shamans, emphasizing gender equality. These ancient practices continue to shape the cultural identity of these indigenous Siberian communities .
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

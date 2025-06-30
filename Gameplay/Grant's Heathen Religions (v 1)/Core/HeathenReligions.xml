@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2021 10:22:06 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- Basque Mythology -->
+		<Row Tag="TXT_KEY_RELIGION_AMA_LURRA">
+			<Text>Ama Lurra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_AMA_LURRA_ADJ">
+			<Text>Ama Lurra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_AMA_LURRA_PEDIA">
+			<Text>The mythology of the ancient Basques largely did not survive the arrival of Christianity in the Basque Country between the 4th and 12th century AD. Most of what is known about elements of this original belief system is based on the analysis of legends, the study of place names and scant historical references to pagan rituals practised by the Basques. One main figure of this belief system was the female goddess Mari. According to legends collected in the area of Ataun, the other main figure was her consort Sugaar. However, due to the scarcity of the material, it is difficult to say if this would have been the "central pair" of the Basque pantheon. Based on the attributes ascribed to these mythological creatures, this would be considered a chthonic religion as all its characters dwell on earth or below it, with the sky seen mostly as an empty corridor through which the divinities pass.</Text>
+		</Row>
+		<!-- Yi Folk Religion -->
+		<Row Tag="TXT_KEY_RELIGION_BIMO">
+			<Text>Bimoism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_BIMO_ADJ">
+			<Text>Bimo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_BIMO_PEDIA">
+			<Text>Bimoism is the indigenous religion of the Yi people, the largest ethnic group in Yunnan after the Han Chinese. It takes its name from the bimo, shaman-priests who are also masters of Yi language and scriptures, wearing distinctive black robes and large hats. Since the 1980s, with the loosening of religion restrictions in China, Bimoism has undergone a revitalisation. In 1996, the Bimo Culture Research Center was founded.[3] In the early 2010s, the government of China has helped the revival of the Bimoist faith through the construction of large temples and ceremonial complexes.</Text>
+		</Row>
+		<!-- Berber Religion -->
+		<Row Tag="TXT_KEY_RELIGION_DII_MAURI">
+			<Text>Dii Mauri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_DII_MAURI_ADJ">
+			<Text>Dii Mauri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_DII_MAURI_PEDIA">
+			<Text>The Dii Mauri (Mauri Gods) are a group of Berber deities belonging to the Numidian and Moorish pantheon who lasted a long time during the Roman Empire and during the Christianization of Roman Africa. The generic name of Dii Mauri is made by Roman magistrates who brought together a certain number of deities honored by local populations. The Romans then wish to reconcile these local deities, who had not been integrated into the Roman pantheon and had not benefited from the procedure of Evocatio, a collective evocation making it possible to attract the attention of multiple deities and of do not forget </Text>
+		</Row>
+		<!-- Bon Religion -->
+		<Row Tag="TXT_KEY_RELIGION_BON">
+			<Text>Bön</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_BON_ADJ">
+			<Text>Bön</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_BON_PEDIA">
+			<Text>Bön, is a Tibetan religion. Its relationship to Tibetan Buddhism has been a subject of debate. Followers of Bon, known as Bonpos, believe that the religion originated in a land called Tazig, identified by scholars variously as Persia, Central Asia, or the area around Mount Kailash in the west of the Tibetan Plateau. Bonpos identify Shenrab Miwo as Bon's founder, although there are no available sources to establish this figure's historicity. From Tazig, Bon was brought first to Zhang Zhung, a kingdom to the west of the Tibetan Plateau, and then to Tibet. Western scholars have posited several origins for Bon, and have used the term Bon in many ways. Tibetan Buddhist scholarship tends to cast Bon in a negative, adversarial light, with derogatory stories about Bon appearing in a number of Buddhist histories. The Rimé movement within Tibetan religion encouraged more ecumenical attitudes between Bonpos and Buddhists. Western scholars began to take Bon seriously as a religious tradition worthy of study in the 1960s, in large part inspired by English scholar David Snellgrove's work. Following the Chinese invasion of Tibet in 1959, Bonpo scholars began to arrive in Europe and North America, encouraging interest in Bon in the West. Today, Bon is practiced by Tibetans both in Tibet and in the Tibetan diaspora, and there are Bonpo centers in cities around the world.</Text>
+		</Row>
+		<!-- Vainakh Mythology -->
+		<Row Tag="TXT_KEY_RELIGION_DAL">
+			<Text>Tovkhanan Z'ee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_DAL_ADJ">
+			<Text>Tovkhanan Z'ee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_DAL_PEDIA">
+			<Text>The Nakh or Vainkah religion is remarkably complex. Representations of deities were placed in sanctuaries and temples and forms of idolatry were practices. Deela or Dal is regarded as the supreme being, presiding over a motley crew of gods and demigods, each controlling one aspect of the universe. He commands complete obedience and is markedly harsh on misdeeds, for instance gouging the eyes of his own son, Elta, for his mistakes. The name 'tovkhanan z'ee' refers to the axis mundi or world-chain which connects heaven, earth and the underworld.</Text>
+		</Row>
+		<!-- Magyar Mythology -->
+		<Row Tag="TXT_KEY_RELIGION_ELETFA">
+			<Text>Életfa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ELETFA_ADJ">
+			<Text>Életfa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ELETFA_PEDIA">
+			<Text>In Hungarian myth, the world is divided into three spheres: the first is the Upper World (Felső világ), the home of the gods; the second is the Middle World (Középső világ) or world we know, and finally the underworld (Alsó világ). In the center of the world stands a tall tree: the World Tree / Tree of Life (Világfa/Életfa). Its foliage is the Upper World, and the Turul bird dwells on top of it. The Middle World is located at its trunk and the underworld is around its roots. In some stories, the tree has fruit: the golden apples.</Text>
+		</Row>
+		<!-- Uratian Mythology -->
+		<Row Tag="TXT_KEY_RELIGION_HALDIANISM">
+			<Text>Haldianism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_HALDIANISM_ADJ">
+			<Text>Haldian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_HALDIANISM_PEDIA">
+			<Text>Haldi was one of the three chief deities of Urartu. He was a warrior god to whom the kings of Urartu would pray for victories in battle. Ḫaldi was portrayed as a man with or without wings, standing on a lion. His principle shrine was at Ardini (Musasir). The temples dedicated to Khaldi were adorned with weapons such as swords, spears, bows and arrows, and shields hung from the walls and were sometimes known as "the house of weapons". He was the primary god of the most prominent group of Urartian tribes, which eventually evolved into the Armenian nation. Some sources claim that the legendary patriarch and founder of the Armenians, Hayk, is derived from Haldi, but other theories about the etymology of Hayk are more widely accepted.</Text>
+		</Row>
+		<!-- Sao Mythology -->
+		<Row Tag="TXT_KEY_RELIGION_IMANA">
+			<Text>Imana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_IMANA_ADJ">
+			<Text>Imana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_IMANA_PEDIA">
+			<Text>Imana is the creator god of the ancient Banyarwanda and Barundi people, in today's Rwanda and Burundi. In their mythology, Imana was the creator and the supporter of all the Barundi and Banyarwanda people. Imana was seen as almighty and gracious, intervening in one of the legends in an altercation between a man who had always borrowed beans from different people but wriggled out of repaying the debt. Some mythographers and historians propose that Imana is related, if distantly, to the Egyptian god Amun, via the migration of the Sao people, who were a Middle-Eastern people, possibly related to the Hyksos, from Egypt to the Lake Chad basin, who then filtered their beliefs across the Congo basin and into local Bantu and West African cultures. Imana and Amun share similar traits; both are creator deities and the supreme being, both are seen as immaterial and transcendental, and both intervene in cases of injustice.</Text>
+		</Row>
+		<!-- Dilmun Mythology -->
+		<Row Tag="TXT_KEY_RELIGION_INZAKISM">
+			<Text>Inzakism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_INZAKISM_ADJ">
+			<Text>Inzaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_INZAKISM_PEDIA">
+			<Text>Inzak was a god worshipped by the people of Dilmun. The ancient Sumerians regarded him as the chief god of the Dilmunite pantheon, but the Dilmunites themselves regarded him as a god of Agaru, a land in eastern Arabia.[1] His main cult center was on Failaka Island, where a temple was dedicated to him. During the Neo-Babylonian Period, Inzak was identified with Nabu. According to Khaled al-Nashef (1986), Inzak was the deity of date-palms. He was also worshiped in Susa. It is difficult to determine whether the cult spread from Dilmun to Susa or vice versa, but either way this probably happened in prehistoric times, without Mesopotamian influence. Inzak's divine spouse was the goddess Meskilak. Together they were worshiped as the main deities of Dilmun. Both names lack plausible Sumerian etymologies and are likely native; Sumerians equated the two with Enki and Ninhursag.</Text>
+		</Row>
+		<!-- Mycenean Mythology -->
+		<Row Tag="TXT_KEY_RELIGION_PASETEOI">
+			<Text>Paseteoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PASETEOI_ADJ">
+			<Text>Paseteoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PASETEOI_PEDIA">
+			<Text>Little is known for certain regarding Mycenaean religious practices beyond the importance given to animal sacrifice, communal feasting, the pouring of libations and offerings of foodstuffs. The presence of double axe carvings and horns of consecration in art and architecture suggest strong links with the Minoan religion, although these symbols may have been adopted because of their political resonance. Architectural features such as sunken basins and fresco depictions of altars hint that the Megaron may have had a religious function. Many centres also had specific sanctuary sites for worship, usually close to the palace complex. It is clear that burial was an important ritual as evidenced by the presence of monumental tholos tombs, prominent gravesites and the quantity of precious objects which were buried with the dead - golden masks, diadems, jewellery, and ceremonial swords and daggers. Paseteoi is the reconstructed Mycenaean word for 'worship'.</Text>
+		</Row>
+		<!-- Saxon Mythology -->
+		<Row Tag="TXT_KEY_RELIGION_IRMINISM">
+			<Text>Irminism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_IRMINISM_ADJ">
+			<Text>Irminone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_IRMINISM_PEDIA">
+			<Text>Irminism is a hypothesised branch of Germanic paganism that centered around the worship of the Irminsul, the Saxon equivalent of the Norse Yydraggsil. Some evidence points to the existence of a god called Irmin or Hermion, which translated in old Saxon to 'strong' or 'mighty'. This god was probably also related to the Norse Thor or Odin, especially since Odin was assigned as the protector of the World Tree. Saxons, Suebians and smaller Germanic groups such as the Chatii and Warini followed some kind of Irmin-worship, to the extent that the Romans lumped them together as 'Irminones', while the Jutes and Angles were classed as Ingvaeones, i.e. followers of Yngvi-Freya, the Norse deity, and the Franks in the south-west were known as Istvaeones, after another legendary figure called Istio or Hessito. Unfortunately, Irminism is largely still tarnished by National Socialist and nationalist attempts to uphold it as evidence of the purity of the German race, particularly among the higher echelons of the S.S. Indeed, the term 'Irminism' originated from occult Ariosophical circles, which espoused anti-semitic and German-supremacist ideas that would become the foundation of Hitler's regime.</Text>
+		</Row>
+		<!-- Albanian Mythology -->
+		<Row Tag="TXT_KEY_RELIGION_PERENDIANISM">
+			<Text>Perendianism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PERENDIANISM_ADJ">
+			<Text>Perendian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PERENDIANISM_PEDIA">
+			<Text>Perëndi is the Albanian word for God, the sky and heaven. Perëndi is thought to have been a sky and thunder god in the Albanian pagan mythology, and to have been worshiped by the Illyrians in antiquity. His name has been retained in the Albanian language—along with the names Zot (Heavenly Father) and Hyj (Heavenly Glow)—to refer to the Supreme Being after the spread of Christianity. Another archaic Albanian divine name of the sky and thunder god is Zojz, from PIE Dyeus (Daylight-Sky-God). In some of his attributes, Perëndi could be related to the weather and storm gods Shurdh and Verbt, and to the mythological demigod Drangue.</Text>
+		</Row>
+		<!--Redonism-->
+		<Row Tag="TXT_KEY_RELIGION_REDONISM">
+			<Text>Redonism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_REDONISM_ADJ">
+			<Text>Redonism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_REDONISM_PEDIA">
+			<Text>The name Redon appears in inscriptions found in Santa Maria di Leuca (present-day Lecce), and on coins minted by the Illyrian city of Lissos, suggesting that he was worshipped as the guardian deity of the city, and probably as a sea god. The fact that Redon was always depicted on coins wearing a petasos demonstrates a connection with travelling and sailing, which led historians to the conclusion that Redon was the deity protector of travellers and sailors. Indeed, the inscriptions of Santa Maria di Leuca were carved by the crews of two Roman merchant ships manned by Illyrians. Inscriptions mentioning Redon were also found on coins from the Illyrian cities of Daorson and Scodra, and even in archaeological findings from Dyrrhachium after the establishment of a Roman colony there. His name keeps on being used in the Albanian Kepi i Rodonit ("Cape of Rodon"), a headland located near Durrës which could be analysed as an Illyrian sanctuary dedicated to the god of the sailors in the past.</Text>
+		</Row>
+		<!-- Trebaruna Mythology -->
+		<Row Tag="TXT_KEY_RELIGION_TREBARUNA_CULT">
+			<Text>Trebaruna Cult</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_TREBARUNA_CULT_ADJ">
+			<Text>Trebarune</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_TREBARUNA_CULT_PEDIA">
+			<Text>Trebaruna, also Treborunnis and possibly *Trebarunu, was a Lusitanian deity, probably a goddess. Trebaruna's cult was located in the cultural area of Gallaecia and Lusitania (in the territory of modern Galicia (Spain) and Portugal). Her name could be derived from the Celtic *trebo (home) and *runa (secret, mystery), suggesting a protector or protectress of property, home, and families. Two small altars dedicated to this goddess were found in Portugal, one in Roman-Lusitanian Egitania (current Idanha-a-Velha) and another in Lardosa. The Tavares Proença Regional Museum in Castelo Branco now contains the altar from Lardosa. It was located in an area where the people from a Castro settlement founded a Roman-Lusitanian villa. This altar used to hold a statue of the goddess which has since been lost. Nevertheless, it still preserves this inscription: TREBARONNE V(otum) S(Olvit) OCONUS OCONIS f(ilius) which translates as: Oconus, son of Oco, has fulfilled the vow to Trebaruna. A name Trebarune (probably in the dative case) also appears on the inscription of Cabeço das Fráguas as a divinity receiving a sacrifice of a sheep.</Text>
+		</Row>
+		<!-- Gothic Mythology -->
+		<Row Tag="TXT_KEY_RELIGION_HAITHN">
+			<Text>Haithn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_HAITHN_ADJ">
+			<Text>Haithno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_HAITHN_PEDIA">
+			<Text>The word 'heathen' stems from the gothic word Haithn or Haithno. The Goths first appear in historical record in the early 3rd century, and they were Christianized in the 4th and 5th centuries. Information on the form of the Germanic paganism practiced by the Goths before Christianization is thus limited to a comparatively narrow and sparsely documented time-window in the 3rd and 4th centuries. The center of the Gothic cult was the village or clan (kuni), and the ritual sacrificial meal held by the villagers under the leadership of the reiks. The reiks saw themselves as the guardians of ethnic tradition. This was expressed starkly in the Gothic persecution of Christians in the 370s, when the reiks Athanaric saw this privilege threatened by the new religion, responding by the persecution of converted Goths (but not of Christian foreigners): according to the Passio of Sabas the Goth, Sabas was executed for professing Christianity (or rather for refusing to sacrifice to the tribal gods), while his companion, the priest Sansalas, was let go because he was a foreigner. [NEWLINE][NEWLINE]After the Goths had settled in Scythia in the 2nd century, it is probable that a process of ethnogenesis was set in motion, and that most of the "Goths" of the 3rd and 4th century were not in fact descended from Scandinavia but (much as was the case with the "Huns" in the following century) consisted of a heterogeneous population which was united under the name of "Goths" by virtue of having submitted to the elite formed by the ruling dynasties of the reiks. Gothic religion was purely tribal, in which polytheism, nature worship, and ancestor worship were one and the same. We know that the Amali dynasty deified their ancestors, the Ansis (Aesir), and that the Tervingi opened battle with songs of praise for their ancestors. The word God comes from the word Guth or Gut, which means in Gothic 'idol' or 'ritual pouring of liquid'. In Germanic langauges it also appears as Gott.</Text>
+		</Row>
+		<!-- Sumban Religion -->
+		<Row Tag="TXT_KEY_RELIGION_MARAPU">
+			<Text>Marafu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_MARAPU_ADJ">
+			<Text>Marafu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_MARAPU_PEDIA">
+			<Text>The Marapu religion (also known as Marafu in Sumba) is a form of ancestral religion that is practiced mainly in the island of Sumba in Indonesia. Marapu is also practiced in many more remote areas of Sumba and Flores. Both the Christians and Muslims on these islands tend to combine their faiths with Marapu. Since Marapu, like Kaharingan of the Dayaks, is not an official religion of Indonesia, and all Indonesian citizens are required to identify as a member of one of the religions sanctioned by law, members have chosen either Christianity or Islam to self identify. They believe in temporary life in the world and eternal life in the Doomsday, the world of spirits in Marapu heaven – Prai Marapu. To honor Marapu, the Sumbanese put effigies, called Marapu statues, on stone altars where they lay their offerings in the forms of Sirih Pinang (a dish containing betel leaves, nuts and lime) and sacrificial cattle. The statues of Marapu are made of wood in the shape of human faces. These images are usually placed in the yard of their houses or inside the traditional houses.</Text>
+		</Row>
+		<!-- Tocharian Mythology -->
+		<Row Tag="TXT_KEY_RELIGION_SWANCO">
+			<Text>Swanco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SWANCO_ADJ">
+			<Text>Swanco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SWANCO_PEDIA">
+			<Text>Most of the Tocharian inscriptions are based on Buddhist monastical texts, which suggests that the Tocharians largely embraced this particular religion. The pre-Buddhist beliefs of the Tocharians are largely unknown, however there are a few tantalising fragments. For example, the Tocharian B noun swāñco, meaning ray, beam, or celestial light, is derived from the Indo-European word sóhawl, which represents the Goddess of the Sun or the sun itself. It is likely that the ancient Tocharians, and their classical descendants in Kroraina and Kucha, shared folk tales, beliefs and stories descended from common Indo-European motifs and similar to Hittite, Hurrian and Germanic beliefs. Early Chinese and Turkic influence would have shaped their beliefs considerably. The Turkic Sun Goddess, Gün Ana, has been suggestedas central to any pantheon they might have had, and there is linguistic evidence to suggest that an lunar and earth deity might have been subordinate to them.</Text>
+		</Row>
+	<!-- Solar Bird Cult Mythology -->
+		<Row Tag="TXT_KEY_RELIGION_SOLAR_BIRD_CULT">
+			<Text>Solar Bird Cult</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SOLAR_BIRD_CULT_ADJ">
+			<Text>Solar Bird Cultist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SOLAR_BIRD_CULT_PEDIA">
+			<Text>The beliefs and myths of the ancient Shu civilization are largely a mystery, but recent finds indicate strong similairites with ancient Chinese cosmology, with a special emphasis on the sun and birds, with the 'solar bird' artefact discovered at Jinsha becoming the city emblem of Chengdu. As far back as Neolithic times, the Chinese identified the four quadrants of the sky with animals: Azure Dragon of the East, Vermillion Bird of the South, White Tiger of the West, and Black Tortoise of the North. Each of these Four Symbols (Chinese constellation) was associated with a constellation that was visible in the relevant season: the dragon in the spring, the bird in the summer, etc. Since these four animals—birds, dragons, snakes and tigers—predominate the finds at Sanxingdui,[citation needed] the bronzes could represent the universe. It is unclear whether they formed part of ritual events designed to communicate with the spirits of the universe (or ancestral spirits). As no written records remain it is difficult to determine the intended uses of objects found. Some believe that the continued prevalence of depictions of these animals, especially in the later Han period, was an attempt by humans to "fit into" their understanding of their world. (The jades that were found at Sanxingdui also seem to correlate with the six known types of ritual jades of ancient China, again each associated with a compass point (N, S, E, W) plus the heavens and earth.)</Text>
+		</Row>
+		<!-- Udmurt Mythology -->
+		<Row Tag="TXT_KEY_RELIGION_VOS">
+			<Text>Vös</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_VOS_ADJ">
+			<Text>Vös</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_VOS_PEDIA">
+			<Text>Udmurt Vos is the ethnic religious revival of the Udmurts, a Finno-Ugric ethnic group inhabiting the republic of Udmurtia in Russia. Among the Udmurts, as in other Finno-Ugric republics in the Volga region, the revival of Paganism is inextricably intertwined with the revival of national-ethnic culture and awareness. The Udmurt word vös’ means "prayer", "sacrifice", "religion", "faith" and as a root derives many other words in the Udmurt language, among which vös’as’kon meaning "prayer", "sacrifice", vös’as’ meaning "priest", and the verbs vös’any meaning "to pray", "to sacrifice", "to hallow", vös’as’kyny that means "to pray", "to beg", and vös’atyny meaning "to sacrifice". According to the theologians of the Udmurt Vos, the whole of nature is determined by the numinous presence of divinity, gods and spirits. Existence has three basic levels: the cosmic, in which the central divinity Inmar takes first place; that of the aerial elements, the heavens, in which Kvaz' is dominant; and the earthly creation, the world of creatures, in which Kelchin' is dominant. Alongside the hierarchy of Inmar, Kvaz' and Kelchin', there is Lud (the world tree), the genius (breeder) of all spirits, which is neither good nor evil. The dead actually live in another world which is a perfect mirror of our own.</Text>
+		</Row>
+		<!--Zalmoxianism-->
+		<Row Tag="TXT_KEY_RELIGION_ZALMOXIANISM">
+			<Text>Zalmoxianism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ZALMOXIANISM_ADJ">
+			<Text>Zalmoxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ZALMOXIANISM_PEDIA">
+			<Text>Zalmoxis is a divinity of the Getae and Dacians , mentioned by Herodotus in his Histories Book IV, 93–96, written before 425 BC. The "Zalmoxian religion" is the subject of a scholarly debate that has continued since the beginning of the 20th century. According to some scholars, such as Vasile Pârvan, Jean Coman, R. Pettazzon, E. Rohde and Sorin Paliga, since ancient sources do not mention any god of the Getae other than Zalmoxis, the Getae were monotheistic. However, Herodotus is the only ancient author who explicitly states that the Getae had only one divinity. The sending of a messenger to Zalmoxis and the fact that Getae shot arrows towards the sky have prompted some authors to believe Zalmoxis was a sky god, but his journey into a cavern has led others to suggest that he was a chthonic divinity. A third group of scholars believe that the Getae, like other Indo-European peoples, were polytheistic. They draw on ancient authors such as Diodorus Siculus, who states that the Getae worshipped Hestia as well as Zalmoxis.</Text>
+		</Row>
+		<!--Finnish religion-->
+		<Row Tag="TXT_KEY_RELIGION_TAIVAANAULA">
+			<Text>Taivaanaula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_TAIVAANAULA_ADJ">
+			<Text>Taivaanaula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_TAIVAANAULA_PEDIA">
+			<Text>Finnish paganism is the indigenous pagan religion in Finland and Karelia prior to Christianisation. It was a polytheistic religion, worshipping a number of different deities. The principal god was the god of thunder and the sky, Ukko; other important gods included Jumi (Jumala), Ahti, and Tapio. Jumala was a sky god; today, the word "Jumala" refers to the Christian God. Ahti was a god of the sea, waters and fish. Tapio was the god of forests and hunting. Finnish paganism shows many similarities with the religious practices of related cultures, such as Estonian, Mordvin, Mari, Sami and other Eurasian paganism. It shares some features with its neighbouring Baltic, Norse and Germanic paganisms.</Text>
+		</Row>
+		<!-- Hurrian Mythology -->
+		<Row Tag="TXT_KEY_RELIGION_ESE_HAVURNE">
+			<Text>Ese Havurne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ESE_HAVURNE_ADJ">
+			<Text>Ese Havurne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ESE_HAVURNE_PEDIA">
+			<Text>The Hurrian religion was the polytheistic religion of the Hurrians, a Bronze Age people of the Near East. These people settled over a wide area, so there were differences between them, especially between the eastern Hurrians around Nuzi and Arrapha and the western Hurrians in Syria and Anatolia. From the 14th century BC, the Hurrian religion had a powerful influence on the Hittite religion and the Hurrian pantheon is depicted in the 13th century rock reliefs at the important Hittite sanctuary at Yazılıkaya. The chief god of the Hurrians was the weather god Teššub. All of the Hurrians also worshiped Šauška, god of love and war, the fertility-god Kumarbi, the moon god Kušuḫ and the sun god Šimige. Only the western Hurrians worshipped Ḫebat and her son Šarruma, who were of Syrian origin. Other important deities were the mother goddesses Ḫudena Ḫudellura, the Syrian oath-goddess Išḫara and Kubaba, as well as the Mesopotamian god of wisdom, Ea (Eya-šarri), and the death god Ugur. The Hurrians treated Earth and Heaven as gods (eše ḫavurne), but they were not depicted as anthropomorphic deities. Since creation, they had rested on the shoulders of the giant Ubelluri who is also meant to have separated Earth and Heaven from one another with a copper sickle. In the reliefs of Yazılıkaya two bull-men are depicted standing on the Earth, holding up the heavens.</Text>
+		</Row>
+		<!-- Amis Folk Religion -->
+		<Row Tag="TXT_KEY_RELIGION_KAWASKAWAS">
+			<Text>Kawaskawas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_KAWASKAWAS_ADJ">
+			<Text>Kawaskawas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_KAWASKAWAS_PEDIA">
+			<Text>Kawaskawas refers to a set of spiritual beliefs, such as a religion. Kawas refers to an Amis supernatural entity. Though the Amis have converted to Christianity, their spiritual beliefs and Christianity have syncretized and the term kawas is still used. Kawas are divided into 6 groups: gods, ancestors, souls of living, spirits of living things, spirits of lifeless objects, and ghosts. Bamboo oracle specialists were among communicators. Lisin, or ceremony, was the preferred method to cope with kawas.</Text>
+		</Row>
+		<!-- Mordvin religion -->
+		<Row Tag="TXT_KEY_RELIGION_MASTORAVA">
+			<Text>Mastorava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_MASTORAVA_ADJ">
+			<Text>Mastorava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_MASTORAVA_PEDIA">
+			<Text>Mordvin Neopaganism, or the Mordvin native religion or Erzyan native religion, is the modern revival of the ethnic religion of the Mordvins (Erzya and Moksha), peoples of Volga Finnic ethnic stock dwelling in the republic of Mordovia within Russia, or in bordering lands of Russia. The religion is often called Mastorava (Mordvin for: "Mother Earth"), from the homonymous epic poem or the mother goddess of the Mordvin pantheon. The name of the originating god according to the Mordvin tradition is Ineshkipaz.</Text>
+		</Row>
+		<!-- Amis Folk Religion -->
+		<Row Tag="TXT_KEY_RELIGION_COSSUS_CULT">
+			<Text>Cossus Cult</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_COSSUS_CULT_ADJ">
+			<Text>Cossus Cultist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_COSSUS_CULT_PEDIA">
+			<Text>Coso, Cossus or Coseu was the god of war of the ancient Asturians, Cantabrians and Gallaeci. As their socieites transitioned from peaceful trade to nearly permanent warfare with the arrival of the Carthaginians and Romans, the cult of Coso, in military gatherings and 'brotherhood assemblies' became the dominant force among peoples in the region. While it might have been derived from the Roman Mars and the Greek Ares, Coso became a very specific patron deity to mountaineer warriors and highly armed mountain farmsteads.</Text>
+		</Row>
+		<!-- Mari Religion-->
+		<Row Tag="TXT_KEY_RELIGION_CIMARII_JULA">
+			<Text>Cimarii Jüla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CIMARII_JULA_ADJ">
+			<Text>Cimarii Jüla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CIMARII_JULA_PEDIA">
+			<Text>The Mari Native Religion, or Mari Paganism, is the ethnic religion of the Mari people, a Volga Finnic ethnic group based in the republic of Mari El, in Russia. The religion has undergone changes over time, particularly under the influence of neighbouring monotheisms. In the last few decades, while keeping its traditional features in the countryside, an organised Neopagan-kind revival has taken place. The Mari religion is based on the worship of the forces of nature, which man must honour and respect. Before the spread of monotheistic teachings amongst the Mari, they worshipped many gods (the jumo, a word cognate to the Finnish Jumala), while recognising the primacy of a "Great God", Kugu Jumo. In the 19th century, influenced by monotheism, the Pagan beliefs altered and the image of a Osh Kugu Jumo, literally "Great God of Light", was strengthened.</Text>
+		</Row>		
+		<!-- Kalash Religion-->
+		<Row Tag="TXT_KEY_RELIGION_LUPWKA">
+			<Text>Lupw-kâ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_LUPWKA_ADJ">
+			<Text>Lupw-kâ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_LUPWKA_PEDIA">
+			<Text>The religion of the Kalash and Nuristanis in the mountains of northern Afghanistan and Kashmir is a relic of ancient Indo-European and Indo-Iranian mythologies, distinct from Hinduism, Buddhism, Zoroastrianism and other major Indo-Iranian and Indo-European religions. It has been estimated to have become established in the mountains around the time of Alexander the Great; beforehand, it was a slight variant of a wider subtrate of Indo-Iranian language across Central Asia. Its major deities are close to Hinduism - for example, the supreme being is Imro, similar to an old name for Yama, the Hindu and Buddhist deity of death and the afterlife. 'God-callers' or shamans are known as L’upw-kâ in the Nuristani dialect, although nearly all have died as a result of modernisation and conversion to Islam from the 19th to the 21st century.</Text>
+		</Row>
+		<!-- Ajdaha Yilan -->
+		<Row Tag="TXT_KEY_RELIGION_AJDAHA_YILAN">
+			<Text>Ajdaha Yilan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_AJDAHA_YILAN_ADJ">
+			<Text>Ajdaha Yilan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_AJDAHA_YILAN_PEDIA">
+			<Text>Despite the fact that Islam became the basic religion of the Tatars, Sibirs and Chuvash in Siberia, traditional religious beliefs have been perserved, including a belief in spirits (the so-called masters of localities), in the kukol (family guardians), and in cults of sacred trees, the earth, fire, the sun, and of various animals and birds. One of the most well known pieces of folk mythology is the Kazan Dragon, or Zilant, part of a family of Ajdaha Yilan (dragon-snakes). The Chuvash and Mari (ethnic groups living in the area of Kazan alongside the Tatars) also have legends relating to the foundation of Kazan, but none of them refer to the Kazan dragon. After the 16th century, Russians acquired the foundation legend from Tatars. For Kazan Russians, Zilant had negative connotations, as it was represented as a Slavic dragon rather than as a snake. According to one legend, when Bulgars came to found the town of Bilär, they discovered a big snake. They decided to kill it, but the snake begged for peace and pleaded with Allah to give her wings. Once she had her wings the snake flew away from Bilär. Most of these myths are remnants of a melting pot of pre-Islamic Turkic, Finnic and Slavic mythology in 7-9th century Volga Bulgaria, especially regarding lakes, dragons and ghostly spirits.
+		</Text>
+		</Row>
+		<!-- Ak Jang-->
+		<Row Tag="TXT_KEY_RELIGION_AK_JANG">
+			<Text>Ak Jang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_AK_JANG_ADJ">
+			<Text>Ak Jang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_AK_JANG_PEDIA">
+			<Text>Burkhanism or Ak Jang, is a new religious movement that flourished among the indigenous people of Russia's Gorno-Altai region (okrug) between 1904 and the 1930s. Czarist Russia was suspicious of the movement's potential to stir up native unrest and perhaps involve outside powers. The Soviet authorities ultimately suppressed it for fear of its potential to unify Siberian Turkic peoples under a common nationalism. Originally millenarian, charismatic and anti-shamanic, the Burkhanist movement gradually lost most of these qualities—becoming increasingly routine, institutionalized (around a hierarchy of oral epic singers) and accommodating itself to the pre-existing Altaian folk religion. It exists today in several revival forms. On the whole, the Burkhanist movement was shown to be a syncretistic phenomenon combining elements of ancient pre-Shamanist, Shamanist, Lamaist and Orthodox Christian beliefs. According to a Professor of Tomsk State University L. Sherstova, it emerged in response to the needs of a new people - the Altai-kizhi or Altaians who sought to distinguish themselves from the neighboring and related tribes and for whom Burkhanism became a religious form of their ethnic identity.</Text>
+		</Row>
+		<!-- Hausa Religion-->
+		<Row Tag="TXT_KEY_RELIGION_MAGUZANCI">
+			<Text>Maguzanci</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_MAGUZANCI_ADJ">
+			<Text>Maguzanci</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_MAGUZANCI_PEDIA">
+			<Text>Hausa animism, "Maguzanci" or Bori is a pre-Islamic traditional religion of the Hausa people of West Africa that involves magic and spirit possession. Most of the adherents of the religion accepted Islam after the 18th century Jihad by the Islamic reformer Usman dan Fodio. An aspect of the traditional Maguzawa Hausa religious traditions, Bori became a state religion led by ruling-class priestesses among some of the late pre-colonial Hausa states. When Islam started making inroads into Hausa land in the 14th century, certain aspects of the religion such as idol worship were driven underground. The cult of Tsumbubura in the then Sultanate of Kano and many other similar Bori cults were suppressed, but Bori survived in "spirit-possession" cults by integrating some aspects of Islam. The Bori spirit possession priestesses maintained nominal influence over the Sultanates that replaced the earlier Animist kingdoms. Priestesses communed with spirits through ecstatic dance ritual, hoping to guide and maintain the state's ruling houses. A corps of Bori priestesses and their helpers was led by royal priestess, titled the "Inna", or "Mother of us all". The Inna oversaw this network, which was not only responsible for protecting society from malevolent forces through possession dances, but which provided healing and divination throughout the kingdom.</Text>
+		</Row>
+	<!-- Georgia Mythology-->
+		<Row Tag="TXT_KEY_RELIGION_GARDACVABELA">
+			<Text>Gardacvabela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_GARDACVABELA_ADJ">
+			<Text>Gardacvabela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_GARDACVABELA_PEDIA">
+			<Text>Like many other rich and ancient bodies of myth, that of the Georgians has been coloured by the belief systems of the many cultures with which it has come into contact over the millennia. The bedrock upon which it is founded is, by definition, the indigenous mythology of the Kartvelian peoples themselves, whose first emergence from the darkness of prehistory is believed by many scholars to occur with the founding of the Kingdoms of Diauehi, Colchis and Iberia. This said, the consensus of scholarly opinion is that the proto-Kartvelians (possibly to be identified with the Mushki) originated in Ancient Anatolia, where their religious ideas would have come into contact with those of the Hattians, the Hittite empire, the Hurrians, Urartu, and the Armenians.. The mountain Georgians have  preserved a rich and well-organized [pagan] religious system to the beginning of the twentieth century, with differentiated cults that continued to be productive [thanks largely to the persistence of] a priestly class with an orally-transmitted body of knowledge</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

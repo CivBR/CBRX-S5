@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+	<Instance Name="EpithetInstance">
+		<Box Anchor="L,T" Color="255.255.255.0" Offset="0,0" Size="254,70" Hidden="0" ID="EpithetBox">
+			<Image Anchor="C,C" Size="214,29" Offset="-20,4" Texture="MeterBarGreatPersonBack.dds">
+				<TextureBar Anchor="L,C" Size="214.29" Texture="meterbarepithetprogress.dds" Direction="Right" ID="EpithetMeter" Hidden="0"/>
+				<Image Anchor="L,C" Size="214,29" Offset="0,0" Texture="MeterBarFrame.dds"/>
+				<Label Anchor="L,T" Offset="12,-15" String="" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" ID="EpithetLabel" Hidden="0"/>
+			</Image>
+			<Box Anchor="L,B" Color="27.53.64.255" Offset="0,0" Size="264,2"/>
+		</Box>
+	</Instance>
+
+	<Box Style="BGBlock_ClearTopBar" />
+
+	<Grid Size="350,540" Anchor="C,C" Offset="0,0" Padding="30,30" Style="Grid9DetailFive140" ID="ButtonStackFrame">
+
+		<!-- Side treatments -->
+		<Box Style="MenuLeftSideTreatment"/>
+		<Box Style="MenuRightSideTreatment"/>
+
+		<Label Anchor="C,T" Size="300,24" Offset="0,17" String="TXT_KEY_JFD_EPITHET_PROGRESS_TITLE" ID="Title" ColorSet="Beige_Black"  Font="TwCenMT22" />
+
+		<Image Anchor="C,T" AnchorSide="I.O" Offset="0,-14" Size="256,64" Texture="Top512IconTrim.dds">
+			<Image Anchor="C,C" Offset="0,-6" Size="80,80" Texture="NotificationFrameBase.dds">
+				<AlphaAnim Anchor="C,C" Offset="0,0" Size="80,80" Texture="JFD_Epithets_NotificationAtlas_80.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="1"/>
+			</Image>
+		</Image>
+
+		<ScrollPanel Anchor="L,T" Offset="30,50" Size="276,430" ID="EpithetScrollPanel" Vertical="1" >
+			<Stack Anchor="L,T" Size="276,490" StackGrowth="B" Padding="0" ID="EpithetStack" />
+			<ScrollBar  Offset="0,0" Style="VertSlider" Anchor="R,C" AnchorSide="O,I" Length="402" ID="EpithetScrollPanelBar"  />
+			<UpButton Offset="0.0" Style="ScrollBarUp" Anchor="R,T" AnchorSide="O,I"/>
+			<DownButton Offset="0.0" Style="ScrollBarDown" Anchor="R,B" AnchorSide="O,I"/>
+		</ScrollPanel>
+
+		<TextButton Offset="0,27" Anchor="C.B" Style="Font14or20" ColorSet="Beige_Black_Alpha" String="TXT_KEY_CLOSE" FontStyle="Shadow" MouseOverStyle="SoftShadow" ConsumeMouse="1" ID="CloseButton" Hidden="0" />
+	</Grid>
+</Context>

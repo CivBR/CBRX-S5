@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Created by ModBuddy on 3/16/2013 8:29:49 AM -->
+<GameData>
+	<Units>
+
+		<Update>
+			<Where Type="UNIT_MODERN_ARMOR" />
+			<Set PrereqTech="TECH_MOBILE_TACTICS" />
+		</Update>
+
+		<Update>
+			<Where Type="UNIT_SS_BOOSTER" />
+			<Set Cost="-1" PrereqTech="NULL" ProjectPrereq="NULL" SpaceshipProject="NULL" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_SS_STASIS_CHAMBER" />
+			<Set Cost="-1" PrereqTech="NULL" ProjectPrereq="NULL" SpaceshipProject="NULL" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_SS_COCKPIT" />
+			<Set Cost="-1" PrereqTech="NULL" ProjectPrereq="NULL" SpaceshipProject="NULL" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_SS_ENGINE" />
+			<Set Cost="-1" PrereqTech="NULL" ProjectPrereq="NULL" SpaceshipProject="NULL" />
+		</Update>
+
+		<Update>
+			<Where Type="UNIT_MECH" />
+			<Set PrereqTech="TECH_ADAMANTIUM" Cost="1000" Combat="150" Moves="6" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_STEALTH_BOMBER" />
+			<Set PrereqTech="TECH_ADVANCED_BALLISTICS" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_BAZOOKA" />
+			<Set Combat="80" RangedCombat="80" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_XCOM_SQUAD" />
+			<Set Combat="105" Cost="450" Moves="5" PrereqTech="TECH_ENERGY_THEORY" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_GUIDED_MISSILE" />
+			<Set PrereqTech="TECH_LASERS" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_BATTLESHIP" />
+			<Set ObsoleteTech="TECH_GRID_COMPUTING" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_MISSILE_CRUISER" />
+			<Set ObsoleteTech="TECH_GRID_COMPUTING" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_TANK" />
+			<Set ObsoleteTech="TECH_ADVANCED_BALLISTICS" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_FIGHTER" />
+			<Set ObsoleteTech="TECH_LASERS" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_BOMBER" />
+			<Set ObsoleteTech="TECH_ADVANCED_BALLISTICS" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_MECHANIZED_INFANTRY" />
+			<Set Cost="420" ObsoleteTech="TECH_NANOMATERIALS" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_MODERN_ARMOR" />
+			<Set ObsoleteTech="TECH_SUPERCONDUCTIVITY" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_ROCKET_ARTILLERY" />
+			<Set ObsoleteTech="TECH_QUANTUM_COMPUTERS" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_JET_FIGHTER" />
+			<Set ObsoleteTech="TECH_COGNITIVE_TECH" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_STEALTH_BOMBER" />
+			<Set ObsoleteTech="TECH_NUCLEAR_FUSION" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_GUIDED_MISSILE" />
+			<Set ObsoleteTech="TECH_QUANTUM_COMPUTERS" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_NUCLEAR_SUBMARINE" />
+			<Set ObsoleteTech="TECH_NEURAL_INTERFACE" Moves="7" Combat="50" RangedCombat="90" Range="4" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_DESTROYER" />
+			<Set ObsoleteTech="TECH_PARTICLE_PHYSICS" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_CARRIER" />
+			<Set ObsoleteTech="TECH_ROBOTICS" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_HELICOPTER_GUNSHIP" />
+			<Set ObsoleteTech="TECH_GRID_COMPUTING" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_BAZOOKA" />
+			<Set ObsoleteTech="TECH_INTERNET" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_MARINE" />
+			<Set ObsoleteTech="TECH_GLOBALIZATION" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_PARATROOPER" />
+			<Set ObsoleteTech="TECH_INTERNET" />
+		</Update>
+		<Update>
+			<Where Type="UNIT_NUCLEAR_MISSILE" />
+			<Set NukeDamageLevel="3" />
+		</Update>
+	</Units>
+
+	<Unit_ClassUpgrades>
+		<Update>
+			<Where Type="UNIT_PARATROOPER" />
+			<Set UnitClassType="UNITCLASS_FW_AIRBORNE_FORCES" />
+		</Update>
+	</Unit_ClassUpgrades>
+
+	<Unit_Flavors>
+		<Delete UnitType="UNIT_XCOM_SQUAD" />
+		<Row>
+			<UnitType>UNIT_XCOM_SQUAD</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_XCOM_SQUAD</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>16</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_XCOM_SQUAD</UnitType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_XCOM_SQUAD</UnitType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<UnitPromotions>
+		<Update>
+			<Where Type="PROMOTION_CARGO_I" />
+			<Set LostWithUpgrade="false" />
+		</Update>
+		<Update>
+			<Where Type="PROMOTION_CARGO_II" />
+			<Set LostWithUpgrade="false" />
+		</Update>
+		<Update>
+			<Where Type="PROMOTION_CARGO_III" />
+			<Set LostWithUpgrade="false" />
+		</Update>
+		<Update>
+			<Where Type="PROMOTION_CARGO_IV" />
+			<Set LostWithUpgrade="false" />
+		</Update>
+		<Update>
+			<Where Type="PROMOTION_PARADROP" />
+			<Set LostWithUpgrade="true" DropRange="15" />
+		</Update>
+		<Update>
+			<Where Type="PROMOTION_PARADROP_EXTENDED" />
+			<Set DropRange="40" />
+		</Update>
+	</UnitPromotions>
+</GameData>

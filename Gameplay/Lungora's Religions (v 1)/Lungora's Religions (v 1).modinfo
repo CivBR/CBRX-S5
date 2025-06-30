@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="13f870e4-4322-4e15-8e71-35885905c420" version="1">
+  <Properties>
+    <Name>Lungora's Religions</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>16 Religions, from Askseri Buga to Zunism.</Teaser>
+    <Description>Adding more religions to the game.</Description>
+    <Authors>FionaDanger/Lungora</Authors>
+    <SpecialThanks>Nopecopter, Explosive Watermelon</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="76AF82D323A04C0B5C0EF376890FDC39" import="1">Art/LungRelFont.ggxml</File>
+    <File md5="1E70860DB7C079C493BD31E5F39A817D" import="1">Art/LungRelAtlas128.dds</File>
+    <File md5="A09E4D2428D7621FFAD5FA5076C62D8A" import="1">Art/LungRelAtlas16.dds</File>
+    <File md5="B42E81722B3B470928CC60DFEB0B5E5A" import="1">Art/LungRelAtlas214.dds</File>
+    <File md5="DD9A0AE8B305EF9361460EAF09A4D949" import="1">Art/LungRelAtlas24.dds</File>
+    <File md5="F1791C27AC1FA094CFDBCFB1575013F1" import="1">Art/LungRelAtlas256.dds</File>
+    <File md5="6297FEDB255976EE3CE3FA66FE11AC55" import="1">Art/LungRelAtlas32.dds</File>
+    <File md5="36C22F059142F56C03B063C2641CBA12" import="1">Art/LungRelAtlas45.dds</File>
+    <File md5="74BD6813487FF19CE0C405BAB24D8C26" import="1">Art/LungRelAtlas48.dds</File>
+    <File md5="10087C35375F427EE830D2916D3F161E" import="1">Art/LungRelAtlas64.dds</File>
+    <File md5="3DF31D3D546BE265CDE0EF74D5E908D5" import="1">Art/LungRelAtlas80.dds</File>
+    <File md5="32A8302FA5D6D0FD14F690163B8C4C92" import="1">Art/LungRelFont.dds</File>
+    <File md5="979D6E7AC80EF856EEC64DF37D133BC3" import="0">Code/LungRelCore.sql</File>
+    <File md5="43A26FD6AD8648F615576CB523F427CD" import="0">Code/LungRelText.xml</File>
+    <File md5="8FA9E0E04D4C2AEB7BC345888F43CFBE" import="0">Code/HRIDRemapper.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/HRIDRemapper.sql</UpdateDatabase>
+      <UpdateDatabase>Code/LungRelCore.sql</UpdateDatabase>
+      <UpdateDatabase>Code/LungRelText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

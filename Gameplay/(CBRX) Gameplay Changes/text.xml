@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GameData>
+	<Language_en_US>
+		<!--Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_AGYARIS_STRATEGY">
+			<Text>Agyaris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DAOGUANS_STRATEGY">
+			<Text>Daoguans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GGANTIJAS_STRATEGY">
+			<Text>Ggantijas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOMPAS_STRATEGY">
+			<Text>Gompas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IGE_OPEN_TT">
+			<Text>Open IGE Panel</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

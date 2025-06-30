@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/19/2018 5:26:20 PM -->
+<GameData>
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_WAR_SHRINES</Type>
+			<Description>TXT_KEY_BELIEF_WAR_SHRINES</Description>
+			<ShortDescription>TXT_KEY_BELIEF_WAR_SHRINES_SHORT</ShortDescription>
+			<Enhancer>true</Enhancer>
+		</Row>
+	</Beliefs>
+	<Belief_ImprovementYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_WAR_SHRINES</BeliefType>
+			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_WAR_SHRINES</BeliefType>
+			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Belief_ImprovementYieldChanges>
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_WAR_SHRINES" />
+		<Row Tag="TXT_KEY_BELIEF_WAR_SHRINES">
+			<Text>+2 [ICON_FAITH] Faith and +2 [ICON_CULTURE] Production from Citadels. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WAR_SHRINES_SHORT">
+			<Text>War Shrines</Text>
+		</Row>
+	</Language_en_US>
+</GameData>z
