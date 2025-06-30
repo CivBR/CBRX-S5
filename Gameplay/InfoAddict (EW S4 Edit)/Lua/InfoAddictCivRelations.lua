@@ -1074,7 +1074,7 @@ function attitudeView()
 
 					local currentAttitude = attitudes[targetPid][thisPid];
 					-- logger:debug("Checking " .. thisName .. " against " .. targetName .. " for attitude (" ..
-						tostring(currentAttitude) .. ")");
+					--	tostring(currentAttitude) .. ")");
 
 					if ((currentAttitude == MajorCivApproachTypes.MAJOR_CIV_APPROACH_HOSTILE or
 							currentAttitude == MajorCivApproachTypes.MAJOR_CIV_APPROACH_WAR or thisTeam:IsAtWar(targetTid)) and isKeySelected(keyType.hostile))
