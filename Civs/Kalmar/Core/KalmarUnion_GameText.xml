@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--KALMAR UNION-->
+		<Row Tag="TXT_KEY_CIV_JFD_KALMAR_UNION_ADJECTIVE">
+			<Text>Kalmarian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_KALMAR_UNION_DESC">
+			<Text>The Kalmar Union</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_KALMAR_UNION_SHORT_DESC">
+			<Text>The Kalmar Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_KALMAR_UNION_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_KALMAR_UNION_TEXT_1">
+			<Text>The Kalmar Union was a personal union between the kingdoms of Norway, Denmark and Sweden that presevered throughout the 15th century; in effect, a pan-Scandinavian union. Though it had many opponents, the Kalmar Union was successful in its origanal purpose of destroying the influence of the Hanseatic Leauge; after this, it was able to start on its way to Baltic domination, an aim not achieved by the Kalmar Union, but by the breakaway Swedish Empire instead. Many pan-Nordic nationalists look to the Kalmar Union as an ideal to repeat, as a remarkable collection of kingdoms bonded together in an effort to defeat all foes.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_1">
+			<Text>Copenhagen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_2">
+			<Text>Stockholm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_3">
+			<Text>Oslo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_4">
+			<Text>Vassa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_5">
+			<Text>Aarhus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_6">
+			<Text>Malmo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_7">
+			<Text>Bergen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_8">
+			<Text>Turku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_9">
+			<Text>Ribe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_10">
+			<Text>Sigtuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_11">
+			<Text>Trondheim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_12">
+			<Text>Porvoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_13">
+			<Text>Rokside</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_14">
+			<Text>Gothenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_15">
+			<Text>Gothenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_16">
+			<Text>Stavanger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_17">
+			<Text>Rauma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_18">
+			<Text>Aalborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_19">
+			<Text>Visby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_20">
+			<Text>Odense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_21">
+			<Text>Vanaja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_22">
+			<Text>Tonsberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_23">
+			<Text>Kiel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_24">
+			<Text>Viborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_25">
+			<Text>Uppsala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_26">
+			<Text>Kristiansand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_27">
+			<Text>Viipuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_28">
+			<Text>Reykjavik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_29">
+			<Text>Vaxjo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_30">
+			<Text>Moss</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_31">
+			<Text>Tulleshoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_32">
+			<Text>Torshavn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_33">
+			<Text>Kirkwall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_KALMAR_UNION_34">
+			<Text>Lerwik</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_KALMAR_UNION_1">
+			<Text>Sven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_KALMAR_UNION_2">
+			<Text>Bjorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_KALMAR_UNION_3">
+			<Text>Anders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_KALMAR_UNION_4">
+			<Text>Benny</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_KALMAR_UNION_5">
+			<Text>Henning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_KALMAR_UNION_6">
+			<Text>Anni-Frid</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_KALMAR_UNION_7">
+			<Text>Agnetha</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_KALMAR_UNION_8">
+			<Text>Birgit</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_KALMAR_UNION_9">
+			<Text>Astrid</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_KALMAR_UNION_10">
+			<Text>Maja</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--MARGARETHE_I-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MARGARETHE">
+			<Text>Margarethe I</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MARGARETHE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MARGARETHE_TEXT_1">
+			<Text>Margaret I, ruler and for a brief time the monarch of Denmark, Norway and Sweden, and founder of the Kalmar Union, which united the Scandinavian countries for over a century. She was known as a wise, energetic and capable leader, thus earning the nickname "Semiramis of the North", or "the Lady King" (at first a derisive nickname invented by her rival Albert of Mecklenburg, it has become widely used by foreigners, her own people and authors as a form of recognition for her capabilities).[NEWLINE][NEWLINE]The youngest daughter of the Warrior-King Valdermar Atterdag, she was more of a practical, patient administrator and diplomat,[11] albeit one of high aspirations and a strong will, who intended to unite Scandinavia forever into one single entity with the strength to resist and compete against the German might. According to modern scholars, she was not fortunate in the matter of heirs though, with the early demise of her only biological son (she is reported by some to have an illegitimate daughter with Abraham Brodersson) and the incompetence of the monarchs who succeeeded her, despite her best efforts to raise and educate her heir Eric of Pomerania and his bride Philippa of England (Philippa was an excellent pupil, but unfortunately also lost her life soon at the age of 35). Some like Larsen, while agreeing about this unfortunate factor, also criticised Margaret for creating some of her own problems by favouring Denmark and being too autocratic (Larsen though recognised that she was hold in high esteem in Norway; other report that she was popular, or at the very least respected in Denmark and Sweden too, although hated fervently by the chroniclers - with all her piety, she had no qualms suppressing the Church to promote royal power). Thus, the Union into which she put so much efforts and hope gradually disintegrated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MARGARETHE_HEADING_2">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MARGARETHE_TEXT_2">
+			<Text>The founder of the Kalmar Union, Queen Margaret defied the custom in Europe, and became the queen of Denmark - and soon Sweden and Norway as well. This was the creation of the most successful pan-Scandinavian union to date, covering territories in Finland to Iceland. With the treaty signed in Kalmar Castle, Margaret solidified an ever-closer Scandinavian union, which was well able to provide defence and security from the influence of their Germanic and Livonian neighbours. Margaret's leadership was probably able to prevent the Hanse from becoming all to dominant in the North, robbing them of their sovereignty altogether; not even Margaret proposed the union of parliment of all three Scandinavian states. All in all, Margaret is described as one of the best leaders Denmark ever had - as the harbringer of Scandinavian power, it is no suprise she is well respected.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MARGARETHE_NAME">
+			<Text>Margrethe I</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MARGARETHE_SUBTITLE">
+			<Text>Leader of Denmark</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MARGARETHE_TITLES_1">
+			<Text>Queen of Denmark[NEWLINE]Queen of Norway[NEWLINE]Queen of Sweden[NEWLINE]Semiramis of the North</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MARGARETHE_LIVED">
+			<Text>1353 - 1412</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JFD_KALMAR_UNION_TEXT">
+			<Text>God be with you, O' great and wise Margaret, fairest queen of Denmark, Sweden, and Norway. During your reign, you would accomplish what the many kings before you had failed - to create a state that would unite the wayward Norse. Seeking to check the power of the Hanseatic League, you engineered a political masterpiece that would unite the three crowns of Scandinavia. And though your union would barely outlast your death, its prosperity under your hand would remain an inspiration to the north for centuries.[NEWLINE][NEWLINE]Stern queen, the north calls your name to rebuild her precious union. Can you take up this task once more? Can you unite the Scandinavian kingdoms and bring them wealth and influence? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--THE NORDIC CROWNS-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_KALMAR_UNION_SHORT">
+			<Text>The Nordic Crowns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_KALMAR_UNION">
+			<Text>Gain an extra [ICON_INTERNATIONAL_TRADE] Trade Route at Guilds and Trade Routes from the Capital have doubled length. City-States connected via [ICON_INTERNATIONAL_TRADE] Trade Route may join you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_KALMAR_UNION_CITY_VIEW_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]THE NORDIC CROWNS[ENDCOLOR][NEWLINE]----------------------[NEWLINE]City-States with whom you have a [ICON_INTERNATIONAL_TRADE] Trade Route may eventually join you. [NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Progress:[ENDCOLOR][NEWLINE]----------------------[NEWLINE]{1_KalmarUnionList}----------------------[NEWLINE][COLOR_POSITIVE_TEXT]Status Rates:[ENDCOLOR][NEWLINE][ICON_BULLET]Allies: +2[NEWLINE][ICON_BULLET]Friends: +1[NEWLINE][ICON_BULLET]Neutral: 0[NEWLINE][ICON_BULLET]Angry: -1[NEWLINE][ICON_BULLET]War: -2[NEWLINE]----------------------[NEWLINE]Note that progress will update each turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_KALMAR_UNION_CITY_VIEW_LIST">
+			<Text>[ICON_BULLET]{1_CityStateName}: {2_Num}/{3_Num} ({4_Num}) ([COLOR_POSITIVE_TEXT]{5_Num}[ENDCOLOR] Turns).[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_KALMAR_UNION_CITY_VIEW_LIST_NONE">
+			<Text>[ICON_BULLET]None.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_KALMAR_UNION_TT">
+			<Text>Grants an additional Trade Route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KALMAR_UNION">
+			<Text>JFD: Kalmar Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KALMAR_UNION_HELP">
+			<Text>Union Counter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KALMAR_UNION_COURTHOUSE">
+			<Text>JFD: Kalmar Union Courthouse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KALMAR_UNION_COURTHOUSE_HELP">
+			<Text>Eliminates occupied [ICON_HAPPINESS_4] Unhappiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KALMAR_UNION_TRADE_LENGTH">
+			<Text>JFD: Kalmar Union Trade Length</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KALMAR_UNION_TRADE_LENGTH_HELP">
+			<Text>+100% Trade Route length.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KALMAR_UNION_TRADE_ROUTE">
+			<Text>JFD: Kalmar Union Trade Routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KALMAR_UNION_TRADE_ROUTE_HELP">
+			<Text>+1 Trade Route,</Text>
+		</Row>
+		<!--Notifications-->
+		<Row Tag="TXT_KEY_JFD_CITY_STATE_JOINS_KALMAR_UNION_NOTIFICATION_SHORT">
+			<Text>{1_CityName} Joins the Kalmar Union!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CITY_STATE_JOINS_KALMAR_UNION_NOTIFICATION">
+			<Text>The government in [COLOR_POSITIVE_TEXT]{1_CityName}[ENDCOLOR] has recognised us as their sovereign and has joined the Kalmar Union!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CITY_STATE_JOINS_KALMAR_UNION_IMMINENT_NOTIFICATION_SHORT">
+			<Text>Kalmar Union Expansion Imminent in {1_CityName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CITY_STATE_JOINS_KALMAR_UNION_IMMINENT_NOTIFICATION">
+			<Text>The government in [COLOR_POSITIVE_TEXT]{1_CityName}[ENDCOLOR] is moving forward to recognise us as their sovereign and join the Kalmar Union!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_CITY_STATE_JOINS_KALMAR_UNION">
+			<Text>The government in the former City-State of {1_CityName} has recognised {2_LeaderName} of {3_CivName} as their sovereign!</Text>
+		</Row>
+		<!--KOBSTAD-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_KOBSTAD">
+			<Text>Kobstad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KOBSTAD_HELP">
+			<Text>+1 [ICON_GOLD] Gold from worked Trading Posts and Customs Houses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KOBSTAD_STRATEGY">
+			<Text>The Kobstad is the unique Kalmar Union Market. It increases the amount of [ICON_GOLD] Gold a city generates, especially when working a Trading Post or Customs House. Trade routes other players make to a city with a Kobstad will generate an extra 1 [ICON_GOLD] Gold for the city owner and the trade route owner gains an additional 1 [ICON_GOLD] Gold for the trade route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_KOBSTAD_TEXT">
+			<Text>A Kobstad is a Danish settlement that has the legal right to host markets, which was a common pheonmenon throughout the Middle Ages. Holding such a right distinguishes a Kobstad from a village or city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KOBSTAD_GOLD">
+			<Text>JFD: Kobstad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KOBSTAD_GOLD_HELP">
+			<Text>+1 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<!--GUN HOLK-->
+		<Row Tag="TXT_KEY_UNIT_JFD_GUN_HOLK">
+			<Text>Gun Holk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_GUN_HOLK">
+			<Text>Swift albeit slightly weaker Medieval Naval Unit that moves quickly through Coast. Receive one everytime you build a Cargo Ship. Only the Kalmar Union may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_GUN_HOLK_STRATEGY">
+			<Text>The Kalmar Union Gun Holk is a unique replacement for the Galleass. This unit can move at double speed in coastal tiles, making it capable of quickly tracking down enemy navies that might be threatening your trade routes. You also receive a Gun Holk everytime you build a Cargo Ship. However, it is also slightly weaker than the Galleass.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_GUN_HOLK_TEXT">
+			<Text>A holk was a type of medieval sea craft, a technological predecessor of the carrack and caravel. The hulk appears to have remained a relatively minor type of ship apparently peculiar to the low countries of Europe where it was probably used primarily as a river or canal boat, with limited potential for coastal cruising.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GUN_HOLK">
+			<Text>Coastal Patrol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GUN_HOLK_HELP">
+			<Text>Double [ICON_MOVES] Movement through Coast.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

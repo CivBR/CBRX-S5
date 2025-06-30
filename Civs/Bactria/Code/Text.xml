@@ -1,0 +1,961 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_1">
+			<Text>Bactrian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_2">
+			<Text>Bactrian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_3">
+			<Text>Bactrian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_4">
+			<Text>Bactrian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_5">
+			<Text>Bactrian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_BACTRIA_DESC">
+			<Text>Bactrian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_BACTRIA_SHORT_DESC">
+			<Text>Bactria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_BACTRIA_ADJECTIVE">
+			<Text>Bactrian</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_DOM_TCM_BACTRIA_TEXT">
+			<Text>Hail mighty Demetrius, O invincible king of Bactria! The land you rule is an exotic one, a last bastion of Greek culture at the edge of the known world. Renowed for your military prowess, never once were you defeated in battle, and hailed as a second Alexander, you launched expeditions into well beyond the Indus river; there, a new Indo-Greek kingdom would be formed, combining Hellenistic culture and Buddhism.[NEWLINE][NEWLINE]Great King! Untold glories unfold themselves as new exotic horizons open up on these new lands; will you once more take command of the Greeks, and the Bactrians, and Indians and whomever else dares be brave enough to follow you into battle? Will you build a civilization that will stand the test of time?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_TCM_BACTRIA_TITLE">
+			<Text>Bactria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_BACTRIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_BACTRIA_TEXT_1">
+			<Text>The Greco-Bactrian Kingdom was the easternmost part of the Hellenistic world, covering Bactria and Sogdiana in Central Asia from 250 to 125 BC. It was centered around the north of present-day Afghanistan. The expansion of the Greco-Bactrians into present-day northern India and Pakistan from 180 BC established the Indo-Greek Kingdom, which was to last until around 10 AD.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_01">
+			<Text>Bactra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_02">
+			<Text>Demetrias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_03">
+			<Text>Euthydemia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_04">
+			<Text>Eucratideia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_05">
+			<Text>Marakanda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_06">
+			<Text>Oxus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_07">
+			<Text>Caucasus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_08">
+			<Text>Eschate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_09">
+			<Text>Arachosia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_10">
+			<Text>Indus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_11">
+			<Text>Patalene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_12">
+			<Text>Taxila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_13">
+			<Text>Mathura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_14">
+			<Text>Margiana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_15">
+			<Text>Barigaza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_16">
+			<Text>Bukhara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_17">
+			<Text>Ujjain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_18">
+			<Text>Peucelaitis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_19">
+			<Text>Simylla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_20">
+			<Text>Sagala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_21">
+			<Text>Kavisiye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_22">
+			<Text>Sirkap</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_23">
+			<Text>Takht-i Sangin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_24">
+			<Text>Drapsaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_25">
+			<Text>Termez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_26">
+			<Text>Bamyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_27">
+			<Text>Bucephala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_28">
+			<Text>Surkh Kotal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_29">
+			<Text>Dalverzin Tepe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_30">
+			<Text>Tillya Tepe</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_BACTRIA_0">
+			<Text>Bucephalus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_BACTRIA_1">
+			<Text>Euthydemus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_BACTRIA_2">
+			<Text>Eucratides</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_BACTRIA_3">
+			<Text>Greek-Buddha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_BACTRIA_4">
+			<Text>Bactrian Bacteria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_BACTRIA_5">
+			<Text>Agathokleia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_BACTRIA_6">
+			<Text>Olympias</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_BACTRIA_7">
+			<Text>Pythodorida</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_BACTRIA_8">
+			<Text>Phila</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_BACTRIA_9">
+			<Text>Roxana </Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PEDIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PEDIA_TEXT_1">
+			<Text>Demetrius I was a Greek king (reigned c. 200–180 BC) of Bactria. He was the son of Euthydemus and succeeded him around 200 BC, after which he conquered extensive areas in what now is now Afghanistan and Pakistan; thus creating an Indo-Greek Kingdom far from Hellenistic Greece. He was never defeated in battle and was posthumously qualified as the Invincible (Aniketos) on the pedigree coins of his successor Agathocles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PEDIA_LIVED">
+			<Text>Unknown - 180 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PEDIA_NAME">
+			<Text>Demetrius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PEDIA_SUBTITLE">
+			<Text>Leader of Bactria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PEDIA_TITLES_1">
+			<Text>King</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS">
+			<Text>Demetrius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_DEMETRIUS_BACTRIA_SHORT">
+			<Text>Beyond the Orient</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_DEMETRIUS_BACTRIA">
+			<Text>Settling grants [ICON_HAPPINESS_1] Happiness for each city captured after your last one was founded, and removes all [ICON_RESISTANCE] Resistance. Units gain 15 XP if a leader you've conquered from had a variant of their type.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_TCM_ELEPHANTARCH">
+			<Text>Elephantarch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCM_ELEPHANTARCH">
+			<Text>Unique Swordsman replacement available only to Bactria. Each [ICON_MOVES] Movement Point that is spent before attacking increases [ICON_STRENGTH] Combat Strength by 10%. Starts with more XP by the amount of [ICON_FOOD] Food produced there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TCM_ELEPHANTARCH_STRATEGY">
+			<Text>A highly aggressive unit that is better used by "charging" at the enemy before striking, as each movement point spent by it increases 10% of its strength. The Elephantarch is best trained in the largest cities of your empire, as [ICON_FOOD] becomes experience for the unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_TCM_ELEPHANTARCH_TEXT">
+			<Text>The third major arm of the Greco-Bactrian army were the Indian war elephants, which are depicted in some coins with a tower (thorakion) or howdah housing men armed with bows and javelins. This force grew as the Greco-Bactrian kingdom expanded into India and was widely depicted in Greco-Bactrian coinage.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE">
+			<Text>Mighty Charge!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_1_HELP">
+			<Text>Stomp! This unit deals +10% Damage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_2_HELP">
+			<Text>Stomp! Stomp! This unit deals +20% Damage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_3_HELP">
+			<Text>Stomp! Stomp! Stomp! This unit deals +30% Damage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_4_HELP">
+			<Text>Stomp! Stomp! Stomp! Stomp! This unit deals +40% Damage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_5_HELP">
+			<Text>MEGASTOMP! This unit deals +50% Damage</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_TCM_PHROURIA_REC">
+			<Text>It will grant a [ICON_CITIZEN] Citizen to the city that works it if the Phrourion has a garrison.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TCM_PHROURIA">
+			<Text>Construct a [LINK=IMPROVEMENT_TCM_PHROURIA]Phrourion[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TCM_PHROURIA_HELP">
+			<Text>Cannot be built adjacent to another Phrourion. With a military unit garrisoned, it will grant an extra [ICON_CITIZEN] Citizen to the city working the plot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TCM_PHROURIA">
+			<Text>Phrourion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TCM_PHROURIA_TEXT">
+			<Text>Alexander and Seleucus I settled Greeks in Bactria, while preferring to keep their Macedonian settlers farther west. Greek garrisons in the satrapy of Bactria were housed in fortresses called phrouria and at major cities. Military colonists were settled in the countryside and were each given an allotment of land called a kleros. These colonists numbered in the tens of thousands, and were trained in the fashion of the Macedonian army.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TCM_BACTRIA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now sculpting Buddha statues and naming every city the same. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_TCM_BACTRIA">
+			<Text>Agathokleia</Text>
+		</Row>
+		<!-- E&D -->
+		<Row Tag="TXT_KEY_EVENT_TCM_BACTRIA_AMBASSOR">
+			<Text>Foreign Ambassor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_BACTRIA_AMBASSOR_DESC">
+			<Text>
+				An ambassor from exotic lands faraway has arrived in Bactria, inquiring about our state and economy. Supposedly, his lord wishes to set up a trade route with us; but he might just be a spy and the prelude to an invasion.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_BACTRIA_AMBASSOR_OUTCOME_1">
+			<Text>Welcome him with a lavish feast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_BACTRIA_AMBASSOR_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gains a Caravan and [INTERNATIONAL_TRADE] Trade Route slot[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Loses {1_GOLD} [ICON_GOLD] Gold[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TCM_BACTRIA_AMBASSOR_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>A profitable Trade Route has been established with the Ambassor.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_TCM_BACTRIA_AMBASSOR_OUTCOME_2">
+			<Text>Turn him away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_BACTRIA_AMBASSOR_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gains free Walls on every city[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TCM_BACTRIA_AMBASSOR_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have sent the spy away and doubled the defenses of our empire.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_TCM_BACTRIA_USURPER">
+			<Text>An Usurper!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_BACTRIA_USURPER_DESC">
+			<Text>
+				A disgruntled Bactrian general dared to revolt against your rule in {1_CityName} and declared himself basileus. While of course a threat to your empire, defeating him would serve well to legitimize your rule even further.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_BACTRIA_USURPER_OUTCOME_1">
+			<Text>Bring me his head!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_BACTRIA_USURPER_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]A Barbarian Great General and his army rise up in {1_CityName}[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Defeating him begins a [ICON_GOLDEN_AGE] Golden Age.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TCM_BACTRIA_USURPER_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>An usurper has claimed the throne of Bactria!!!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TCM_BACTRIA_FARAWAY_LANDS">
+			<Text>Send Dignitaries and Merchants to Faraway Lands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_BACTRIA_FARAWAY_LANDS_DESC">
+			<Text>
+				We are privileged by our location among the most important trade routes of the world and by having wealthy neighbours to trade with. We should dispatch our emissaries to discuss treaties of commerce and friendship, or simply to better learn the inner workings of their empires...
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Bactria
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Reveals the entire empire of players you currently have an Embassy with
+				[NEWLINE][ICON_BULLET]Receives {2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: [ICON_GOLD] Gold bonus increase with the number of Embassies
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_BACTRIA_FARAWAY_LANDS_CID_DESC">
+			<Text>
+				We are privileged by our location among the most important trade routes of the world and by having wealthy neighbours to trade with. We should dispatch our emissaries to discuss treaties of commerce and friendship, or simply to better learn the inner workings of their empires...
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Bactria
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [RESOURCE_JFD_DIGNITARIES] Dignitary
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Reveals the entire empire of players you currently have an Embassy with
+				[NEWLINE][ICON_BULLET]Receives {2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: [ICON_GOLD] Gold bonus increase with the number of Embassies
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_BACTRIA_FARAWAY_LANDS_ENACTED_DESC">
+			<Text>
+				We are privileged by our location among the most important trade routes of the world and by having wealthy neighbours to trade with. We should dispatch our emissaries to discuss treaties of commerce and friendship, or simply to better learn the inner workings of their empires...
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TCM_BACTRIA_HELLENIZE">
+			<Text>Hellenize the Local Customs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_BACTRIA_HELLENIZE_DESC">
+			<Text>
+				Our new subjects follow mysterious customs which are strange to us; we should teach them in our Greek ways instead, and encourage them to do so by adopting some of their customs as our own.
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Bactria
+				[NEWLINE][ICON_BULLET]Must have captured at least 4 cities
+				[NEWLINE][ICON_BULLET]Must be in a [ICON_GOLDEN_AGE] Golden Age
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{2_Faith} [ICON_PEACE] Faith
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain {3_Points} [ICON_GREAT_PEOPLE] Great Artist Points on your [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]Builds a [ICON_HAPPINESS_1] Happiness building on every city without one
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: Value of [ICON_GREAT_PEOPLE] Great Artist points increase with the number of followers of a foreign religion in your empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_BACTRIA_HELLENIZE_ENACTED_DESC">
+			<Text>
+				Our new subjects follow mysterious customs which are strange to us; we should teach them in our Greek ways instead, and encourage them to do so by adopting some of their customs as our own.
+			</Text>
+		</Row>
+
+		<!-- DIPLOMACY: VANILLA Vanilla -->
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_FIRSTGREETING_1">
+			<Text>Dispense presentations. You have reached Bactria; congratulations! What do you plan on doing next?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_FIRSTGREETING_2">
+			<Text>Yeah, yeah, I know you must be a very important king or ruler somewhere very far away from here but guess what? We're on Bactria now. Here I rule, while you are just another one on a list.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DEFEATED_1">
+			<Text>You are a though one, I'll give you that. Keep it up kid, you're going places.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DEFEATED_2">
+			<Text>Thank you kid. Your name shall forever immortalized on history, and whenever they remember of you, they'll remember of me too; the man who opposed you.</Text>
+		</Row>
+		<!--First Greeting from leaders that don't have their own file yet-->
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_REPEAT_TOO_MUCH">
+			<Text>The heck is wrong with you? Stop that!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_REPEAT_TRADE_1">
+			<Text>You gotta step up your game kid. This deal just ain't gonna cut.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_REPEAT_TRADE_2">
+			<Text>C'mon kid, give me something!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_REPEAT_TRADE_3">
+			<Text>I'm getting tired of this haggling.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_REPEAT_1">
+			<Text>Forgot something here, kid?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_REPEAT_2">
+			<Text>Hurry up with this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_REPEAT_1">
+			<Text>What do you want, kid? I have enemies left and right here and don't want to have to babysit you too.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_REPEAT_2">
+			<Text>The heck are you still doing here kid? Get out of my kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_REPEAT_3">
+			<Text>Get lost.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_POLITE_HELLO_1">
+			<Text>Nice to see you here kid, but why have you come?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_NEUTRAL_HELLO_1">
+			<Text>Salutations to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_NEUTRAL_HELLO_3">
+			<Text>Hail.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_NEUTRAL_HELLO_4">
+			<Text>What is it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_NEUTRAL_HELLO_5">
+			<Text>What do you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_NEUTRAL_HELLO_6">
+			<Text>Start talking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_HELLO_1">
+			<Text>Spit it out, kid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_HELLO_2">
+			<Text>What are you doing here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>You come with a peace offer or are you here just to laugh at my face?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>You have the upper hand now. I suggest you bring me the terms of surrender while you still can.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>We should end this war already, kid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_AT_WAR_WANTS_PEACE_2">
+			<Text>Let's end this war now. I have bigger fish to fry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_AT_WAR_WANTS_PEACE_3">
+			<Text>Shall we end the war?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_AT_WAR_HOSTILE_1">
+			<Text>I'm not done with you yer, kiddo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_AT_WAR_HOSTILE_2">
+			<Text>Can't take a punch, kid?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_AT_WAR_HOSTILE_3">
+			<Text>Lost the will to fight?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>You are a liar and a thief. The heck are you doing here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_WORKING_WITH_1">
+			<Text>Good to see you around, kid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_COOP_WAR_1">
+			<Text>It won't be long before we'll have dealt with {1_ThirdPlayerName:textkey}. I can just feel it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_COOP_WAR_2">
+			<Text>The downfall of {1_ThirdPlayerName:textkey} can't come any sooner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_COOP_WAR_3">
+			<Text>Soon we'll have dealt with {1_ThirdPlayerName:textkey} once and for all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Hah kid, what are you doing here? I've seen you fight in that war, and I have to say that you should be training instead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HUMAN_AT_WAR_1">
+			<Text>Best of luck with your war. I can lend some advice, if you wish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>I see the army you bring with you. Is that supposed to scare me, kiddo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>I see you have quite the army around my borders. Better keep on marching to wherever you are going, kid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Remember kid, you can have the land, but whomever has the army is the true master of it; and you have some catching up to do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>An empire to rival that of Alexander's, you have there! Let's see how long can we rule before bumping into eachother.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Remember kid, you can have that land you brought, but whomever has the army is the true master of it; and you have some catching up to do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I suggest you spend that money to improve the military rather than on plots. Just a piece of advice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your military might rivals those of Alexander. Keep it up kid, for it is only through it that a man can rule men.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I've heard of the opulence of your empire. It almost matches mine, kid. That's impressive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>We Greeks rule empires now. Never thought I'd see another city-state again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>A ruler with no army is a ruler with no power; and a ruler with no power is no ruler at all. Better improve things over there before I decide to replace you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>I've heard of your warmongering. Every day I train harder to meet you on the battlefield; you shall be a worthy foe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_TOO_SOON_FOR_DOF_1">
+			<Text>What is this sentimentalistic crap? We're not friends, kid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>Bactrian relations with {1_CivName} have broken down, will you support me in teaching them a lesson?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DOF_NOT_HONORED_1">
+			<Text>Then you're no better than them, kiddo.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DOF_NOT_HONORED_2">
+			<Text>Then I have nothing more to do with you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DENOUNCING_FRIEND_1">
+			<Text>It was foolish of me to think we could be allies; here in Bactria we have no friends, and you just reminded me why.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DENOUNCING_FRIEND_2">
+			<Text>Nothing personal kid, but I can't be friends with those I intend to conquer.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>This one shows spirit! I am eager to face you on the battlefield once you are ready to take this to its next step.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>Words can't hurt me, kid. If you really wanted to send a message, you'd be declaring war instead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DOFED_FRIEND_1">
+			<Text>A friend of {1_CivName} could be an useful ally to Bactria. Let's see how this goes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DOFED_ENEMY_1">
+			<Text>What, you're friends of {1_CivName}? Didn't know those losers had any at all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>I should remind you that {1_CivName} is my ally. If you push this issue further, remember that I'll be there to avenge him...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>It's about time you realized {1_CivName} is up to no good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>If you can trust {1_CivName}, then so can I. Just don't let me down here, kid, I'm placing too much trust into you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I agree that {1_CivName} must be stopped, and so I shall denounce him too. But we mustn't stop here; we should take the fight to those bastards.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>An ally of {1_CivName} is no ally of mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>Give {1_CivName} my regards, they'll make a fine ally against you.</Text>
+		</Row>
+		<!-- LEADER_TCM_DEMETRIUS Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I see your armies amassed near my empire. If you're tring to sneak up on me, you're doing a terrible job kid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I see your armies near my borders. I suggest you keep on marching them elsewhere, kid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_KILLED_PROTECTED_CITY_STATE_1">
+			<Text>You've broken your word to me, kiddo. Better watch your back now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_PROTECTED_CITY_STATE_1">
+			<Text>Your aggression against my ally, {@1_MinorCivName} does not go unnoticed. Stop this assault now or I'll have to step in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Hah, I see you enjoy claiming every bit of land you can get your hands on. But do you happen to have an army to support this?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_EXPANSION_WARNING_1">
+			<Text>You're expanding into my lands now, kiddo. I suggest you back down from now onwards.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_EXPANSION_WARNING_2">
+			<Text>For your own sake, I do have to suggest that you stop claiming lands near me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_EXPANSION_WARNING_3">
+			<Text>Your expansionism is admirable, but I suggest you do it elsewhere. These lands belong to Bactria.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_EXPANSION_BROKEN_PROMISE_1">
+			<Text>You are a liar and a thief. These lands belong to me, and I'll not refrain myself from taking them back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>You waste too much gold on land and too little on your armies. I suggest you get your priorities straight before I forcefully correct them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PLOT_BUYING_WARNING_1">
+			<Text>Kid, just stop. Gold can only give you land for so long before you piss off the wrong person.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>So your word means nothing, huh kid? Let's see how much that beloved Gold of yours will help you once I get my revenge for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_WORK_WITH_US_1">
+			<Text>There are though battles ahead. I'd be honored to fight alongside you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_WORK_WITH_US_2">
+			<Text>Will you walk with me as ally and friend?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DEC_FRIENDSHIP_1">
+			<Text>There are though battles ahead. I'd be honored to fight alongside you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DEC_FRIENDSHIP_2">
+			<Text>Will you walk with me as ally and friend?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DENOUNCE_1">
+			<Text>Take this as it is, kid. A prelude to war.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DENOUNCE_2">
+			<Text>Better start training your army, kid. I don't want to fight against a weakling.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_COOP_WAR_REQUEST_1">
+			<Text>There's no rest for those like us. Will you acompany me to arms against {1_PlayerName:textkey}, for conquest and glory?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_COOP_WAR_TIME_1">
+			<Text>It's time kiddo, today we march against {1_PlayerName:textkey}! Will you join me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_NOW_UNFORGIVABLE_1">
+			<Text>You've crossed a line, kid. Your actions are unforgivable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_BOOT_KISSING_1">
+			<Text>It is clear to all that you are strong and mighty ruler. I can only hope to one day achieve such greatness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_WARMONGER_1">
+			<Text>Your highly aggressive behavior has not gone unnoticed. I'm eager to show my prowess against such foe as yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_WARMONGER_2">
+			<Text>Your warmongering is a popular topic these days. Better watch your back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_WARMONGER_3">
+			<Text>You're starting to attract quite a bit of attention. That's not a good thing.</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_TCM_DEMETRIUS_1">
+			<Text>Ah, how nice to see my favorite city-state again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_TCM_DEMETRIUS_2">
+			<Text>I'm really getting tired of seeing your face. I count the days till I finally get to bash it in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_TCM_DEMETRIUS_3">
+			<Text>Ah, it's just you kiddo. Sometimes I get you mixed up with the barbarians I have to swat from time to time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_MILITARY_1">
+			<Text>A ruler with no army is a ruler with no power; and a ruler with no power is no ruler at all. Keep that in mind before I come to overthrow you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_BULLY_1">
+			<Text>You are unfit to serve as ruler of your people, for such a poor show of diplomatic skills you have displayed so far.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_UNHAPPINESS_1">
+			<Text>I've heard your people are quite unhappy with your rule. I'm sure they would be most grateful with a change of regimes...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_CITIES_1">
+			<Text>I can't remember when was the last time I saw a city-state, but looking at your empire sufficed for me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_POPULATION_1">
+			<Text>Travelers have told us that your empire's economy is in pretty sad shape. I wonder for how long you'll be able to support your empire before someone else takes it from you...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_CULTURE_1">
+			<Text>Hah, I almost mistook you for a barbarian. How can one be so uncivilized as yourself?</Text>
+		</Row>
+		<!--Human is asking the AI for something-->
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_REPEAT_NO_1">
+			<Text>No chance kiddo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DONT_SETTLE_YES_1">
+			<Text>I shall comply, for now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DONT_SETTLE_NO_1">
+			<Text>Hah, who the hell do you think you are, kid? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_WORK_WITH_US_YES_1">
+			<Text>That will work. Our alliance will be the envy of the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_WORK_WITH_US_YES_2">
+			<Text>I'd be honored to fight alongside you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_WORK_WITH_US_YES_3">
+			<Text>Alright kid, I can help you out as an ally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DECLINE_1">
+			<Text>Definitely not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DECLINE_2">
+			<Text>Nah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DECLINE_3">
+			<Text>Not interested.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_COOP_WAR_YES_1">
+			<Text>Gotta hand it to you kid, this is a great idea. Together, we will destroy this foe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_COOP_WAR_SOON_1">
+			<Text>I'll have to prepare my army for such a confrontation. Give me 10 turns, and I'll come to you.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_LETS_HEAR_IT_1">
+			<Text>Let's hear it, kid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_LETS_HEAR_IT_2">
+			<Text>What do you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PEACE_OFFER_1">
+			<Text>This war has run its course, kid. What do you think of this peace offer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PEACE_OFFER_2">
+			<Text>The conflict is over. Let us return to peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PEACE_OFFER_3">
+			<Text>We had our moments of glory, but now the time has come to make peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PEACE_OFFER_4">
+			<Text>If you want to end the war tonight, we have to make a deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DEMAND_1">
+			<Text>You have something I want. Give it to me or I'll take it by force.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_REQUEST_ITEM_1">
+			<Text>I ask you of this on friendly terms. What do you think?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_OPEN_BORDERS_EXCHANGE_1">
+			<Text>By opening our borders, there'll be one less point of contention between our two empires. Shall we do it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_OPEN_BORDERS_OFFER_1">
+			<Text>My new target lies beyond your territory. Would you allow me to march my troops through it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_RENEW_DEAL_1">
+			<Text>This deal strengthened our alliance years ago. Shall it be renewed?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_WANT_MORE_RENEW_DEAL_1">
+			<Text>The value of this deal has faded over the years. We need more from your side of the negotiation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_LUXURY_TRADE_1">
+			<Text>My people crave for a luxury of yours. Shall we make a deal?</Text>
+		</Row>
+		<!-- Responses to player -->
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I can't offer you enough to make this a fair trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_TRADE_CANT_MATCH_OFFER_2">
+			<Text>Any deal I suggest would result in an unfair exchange for you.</Text>
+		</Row>
+		<!-- AI Declaring War-->
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_LEADER_TCM_DEMETRIUS_1">
+			<Text>The blood spilled today shall lay the foundations of my kingdom. And your rivers will run red with it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_LEADER_TCM_DEMETRIUS_2">
+			<Text>Kid, if you believe that you are actually fit to rule your empire then now it is time to prove it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>You have betrayed your word. I'll go personally wipe that smile off your face, kiddo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_LAND_1">
+			<Text>I clearly can make better use of those lands than you, kid. I suggest you hand em' over nice 'n easy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_WORLD_CONQUEST_1">
+			<Text>You are but a petty ruler on my path to eternal glory. I'll show you what fighting against a TRUE king feels like.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_OPPORTUNITY_1">
+			<Text>Your empire is crumbling. Let a piece of it be of use to me, at least.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_OPPORTUNITY_2">
+			<Text>I clearly can make better use of those lands than you, kid. I suggest you hand em' over nice 'n easy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_OPPORTUNITY_3">
+			<Text>Kid, if you believe that you are actually fit to rule your empire then now it is time to prove it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_OPPORTUNITY_4">
+			<Text>It's the nature of the weak to serve the strong. I'm coming for your crown, kiddo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_DESPERATE_1">
+			<Text>At last! A worthy foe!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_BETRAYAL_1">
+			<Text>We've no friends here on Bactria, you should've learned that by now. It is kill or be killed, and I intend to remain alive and kicking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_WEAK_BETRAYAL_1">
+			<Text>We've no friends here on Bactria, you should've learned that by now. It is kill or be killed, and I intend to remain alive and kicking even against all odds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_WAR_DEMAND_REFUSED_1">
+			<Text>I'll storm your cities until I get what I want.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_WAR_DEMAND_REFUSED_2">
+			<Text>Then war it is.</Text>
+		</Row>
+		<!-- AI Attacked by another player -->
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_HOSTILE_1">
+			<Text>At last, we will face eachother. May the best general win</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_HOSTILE_2">
+			<Text>I'll make you understand why they call me invincible.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_WEAK_HOSTILE_1">
+			<Text>Do remember they call be invincible for a reason.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_WEAK_HOSTILE_2">
+			<Text>My men are eager to train with your army.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_STRONG_HOSTILE_1">
+			<Text>You send your armies to certain death. What a foolish ruler you are, kid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_STRONG_HOSTILE_2">
+			<Text>Remember kid! No mercy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_STRONG_HOSTILE_3">
+			<Text>I'll make you understand why they call me invincible.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_STRONG_HOSTILE_4">
+			<Text>You are done for, kid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_STRONG_HOSTILE_5">
+			<Text>I'll certainly enjoy watching your spectacular fall here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_STRONG_HOSTILE_6">
+			<Text>You are too reckless, kid. You have no idea what you just unleashed upon your people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_STRONG_HOSTILE_7">
+			<Text>Let's take this into the field, kid. I'll make you regret the day you were born.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_EXCITED_1">
+			<Text>At last! Real battle!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_EXCITED_2">
+			<Text>I'm eager to face your armies on the battlefield!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_WEAK_EXCITED_1">
+			<Text>Bring it on, kid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_STRONG_EXCITED_1">
+			<Text>Trying to prove yourself here, are you now kid? Do know that I will not hold back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_SAD_1">
+			<Text>Maybe you can finally learn a thing or two about warfare from me now, kiddo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_SAD_2">
+			<Text>Our paths didn't have to cross now, kiddo. But since they have...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_BETRAYED_1">
+			<Text>You betrayed your word, kiddo. I'll go personally wipe that smile off your face.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PEACE_WHAT_WILL_HUMAN_OFFER_1">
+			<Text>What do you bring to placate me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PEACE_WHAT_WILL_HUMAN_OFFER_2">
+			<Text>What would you suggest?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_PEACE_WHAT_WILL_HUMAN_OFFER_3">
+			<Text>What is the price of peace?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_NO_PEACE_1">
+			<Text>My armies still seek glory on the battlefield.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_NO_PEACE_2">
+			<Text>I'll not be denied of this glory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_NO_PEACE_3">
+			<Text>Are you that afraid?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_TOO_SOON_NO_PEACE_1">
+			<Text>Hah kid, you're such a jokester.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_PLEASED_1">
+			<Text>Excellent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_PLEASED_2">
+			<Text>Thanks, kid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_PLEASED_3">
+			<Text>I am pleased to hear this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_PLEASED_4">
+			<Text>That is good to hear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>Thanks, kiddo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>You are truly a great ally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>History will long remember these good deeds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>Disappointing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>Too bad.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>This is disappointing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_SO_BE_IT_1">
+			<Text>So be it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_SO_BE_IT_2">
+			<Text>Then you will be responsible for the consequences.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_SO_BE_IT_3">
+			<Text>You will regret this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_RETURNED_CIVILIAN_1">
+			<Text>Thank you for freeing my people from those filthy barbarians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_RETURNED_CIVILIAN_2">
+			<Text>Appreciate it, kid. I'll remember your good deeds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_RETURNED_CIVILIAN_3">
+			<Text>Thanks, kid. May this be remembered as a historic event which brought our two great empires closer together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_CULTURE_BOMBED_1">
+			<Text>How dare you? There will be consequences for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_CULTURE_BOMBED_2">
+			<Text>If you are trying to provoke a war, you're doing a fine job.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>We'll see about that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+			<Text>Yes, that's right.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>Well, what are we waiting for then?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>A likely story.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>So be it kiddo, but you'll regret this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>Right.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_WE_ATTACKED_MINOR_BAD_1">
+			<Text>I remain confident that my decision was the best for my people and my nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_BAD_1">
+			<Text>You truly cannot be reasoned with.</Text>
+		</Row>
+		<!-- DIPLOMACY: BWN Vanilla -->
+		<!-- Statements to player -->
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_EMBASSY_EXCHANGE_1">
+			<Text>We should consider exchanging embassies, which would allow for more advanced diplomacy between our peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_DEMETRIUS_EMBASSY_OFFER_1">
+			<Text>We would like to set up an embassy in your capital. What do you think?</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

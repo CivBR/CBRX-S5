@@ -1,0 +1,323 @@
+<GameData>
+	<Language_en_US>
+	<!-- Civilization -->
+		<Row Tag="TXT_KEY_CIV5_JWW_MARAVI_TITLE">
+			<Text>Maravi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_MARAVI_DESC">
+			<Text>Maravi Confederation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_MARAVI_SHORT_DESC">
+			<Text>The Maravi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_MARAVI_ADJECTIVE">
+			<Text>Maravi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JWW_MARAVI_TEXT">
+			<Text>Hail, Kalonga Mazula, ruler of the Maravi. Your people are a proud one, being at the peak of the Maravi Confederacy, a strong, economically active confederation, sweeping an area of the coast of Mozambique from the Zambezi River to the bay of Quelimane. The large size of your empire was in no small part thanks to you. As a dynamic leader, you expanded the borders of the Maravi Confederacy to beyond its traditional boundaries. But you also intrigued to keep the Portuguese in check, doing so successfully, playing them off others and supporting them when they did so, to shrewdly consolidate your empire’s position.[NEWLINE][NEWLINE]It is time for the Maravi to ascend once more. The fire rises. Your people once again demand a return to greatness. Will you deliver the Maravi to more stunning victories, carving out a name for yourself and the empire you leader? Or will your confederacy languish under the yoke of obscurity? Can you build a civilization to stand the test of time?</Text>
+		</Row>
+		<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_JWW_PROPHECY_OF_CHAUTA">
+			<Text>For each unique luxury resource you own, units are trained with additional experience. Razing Cities grant [ICON_PEACE] Faith, and grant healing to all the units in the territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JWW_PROPHECY_OF_CHAUTA_SHORT">
+			<Text>Prophecy of Chauta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_MARAVI_UA_DUMMY">
+			<Text>JWW Maravi UA Dummy</Text>
+		</Row>
+		<!-- Leader -->
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA">
+			<Text>Kalonga Mazula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_KALONGA_MAZULA_LIVED">
+			<Text>1600-1650 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_KALONGA_MAZULA_NAME">
+			<Text>Kalonga Mazula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_KALONGA_MAZULA_SUBTITLE">
+			<Text>Led the Maravi at its Greatest Extent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_KALONGA_MAZULA_TITLES_1">
+			<Text>Kalonga of Maravi</Text>
+		</Row>
+		<!-- Units -->
+		<Row Tag="TXT_KEY_UNIT_JWW_NYAU_CULTIST">
+			<Text>Nyau Cultist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JWW_NYAU_CULTIST_STRATEGY">
+			<Text>The Nyau Cultist is a Missionary unique to Maravi. It cannot be purchased, but it will spawn naturally every time you accumulate 250 [ICON_FAITH] Faith as Maravi. Invisible when on roads, improvements, or the same tile as another unit. Can perform a "Gule Wamkulu" on city ruins, which expend the unit to build a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JWW_NYAU_CULTIST">
+			<Text>Cannot purchase, but spawns naturally upon accumulation of 250 [ICON_FAITH] Faith. Can transform unowned city ruins into cities, and spread religion. Is invisible when on improvements, roads, or the same tile as another unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_GULE_WAMKULU_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Perform a "Gule Wamkulu"[ENDCOLOR][NEWLINE][NEWLINE]Expend this Nyau Cultist to found a city on top of these city ruins.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_NYAU_INVIS">
+			<Text>Nyau Cultist Invisibility</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_NYAU_INVIS_HELP">
+			<Text>This Nyau Cultist is currently invisible, due to it being on a road, on an improvement, or on the same tile as another unit.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_JWW_ZIMBA_MARAUDER">
+			<Text>Zimba Marauder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JWW_ZIMBA_MARAUDER_STRATEGY">
+			<Text>The Zimba Marauder is the Maravi unique unit, replacing the pikeman. Defeating units will heal the Zimba and provide food to a random city. Pillaging in enemy territory permanently increases combat strength. Cannot pillage roads.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JWW_ZIMBA_MARAUDER">
+			<Text>Heals and provides food from kills. Can't pillage roads, but permanently gains combat strength from pillaging improvements.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_ZIMBA_PILLAGE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Pillage[ENDCOLOR][NEWLINE][NEWLINE]An improvement in this tile may not be used until repaired. Pillaging an improvement will earn [ICON_GOLD] Gold and heal your unit by 25 points; Zimba Marauders also gain +1 permanent [ICON_STRENGTH] combat strength from pillaging.</Text>
+		</Row>
+		<!-- Religion -->
+		<Row Tag="TXT_KEY_RELIGION_JWW_NYAU">
+			<Text>Nyau</Text>
+		</Row>
+		<!-- Civilopedia -->
+		<Row Tag="TXT_KEY_CIV5_JWW_MARAVI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_MARAVI_TEXT_1">
+			<Text>The Maravi were said to originate from Uluba in Eastern Zaire. They were forced to emigrate to the Lake Malawi region in the 15th Century AD, for reasons unknown. They were led by Chinkhole Phiri, a Maravi military leader, and his mother, Nyangu. It is said that the Maravi initially settled near Kaphirintiwa in Central Malawi. This area was already occupied by the proto-Chewa, under the leader Mangadzi. Due to the tension caused by the proto-Chewa, the Maravi were forced to migrate elsewhere. From about 1480 onwards, they settled between the upper Shire and Linthipe delta. The successors of Chinkhole, who came to be known as Kalonga, established the Maravi Confederacy here. The area controlled by that kingdom was known as "Malawi". Scholars believe that the Maravi were successful in accumulating power in the Laka Malawi region through either establishing dominance militarily over the previous inhabitants, establishing dominance over the ivory trade in the region, or by being the winner in a war between the Maravi and proto-Chewa. It is believed that the Kalongas began to build their state around 1480, and were effective rulers all the way up to the early 17th century. The most renowned of the early Kalongas were Chidzonzi (r. 1505-1530), due to him devising several ways to integrate the kingdom. He started the tradition of the Mlira ceremony, where members of the Maravi ruling families were invited to Manthimba, the capital, for the ritual veneration of Mlira, the spirit of the great Kalonga (who is believed to be Chinkhole). Chidzonzi was also said to give many proto-Chewa headmen representation in councils of state. In the course of the 16th and 17th centuries, the Maravi expanded enormously politically to adjacent parts of central and southern Malawi. Several other kingdoms in the area came under the influence of the Maravi. In the late 16th century, the Maravi began to expand eastwards due to the help of Lundu, conquering the Lolo and Makua. It is said that the Zimba marauders were a part of this expansion. Lundu's warriors incorporated the Lolo and Makua into a tributary state, which the Portuguese called "Bororo". Following this victory, Lundu was recognized as the most powerful person after the Kalonga. His warriors also periodically descended to the Makua coast to raid the Portuguese settlements there. Due to the Lundu's tremendous growth in power, the Kalonga became nervous, leading to rivalry and conflict between the Lundu and the Kalonga in the 1620s and 1630s. In addition, the Maravi traded a lot with the Portuguese, in towns from Angoche to Tete. The Maravi also collaborated with the Portuguese at times, with some warriors going on campaigns with them, mostly against the Karanga who were displeased with the Kalonga's (Kalonga Muzula at the time) reign. However, the Portuguese didn't help the Maravi out of choice, they dreaded working alongside them, which they did until the end of the 17th century. The Maravi also expanded eastwards to the other side of the lake, settling towns such as Chinguni and Malango. At their peak in the 17th century, the Maravi had three centers of influence, the Kalonga's domain at Manthimba, the Lundu's domain at Mbewe, and the Undi's kingdom at Maano. From the beginning of the 18th century onwards, the Maravi states began a period of decline. The Kalonga, Khute, during this time was seen as weak and was usurped. However, the Mpinganjira faction in the east backed Khute, causing tension between them and the people of Manthimba, who supported the usurper. There were also similar revolts in different states of the Maravi Confederation. There was an emergence of Makua-Lolo nationalism in the Lundu dynasty. It was directed at the Portuguese, and thus started a war with the Portuguese which lasted from around 1748-1800. The Portuguese also invaded the area controlled by the Undi in the west, resulting in a decline in their area as well. After the decline of these states, states of the Ngoni, Swahili, and Yao began to emerge in the 18th and 19th centuries. They became the chiefdoms of Mkanda, Mwase, and Kanyenda. These chiefdoms were what became of the fall of the Maravi Confederacy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_KALONGA_MAZULA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_KALONGA_MAZULA_TEXT_1">
+			<Text>Kalonga Mazula was the Mazula, "king", of the Maravi Confederacy at its height. Mazula was also spelled Mazula, Muzura, and Mazura, and he reigned somewhere between 1600 and 1650 AD. Mazula may have also been the same King as Kalonga Mchepera. Between 1600 and 1650 Maravi developed into a major military power. Via military conquest, by 1635 Kalonga had extended the territory from the Zambezi westward to Mozambique Island in the east. Kalonga tried invading the southern Mutapa Kingdom in 1623, but was thwarted. At this time it controlled southern Malawi, northeast Zambia and northern Mozambique. Its wealth came from the ivory trade. Mazula was also known to work with the Portuguese, giving them warriors to help defeat rebellions. Other than keeping the Portuguese in check and expanding Maravi to its furthest extent, not much else is known about Mazula. Maravi disintegrated into competing chiefdoms after Mazula’s death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_JWW_ZIMBA_MARAUDER_TEXT">
+			<Text>
+				Zimba is an African word which means marauder. Located on the East African coast, the Zimba were often engaged in conflict with the colonial empire of Portugal, and were famed amongst the Portuguese for brutality, lack of mercy, and cannibalism. It is recorded that the cannibalism applied to both those they killed in battle, war captives that were no longer able to work, and their own sick and badly wounded.
+
+				[NEWLINE][NEWLINE]The origin of the Zimba is unknown and much debated, but one of the most widely held theories is that they were warrior bands from the Maravi kingdom, unleashed upon the Portuguese for interfering with the ivory trade. The Zimba often defeated the Portuguese in open battle, whereafter the Portuguese would withdraw to forts. The Zimba are said to have been comprehensively defeated by the Segeju people, who defeated the Zimba by flanking them from behind.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_JWW_NYAU_CULTIST_TEXT">
+			<Text>
+				The Nyau is a secret society amongst the Chewa group of Bantu peoples, a people whom emerged as a dominant force in the Maravi confederation. Nyau, which can also be spelt as Nyao, meaning mask or initiation. Indeed, both masks and initiations were a significant part of the society, as the Nyau society consisted of initiated members of the Chewa and Nyanja people, and formed the indigenous religion of the people. Societies operated at a village level but were part of greater networks which shared intricate dances. Masked Nyau dancers were understood to be spirits of the dead, and as such, during performances there would occasionally be attacks upon individuals and deaths, with both women and children, whom were understood to not be able to be imitated into the Nyau, fleeing to safety.
+				[NEWLINE][NEWLINE]Since 2005, Gule Wamkulu, roughly translated into Big Dance, has been classified as one of the 90 Masterpieces of the Oral and Intangible Heritage of Humanity, a program by UNESCO for preservation of intangible cultural heritage. It is the best known and longest dance of the Nyau, and is also known as the Great Prayer to Our Ancestors or the Dance of the Ancestors.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_JWW_NYAU_PEDIA">
+			<Text>The Nyau is a secret society amongst the Chewa group of Bantu peoples, a people whom emerged as a dominant force in the Maravi confederation. Nyau, which can also be spelt as Nyao, meaning mask or initiation. Indeed, both masks and initiations were a significant part of the society, as the Nyau society consisted of initiated members of the Chewa and Nyanja people, and formed the indigenous religion of the people. Societies operated at a village level but were part of greater networks which shared intricate dances. Masked Nyau dancers were understood to be spirits of the dead, and as such, during performances there would occasionally be attacks upon individuals and deaths, with both women and children, whom were understood to not be able to be imitated into the Nyau, fleeing to safety.</Text>
+		</Row>
+		<!-- Diplomacy Responses -->
+		<!-- First Greeting -->
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_FIRSTGREETING_1">
+			<Text>Hello, and welcome to my domain. My name is Kalonga Mazula. Fear me, and be spared.</Text>
+		</Row>
+
+		<!-- Defeated -->
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_DEFEATED_1">
+			<Text>I see that the savages got the best of the savages.</Text>
+		</Row>
+
+		<!-- Diplomacy: Wars, Denunciations, and DoF -->
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_ATTACKED_GENERIC_1">
+			<Text>A bold declaration, I will give you that. However, it very well might be your last.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_DEC_FRIENDSHIP_1">
+			<Text>You might want to accept my friendship, if you want to live another day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_DENOUNCE_1">
+			<Text>If even a savage is calling you out, you might be doing something wrong.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_DOW_GENERIC_1">
+			<Text>It's time your little "kingdom" comes to an end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Expanding into lands wished by the Maravi Confederacy? You realize, with the snap of my fingers I could simply swap those lands to my ownership right?</Text>
+		</Row>
+
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_GREETING_AT_WAR_HOSTILE_1">
+			<Text>You ever wonder why they consider the Maravi "ruthless" and "savages"? Well, you're about to see for yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_GREETING_POLITE_HELLO_1">
+			<Text>Ah, always pleasant to see you around. Come, try some human blood we have left over!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Bold of you to make the trek to this confederacy. What do you need?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_GREETING_HOSTILE_HELLO_1">
+			<Text>You've got some nerve talking to me. How would you like it if I, say took over that little place you claim to call yours?</Text>
+		</Row>
+
+		<!-- Misc -->
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Showing your armies to me doesn't seem like a wise tactic. Perhaps I could show you mine and we could call it even after my armies crush yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_LETS_HEAR_IT_1">
+			<Text>You have any good reason to tap into our trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_LOSEWAR_1">
+			<Text>We have have lost this battle, but expect more war to come.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_LUXURY_TRADE_1">
+			<Text>The Maravi simply want all of the luxuries of this world. If you don't want to accept, no matter, we can take it from you for ourselves later.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_NO_PEACE_1">
+			<Text>Sorry, but we won't stop until we get what we need. But hey, we might need everything you own!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_OPEN_BORDERS_EXCHANGE">
+			<Text>It's a privilege to be able to cross our lands and survive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_REPEAT_NO_1">
+			<Text>Do I need to go to war with you to get you to shut up?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_RESPONSE_REQUEST_1">
+			<Text>Normally I'm not one to ask for assistance, so consider yourself lucky!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Denouncing the most ruthless on the land? Oh, we won't take it too kindly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_TOO_SOON_NO_PEACE_1">
+			<Text>Sorry, but our battle has just begun! You should hope that you can last long enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_WINWAR_1">
+			<Text>Another day, another victory. I'm surprised you can even stand on your own two feet. Well, no matter, consider yourself spared- for now.</Text>
+		</Row>
+
+		<!-- Cultural Influence -->
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_INFLUENTIAL_ON_HUMAN_1">
+			<Text>Our people are now drinking blood out of human skulls and joining a secret society. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_KALONGA_MAZULA_INFLUENTIAL_ON_AI_1">
+			<Text>We are glad to see that your people are now drinking blood out of human skulls and joining a secret society. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+	<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_0">
+			<Text>Manthimba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_1">
+			<Text>Mankhamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_2">
+			<Text>Mbewe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_3">
+			<Text>Maano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_4">
+			<Text>Tete</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_5">
+			<Text>Sena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_6">
+			<Text>Makawana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_7">
+			<Text>Quelimane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_8">
+			<Text>Mozambique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_9">
+			<Text>Angoche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_10">
+			<Text>Msinja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_11">
+			<Text>Chinguni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_12">
+			<Text>Malango</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_13">
+			<Text>Mwanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_14">
+			<Text>Zomba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_15">
+			<Text>Moma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_16">
+			<Text>Sofala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_17">
+			<Text>Mulanje</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_18">
+			<Text>Cholo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_19">
+			<Text>Chiromo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_20">
+			<Text>Kaphirintiwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_21">
+			<Text>Nthakataka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_22">
+			<Text>Tengani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_23">
+			<Text>Mankhokwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_24">
+			<Text>Dobvu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_25">
+			<Text>Ngabu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_26">
+			<Text>Kamanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_27">
+			<Text>Chibisa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_28">
+			<Text>Kabvina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_29">
+			<Text>Ngonde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_30">
+			<Text>Lambya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MARAVI_31">
+			<Text>Choma</Text>
+		</Row>
+	<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MARAVI_0">
+			<Text>Chinkhole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MARAVI_1">
+			<Text>Chidzonzi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MARAVI_2">
+			<Text>Chinsangu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MARAVI_3">
+			<Text>Mphunga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MARAVI_4">
+			<Text>Mkung'untha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MARAVI_5">
+			<Text>Mchepera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MARAVI_6">
+			<Text>Kamtukule</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MARAVI_7">
+			<Text>Mkhwima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MARAVI_8">
+			<Text>Khute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MARAVI_9">
+			<Text>Mziitsa</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

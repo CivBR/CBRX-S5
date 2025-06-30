@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8f49d100-b787-492b-a451-74189a4f31a8" version="1">
+  <Properties>
+    <Name>Rhoze's Potiguara</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the shrimp-eating Potiguara of Brazil's far east to the game, under Iniguacu, fierce foe of  Portugal's armies.</Teaser>
+    <Description>Adds the shrimp-eating Potiguara of Brazil's far east to the game, under Iniguacu, fierce foe of Portugal's armies.</Description>
+    <Authors>Rhoze</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="015BD82FE58D96C75BCE751DCA160ADA" import="1">Art/PhusaUnitflag32.dds</File>
+    <File md5="5BB182EDF4F13736708A7F07E8D52809" import="1">Art/PotiguaraAlpha_24.dds</File>
+    <File md5="CA4BB3DE5F6D105DE2898BA448046073" import="1">Art/PotiguaraAlpha_32.dds</File>
+    <File md5="6DECCCA2AFB740B8F401CA4E2F141A84" import="1">Art/PotiguaraAlpha_48.dds</File>
+    <File md5="EC99EFCA116902FEDA157223D707E12C" import="1">Art/PotiguaraAlpha_64.dds</File>
+    <File md5="1C758DC5F859156FB04BAD0FB32E1CE3" import="1">Art/PotiguaraIcon_128.dds</File>
+    <File md5="07C44067AFA25C9C83929D30052ACFBE" import="1">Art/PotiguaraIcon_256.dds</File>
+    <File md5="24BB13CD634AFACDCC724F2B433EE768" import="1">Art/PotiguaraIcon_32.dds</File>
+    <File md5="18DD86927D460B3C3B2AB03DEAFA34BF" import="1">Art/PotiguaraIcon_45.dds</File>
+    <File md5="EAC77F50438ADBACC2CF652F0078C47F" import="1">Art/PotiguaraIcon_64.dds</File>
+    <File md5="CAC987F38A1247B6435252E812EC8C8E" import="1">Art/PotiguaraIcon_80.dds</File>
+    <File md5="2A563BB08EC399A394FDEBA6D5DFE9CC" import="1">Art/PotyShrimpFontIcon.ggxml</File>
+    <File md5="4462AFC842669FD42334B9D07F88BCFB" import="1">Art/PotyShrimpFontIcon.xml</File>
+    <File md5="3FCA6923FD7760D6D67AFC206CD99954" import="1">Art/PotyShrimpFontIcon.dds</File>
+    <File md5="3C436CA07B231AC808E052C836661323" import="1">Art/ShrimpIcon_256.dds</File>
+    <File md5="02C8C18FA05E77FE5189063C0FFEED2E" import="1">Art/ShrimpIcon_45.dds</File>
+    <File md5="D53B595617FB7ED8ADFE7DBDEC5B9660" import="1">Art/ShrimpIcon_64.dds</File>
+    <File md5="AA342202403F892B9860394510A9DA0E" import="1">Art/ShrimpIcon_80.dds</File>
+    <File md5="2EB2AB38D4C200EF8621DCFB186BED16" import="1">Art/svPhusa.dds</File>
+    <File md5="65A01435794F3BEAF196FB7CCA315DF0" import="1">Art/svShrimp.dds</File>
+    <File md5="D9492D11D179A2F50F31394C3EC7B601" import="0">Core/PotiguaraArtDef.sql</File>
+    <File md5="32EF743A3DB0231FF13739654C75F99E" import="0">Core/PotiguaraCore.sql</File>
+    <File md5="41D1326051FBA4535A4604B35FC25B5C" import="0">Core/PotiguaraSupport.sql</File>
+    <File md5="5CD2C062271E3C5CCD8198395DDCD37C" import="0">Core/PotiguaraText.xml</File>
+    <File md5="C8C67DF9139B623042C2E05A386892A2" import="0">Lua/PotiguaraFunc.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/PotiguaraArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PotiguaraCore.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PotiguaraSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PotiguaraText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/PotiguaraFunc.lua">
+      <Name>PotiFunc</Name>
+      <Description>PotiFunc</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

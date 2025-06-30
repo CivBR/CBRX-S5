@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/10/2022 10:07:13 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDINGCLASS_DUMMY_SAS_AURES">
+			<Text>Sas Aures Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDINGCLASS_DUMMY_SAS_KSOUR">
+			<Text>Sas Ksour Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_AURES">
+			<Text>Flames of Al-Kahina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_ZENATA_IGNORE_ZOC">
+			<Text>Ignores ZoC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_AURES_HELP">
+			<Text>May force enemies to retreat whilst starting its turn on a pillaged Tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_ZENATA_IGNORE_ZOC_HELP">
+			<Text>Ignores enemy Zone of Control.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_AURES_ADJECTIVE">
+			<Text>Aurès</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_AURES_DESC">
+			<Text>Kingdom of The Aurès</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DAWN_SAS_AURES_TEXT">
+			<Text>Strength be upon you Dihya, Berber Queen of the Aurès, religious and military leader. You resisted the rapid encroachment of the Muslim Arabs, defeating them in the Battle of the Camels at Meskiana. Hasan, the defeated commander, eventually returned years later and defeated you at the Battle of Tabarka. However, your legends tell of your fearsome powers, your united Berber state, and a scorched earth campaign, conducted in the hopes of defeating the invaders. You may have died in battle, but your legend lived on for many to interpret and try to understand. You became a symbol for nationalists, women, and the progressive movement. Your resistance was not in vain.[NEWLINE][NEWLINE]Capable Dihya, it will require every ounce of your strength, courage, and determination upon your inception in this new land. New armies tied to new civilizations will test you, with war inevitable. But you choose your path. You must be cautious, but this new era gives you and your people the capacity to flourish. Can you build a new story for your civilization, one recorded that will reverberate though all ages? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_AURES_SHORT_DESC">
+			<Text>The Aurès</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_AURES_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_AURES_TEXT_1">
+			<Text>The Kingdom of the Aurès was an independent Christian Berber kingdom primarily located in the Aurès Mountains of present-day north-eastern Algeria. Established in the 480s by King Masties following a series of Berber revolts against the Vandalic Kingdom, the Kingdom of the Aurès combined aspects of Roman and Berber culture in order to efficiently rule over a population composed of both Roman provincials and Berber tribespeople. The final Queen of the kingdom, Dihya, was the final leader of the Berber resistance against the Arabs, which ended with her death and the fall of the Kingdom of the Aurès in 703 AD.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_AURES_HEADING_2">
+			<Text>Collapse of the Vandals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_AURES_TEXT_2">
+			<Text>Following the death of the Vandal king Gaiseric in 477 AD, the Berbers under Vandal control revolted against his successor Huneric following his attempt to convert them to Arian Christianity and the harsh punishments incurred on those who did not convert. In the Aurès Mountains, this led to the foundation of the independent Kingdom of the Aurès, which was fully independent by the time of Huneric's death in 484 AD and would never again come under Vandal rule. Under the rule of Huneric's successors Gunthamund and Thrasamund, the wars between the Berbers and the Vandals continued. During Thrasamund's reign, the Vandals suffered a disastrous defeat at the hands of a Berber king ruling the city Tripolis, named Cabaon, who almost completely destroyed a Vandal army that had been sent to subjugate the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_AURES_HEADING_3">
+			<Text>The New Berber Kingdoms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_AURES_TEXT_3">
+			<Text>As the new Berber kingdoms adopted the military, religious and sociocultural organization of the Roman Empire, they continued to be fully within the Western Latin world. The administrative structure and titulature used by the Berber rulers suggests a certain romanized political identity in the region. This Roman political identity was maintained in the Kingdom of the Aurès, where King Masties claimed the title of Imperator during his rule around 516 AD, postulating that he had not broken trust with either his Berber or Roman subjects. Masties had established a realm in Numidia and the Aurés Mountains, with the Arris as his own residence, and used Imperator to legitimize his rule over the Roman provincials, also openly declaring himself a Christian during his rebellion against Huneric. According to his own 516 AD inscription, Masties had reigned for 67 years as a dux, and 10 years as Imperator up until that point. However, in the Byzantine Empire, these kings were considered usurpers. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_AURES_HEADING_4">
+			<Text>Byzantine Problems</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_AURES_TEXT_4">
+			<Text>Following the Byzantine re-conquest of the Vandal Kingdom, though this did not include the Aurès, the local governors began to experience problems with the local Berber tribes. Though the Roman Empire had once exercised control over the Berbers and the Berbers continued to nominally respect Roman authority during Byzantine rule over North Africa, they could not be as easily integrated as before partly due to the Byzantine shift in language from Latin to Greek, the Berbers were no longer bilingual with the language of their nominal rulers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_AURES_HEADING_5">
+			<Text>The Fight For Survival</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_AURES_TEXT_5">
+			<Text>Despite previous hostilities, the Byzantine Empire supported the Kingdom of the Aurès during the Muslim conquest of the Maghreb, hoping that the kingdom would act as resistance to the Arabs. Even with the fall of the Mauro-Roman kingdom in the 570s, its capital of Altava appears to have somewhat remained a seat of Berber power. The Altavan king Kusaila, the last Berber king to rule from Altava, died fighting against the Umayyad Caliphate. At the Battle of Mamma in 690 AD, a combined Byzantine-Altavan army was defeated and Kusaila was killed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_AURES_HEADING_6">
+			<Text>Dihya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_AURES_TEXT_6">
+			<Text>With the death of Kusaila, the torch of resistance passed to a tribe known as the Jerawa tribe, who had their home in the Aurès Mountains: his Christian Berber troops after his death fought later under Dihya, the queen of the Kingdom of the Aurès and the last ruler of the romanized Berbers. Dihya led the Berber resistance against the Arabs but was killed in battle in 703 AD in Aures.</Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_SAS_DIHYA">
+			<Text>Dihya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_TEXT_1">
+			<Text>Dihya, in Arabic Al-Kahina, was a Berber queen and a religious and military leader who led indigenous resistance to the Muslim conquest of the Maghreb, the region then known as Numidia, notably defeating the Umayyad forces in the Battle of Meskiana after which she became the uncontested ruler of the whole Maghreb.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_HEADING_2">
+			<Text>In Search of an Enemy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_TEXT_2">
+			<Text>She was born into the Jarawa Zenata tribe in the early 7th century. Dihya succeeded Kusaila as the war leader of the Berber tribes in the 680s and opposed the encroaching Arab Islamic armies of the Umayyad Dynasty. Hasan ibn al-Nu'man marched from Egypt and captured the major Byzantine city of Carthage and other cities. Searching for another enemy to defeat, he was told that the most powerful monarch in North Africa was "the Queen of the Berbers" Dihya, and accordingly marched into Numidia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_HEADING_3">
+			<Text>The Battle of the Camels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_TEXT_3">
+			<Text>In 698, the armies met near Meskiana in the present-day province of Oum el-Bouaghi at the Battle of Meskiana, or the battle of camels, in Algeria. She defeated Hasan so soundly that he fled Ifriqiya and holed up in Cyrenaica for four or five years. Realizing that the enemy was too powerful and bound to return, she was said to have embarked on a scorched earth campaign, which had little impact on the mountain and desert tribes, but lost her the crucial support of the sedentary oasis-dwellers. Instead of discouraging the Arab armies, her desperate decision hastened defeat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_HEADING_4">
+			<Text>Different Stories</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_TEXT_4">
+			<Text>The story of the Kahina is told by a variety of cultures, and each story often offers a different, or even contradictory, perspective. For example, the story is used to promote feminist beliefs. Additionally, it is even told by Arabs to promote their own nationalism. For the Arabs, they told the story in a perspective that made the Kahina seem like a sorcerer, all in an attempt to discredit her. Some Arab historians took it even farther by saying that the Kahina eventually tried to have her sons adopt Islam as their religion. Another group that told the story of the Kahina was the French. The story of the Kahina was told to paint colonialism in a positive light. The story was told with a message saying that it represented the freeing of Berbers from the Arabs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_HEADING_5">
+			<Text>Return of Hasan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_TEXT_5">
+			<Text>Hasan eventually returned and, aided by communications with the captured officer "Khalid bin Yazid al-Qaysi" adopted by Dihya, defeated her at the Battle of Tabarka, about which there is some uncertainty. According to some accounts, Dihya died fighting the invaders, sword in hand. Other accounts say she committed suicide by swallowing poison rather than be taken by the enemy. This final act occurred in the 690s or 700s, with 703 CE given as the most likely year. In that year, she was, according to Ibn Khaldun, 127 years old. This is evidently yet another of the many myths which surround her.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_HEADING_6">
+			<Text>Archaeology</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_TEXT_6">
+			<Text>Another, lesser known account of Dihya claimed that she had an interest in early studies of desert birds. While this view may or may not be plausible, some evidence has been recovered at the site of her death place, modern-day Algeria. Several fragments of early parchment with a painting of a bird on them were found, although there's no way to conclude the fragments were hers. However, it is possible that she began her interest while in Libya, as the painting was of a Libyan bird species.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_HEADING_7">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_TEXT_7">
+			<Text>Dihya was adopted as a symbol by women, and was used as a symbol against the foreign occupation, and later as a symbol against male hegemony. Indeed, already during the period of French Colonisation the Kahina was a model for the militant women who fought the French. In the Kabyle insurrection of 1851 and 1857, women such as Lalla Fatma N'Soumer and Lalla Khadija Bent Belkacem, who were known as chief warriors took the Kahina as a model. In the present day, the image of the Kahina is constantly used by Berber activists to showcase how they, as a people, are strong and will not be conquered or diminished by other communities. Her face is often seen in graffiti and sculptures around Algeria to showcase their support for the progressive ideals she represents. While her true appearance is still unknown, artists have depicted her with certain aspects that reinforce the progressive movement she is known to represent. However, not all governments accept the ideals behind the Kahina. One statue of the Kahina in Baghai was condemned by the government due to blasphemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_LIVED">
+			<Text>6?? - 703 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_NAME">
+			<Text>Dihya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_SUBTITLE">
+			<Text>Leader of The Aurès</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_DIHYA_TITLES_1">
+			<Text>Queen</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_SAS_DIHYA_SHORT">
+			<Text>The Soothsayer Priestess</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SAS_DIHYA">
+			<Text>Owned pillaged tiles provide [ICON_PEACE] Faith per turn. Non-Ranged units starting their turn on pillaged tiles may force enemies to retreat.</Text>
+		</Row>
+		<!--Kwanami-->
+		<Row Tag="TXT_KEY_UNIT_SAS_ZENATAHORSEMAN">
+			<Text>Zenata Rider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_ZENATAHORSEMAN_HELP">
+			<Text>Unique Horseman for The Aurès. Pays no movement cost to pillage, and starts with extra XP based on its city's [ICON_PEACE] Faith output. If built while an enemy unit is within city borders, permanently ignores ZOC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_ZENATAHORSEMAN_STRATEGY">
+			<Text>Unique Horseman for The Aurès. Pays no movement cost to pillage, and starts with extra XP based on its city's [ICON_PEACE] Faith output. If built while an enemy unit is within city borders, permanently ignores ZOC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SAS_ZENATAHORSEMAN_TEXT">
+			<Text>The Zenata rider was a Berber light cavalry unit. The Zenata were historically one of the largest Berber confederations, being either nomadic or semi-nomadic. The 14th-century historiographer Ibn Khaldun reports that the Zenata were divided into three large tribes: Jarawa, Maghrawa, and Banu Ifran. They were known for being excellent horse breeders and experts in riding. So renowned were they, that their name is thought to be the origin of the Spanish word 'jinete', synonymous with light cavalry.</Text>
+		</Row>
+		<!--Kutinyam-->
+		<Row Tag="TXT_KEY_BUILDING_SAS_KSOUR">
+			<Text>Agadir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_KSOUR_PEDIA">
+			<Text>An Agadir, meaning literally "the wall" or "the fortified compound" in the Berber language Tashelhit, was a fortified communal granary. Structures typically composed of a granary and a citadel, and were located in rocky, elevated locations to protect surrounding farms and livestock from enemies. In addition to harvested grains, igudar were used to store all kinds of valuable belongings, including deeds and records, money, jewelry, clothing, carpets, and sometimes weapons and munitions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_KSOUR_STRATEGY">
+			<Text>Unique Granary for The Aurès. Provides +1 [ICON_FOOD] Food from worked sources of [ICON_RES_WHEAT] Wheat, [ICON_RES_DEER] Deer, and [ICON_RES_BANANA] Bananas, as well as +1 [ICON_FOOD] Food and +1 [ICON_PEACE] Faith from worked Oases. +2 [ICON_STRENGTH] City Strength and +15 City HP, doubled if the city is on or adjacent to Desert. Allows the transferring of [ICON_FOOD] Food via Internal Trade Routes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_KSOUR_HELP">
+			<Text>Unique Granary for The Aurès. Provides +1 [ICON_FOOD] Food from worked sources of [ICON_RES_WHEAT] Wheat, [ICON_RES_DEER] Deer, and [ICON_RES_BANANA] Bananas, as well as +1 [ICON_FOOD] Food and +1 [ICON_PEACE] Faith from worked Oases. +2 [ICON_STRENGTH] City Strength and +15 City HP, doubled if the city is on or adjacent to Desert. Allows the transferring of [ICON_FOOD] Food via Internal Trade Routes.</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_AURES_9">
+			<Text>Masties</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_AURES_8">
+			<Text>Iabdas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_AURES_7">
+			<Text>Tabat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_AURES_6">
+			<Text>Matiya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_AURES_5">
+			<Text>Bagay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_AURES_4">
+			<Text>Khenchla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_AURES_3">
+			<Text>Sekerdid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_AURES_2">
+			<Text>Garmul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_AURES_1">
+			<Text>Stotzas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_AURES_0">
+			<Text>Mastigas</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_1">
+			<Text>Khenchela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_2">
+			<Text>Arris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_3">
+			<Text>Meskiana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_4">
+			<Text>Thysdrus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_5">
+			<Text>Vescera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_6">
+			<Text>Thamugadi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_7">
+			<Text>Cydamus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_8">
+			<Text>Turris Tamalleni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_9">
+			<Text>Lambaesis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_10">
+			<Text>Theveste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_11">
+			<Text>Ad Medias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_12">
+			<Text>Sufetula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_13">
+			<Text>Tabarka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_14">
+			<Text>Capsa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_15">
+			<Text>Ammaedara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_16">
+			<Text>Cirta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_17">
+			<Text>Sicca Veneria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_18">
+			<Text>Cuicul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_19">
+			<Text>Sitifis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_20">
+			<Text>Gemellae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_21">
+			<Text>Khemissa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_22">
+			<Text>Lambiridi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_23">
+			<Text>Uzinaza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_24">
+			<Text>Icosium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_25">
+			<Text>Auzia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_AURES_26">
+			<Text>Rapidum</Text>
+		</Row>
+		<!-- DIPLOMACY: VANILLA -->
+		<Row Tag="TXT_KEY_GENERIC_SAS_AURES_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now wearing your burnous and setting fire to their yards to repel intruders. I worry the rest of the world will soon succumb to the influence of your culture.</Text>
+		</Row>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_SAS_DIHYA_FIRSTGREETING_1">
+			<Text>I foresaw your arrival... you find yourself at the feet of Dihya, Queen of the Berbers, though my foes call me Al-Kahina, the diviner. Whatever plans you may conjure, know that I will know them first... and those who oppose me will perish in flames.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_SAS_DIHYA_DEFEATED_1">
+			<Text>You'll never subdue my people! The flames shall take us first! </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

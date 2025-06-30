@@ -1,10 +1,10 @@
 --Give Embarkation to Everyone
 local domainLand = GameInfoTypes["DOMAIN_LAND"]
 local promoEmbark = GameInfoTypes["PROMOTION_EMBARKATION"]
-local techSailing = GameInfoTypes["TECH_SAILING"]
+local techOptics = GameInfoTypes["TECH_OPTICS"]
 
 function EmbarkationForEveryone(teamID, techID, bValue)
-	if bValue and (techID == techSailing) then
+	if bValue and (techID == techOptics) then
 		local team = Teams[teamID]
 		if not team then return end
 
@@ -89,43 +89,6 @@ function HolyWar(iTeam, iTargetTeam)
 end
 
 GameEvents.DeclareWar.Add(HolyWar)
-
--- EW Civs Against Razing (v 1)
-function EW_DontRaze(playerID)
-	local ewPlayer = Players[playerID]
-
-	if ewPlayer and not ewPlayer:IsHuman() then
-		local ewCiv = ewPlayer:GetCivilizationType()
-		local ewTrueCiv = GameInfo.Civilizations[ewCiv].Type
-		local ewLeader = 0
-
-		for row in GameInfo.Civilization_Leaders("CivilizationType = '" .. ewTrueCiv .. "'") do
-			ewLeader = row.LeaderheadType
-		end
-
-		local ewBias = GetLeaderFlavor(ewLeader, "FLAVOR_HAPPINESS") or EW_BIAS_DEFAULT
-
-		local ewHappy = ewPlayer:GetHappiness()
-
-		for ewCity in ewPlayer:Cities() do
-			if ewCity:IsRazing() then
-				local ewRaze = ewCity:GetRazingTurns()
-				if ewHappy > (-10 / ewBias) then
-					ewCity:ChangeRazingTurns(-ewRaze)
-				end
-			end
-		end
-	end
-end
-
-function GetLeaderFlavor(leaderType, flavorType)
-	for row in GameInfo.Leader_Flavors("LeaderType = '" .. leaderType .. "' AND FlavorType = '" .. flavorType .. "'") do
-		return row.Flavor
-	end
-	return nil
-end
-
-GameEvents.PlayerDoTurn.Add(EW_DontRaze)
 
 -- Future Tech Bonus (v 1)
 local tUnits = {

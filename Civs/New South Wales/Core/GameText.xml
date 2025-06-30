@@ -1,0 +1,336 @@
+﻿<GameData>
+	<Language_en_US>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_01">
+			<Text>Sydney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_02">
+			<Text>Parramatta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_03">
+			<Text>Hobart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_04">
+			<Text>Newcastle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_05">
+			<Text>Launceston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_06">
+			<Text>Kingston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_07">
+			<Text>Windsor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_08">
+			<Text>Pitt Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_09">
+			<Text>Richmond Hill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_10">
+			<Text>Liverpool</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_11">
+			<Text>George Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_12">
+			<Text>New Norfolk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_13">
+			<Text>Sorell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_14">
+			<Text>Ross</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_15">
+			<Text>Longford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_16">
+			<Text>Bathurst</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_17">
+			<Text>Blackheath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_18">
+			<Text>Shellharbour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_19">
+			<Text>Penrith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_20">
+			<Text>Singleton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_21">
+			<Text>Campbelltown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_22">
+			<Text>Maitland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_23">
+			<Text>Morpeth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_24">
+			<Text>Port Macquarie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_25">
+			<Text>Mudgee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_26">
+			<Text>Perth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_27">
+			<Text>Gosford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_28">
+			<Text>Richmond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_29">
+			<Text>Wellington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_30">
+			<Text>Redcliffe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NEW_SOUTH_WALES_31">
+			<Text>Brisbane</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NEW_SOUTH_WALES_0">
+			<Text>George</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NEW_SOUTH_WALES_1">
+			<Text>Thomas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NEW_SOUTH_WALES_2">
+			<Text>Charles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NEW_SOUTH_WALES_3">
+			<Text>Michael</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NEW_SOUTH_WALES_4">
+			<Text>William</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NEW_SOUTH_WALES_5">
+			<Text>David</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NEW_SOUTH_WALES_6">
+			<Text>Elizabeth</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NEW_SOUTH_WALES_7">
+			<Text>Edward</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NEW_SOUTH_WALES_8">
+			<Text>James</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NEW_SOUTH_WALES_9">
+			<Text>Francis</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_SENSHI_NEW_SOUTH_WALES_ADJECTIVE">
+			<Text>New South Welsh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_NEW_SOUTH_WALES_DESC">
+			<Text>New South Wales</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_NEW_SOUTH_WALES_SHORT_DESC">
+			<Text>New South Wales</Text>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_SENSHI_NEW_SOUTH_WALES_TEXT">
+			<Text>Do not bend to the will of others, John Macarthur, pioneering agriculturalist and Colonial Secretary of the fledgling Colony of New South Wales. Born in England, you spent much time back and forth between your native and adopted residencies. In New South Wales, you were a forerunner in many industries which would come to define the future nation of Australia, such as vinification, agriculture, but most importantly, sheep husbandry and shearing. The first person to export Australian wool, you also spent much time being involved in politics, being nominated to the New South Wales Legislative Council and being a Colonial Secretary of the Colony during the Rum Rebellion. One of the richest men in New South Wales, you faced no consequences for the overthrow of the Governor William Bligh.[NEWLINE][NEWLINE]Colonial Secretary Macarthur, the people of New South Wales are in crisis. They look to your hardy resolve with admiration, for the leaders of today provide none of their own. They seek a larrikin, a firebrand, a maverick who will do what it takes to resolve crises. Can you stand strong facing new and unexpected challenges? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_TEXT_1">
+			<Text>New South Wales was a colony of the British Empire from 1788 to 1901, when it became a State of the Commonwealth of Australia. At its greatest extent, the colony of New South Wales included the present-day Australian states of New South Wales, Queensland, Victoria, Tasmania, and South Australia, the Northern Territory as well as New Zealand.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_HEADING_2">
+			<Text>A Long History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_TEXT_2">
+			<Text>The original inhabitants of New South Wales were the Aboriginal tribes who arrived in Australia about 40,000 to 60,000 years ago. Aboriginal people have no cultural memory of living anywhere outside Australia. The earliest evidence of humans in Australia has been variously estimated, with most agreement as of 2018 that it dates from between 50,000 and 65,000 years ago.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_HEADING_3">
+			<Text>Captain James Cook and the First Fleet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_TEXT_3">
+			<Text>In 1770 Lieutenant James Cook charted the unmapped eastern coast of the continent of New Holland, now Australia, and claimed the entire coastline that he had just explored as British territory. Cook first named the land New Wales which was later amended to New South Wales. In January 1788 Arthur Phillip arrived in Botany Bay with the First Fleet of 11 vessels, which carried over a thousand settlers, including 736 convicts. A few days after arrival at Botany Bay, the fleet moved to the more suitable Port Jackson, where Phillip established a settlement at the place he named Sydney Cove. Having set sail on 13 May 1787, Captain Arthur Phillip assumed the role of governor of the settlement upon arrival. On 18 January 1788, the first ship of the First Fleet, HMS Supply, with Phillip aboard, reached Botany Bay. However, Botany Bay was found to be unsuitable by Phillip. After Phillip led the exploration of Port Jackson, he sailed and reached Sydney Cove on night of 25 January 1788. On the morning of 26 January, men on board this ship went ashore and started clearing land for a camp. The First Fleet, a fleet of 11 vessels, which carried over a thousand settlers, including 736 convicts, were gathered on 7 February 1788 by the Governor for the reading of the proclamation of New South Wales.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_HEADING_4">
+			<Text>Increasing Industry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_TEXT_4">
+			<Text>The settlement was initially planned to be a self-sufficient penal colony based on subsistence agriculture. Trade and ship building were banned in order to keep the convicts isolated. However, after the departure of governor Phillip, the colony's military officers began acquiring land and importing consumer goods obtained from visiting ships. Former convicts also farmed land granted to them and engaged in trade. Farms spread to the more fertile lands surrounding Paramatta, Windsor and Camden, and by 1803 the colony was self-sufficient in grain. Boat building developed in order to make travel easier and exploit the marine resources of the coastal settlements. Sealing and whaling became important industries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_HEADING_5">
+			<Text>Rebellions on the Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_TEXT_5">
+			<Text>In March 1804, several hundred United Irish exiles in the Castle Hill area conspired to seize control of the colony and to capture ships for a return to Ireland. Poorly armed, and with their leader Philip Cunningham captured, the main body of insurgents were routed in an encounter. Loyalists, recalling the decisive rebel defeat in Ireland in 1798 celebrated this as the Second Battle of Vinegar Hill. Fifteen were killed and nine executed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_HEADING_6">
+			<Text>Baaaaad Land Rights Conflicts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_TEXT_6">
+			<Text>From the 1820s squatters increasingly established unauthorised cattle and sheep runs beyond the official limits of the settled colony. In 1836 an annual licence was introduced in an attempt to control the pastoral industry, but booming wool prices and the high cost of land in the settled areas encouraged further squatting. The expansion of the pastoral industry led to violent episodes of conflict between settlers and traditional Aboriginal landowners, such as the Myall Creek massacre of 1838. By 1844 wool accounted for half of the colony's exports and by 1850 most of the eastern third of New South Wales was controlled by fewer than 2,000 pastoralists. The transportation of convicts to New South Wales ended in 1840, and in 1842 a Legislative Council was introduced, with two-thirds of its members elected and one-third appointed by the governor. Former convicts were granted the vote, but a property qualification meant that only one in five adult males were enfranchised.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_HEADING_7">
+			<Text>Responsible Government</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_TEXT_7">
+			<Text>In 1856 New South Wales achieved responsible government with the introduction of a bicameral parliament comprising a directly elected Legislative Assembly and a nominated Legislative Council. The property qualification for voters had been reduced in 1851, and by 1856 95 per cent of adult males in Sydney, and 55 per cent in the colony as a whole, were eligible to vote. Full adult male suffrage was introduced in 1858. In 1859 Queensland became a separate colony. In 1861 the NSW parliament legislated land reforms intended to encourage family farms and mixed farming and grazing ventures. The amount of land under cultivation subsequently grew from 246,000 acres in 1861 to 800,000 acres in the 1880s. Wool production also continued to grow, and by the 1880s New South Wales produced almost half of Australia's wool. Coal had been discovered in the early years of settlement and gold in 1851, and by the 1890s wool, gold and coal were the main exports of the colony.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_HEADING_8">
+			<Text>From Colony to State</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_TEXT_8">
+			<Text>A Federal Council of Australasia was formed in 1885 but New South Wales declined to join. A major obstacle to the federation of the Australian colonies was the protectionist policies of Victoria which conflicted with the free trade policies dominant in New South Wales. Nevertheless, the NSW premier Henry Parkes was a strong advocate of federation and his Tenterfield Oration in 1889 was pivotal in gathering support for the cause. Parkes also struck a deal with Edmund Barton, leader of the NSW Protectionist Party, whereby they would work together for federation and leave the question of a protective tariff for a future Australian government to decide. In early 1893 the first citizens' Federation League was established in the Riverina region of New South Wales and many other leagues were soon formed in the colony. The leagues organised a conference in Corowa in July 1893 which developed a plan for federation. The new NSW premier, George Reid, endorsed the "Corowa plan" and in 1895 convinced the majority of other premiers to adopt it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_HEADING_9">
+			<Text>Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_TEXT_9">
+			<Text>A constitutional convention held sessions in 1897 and 1898 which resulted in a proposed constitution for a Commonwealth of federated states. The premiers of the other colonies agreed to a number of concessions to New South Wales (particularly that the future Commonwealth capital would be located in NSW), and in 1899 further referendums were held in all the colonies except Western Australia. All resulted in yes votes, with the yes vote in New South Wales meeting the required majority. The imperial parliament passed the necessary enabling legislation in 1900 and Western Australia subsequently voted to join the new federation. The Commonwealth of Australia was inaugurated on 1 January 1901, and Barton was sworn in as Australia's first prime minister.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_HEADING_10">
+			<Text>The New South Wales of Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NEW_SOUTH_WALES_TEXT_10">
+			<Text>New South Wales is bordered on the north by Queensland, on the west by South Australia, on the south by Victoria and on the east by the Coral and Tasman Seas. The Australian Capital Territory and the Jervis Bay Territory form a separately administered entity that is bordered entirely by New South Wales. The state can be divided geographically into four areas. New South Wales's three largest cities, Sydney, Newcastle and Wollongong, lie near the centre of a narrow coastal strip extending from cool temperate areas on the far south coast to subtropical areas near the Queensland border. The Great Dividing Range extends from Victoria in the south through New South Wales to Queensland, parallel to the narrow coastal plain. This area includes the Snowy Mountains, the Northern, Central and Southern Tablelands, the Southern Highlands and the South West Slopes.</Text>
+		</Row>
+		
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_LIVED">
+			<Text>1767 - 1834 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_NAME">
+			<Text>John Macarthur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_SUBTITLE">
+			<Text>Leader of New South Wales</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_MACARTHUR">
+			<Text>John Macarthur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_TITLES_1">
+			<Text>General Secretary</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_TEXT_1">
+			<Text>John Macarthur was a British army officer, entrepreneur, politician, architect and pioneer of settlement in Australia, known for being the pioneer of the wool industry in Australia, as well as being an instrumental factor in the Rum Rebellion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_HEADING_2">
+			<Text>The Man From Plymouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_TEXT_2">
+			<Text>John Macarthur was born near Plymouth, England, the second son of Alexander Macarthur. In 1782, John Macarthur was commissioned as an ensign in Fish's Corps, a regiment of the British Army formed to serve in the American War of Independence. The war ended before the regiment was ready to sail and was disbanded in 1783. On half-pay, Macarthur went to live on a farm near Holsworthy in Devon, where he evidently pursued a program of self-education and became interested in 'rural occupations'. During the next five years Macarthur used his spare time to travel, read, and perhaps contemplate a future at the bar. Instead, in April 1788, Macarthur returned to full-pay army duties, securing a commission as an ensign in the 68th Regiment of Foot. The same year, in October, he married Elizabeth Macarthur, with whom he had four sons and two daughters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_HEADING_3">
+			<Text>Away, to Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_TEXT_3">
+			<Text>Macarthur was posted to Sydney with the New South Wales Corps in 1789. Macarthur sailed on the Neptune in the Second Fleet, the 'worst ship in the worst of Australian fleets'. Before the Neptune had even departed the British Isles, Macarthur became involved in disputations with various personnel, including fighting a duel with Captain Gilbert, the Master of the Neptune. The cramped and squalid accommodation provided for his wife and infant son on board the Neptune provoked further disputes. He arrived in Sydney in 1790 holding the rank of lieutenant and was appointed as commandant at Parramatta. In February 1793, the acting governor, Major Francis Grose, granted Macarthur 40 hectares of land at Rose Hill near Parramatta, which was named Elizabeth Farm. Elizabeth Farm House is one of the oldest remaining farmhouses in Australia, though all that remains of the initial house is said to be one room. It is regarded as one of the premier examples of early Colonial architecture in Australia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_HEADING_4">
+			<Text>Mr Merino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_TEXT_4">
+			<Text>After being sent back and forth from Sydney to England for trial after a duel, Macarthur sent two associates to procure Merino sheep. By a happy coincidence the two captains were able to execute Macarthur's commission far better than he had hoped. The King of Spain had presented to the Dutch Government some of the finest pure merino sheep from the jealously guarded Escurial flocks, once owned by Philip II. These sheep were sent to the Dutch Cape Colony under the care of a Scottish gentleman, who died shortly afterwards. His widow had endless disputes with the Dutch Government, and, to end dissension, the sheep were ordered to be sold. A number of them were purchased by the captains and were duly delivered to Macarthur. Macarthur visited England in 1801, taking specimens of the pure Merino wool, and of the best of the crossbred, and submitted them to a Committee of Manufacturers who reported that the Merino was equal to any Spanish Wool, and the crossbred of considerable value. By 1801, Macarthur was the largest sheep farmer in the colony. While in London, Macarthur lobbied extensively in support of his interests back in New South Wales.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_HEADING_5">
+			<Text>Conflict with William Bligh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_TEXT_5">
+			<Text>Governor William Bligh was appointed, with backing by Sir Joseph Banks, to crack down on the commercial activities of the New South Wales Corps, especially their trade in alcohol. Macarthur and his friend and business associate Thomas Jamison were two prime targets. Macarthur clashed repeatedly with Bligh throughout 1807 while Jamison was dismissed from the magistracy. Macarthur was owed a debt in wheat, the price of which had gone up fourfold, but on appeal Bligh ruled it was only payable at the original value. Bligh cancelled a lease Macarthur held for some government land that Bligh wanted to use and Macarthur tried to prevent Bligh taking hold of it. When a convict stowed away and escaped to Tahiti on the schooner Parramatta, which Macarthur part-owned, Bligh demanded that the £900 Transport Board bond be forfeited. Macarthur refused to comply and the ship was seized when it returned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_HEADING_6">
+			<Text>The Rum Rebellion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_TEXT_6">
+			<Text>Macarthur was a lead conspirator in the Rum Rebellion which saw the New South Wales Corps, led by Major George Johnston, overthrow Governor Bligh. In December 1807 Bligh had an order issued for Macarthur to appear before the courts, which Macarthur refused to obey and subsequently was arrested and bailed for a trial on 25 January 1808. This trial led to the so-called Rum Rebellion, when the officers of the New South Wales Corps, who had been assigned to the court, sided with Macarthur and his allies: as a consequence, Bligh was overthrown by the Corps in a military coup on 26 January. Macarthur was installed in a newly created position of Colonial Secretary and is believed to have been controlling all government appointments and decisions. This included the removal and replacement of a number of magistrates, who later dismissed criminal charges previously brought against Macarthur, and the granting of substantial land holdings to co-conspirators and supporters of the rebellion. Bligh was kept under arrest for an extended period and a number of Bligh's supporters and others who opposed Johnston and Macarthur were illegally charged and imprisoned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_HEADING_7">
+			<Text>Bligh Free</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_TEXT_7">
+			<Text>Bligh managed to gain control of the British warship HMS Porpoise which was in Sydney. Bligh blockaded Sydney for a short period before sailing to Hobart seeking support for Bligh from the garrison based there. Failing to receive support from Lieutenant Governor David Collins Bligh returned to Sydney with HMS Porpoise and discovered that Governor Macquarie had arrived from Britain and assumed control. A large number of the rebellion leaders, including Macarthur, were sent to England to stand trial for their actions. Immediately after the 1808 rebellion took place, Macarthur dispatched his son Edward to London to convey Macarthur's version of the events. Accompanying him was the first bale of Australian wool to be exported. The British woollen mills were desperate for wool at the time because of the Napoleonic blockade, and the Australian bale sold for a record price.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_HEADING_8">
+			<Text>An Exile and an Unconditional Return</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_TEXT_8">
+			<Text>Macarthur was sent to England where he remained for eight and half years to avoid an arrest warrant for him in Sydney. While there he put his sons into public schools and went for a tour of the continent. Macarthur had gained the right to return to Sydney through lobbying, but would not accept the conditions imposed, namely that he admit his wrongdoing and promise his good behaviour. He therefore remained in England until Lord Camden granted him unconditional return to NSW in 1817. Macarthur was never tried, and apart from the exile, was not punished for his involvement in the Rum Rebellion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_HEADING_9">
+			<Text>Return to the Pastures</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_TEXT_9">
+			<Text>On his return to NSW Macarthur devoted himself to his farming. Wool had great advantages as an industry for New South Wales, which because of its distance from European markets needed a commodity which did not perish during long sea-voyages and which offered high value per unit of weight. Wool also had a ready market in England because the Napoleonic Wars had increased demand and cut English cloth-makers off from their traditional source of quality wool, Spain. The export of wool soon made Macarthur the richest man in New South Wales. In 1822, The Society for the Arts in London awarded him two medals for exporting 68,039 kg of wool to England and for increasing the quality of his wool to that of the finest Saxon Merino. In the early 1820s, John Macarthur was an owner of more than 100 horses. He established Camden Park Stud and was a major provider of bloodhorses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_HEADING_10">
+			<Text>Further Activities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MACARTHUR_TEXT_10">
+			<Text>Macarthur also established Australia's first commercial vineyard. He imported vine plants when he returned to New South Wales in 1817, which he successfully cultivated at Camden Park. He was a founding investor in both the Australian Agricultural Company and the Bank of Australia. In 1825 he was nominated to the New South Wales Legislative Council where he served until 1832 when he was suspended due to his failing mental health. He was pronounced insane later that year and placed under restraint at his home in Camden, and died at Camden on 10 April 1834.</Text>
+		</Row>
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_NEW_SOUTH_WALES_SHORT">
+			<Text>Rum Rebellion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_NEW_SOUTH_WALES">
+			<Text>Luxury Resources within range of a City are automatically revealed, and claim adjacent neutral tiles when improved. Newly trained Units receive additional [ICON_STRENGTH] Combat Strength for each Luxury Resource you have completely traded away.</Text>
+		</Row>
+
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_SENSHI_RUM_CORPS">
+			<Text>Rum Corps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_RUM_CORPS_STRATEGY">
+			<Text>Unique New South Welsh replacement for the Rifleman which begins with additional Experience equal to the Happiness you receive from Luxury Resources. If a Rum Corps captures a city, it spawns a random Luxury Resource on the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_RUM_CORPS_HELP">
+			<Text>Unique New South Welsh replacement for the Rifleman which begins with additional Experience equal to the Happiness you receive from Luxury Resources. If a Rum Corps captures a city, it spawns a random Luxury Resource on the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_RUM_CORPS_TEXT">
+			<Text>The Rum Corps, known formally as the New South Wales Corps, was formed in England in 1789 as a permanent regiment of the British Army to relieve the New South Wales Marine Corps, who had accompanied the First Fleet to Australia, in garrisoning the Colony of New South Wales. Members of the corps traded rum, usually imported from Bengal, as the Colony had very little coinage, meaning rum was the currency of the day. The Corps were called into action responding to the Battle of Vinegar Hill, as well as participating in the Rum Rebellion.</Text>
+		</Row>
+		
+		<!--Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_SHEEP_STATION">
+			<Text>Sheep Station</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_SHEEP_STATION_STRATEGY">
+			<Text>Unique New South Welsh replacement for the Stable which provides +1 [ICON_GOLD] Gold on [ICON_RES_SHEEP] Sheep, [ICON_RES_HORSE] Horses, and [ICON_RES_COW] Cattle as well as Production. In addition, Pastures within this City's borders deal attrition damage to adjacent enemy units and improved Sheep within this City's borders act as Luxury Resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_SHEEP_STATION_HELP">
+			<Text>Unique New South Welsh replacement for the Stable which provides +1 [ICON_GOLD] Gold on [ICON_RES_SHEEP] Sheep, [ICON_RES_HORSE] Horses, and [ICON_RES_COW] Cattle as well as Production. In addition, Pastures within this City's borders deal attrition damage to adjacent enemy units and improved Sheep within this City's borders act as Luxury Resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_SENSHI_SHEEP_STATION_TEXT">
+			<Text>A sheep station is a large property whose main activity is the raising of sheep for their wool and/or meat. In Australia, sheep stations are usually in the south-east or south-west of the country. In Australia, the owner of a sheep station may be called a pastoralist, grazier; or formerly, a squatter when their sheep grazing land was referred to as a sheep run. The shearing shed and shearers' quarters are an important part of the station. A station usually also includes a homestead, adjacent sheds, windmills, dams, silos and in many cases a landing strip available for use by the Royal Flying Doctor Service and other light aircraft. Historically, an outstation was a subsidiary homestead or other dwelling on Australian sheep or cattle stations that was more than a day’s return travel from the main homestead.</Text>
+		</Row>
+
+		<!--City-States-->
+		<Replace Tag="TXT_KEY_CITYSTATE_SYDNEY">
+			<Text>Visby</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITYSTATE_SYDNEY_ADJ">
+			<Text>Visbian</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_SYDNEY_TITLE">
+			<Text>Visby</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_COPENHAGEN_TEXT">
+			<Text>Visby is the capital of Gotland Island in the Baltic Sea. It is an industrial center and a popular resort and has a modern ice-free port. Manufactures include cement and refined sugar. The city is a Lutheran episcopal see. Visby was a pagan religious center. In the 11th century it became a prominent international trade center of the Hanseatic League. An independent republic, the city was the commercial center of Northern Europe, minting its own coins and developing an influential international maritime code. The ruins of 10 fine churches and the restored Cathedral of St. Mary, all from the 12th and 13th centuries, testify to its former greatness. Visby's decline began in 1280, when Sweden conquered Gotland while the city was suffering civil strife. It was sacked (1361) and captured (1362) by the Danes, who returned (1370) it to the Hanseatic League. Pirates made it their stronghold for the next two centuries, and its trade was taken over by Lübeck. Visby passed to Denmark in 1570, and again came under Sweden in 1645. The city only began to recover its trade in the 19th century.</Text>
+		</Replace>
+	</Language_en_US>
+</GameData>

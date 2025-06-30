@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b040c536-e7ca-45ac-9775-46483d3ecf51" version="8">
+  <Properties>
+    <Name>EmeraldRange's Pegu Empire (Shin Sawbu)</Name>
+    <Teaser>Adds the Kingdom of Pegu under Banyaa Thau (Shin Sawbu) to Civilization V as a playable civilization</Teaser>
+    <Description>Adds the Kingdom of Pegu under Banyaa Thau (Shin Sawbu) to Civilization V as a playable civilization</Description>
+    <Authors>EmeraldRange</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Rise to Power" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="DC98033ADB0DEBB02F35E6DAE13147DF" import="1">Art/Atlases/PeguAlpha24.dds</File>
+    <File md5="3370BB0224084C8310F3B38865892717" import="0">Art/Atlases/PeguAlpha256.dds</File>
+    <File md5="BBC01306399D6E4CFCD127DF5BFF9B4F" import="1">Art/Atlases/PeguAlpha32.dds</File>
+    <File md5="B47053BC1D89B143704AD0608A21AD65" import="1">Art/Atlases/PeguAlpha48.dds</File>
+    <File md5="9132F88C0EEE563D831297B022CA8CBA" import="1">Art/Atlases/PeguAlpha64.dds</File>
+    <File md5="99FBC6B7ED36A9DF5DD712360F45191F" import="1">Art/Atlases/PeguAtlas128.dds</File>
+    <File md5="BCE6AD70268032B379484ED4FBC669D7" import="1">Art/Atlases/PeguAtlas256.dds</File>
+    <File md5="EF97A5021763A89A5C45090B5625E42E" import="1">Art/Atlases/PeguAtlas32.dds</File>
+    <File md5="EBC64C2AA2B83CD17BDAC246772D95FB" import="1">Art/Atlases/PeguAtlas45.dds</File>
+    <File md5="5BD8578048AC83A293C5048D8F4C71CA" import="1">Art/Atlases/PeguAtlas64.dds</File>
+    <File md5="B7DF000E69747853E4A1751DA57984B9" import="1">Art/Atlases/PeguAtlas80.dds</File>
+    <File md5="559F3EB7CD54B9F182716DC2D23283BA" import="1">Art/Atlases/Unitflag_ER_Kbbang.dds</File>
+    <File md5="1FC2216DCF0F764688FC8AFDC4CCEACE" import="1">Art/Mon_Leader.dds</File>
+    <File md5="F65AE67E1F0DE4FBB7B04F11253C7FE2" import="1">Art/Pegu_Cartography.dds</File>
+    <File md5="32A6DD6C7351C6881CBDDAE08B4B6A67" import="1">Art/Pegu_DOM.dds</File>
+    <File md5="A594BAFD4FCB18A569B7719B13DEFA71" import="1">Art/Pegu_DoM.mp3</File>
+    <File md5="207368A1408F2B5E379E59462ED32B0E" import="1">Art/Pegu_Peace.mp3</File>
+    <File md5="B1928ACE6E6C89BED9CE727741AC5DF6" import="1">Art/Pegu_war.mp3</File>
+    <File md5="EEE83BB351544161A9E88360DB2EEE11" import="1">Art/Sawbu_scene.xml</File>
+    <File md5="7DAF15FE308183023B0F886D6A05ADA8" import="1">Art/SV_ER_Kbbang.dds</File>
+    <File md5="9AD853EC1FA32D4117836AFFC3412D4B" import="1">Art/u_pegu_kbbang.fxsxml</File>
+    <File md5="EC042B6FBBE0A2DD3434193F10DCC55E" import="1">Art/u_pegu_kbbang.gr2</File>
+    <File md5="21213AEB45F2DEE282880A0164085025" import="1">Art/u_pegu_kbbang_diff.dds</File>
+    <File md5="A05D4A56E53A9E833CE4C7186DA55CB0" import="1">Art/u_pegu_kbbang_dmg.dds</File>
+    <File md5="604101C8C5FFF0C801D2A54F1F7985D8" import="1">Art/u_pegu_kbbang_sref.dds</File>
+    <File md5="F537279381B46EA1B178647B0C4335FA" import="0">Core/ArtsDefine.sql</File>
+    <File md5="79B4AF3DDF26F94E36DD60C8A639ACD4" import="0">Core/Pegu_Core.lua</File>
+    <File md5="CCB8FB1A0D3FF73197CDCD03674F965C" import="0">Core/Pegu_Core.sql</File>
+    <File md5="E25BECB7E7157F5C06A008575DAE0508" import="0">Core/Text.xml</File>
+    <File md5="CFCB13A68753B66C457D51A22B2104B5" import="0">Supports/EE_Support.sql</File>
+    <File md5="20B5E2D80ADFB5DD8DFEDC5E67E98BE5" import="0">Supports/JFDLC_Supports.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ArtsDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Pegu_Core.sql</UpdateDatabase>
+      <UpdateDatabase>Supports/JFDLC_Supports.sql</UpdateDatabase>
+      <UpdateDatabase>Supports/EE_Support.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/Pegu_Core.lua">
+      <Name>Kingdom of Pegu</Name>
+      <Description>Pegu Core luas</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

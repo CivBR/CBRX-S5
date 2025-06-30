@@ -1,0 +1,371 @@
+﻿<GameData>
+	<Language_en_US>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_01">
+			<Text>Dhaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_02">
+			<Text>Chittagong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_03">
+			<Text>Khulna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_04">
+			<Text>Sylhet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_05">
+			<Text>Rajshahi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_06">
+			<Text>Barishal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_07">
+			<Text>Rangpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_08">
+			<Text>Mymensingh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_09">
+			<Text>Cumilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_10">
+			<Text>Faridpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_11">
+			<Text>Narayanganj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_12">
+			<Text>Gazipur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_13">
+			<Text>Bogura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_14">
+			<Text>Kushtia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_15">
+			<Text>Jashore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_16">
+			<Text>Cox's Bazar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_17">
+			<Text>Brahmanbaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_18">
+			<Text>Dinajpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_19">
+			<Text>Narsingdi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_20">
+			<Text>Nawabganj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_21">
+			<Text>Chandpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_22">
+			<Text>Tangail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_23">
+			<Text>Sirajganj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_24">
+			<Text>Feni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_25">
+			<Text>Naogaon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_26">
+			<Text>Jamalpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_27">
+			<Text>Pabna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_28">
+			<Text>Saidpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_29">
+			<Text>Chowmuhani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_30">
+			<Text>Maijdee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_31">
+			<Text>Chuadanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_32">
+			<Text>Satkhira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_33">
+			<Text>Jhenaidah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BANGLADESH_34">
+			<Text>Kishoreganj</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BANGLADESH_0">
+			<Text>Hasina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BANGLADESH_1">
+			<Text>Muhammad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BANGLADESH_2">
+			<Text>Fazilatunnesa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BANGLADESH_3">
+			<Text>Rehana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BANGLADESH_4">
+			<Text>Abu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BANGLADESH_5">
+			<Text>Huseyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BANGLADESH_6">
+			<Text>Lutfar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BANGLADESH_7">
+			<Text>Tajuddin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BANGLADESH_8">
+			<Text>Ziaur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BANGLADESH_9">
+			<Text>M. A. G.</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_SENSHI_BANGLADESH_ADJECTIVE">
+			<Text>Bangladeshi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_BANGLADESH_DESC">
+			<Text>People's Republic of Bangladesh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_BANGLADESH_SHORT_DESC">
+			<Text>Bangladesh</Text>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_SENSHI_BANGLADESH_TEXT">
+			<Text>Fortify your resolve, Sheikh Mujibur Rahman, President and Prime Minister of Bangladesh, Bangabandhu, Friend of Bengal. Starting as a student activist, you grew your name within the ranks of the Awami League. But as tensions grew between East Pakistan and West Pakistan, you outlined the case for independence, eventually leading the Awami League to victory in the first democratic election of Pakistan. But you were not invited to form government, and declared independence for Bangladesh, being held under arrest by Pakistan during the nine-month war. Upon your release, you led Bangladesh under socialist policies, leading to a mixed record on economic management. The famine of 1974 and a rising authoritarian streak and the establishment of a one-party state, BAKSAL, led to discontent with your rule. It was this discontent that led to your assassination and the murder of most of your family. Despite this, your daughter took up your torch and led your legacy, and you are loved in Bangladesh today.[NEWLINE][NEWLINE]Oh Father of the Nation, Bangladesh today is a strong, independent state. But you have another chance to reinforce your premiership. Can you live up to your legacy? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_TEXT_1">
+			<Text>Bangladesh, officially the People's Republic of Bangladesh, is a country in South Asia. It is the eighth-most-populous country in the world with an area of 148,460 square kilometres. Bangladesh forms the sovereign part of the historic and ethnolinguistic region of Bengal, which was divided during the Partition of India in 1947. The country has a Bengali Muslim majority. In 1947, East Bengal became the most populous province in the Dominion of Pakistan. It was renamed as East Pakistan, with Dhaka becoming the country's legislative capital. The Bengali Language Movement in 1952 resulted in the rise of Bengali nationalism and pro-democracy movements in East Pakistan. The refusal of the Pakistani military junta to transfer power to the Awami League led by Sheikh Mujibur Rahman led to the Bangladesh Liberation War in 1971, in which the Mukti Bahini aided by India waged a successful armed revolution. The new state of Bangladesh became the first constitutionally secular state in South Asia in 1972, but Islam was declared the state religion in 1988.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_HEADING_2">
+			<Text>Ancient Bengal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_TEXT_2">
+			<Text>Stone Age tools have been found in different parts of Bangladesh. Remnants of Copper Age settlements date back 4,000 years. The Ganges, Brahmaputra and Meghna rivers were natural arteries for communication and transportation, and estuaries on the Bay of Bengal permitted maritime trade. In 1879, Alexander Cunningham identified Mahasthangarh as the capital of the Pundra Kingdom mentioned in the Rigveda. Greek and Roman records of the ancient Gangaridai Kingdom, which, according to legend, deterred the invasion of Alexander the Great, are linked to the fort city in Wari-Bateshwar. Ancient Buddhist and Hindu states which ruled Bangladesh included the Vanga, Samatata and Pundra kingdoms, the Mauryan and Gupta Empires, the Varman dynasty, Shashanka's kingdom, the Khadga and Candra dynasties, the Pala Empire, the Sena dynasty, the Harikela kingdom and the Deva dynasty. These states had well-developed currencies, banking, shipping, architecture, and art, and the ancient universities of Bikrampur and Mainamati hosted scholars and students from other parts of Asia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_HEADING_3">
+			<Text>The Bengal Sultanate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_TEXT_3">
+			<Text>The early history of Islam in Bengal is divided into two phases. The first phase is the period of maritime trade with Arabia and Persia between the 8th and 12th centuries. The second phase covers centuries of Muslim dynastic rule after the Islamic conquest of Bengal. There is speculation regarding the presence of a Muslim community in Bangladesh as early as 690 CE; this is based on the discovery of one of South Asia's oldest mosques in northern Bangladesh. The Muslim conquest of Bengal began with the 1204 Ghurid expeditions led by Muhammad bin Bakhtiyar Khalji, who overran the Sena capital in Gauda and led the first Muslim army into Tibet. Bengal was ruled by the Sultans of the Delhi Sultanate for a century under the Mamluk, Balban, and Tughluq dynasties. In 1352, Shamsuddin Ilyas Shah united the three city-states into a single, unitary and independent Bengal Sultanate. The new Sultan of Bengal led the first Muslim army into Nepal and forced the Sultan of Delhi to retreat during an invasion. The two most prominent dynasties of the Bengal Sultanate were the Ilyas Shahi and Hussain Shahi dynasties.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_HEADING_4">
+			<Text>The Mughals and the Colonisers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_TEXT_4">
+			<Text>The Mughal Empire controlled Bengal by the 17th century. During the reign of Emperor Akbar, the Bengali agrarian calendar was reformed to facilitate tax collection. The Mughals established Dhaka as a fort city and commercial metropolis. During the 18th century, the Nawabs of Bengal became the region's de facto rulers, with a realm encompassing much of eastern South Asia. The Nawabs forged alliances with European colonial companies, making the region relatively prosperous early in the century. Two decades after Vasco Da Gama's landing in Calicut, the Bengal Sultanate permitted the Portuguese settlement in Chittagong to be established in 1528. It became the first European colonial enclave in Bengal. After the 1757 Battle of Plassey, Bengal was the first region of the Indian subcontinent conquered by the British East India Company. The company formed the Presidency of Fort William, which administered the region until 1858. The challenge posed to company rule by the failed Indian Mutiny led to the creation of the British Indian Empire as a crown colony. Supported by the Muslim aristocracy, the British government created the province of Eastern Bengal and Assam in 1905. However, the first partition of Bengal created an uproar in Calcutta and the Indian National Congress. In response to growing Hindu nationalism, the All India Muslim League was formed in Dhaka during the 1906 All India Muhammadan Educational Conference. The British government reorganised the provinces in 1912, reuniting East and West Bengal and making Assam a second province.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_HEADING_5">
+			<Text>Self-Rule and Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_TEXT_5">
+			<Text>The Raj was slow to allow self-rule in the colonial subcontinent. It established the Bengal Legislative Council in 1862, and the council's native Bengali representation increased during the early 20th century. The Bengal Provincial Muslim League was formed in 1913 to advocate civil rights for Bengali Muslims within a constitutional framework. The Bengal Legislative Assembly, British India's largest legislature, was established in 1937. Although it won most seats in 1937, the Bengal Congress boycotted the legislature. H. S. Suhrawardy, who made a final futile effort for a United Bengal in 1946, was the last premier of Bengal. On 3 June 1947, the Mountbatten Plan outlined the partition of British India. On 20 June, the Bengal Legislative Assembly met to decide on the partition of Bengal. At the preliminary joint meeting, it was decided that if the province remained united, it should join the Constituent Assembly of Pakistan. At a separate meeting of legislators from West Bengal, it was decided that the province should be partitioned and West Bengal should join the Constituent Assembly of India. At another meeting of legislators from East Bengal, it was decided hat the province should not be partitioned and that East Bengal should join the Constituent Assembly of Pakistan if Bengal was partitioned. The Dominion of Pakistan was created on 14 August 1947. East Bengal, with Dhaka as its capital, was the most populous province of the 1947 Pakistani federation. Khawaja Nazimuddin was East Bengal's first chief minister with Frederick Chalmers Bourne its governor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_HEADING_6">
+			<Text>Bengali Language Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_TEXT_6">
+			<Text>The 1952 Bengali Language Movement was the first sign of friction between the country's geographically separated wings. Pakistan adopted a new constitution in 1956. Three Bengalis were its Prime Minister until 1957: Nazimuddin, Mohammad Ali of Bogra and Suhrawardy. None of the three completed their terms and resigned from office. The Pakistan Army imposed military rule in 1958, and Ayub Khan was the country's strongman for 11 years. Political repression increased after the coup. Khan introduced a new constitution in 1962, replacing Pakistan's parliamentary system with a presidential and gubernatorial system known as Basic Democracy. In 1962 Dhaka became the seat of the National Assembly of Pakistan, a move seen as appeasing increased Bengali nationalism. Ethnic and linguistic discrimination was common in Pakistan's civil and military services, in which Bengalis were under-represented. Fifteen percent of Pakistani central-government offices were occupied by East Pakistanis, who formed 10 percent of the military. Cultural discrimination also prevailed, making East Pakistan forge a distinct political identity. Authorities banned Bengali literature and music in state media, including the works of Nobel laureate Rabindranath Tagore. After the December 1970 elections, calls for the independence of East Bengal became louder; the Bengali-nationalist Awami League won 167 of 169 East Pakistani seats in the National Assembly. The League claimed the right to form a government and develop a new constitution but was strongly opposed by the Pakistani military and the Pakistan Peoples Party.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_HEADING_7">
+			<Text>Bangladesh Liberation War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_TEXT_7">
+			<Text>In the first three months of 1971, negotiations began on the transfer of power. The Awami League wanted to develop a constitution based on its Six Points agenda, and this was opposed by the Pakistani military, the Pakistan Peoples Party and the Muslim League factions. Talks eventually broke down as the junta led by Yahya Khan prepared for a military operation in East Pakistan. The Bengali population was angered when the newly elected National Assembly was not convened under pressure from the junta and West Pakistani politicians. Despite enjoying an absolute majority in the newly elected parliament, Prime Minister-elect Sheikh Mujibur Rahman was prevented from taking oath. Zulfikar Ali Bhutto threatened to break the legs of West Pakistani MPs if they flew to Dhaka for the first session of the newly elected parliament. Civil disobedience erupted across East Pakistan, with loud calls for independence. Around midnight on 26 March 1971, military operations under the code name of Operation Searchlight began. Pakistani forces launched a widespread campaign of killings, torture, rape, arson and destruction across East Pakistan, targeting segments of the population perceived to be pro-Awami League and pro-independence. During the Bangladesh Liberation War, the Mukti Bahini emerged as the Bengali resistance force. A highly successful guerrilla war was fought against Pakistan. The Mukti Bahini combined defecting Bengali members of the Pakistani military with civilian volunteers. India intervened in the war on 3 December 1971, after Pakistan's failed pre-emptive air strikes on India's northwestern flank. India retaliated in both the western and eastern fronts. With a joint ground advance by Bangladeshi and Indian forces, coupled with air strikes by both India and the small Bangladeshi air contingent, the capital Dhaka was liberated from Pakistani occupation in mid-December. During the last phase of the war, both the Soviet Union and the United States dispatched naval forces to the Bay of Bengal in a Cold War standoff. The nine month long war ended with the surrender of the Pakistan Eastern Command to the Bangladesh-India Allied Forces on 16 December 1971. The government of Bangladesh records the official death toll of the war at 3 million, including victims of atrocities and those who died from starvation. Minimum estimates for the number of those killed range between 300,000 and 500,000.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_HEADING_8">
+			<Text>The Independent Bangladesh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_TEXT_8">
+			<Text>The new government of Bangladesh transformed East Pakistan's state apparatus into an independent Bangladeshi state. The Awami League successfully reorganised the bureaucracy, framed a written constitution, and rehabilitated war victims and survivors. In January 1972, Mujib introduced a parliamentary republic through a presidential decree. The emerging state structure was heavily influenced by the British Westminster model. The Constitution Drafting Committee led by Kamal Hossain established a bill of rights influenced by the Universal Declaration of Human Rights. The constituent assembly adopted the constitution of Bangladesh on 4 November 1972, establishing a secular, multiparty parliamentary democracy. In economic policy, the first five years of Bangladesh was the only socialist period in its history. Mujib nationalized 580 industrial plants, as well as banks and insurance companies. Mujib presided over a regime which was built around his personality cult. Sycophants and loyalists developed an ideology called Mujibism. Amid growing opposition from radical leftists and socialists, he curtailed the multi-party character of the constitution and established a one party state in 1975. In January 1975, Sheikh Mujibur Rahman introduced one-party socialist rule under BAKSAL. The Bangladesh famine of 1974 damaged Mujib's popularity. He was assassinated during a coup on 15 August 1975. Martial law was declared, and the presidency passed to the usurper Khondaker Mostaq Ahmad for four months. In 1977, the army chief Ziaur Rahman became president. Rahman reinstated multiparty politics, privatised industries and newspapers, re-opened the Dhaka Stock Exchange, established BEPZA and held the country's second general election in 1979. General elections were held in 1986 and 1988, although the opposition BNP and Awami League boycotted the latter.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_HEADING_9">
+			<Text>Zia and Chittagong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_TEXT_9">
+			<Text>After the 1991 general election, the twelfth amendment to the constitution restored the parliamentary republic and Begum Khaleda Zia became Bangladesh's first female prime minister. Zia, a former first lady, led a BNP government from 1990 to 1996. In 1991, her finance minister, Saifur Rahman, began a major programme to liberalise the Bangladeshi economy. In addition to setting up the Chittagong Stock Exchange; banking, pharmaceuticals, aviation, ceramics, steel, telecoms and tertiary education were opened up for investments, resulting in increased market competition. In 1994, Bangladesh provided the largest non-US contingent in Operation Uphold Democracy, a UN-approved American-led military intervention in Haiti. In 1996, a year of political upheaval saw a boycotted February election, an attempted military coup, and mediation efforts producing a caretaker government to oversee elections. For three months, Muhammad Habibur Rahman served as the interim leader of the country. The Awami League returned to power in the June election after 21 years. One of the first initiatives of Prime Minister Sheikh Hasina was to repeal the deeply controversial Indemnity Ordinance, which protected her father's killers from prosecution. Hasina also signed the Chittagong Hill Tracts Peace Accord, which ended an insurgency in the southeastern hill districts. She reached an agreement with India for sharing the water of the Ganges. In September 1998, Bangladesh saw the most severe flooding in modern history, after which two-thirds of the country went underwater, along with a death toll of 1,000.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_HEADING_10">
+			<Text>Islamism and Economy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BANGLADESH_TEXT_10">
+			<Text>The economic reform momentum lost steam due to political instability, including frequent hartals and strikes by the opposition. In 2001, the BNP returned to power on the back of promises to improve the economy. The second Zia administration saw higher economic growth, but security and political problems gripped the country between 2004 and 2006. A radical Islamist militant group, the JMB, carried out a series of terror attacks. In 2008, the Awami League returned to power with a landslide majority. In 2010, the Supreme Court reduced the scope for military interventions through legal loopholes, and reaffirmed secular principles in the constitution. The Awami League set up a war crimes tribunal to prosecute surviving Bengali Islamist collaborators of the 1971 atrocities. It abolished the caretaker government mechanism for elections. Human rights abuses increased under the Hasina administration, particularly enforced disappearances by the Rapid Action Battalion. Bangladesh has achieved significant economic development after independence. The capital Dhaka has grown into a megacity. The port city of Chittagong became home to the busiest port on the Bay of Bengal, while the cities of Sylhet, Khulna and Rajshahi saw urban growth due to economic growth and remittances from the Bangladeshi diaspora.</Text>
+		</Row>
+		
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_LIVED">
+			<Text>1920 - 1975 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_NAME">
+			<Text>Sheikh Mujibur Rahman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_SUBTITLE">
+			<Text>Friend of Bangladesh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_MUJIBUR_RAHMAN">
+			<Text>Sheikh Mujibur Rahman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_TITLES_1">
+			<Text>President, Prime Minister</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_TEXT_1">
+			<Text>Sheikh Mujibur Rahman, known also as Bangabandhu or Friend of Bengal, was the founder of Bangladesh. He first served as the titular president of the Provisional Government of Bangladesh between April 1971 and January 1972. He then served as Prime Minister of Bangladesh from the Awami League between January 1972 and January 1975. He finally served as President again during BAKSAL from January 1975 until his assassination in August 1975.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_HEADING_2">
+			<Text>Mujib's Childhood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_TEXT_2">
+			<Text>Mujib was born in 1920 into the Bengali Muslim aristocratic Sheikh family of the village of Tungipara in Gopalganj sub-division of Faridpur district in the province of Bengal in British India. The Sheikh clan of Tungipara were of Iraqi Arab descent, being descended from Sheikh Awwal Darwish of Baghdad, who had come to preach Islam in the Mughal era. Mujib was the third child in a family of four daughters and two sons. In 1927, Mujib was enrolled in Gimadanga Primary School. In 1929, he entered the third grade of Gopalganj Public School. His parents transferred him to Madaripur Islamia High School after two years. Mujib moved to Calcutta for higher education. He studied liberal arts, including political science, at the erstwhile Islamia College of Calcutta and lived in Baker Hostel. During his time in Calcutta, Sheikh Mujib became involved in the politics of the Bengal Provincial Muslim League, the All India Muslim Students Federation, the Indian independence movement and the Pakistan movement. In 1943, he was elected as a councillor of the Muslim League. In 1946, at the height of the Pakistan movement, Mujib was elected as General Secretary of the Islamia College Students Union in Calcutta. After the partition of India, Mujib was admitted into the Law Department of the University of Dhaka. Mujib founded the Muslim Students League on 4 January 1948 as the student wing of the Muslim League in East Bengal. This organisation later transformed into the Bangladesh Chhatra League.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_HEADING_3">
+			<Text>The Split Between Bangladesh and Pakistan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_TEXT_3">
+			<Text>During the visit of Governor General Muhammad Ali Jinnah to Dhaka, it was declared that Urdu will be the sole national language of Pakistan. This sparked the Bengali Language Movement. Mujib became embroiled in the language movement, as well as left-wing trade unionism among Bengali factions of the Muslim League. Bengali factions eventually split away and formed the Awami Muslim League in 1949. These opposition political activities were targeted by the government and police. Mujib was arrested many times. In 1949, Mujib was expelled from Dhaka University on charges of inciting employees against the university. Mujib emerged as a major opposition figure in Pakistani politics between 1948 and 1971. He represented the Bengali grassroots. East Pakistan's Intelligence Branch compiled many secret reports on his movements and political activities. The All Pakistan Awami Muslim League was founded on 23 June 1949 at the Rose Garden mansion on K. M. Das Lane in Old Dhaka. Sheikh Mujib was elected as one of its joint secretaries. The term Muslim was later dropped from the party's nomenclature. The Awami League sought to represent both Muslims and Pakistan's religious minorities, including Bengali Hindus and Pakistani Christians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_HEADING_4">
+			<Text>The Bengali Language Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_TEXT_4">
+			<Text>The Awami League strongly backed the Bengali Language Movement. Bengalis argued that the Bengali language deserved to be a federal language on par with Urdu because Bengalis formed the largest ethnic group in Pakistan. The movement appealed to the Constituent Assembly of Pakistan to declare both Urdu and Bengali as national languages, in addition to English. During a conference in Fazlul Huq Muslim Hall, Sheikh Mujib was instrumental in establishing the All-Party State Language Action Committee. He was repeatedly arrested during the movement. In early January 1950, the Awami League held an anti-famine rally in Dhaka during the visit of Prime Minister Liaquat Ali Khan. Mujib was arrested for instigating the protests. Despite his imprisonment, Mujib played a key role in organising protests by issuing instructions from jail to students and protestors. He played a key role in declaring 21 February 1952 as a strike day. Mujib went on hunger strike from 14 February 1952 in the prelude to the strike day. The League teamed up with other parties like the Krishak Praja Party of A. K. Fazlul Huq to form the United Front coalition. During the East Bengali legislative election, 1954, Mujib was elected to public office for the first time. He became a member of the East Bengal Legislative Assembly. This was the first election in East Bengal since the partition of India in 1947.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_HEADING_5">
+			<Text>Legislative Longing and the Six Point Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_TEXT_5">
+			<Text>On 5 June 1955, Mujib was elected to a newly reconstituted second Constituent Assembly of Pakistan. The Awami League organised a huge public meeting at Paltan Maidan in Dhaka on 17 June 1955 which outlined 21 points demanding autonomy for Pakistan's provinces. Mujib was a forceful orator at the assembly in Karachi. He opposed the government's plan to rename East Bengal as East Pakistan as part of the One Unit scheme. Mujib later became provincial minister of commerce and industries in the cabinet of Ataur Rahman Khan. These portfolios allowed Mujib to consolidate his popularity among the working class. The Awami League's demand for Bengali as a federal language was successfully implemented in the 1956 constitution, which declared Urdu, Bengali and English as national languages. East Bengal, however, was renamed East Pakistan. Following Suhrawardy's death in 1963, Mujib became General Secretary of the All Pakistan Awami League with Nawabzada Nasrullah Khan as its titular president. Mujib was one of the key leaders to rally opposition to President Ayub Khan. Mujib supported opposition candidate Fatima Jinnah against Ayub Khan in the 1965 presidential election. In 1966, Mujib put forward a 6-point plan at a national conference of opposition parties in Lahore. The six points called for abolishing the Basic Democracy scheme, restoring universal suffrage, devolving federal power to the provinces of East and West Pakistan, separate fiscal, monetary and trade policies for East and West Pakistan, and increased security spending for East Pakistan. Mujib's points catalysed public support across East Pakistan, launching what historians have termed the 6-point movement – recognised as the turning point towards East and West Pakistan becoming two nations. Mujib was arrested by the Pakistan Army and after two years in jail, an official sedition trial in a military court opened. During his imprisonment between 1967 and 1969, Mujib began to write his autobiography. The outcry and unrest over Mujib's arrest and the charge of sedition against him destabilised East Pakistan amidst large protests and strikes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_HEADING_6">
+			<Text>A Peaceful Settlement?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_TEXT_6">
+			<Text>In the Pakistani general elections held on 7 December 1970, the Awami League won 167 out of 169 seats belonging to East Pakistan in the National Assembly of Pakistan, as well as a landslide in the East Pakistan Provincial Assembly. The Awami League emerged as the single largest party in the federal parliament of Pakistan. With 167 seats, it was past the halfway mark of 150 seats in the 300 member national assembly and had the right to form a government of its own. Sheikh Mujib was widely considered to be the Prime Minister-elect, including by President Yahya Khan. The new parliament was scheduled to hold its first sitting in Dhaka, Pakistan's legislative capital under the 1962 constitution. The political crisis emerged when PPP leader Zulfikar Ali Bhutto declared that his party would boycott parliament if Mujib formed the next government. Bhutto threatened to break the legs of any West Pakistani MP-elect who accepted Mujib's mandate. Many in Pakistan's establishment were opposed to Mujib becoming Pakistan's prime minister. At the time neither Mujib nor the Awami League had explicitly advocated political independence for East Pakistan, but smaller nationalist groups were demanding independence for Bangladesh. Bhutto feared civil war, and sent a secret message to Mujib and his inner circle to arrange a meeting with them. Mubashir Hassan met with Mujib and persuaded him to form a coalition government with Bhutto. They decided that Bhutto would serve as president, with Mujib as Prime Minister.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_HEADING_7">
+			<Text>The Liberation of Bangladesh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_TEXT_7">
+			<Text>The National Assembly was scheduled to meet in Dhaka on 3 March 1971. President Yahya Khan indefinitely postponed the assembly's first sitting, which triggered an uprising in East Pakistan. Amid signs of an impending crackdown, Mujib addressed the people of East Pakistan on 7 March 1971 at the Ramna Race Course Maidan. While Mujib stopped short of declaring outright independence, he stated that the goal of the Awami League from then on would be eventual independence. He declared that the Awami League would collect taxes and form committees in every neighbourhood to organise resistance. Following the speech, 17 days of civil disobedience known as the non-cooperation movement took place across East Pakistan. The Awami League began to collect taxes while all monetary transfers to West Pakistan were suspended. East Pakistan came under the de facto control of the Awami League. On 23 March 1971, Bangladeshi flags were flown throughout East Pakistan on Pakistan's Republic Day as a show of resistance. The Awami League and the Pakistani military leadership continued negotiations over the transfer of power. Talks broke down on 25 March 1971 when Yahya Khan left Dhaka, declared martial law, banned the Awami League and ordered the Pakistan Army to arrest Mujib and other Bengali leaders and activists. The Pakistan Army launched Operation Searchlight. Mujib sent telegrams to Chittagong where M. A. Hannan from the Awami League and Major Ziaur Rahman from the East Bengal Regiment announced the Bangladeshi declaration of independence on Mujib's behalf. Shortly after having declared the independence of Bangladesh, Mujib was arrested without charges and flown to prison in West Pakistan after midnight. Mujib was moved to West Pakistan and kept under heavy guard in a jail near Faisalabad. Sheikh Mujib was later moved to Central Jail Mianwali where he remained in solitary confinement for the entirety of the war. Mujib was sentenced to death but his execution was deferred on three occasions. A major insurgency led by the Mukti Bahini arose across East Pakistan. Despite international pressure, the Pakistani government refused to release Mujib and negotiate with him. Mujib's family was kept under house arrest during this period. Upon assuming the presidency after Yahya Khan's resignation, Zulfikar Ali Bhutto responded to international pressure and released Mujib on 8 January 1972.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_HEADING_8">
+			<Text>The Independent Bangladesh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_TEXT_8">
+			<Text>Mujib briefly assumed the provisional presidency and later took office as the prime minister. The new government of Bangladesh quickly converted East Pakistan's state apparatus into the machinery of an independent Bangladeshi state. The Awami League successfully reorganised the bureaucracy, framed a written constitution, and rehabilitated war victims and survivors. In January 1972, Mujib introduced a parliamentary republic through a presidential decree. The emerging state structure was influenced by the Westminster model in which the Prime Minister was the most powerful leader while the President acted on the government's advice. MPs elected during the 1970 general election became members of the Constituent Assembly of Bangladesh. The Constitution Drafting Committee led by Dr. Kamal Hossain produced a draft constitution which was adopted on 4 November 1972 and came into force on 16 December 1972. Mujib introduced a quota for backward regions to get access to public sector jobs. Bangladesh also faced a gun control problem because many of its guerrilla fighters from the Liberation War were roaming the country with guns. Mujib successfully called on former guerrillas to surrender their arms through public ceremonies which affirmed their status as freedom fighters during the Liberation War. The President's Relief and Welfare Fund was created to rehabilitate an estimated 10 million displaced Bangladeshis. Mujib established 11,000 new primary schools and nationalised 40,000 primary schools. One of Mujib's first priorities was the withdrawal of Indian troops from Bangladesh. Mujib requested the Indian government to ensure a swift withdrawal of Indian military forces from Bangladeshi territory. A timeline was drawn up for rapid withdrawal. The withdrawal took place within three months of the surrender of Pakistan to the allied forces of Bangladesh and India.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_HEADING_9">
+			<Text>The Famine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_TEXT_9">
+			<Text>Mujib declared socialism as a national policy. His land reforms restricted land ownership to less than 25 bighas of land which effectively ended all traces of the zamindari system. Land owners with more than 25 bighas were subjected to taxes. Farmers had to sell their products at prices set by the government instead of the market. Mujib nationalised all banks, insurance companies, and 580 industrial plants. There was little foreign investment. The stock exchange remained closed. In 1974, the government sought to invite international oil companies to explore the Bay of Bengal for oil and natural gas. The Mujib government faced serious challenges, which included the resettlement of millions of people displaced in 1971, organisation of food supply, health services and other necessities. The effects of the 1970 cyclone had not worn off, and the economy of Bangladesh had immensely deteriorated due to the conflict. In 1973, thousands of Bengalis arrived from Pakistan while many non-Bengali industrialists and capitalists emigrated; poorer non-Bengalis were stranded in refugee camps. Major efforts were launched to help an estimated 10 million former refugees who returned from India. The economy began to recover eventually. A five-year plan released in 1973 focused state investments into agriculture, rural infrastructure and cottage industries. But a famine occurred in 1974 when the price of rice rose sharply. In that month there was widespread starvation in Rangpur district. Government mismanagement was blamed. Many of Mujib's disastrous socialist policies were eventually overturned by future governments. The five years of his regime marked the only intensely socialist period in Bangladesh's history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_HEADING_10">
+			<Text>Secularism and a State of Friendship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_TEXT_10">
+			<Text>While Pakistan adopted progressive reforms to Muslim family law as early as 1961, Bangladesh became the first constitutionally secular state in South Asia in 1972 when its newly adopted constitution included the word "secularism" for the first time in the region. Despite the constitution's proclamation of secularism as a state policy, Mujib banned anti-Islamic activities, including gambling, horse racing and alcohol. Mujib's major foreign policy achievement was to secure normalisation and diplomatic relations with most countries of the world. Bangladesh joined the Commonwealth, the UN, the OIC, and the Non-Aligned Movement. His allies included Prime Minister Indira Gandhi of India and Marshal Tito of Yugoslavia. Mujib delivered a historic speech to the United Nations General Assembly in Bengali in 1974. This was the first time Bengali was spoken in the UN General Assembly. Mujib and Indira Gandhi signed the 25-year Indo-Bangladeshi Treaty of Friendship, Cooperation and Peace, which complemented India's massive economic and humanitarian assistance to Bangladesh. Mujib forged a close friendship with Indira Gandhi, strongly praising India's decision to intervene in the Bangladesh Liberation War, and professed admiration and friendship for India. In the Delhi Agreement of 1974, Bangladesh, India and Pakistan pledged to work for regional stability and peace. The agreement paved the way for the return of interned Bengali officials and their families stranded in Pakistan, as well as the establishment of diplomatic relations between Bangladesh and Pakistan. Japan became a major aid provider to the new country. Mujib attended Commonwealth summits in Canada and Jamaica, where he held talks with Queen Elizabeth II.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_HEADING_11">
+			<Text>BAKSAL and the Ultimate Hypocrisy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_TEXT_11">
+			<Text>At the height of Mujib's power, left-wing insurgents from the Gonobahini fought against Mujib's government to establish a Marxist government. The government responded by forming an elite paramilitary force called Jatiya Rakkhi Bahini on 8 February 1972. Many within the Bangladeshi military viewed the new paramilitary force with suspicion. The new paramilitary force was responsible for human rights abuses against the general populace. Mujib's political philosophy dramatically changed in 1975. Elections were approaching in 1977 after the end of his five-year term. Mujib sensed growing dissatisfaction with his regime. He changed the constitution, declared himself president, and established a one party state. Censorship was imposed in the press. Civil society groups like the Committee for Civil Liberties and Legal Aid were suppressed. The Bangladesh Krishak Sramik Awami League, or BAKSAL, became the only legal political party. Bureaucrats and military officers were ordered to join the single party. Many Bangladeshis opposed to the Awami League cite his creation of BAKSAL as the ultimate hypocrisy. The one party state lasted for 7 months until Mujib's assassination on 15 August 1975. Sheikh Mujibur Rahman was killed along with most of his family in his private home on 15 August 1975 during a military coup by renegade army officers. A martial law regime was established. Mujib's killers included fifteen junior army officers with ranks of colonels, majors, lieutenants and havildars. They were backed up by Awami League politician Khondaker Mostaq Ahmad who usurped the presidency. The only survivors from Mujib's family were his daughters Sheikh Hasina and Sheikh Rehana, who were visiting Hasina's physicist husband in West Germany at the time. On 26 September 1975, the martial law regime introduced the Indemnity Ordinance, 1975, which gave legal immunity to all persons involved in the coup of 15 August 1975. His assassins continued to enjoy immunity from prosecution for 26 years. The Indemnity Ordinance was repealed in 1996 after his daughter Sheikh Hasina was elected as Prime Minister. Hasina subsequently initiated a murder case in the courts of Bangladesh. Several of the fifteen assassins, including coup leader Syed Faruque Rahman, were arrested and put on trial.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_HEADING_12">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_MUJIBUR_RAHMAN_TEXT_12">
+			<Text>In 2004, listeners of the BBC Bangla radio service ranked Mujib first among the 20 Greatest Bengalis. In 2011, the parliament of Bangladesh passed the 15th amendment to the country's constitution which referred to Mujib as the "Father of the Nation". In 2020, the government of Bangladesh celebrated Mujib Year to mark 100 years since the birth of Sheikh Mujibur Rahman in 1920. The commemorations preceded Bangladesh's 50th anniversary of independence in 2021. Mujib continues to be a revered, popular, divisive, and controversial figure in Bangladesh. His party, the Awami League, has built a personality cult around his legacy.</Text>
+		</Row>
+		
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_BANGLADESH_SHORT">
+			<Text>Joy Bangla!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_BANGLADESH">
+			<Text>[ICON_GOLDEN_AGE] Golden Age Points from all sources are doubled for the duration of a Peace Treaty. During a [ICON_GOLDEN_AGE] Golden Age, each [ICON_CITIZEN] Citizen in the [ICON_CAPITAL] Capital provides [ICON_CULTURE] Culture to your Empire.</Text>
+		</Row>
+
+		<!-- C15 -->
+		<Row Tag="TXT_KEY_SENSHI_MUKTI_BAHINI_KILLED_YOU">
+			<Text>Your paradropping {1_Unit} was attacked and defeated by an enemy Mukti Bahini!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SENSHI_MUKTI_BAHINI_DAMAGED_YOU">
+			<Text>Your paradropping {1_Unit} was attacked by an enemy Mukti Bahini! ({2_Damage} Damage)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SENSHI_MUKTI_BAHINI_KILLED_SOMETHING">
+			<Text>Your Mukti Bahini attacked and defeated a paradropping {1_Unit}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SENSHI_MUKTI_BAHINI_DAMAGED_SOMETHING">
+			<Text>Your Mukti Bahini attacked and damaged a paradropping {1_Unit}! ({2_Damage} Damage Dealt)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SENSHI_MUKTI_BAHINI_KILLED_ITSELF">
+			<Text>Your Mukti Bahini attacked and defeated a paradropping {1_Unit}, but died in the process!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SENSHI_MUKTI_BAHINI_DAMAGED_ITSELF">
+			<Text>Your Mukti Bahini attacked and damaged a paradropping {1_Unit}, but died in the process! ({2_Damage} Damage Dealt)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SENSHI_BANGLADESH_PEACE_WLTKD">
+			<Text>Declaring Peace has started a We Love the King Day in {1_City}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SENSHI_BANGLADESH_GAP">
+			<Text>Peace Treaties and Garrisoned Units have provided an additional {1_Amount} [ICON_GOLDEN_AGE] Golden Age Points this turn!</Text>
+		</Row>
+		
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_SENSHI_MUKTI_BAHINI">
+			<Text>Mukti Bahini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_MUKTI_BAHINI_STRATEGY">
+			<Text>Unique Bangladeshi replacement for the Machine Gun. Weaker than the unit it replaces, but Cities recieve a burst of Production towards one whenever they grow in Population. Provides [ICON_GOLDEN_AGE] Golden Age Points when garrisoned in a City or from killing Units, and automatically attacks enemy units that Paradrop within 2 tiles of it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_MUKTI_BAHINI_HELP">
+			<Text>Unique Bangladeshi replacement for the Machine Gun. Weaker than the unit it replaces, but Cities recieve a burst of Production towards one whenever they grow in Population. Provides [ICON_GOLDEN_AGE] Golden Age Points when garrisoned in a City or from killing Units, and automatically attacks enemy units that Paradrop within 2 tiles of it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_MUKTI_BAHINI_TEXT">
+			<Text>The Mukti Bahini, Bengali for Freedom Fighters or Liberation Army, but also known as the Bangladesh Forces, was the guerrilla resistance movement consisting of the Bangladeshi military, paramilitary and civilians during the Bangladesh Liberation War that transformed East Pakistan into Bangladesh in 1971. They were initially called the Mukti Fauj. A formal military leadership of the resistance was created in April 1971 under the Provisional Government of Bangladesh. The military council was headed by General M. A. G. Osmani and eleven sector commanders. The Bangladesh Armed Forces were established on 4 April 1971. In addition to regular units, such as the East Bengal Regiment and the East Pakistan Rifles, the Mukti Bahini also consisted of the civilian Gonobahini. Using guerrilla warfare tactics, the Mukti Bahini secured control over large parts of the Bengali countryside. The Mukti Bahini benefited from the early control of Pakistani arms depots, which were overtaken by Bengali forces during March and April 1971. The Mukti Bahini purchased large quantities of military-grade equipment through the arms market in Kolkata.</Text>
+		</Row>
+		
+		<!--Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_MONUMENT_OF_MARTYRS">
+			<Text>Monument of Martyrs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_MONUMENT_OF_MARTYRS_STRATEGY">
+			<Text>Unique Bangladeshi replacement for the Constabulary. It begins a 10-turn We Love The King Day upon the signing of a Peace Treaty, and provides +1 [ICON_HAPPINESS_1] Happiness for each We Love the King Day held in this City after its construction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_MONUMENT_OF_MARTYRS_HELP">
+			<Text>Unique Bangladeshi replacement for the Constabulary. It begins a 10-turn We Love The King Day upon the signing of a Peace Treaty, and provides +1 [ICON_HAPPINESS_1] Happiness for each We Love the King Day held in this City after its construction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_SENSHI_MONUMENT_OF_MARTYRS_TEXT">
+			<Text>Throughout Bangladesh, public monuments dedicated to those killed during the history of Bangladesh are scattered. The Monuments of Martyrs include the National Martyrs' Memorial, Martyred Intellectuals Memorial, Moder Gorob, and Shaheed Minar, the The Martyr Tower. The National Martyrs' Memorial is dedicated to those who died during the War of Liberation and Genocide in 1971, which resulted in Bangladesh's independence, whereas the Martyred Intellectuals Memorial is dedicated specifically to the intellectuals of that conflict. Both Moder Gorob and Shaheed Minar are dedicated to the memory of those killed during the Bengali Language Movement demonstrations of 1952, when protesters demanding Bengali as a state language of former Dominion of Pakistan were massacred by Pakistan Police.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_COLONY_NAME_CLANISHINAABE_01">
+			<Text>Gichi-Niingadawaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_CLANISHINAABE_02">
+			<Text>Jiigewekwazhiwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_CLANISHINAABE_03">
+			<Text>Asiniiwan Aninaatig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_CLANISHINAABE_04">
+			<Text>Waasa Dagwaagin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_CLANISHINAABE_05">
+			<Text>Basadinaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_CLANISHINAABE_06">
+			<Text>Onizhishin Mashkode</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

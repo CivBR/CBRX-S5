@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_NC_CEBU_ADJECTIVE">
+			<Text>Cebuano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NC_CEBU_DESC">
+			<Text>Cebu Rajahnate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NC_CEBU_SHORT_DESC">
+			<Text>Cebu</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_NC_TAL_CEBU">
+			<Text>Cebu</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_CEBU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_CEBU_TEXT_1">
+			<Text>The first human beings arrived in Chile about 12,000 BC. At first people lived by hunting and farming but in North Chile they were farming by 2,500 BC. However agriculture began much later in Southern Chile.[NEWLINE][NEWLINE]The Incas conquered northern Chile in the 15th century but they were themselves conquered by the Spanish in 1533. However, in the South were a people called the Araucanians. In 1540 a Spaniard called Pedro de Valdivia invaded southern Chile and he founded Santiago in 1540. However, in 1553 the Mapuche, known to the Spaniards as Araucanians rebelled led by men called Lautro and Caupolican. They sacked the Spanish settlements except for Concepcion and la Serena.[NEWLINE][NEWLINE]The Spaniards managed to regain control but the Araucanians continued to resist Spanish rule until the 19th century and there was frequent strife between them and the Spaniards.[NEWLINE][NEWLINE]Despite that by the end of the 17th century the population of Chile was about 100,000 and by the end of the 18th century it was nearly 500,000 most of whom were mestizos or people of mixed race.[NEWLINE][NEWLINE]In 1808 Napoleon occupied Spain and deposed the king Ferdinand VII. He made his own brother, Joseph, king of Spain. So in Chile, the leading citizens elected a junta in September 1810. They claimed they were ruling on behalf of the deposed King Ferdinand but they introduced a number of reforms and moved towards independence. However, Peru remained loyal to Spain and went to war with Chile to bring her to heel. In October 1814 a royalist army defeated the Chileans and occupied Santiago.[NEWLINE][NEWLINE]Meanwhile Napoleon had abdicated and the Spanish king had been restored. The king then clamped down on Chile and introduced a repressive regime, which simply alienated the people.[NEWLINE][NEWLINE]A man named Jose de San Martin led an army which defeated the royalists at Chabuco on 12 February 1817. Chile became formally independent from Spain on 12 February 1818.[NEWLINE][NEWLINE]However the early years of independent Chile were troubled by political instability. However, in 1829 the Conservatives took power and introduced an authoritarian regime. They were led by Diego Portales who never became president himself but who nevertheless was very influential.[NEWLINE][NEWLINE]In 1833 a new constitution for Chile was drawn up. There followed a long period of relative stability in Chile. There was also economic growth and the first railways were built.[NEWLINE][NEWLINE]However after 1873 Chile was plunged into recession and exports of wheat, silver and copper dropped dramatically.[NEWLINE][NEWLINE]Finally in 1879 war began between Chile on one side and Peru and Bolivia on the other. For years Chile and Bolivia had a border dispute. Chile finally agreed to recognize the disputed territory as Bolivian as long as Bolivia did not increase the export tax on Chilean nitrate companies operating there. When Bolivia did raise the tax it led to war. Peru joined the war on Bolivia's side.[NEWLINE][NEWLINE]In 1879 the Chileans captured the Hudascar Peru's greatest warship. The Chileans then invaded southern Peru. In 1881 they captured the capital, Lima. The war with Peru ended in 1883 and the war with Bolivia ended in 1884. Chile gained territory at the expense of Peru and Bolivia.[NEWLINE][NEWLINE]Afterwards in the last years of the 19th century exports of nitrate from Chile boomed and the country was prosperous again.[NEWLINE][NEWLINE]However the Chilean congress then argued with the president. In 1890 congress refused to accept the president's budget for 1891. The president announced he would use the 1890 budget again in 1891. Congress claimed that was illegal and fled. A short civil war followed and the president's army was defeated. He committed suicide.[NEWLINE][NEWLINE]Congress then became much stronger and the president's power was sharply reduced. Meanwhile, the Chilean economy prospered and industry grew.[NEWLINE][NEWLINE]Unfortunately when the First World War began in 1914 exports of nitrates collapsed leading to much unrest in Chile.[NEWLINE][NEWLINE]The military decided that only a strong presidency would be able to deal with the crisis in Chile and from 1924 they intervened in Chilean politics. In 1925 a new constitution was drawn up. However, the depression of the 1930s meant an economic collapse in Chile. It also led to political instability with many strikes and changes of government. Stability was restored in 1932 when Arturo Alessandri became president of Chile again. (Alessandri had been president before).[NEWLINE][NEWLINE]Afterwards Chile became a multi-party system with right-wing, left-wing and liberal parties. However in 1958 the Socialist Salvador Allende only narrowly failed to win the presidency, greatly alarming the right-wing.[NEWLINE][NEWLINE]In 1964 a Christian Democrat called Eduardo Frei was elected president. He introduced a number of reforms such as a minimum wage. However, his reforms were not enough for some people while for others they were too much. Chile became increasingly divided between the left and the right.[NEWLINE][NEWLINE]Then in September 1970 the Socialist Salvador Allende was elected president of Chile. Allende nationalized industries but that depleted foreign currency reserves. He also began radical agrarian reform. However, government expenditure far outstripped its income causing a huge deficit. The world copper price also fell, which cut the government's revenues even more. Inflation also rose very rapidly and food shortages became common. Furthermore in October 1972 a truckers strike brought Chile to a halt. Finally, on 11 September 1973, the army staged a coup led by Augusto Pinochet.[NEWLINE][NEWLINE]Pinochet introduced a brutal military dictatorship in Chile. The worst instrument of repression was his secret police the DINA. Nevertheless, Pinochet did, at first, have economic success. Inflation in Chile was curbed and unemployment fell. However, in the early 1980s, Chile entered a recession. It did not recover until the end of the decade.[NEWLINE][NEWLINE]Meanwhile in 1980 Pinochet drew up a new constitution. Under it, he would continue in power till 1988. Then the people would decide if they wanted the military rule to continue or if they wanted an election.[NEWLINE][NEWLINE]It was no surprise when the majority of Chileans voted against continuing military rule. In the election that followed in 1989, a Christian Democrat named Patricio Aylwin became president.[NEWLINE][NEWLINE]During the 1990s Chile enjoyed rapid economic growth, which continued in the early years of the 21st century. Today poverty in Chile is declining rapidly. Chile is also a stable democracy. In 2010 Sebastian Pinera was elected president. Also in 2010, Chile joined the OECD. Today the economy of Chile is growing steadily. Chile has a bright future. Today the population of Chile is 18 million.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_1">
+			<Text>Singhapala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_2">
+			<Text>Mandawili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_3">
+			<Text>Parlan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_4">
+			<Text>Bantayan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_5">
+			<Text>Lalan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_6">
+			<Text>Lulutan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_7">
+			<Text>Lubusin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_8">
+			<Text>Bulaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_9">
+			<Text>Pusok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_10">
+			<Text>Gabi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_11">
+			<Text>Kutkut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_12">
+			<Text>Mactan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_13">
+			<Text>Argao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_14">
+			<Text>Nahalin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_15">
+			<Text>Suba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_16">
+			<Text>Guinsay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_17">
+			<Text>Dunggoan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_18">
+			<Text>Bugho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_19">
+			<Text>Luyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_20">
+			<Text>Siaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_21">
+			<Text>Kabkad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_22">
+			<Text>Salug</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_23">
+			<Text>Bolokbolok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_24">
+			<Text>Iwisan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_25">
+			<Text>Bolhoon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_26">
+			<Text>Dalaguete</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_27">
+			<Text>Argaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_28">
+			<Text>Simara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_29">
+			<Text>Sibonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_30">
+			<Text>Edjek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_31">
+			<Text>Calumpang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_32">
+			<Text>Diaz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_33">
+			<Text>Mendieta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_34">
+			<Text>Yap</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_CEBU_35">
+			<Text>Unto</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_NC_CEBU_0">
+			<Text>Emilia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_CEBU_1">
+			<Text>Domingo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_CEBU_2">
+			<Text>Jorge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_CEBU_3">
+			<Text>Waldo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_CEBU_4">
+			<Text>Ramon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_CEBU_5">
+			<Text>Manuel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_CEBU_6">
+			<Text>Mateo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_CEBU_7">
+			<Text>Pedro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_CEBU_8">
+			<Text>Julia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_CEBU_9">
+			<Text>Maria</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU">
+			<Text>Humabon</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_NAME">
+			<Text>Humabon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_TEXT_1">
+			<Text>José Manuel Emiliano Balmaceda Fernández was the 10th President of Chile from September 18, 1886, to August 29, 1891. Balmaceda was part of the Castilian-Basque aristocracy in Chile. While he was president, his political disagreements with the Chilean congress due to wide-reaching reforms and corruption, led to the 1891 Chilean Civil War, following which he shot and killed himself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_HEADING_2">
+			<Text>Early Life and Family</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_TEXT2">
+			<Text>Balmaceda was born in Bucalemu, the eldest of the 12 children of Manuel José Balmaceda Ballesteros and Encarnación Fernández Salas. His parents were wealthy, and in his early days he was chiefly concerned in industrial and agricultural enterprises. In 1849, he attended the School of the French Friars, and considered joining the clergy, studying several years of theology at the Santiago Seminary. On 11 October 1865, Balmaceda married Emilia de Toro Herrera, granddaughter of Mateo de Toro Zambrano, 1st Count of La Conquista, and together they had eight children, six of whom survived to adulthood, including Enrique Víctor Aquiles, A Chilean diplomat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_HEADING_3">
+			<Text>Club de la Reforma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_TEXT_3">
+			<Text>In 1864 he became secretary to Manuel Montt, who was one of the representatives of the Chilean government at the general South American congress at Lima, and after his return obtained great distinction as an orator in the national assembly. In 1868 he joined forces with Justo and Domingo Arteaga Alemparte to found and publish the newspaper La Libertad. He also was a constant contributor to the Revista de Santiago. In 1869 he joined the Club de la Reforma, which became the political basis of the Liberal Party. The essential tenets of the political program were freedom of religion, increased personal and political freedom, elimination of governmental intervention in the electoral process, reform of the 1833 constitution and restriction of the powers of the President. On the basis of this radical program, he was elected Deputy for Carelmapu several times: 1864–1867; 1870–1873; 1873–1876; 1876–1879; 1879–1882. Under President Aníbal Pinto, he discharged some diplomatic missions abroad, and is credited with persuading Argentina not to join the War of the Pacific in 1878.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_HEADING_4">
+			<Text>Conservative Opposition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_TEXT_4">
+			<Text>He decided to accept neither and became instead successively Minister of Foreign Affairs and Colonization and of the Interior under the presidency of Domingo Santa María. In the latter capacity he carried compulsory civil marriage and several other laws highly obnoxious to the conservatives and the clergy. He was proclaimed a candidate to the presidency on the Odeon Theater of Valparaíso on January 17, 1886, with the support of the Nacional, Liberal and part of the Radical Parties. Balmaceda became President of Chile in 1886. His election was bitterly opposed by the Conservatives and dissident Liberals, but was finally achieved by the official influence of President Domingo Santa María.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_HEADING_5">
+			<Text>Liberal Reconciliation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_TEXT_5">
+			<Text>Balmaceda's main policies at the beginning of his government were to reform and industrialise. He promoted the economic development of the country through a public works plan, which was to include railways, schools, sewers, roads, hospitals, prisons, and other works, with a clear emphasis on dencentralisation. He sought to achieve constitutional consecration of freedom of worship, the independence and sovereignty of the State with respect to the church and respect for religious faith. He wished to industrialize the country, through protectionist policies and direct investment by the state, which would allow diversifying production and improving the wages of the working class. And finally, he hoped to reform municipalities and laws on political parties. This, Balmaceda hoped, would unite liberalism into one single great family, which was to politically dominate the conservatives. On assuming office President Balmaceda endeavoured to bring about a reconciliation of all sections of the Liberal Party in Congress and so form a solid majority to support the administration, and to this end he nominated representatives of the different political groups as ministers. Six months later the cabinet was reorganized, and two of the most bitter opponents of his election were accorded portfolios. But despite his great capacity, Balmaceda's imperious temper little fitted him for the post.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_HEADING_6">
+			<Text>Reforms and Corruption</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_TEXT_6">
+			<Text>Balmaceda instituted wide-reaching reforms, believing that he had now secured the support of the majority in Congress for any measures he decided to put forward. The new president initiated his unparalleled policy of heavy expenditure on public works, school building, and the strengthening of the naval and military forces of the republic, just as he had put forward in his policy agendas. Contracts were given out to the value of £6,000,000 for the construction of railways in the southern districts; some $10,000,000 dollars were expended in the erection of schools and colleges; three cruisers and two seagoing torpedo boats were added to the Navy; the construction of the naval port at Talcahuano was actively pushed forward; new armament was purchased for the infantry and artillery branches of the Army, and heavy guns were acquired for permanently and strongly fortifying the ports of Valparaíso, Talcahuano, and Iquique. Unfortunately corruption crept into the expenditure of the large sums involved. Contracts were given by favour and not by merit, and the progress made in the construction of the new public works was far from satisfactory. The opposition in Congress to President Balmaceda began to increase rapidly towards the close of 1887, and further gained ground in 1888. In order to ensure a majority favourable to his views, the President threw the whole weight of his official influence into the elections for Senators and Deputies in 1888; but many of the members returned to the chambers through this official influence joined the opposition shortly after taking their seats.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_HEADING_7">
+			<Text>Congressional Conflict</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_TEXT_7">
+			<Text>In 1889 Congress became distinctly hostile to the administration of President Balmaceda, and the political situation became grave, and at times threatened to involve the country in civil war. According to usage and custom in Chile at the time, a ministry did not remain in office unless supported by a majority in the chambers. Balmaceda now found himself in the impossible position of being unable to appoint ministers that would be supported by a majority in the Senate and Chamber of Deputies and at the same time be in accordance with his policies. At this juncture the President assumed that the constitution gave him the power of nominating and maintaining in office any ministers he might consider fitting persons for the purpose, and that Congress had no right of interference in the matter. The chambers were now only waiting for a suitable opportunity to assert their authority. In 1890 it was stated that President Balmaceda had determined to nominate and cause to be elected as his successor in 1891 one of his own personal friends. This question of the election of another President brought matters to a head, and Congress refused to vote any funds to carry on the government. To avoid trouble Balmaceda entered into a compromise with Congress, and agreed to nominate a ministry to their liking on condition that the supplies for 1890 were voted. This cabinet, however, was of short duration, and resigned when the ministers understood the full amount of friction between the President and Congress. Balmaceda then nominated a ministry not in accord with the views of Congress, under Claudio Vicuna, whom it was no secret that Balmaceda intended to be his successor in the presidential chair. To prevent any expression of opinion upon his conduct in the matter, he refrained from summoning an extraordinary session of the legislature for discussion of the estimates of revenue and expenditure for 1891.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_HEADING_8">
+			<Text>Manifest to the Nation and the Naval Rebellion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_TEXT_8">
+			<Text>On January 1, 1891, president Balmaceda published a Manifest to the Nation in various newspapers to the effect that the budget of 1890 would be considered the official budget for 1891. This act was interpreted by the opposition as illegal and beyond the attributes of the executive power. As protest against the action of President Balmaceda, the vice-president of the senate, Waldo Silva, and the president of the chamber of deputies, Ramón Barros Luco, issued a proclamation appointing Captain Jorge Montt commander of the navy, and stating that the navy could not recognize the authority of Balmaceda so long as he did not administer public affairs in accordance with the constitutional law of Chile. The majority of the members of congress sided with this movement, and signed an Act of Deposition of President Balmaceda. On January 6, 1891, the political leaders of the Congressional party embarked on board the armored frigate Blanco Encalada, at Valparaíso, and Captain Jorge Montt of that vessel hoisted a broad pennant as commodore of the Congressional fleet. On 7 January the Blanco Encalada, accompanied by the Esmeralda and O'Higgins and other vessels, sailed out of Valparaiso harbour and proceeded northwards to Tarapacá to organize armed resistance against the president.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_HEADING_9">
+			<Text>Traitors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_TEXT_9">
+			<Text>Immediately on the outbreak of the revolution President Balmaceda published a decree declaring Montt and his companions to be traitors, and without delay organized an army of some 40,000 men for the suppression of the insurrectionary movement. While both sides were preparing for hostilities, Balmaceda administered the government under dictatorial powers with a congress of his own nomination. In June 1891 he ordered the presidential election to be held, and Claudio Vicuna was duly declared chosen as president of the republic for the term commencing in September 1891. Preparations had long been made for the naval insurrection, and in the end few vessels of the Chilean navy adhered to the cause of Balmaceda. But amongst these were two new and fast torpedo gunboats, Almirante Condell and Almirante Lynch, and in European dockyards lay the most powerful, but incomplete, vessel of the navy, the battleship Capitán Prat, and two fast cruisers. If these were secured by the Balmacedists the naval supremacy of the congress would be seriously challenged. However, the resources of Balmaceda were running short on account of the heavy military expenses. Balmaceda had alienated the aristocratic classes of Chile with his personal vanity and ambition and soon after his election was irreconcilably at odds with the majority of the national representatives. The oligarchy composed of the great landowners had always been an important factor in the political life of the republic; when President Balmaceda found himself outside this circle he endeavored to govern without their support, and to bring into the administration a group of people outside the inner circles of political power, whom he could easily control. Clerical influence also turned against him as a result of his radically secular ideas about government.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_HEADING_10">
+			<Text>To Do Battle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_TEXT_10">
+			<Text>The first shot was fired, on 16 January, by the Blanco at the Valparaiso batteries, and landing parties from the warships engaged small parties of government troops at various places during January and February. Balmaceda's principal forces were stationed in and about Iquique, Coquimbo, Valparaíso, Santiago and Concepción. The troops at Iquique and Coquimbo were necessarily isolated from the rest and from each other, and military operations began, as in the campaign of 1879 in this quarter, with a naval descent upon Pisagua followed by an advance inland to Dolores. The Congressional forces failed at first to make good their footing. On the 26th they retook Pisagua, and on the 15 February the Balmacedist commander, Eulogio Robles, who offered battle in the expectation of receiving reinforcements from Tacna, was completely defeated on the old battlefield of San Francisco. The Revolutionary Junta, created on April 13, now firmly established in Iquique prosecuted the war vigorously, and by the end of April the whole area was in the hands of the "rebels" from the Peruvian border to the outposts of the Balmacedists at Coquimbo and La Serena. In the middle of August 1891 the rebel forces were embarked at Iquique, numbering in all about 9,000 men, and sailed for the south. The expedition by sea was admirably managed, and on the 10th of August the congressist army was disembarked at Quintero, about 20 km. north of Valparaiso and not many miles out of range of its batteries, and marched to Concón, where the Balmacedists were entrenched. Balmaceda was surprised, but acted promptly. The first battle was fought on the Aconcagua river at Concón on the 21st. The eager infantry of the Congressional army forced the passage of the river and stormed the heights held by the Gobiernistas. A severe fight ensued, in which the troops of President Balmaceda were defeated with heavy loss. The killed and wounded of the Balmacedists numbered 1,600, and nearly all the prisoners, about 1,500 men, enrolled themselves in the rebel army, which thus more than made good its loss of 1,000 killed and wounded.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_HEADING_11">
+			<Text>The Battle of La Placilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_TEXT_11">
+			<Text>This reverse roused the worst passions of the president, and he ordered the arrest and imprisonment of all persons suspected of sympathy with the revolutionary cause. The population generally were, however, distinctly antagonistic to Balmaceda, and this feeling had become accentuated since August 17, on which date he had ordered the execution of a number of youths belonging to the military college at Lo Canas on a charge of seditious practices. The shooting of these boys created a feeling of horror throughout the country, and a sensation of uncertainty as to what measures of severity might not be practised in the future if Balmaceda won the day. On the 28th August, the decisive battle of La Placilla took place. The government army was practically annihilated, 941 men were killed, including Barbosa and his second in command, and 2,402 wounded. The Congressional army lost over 1,800 men. After the battle of Placilla it was clear to President Balmaceda that he could no longer hope to find sufficient strength amongst his adherents to maintain himself in power, and in view of the rapid approach of the rebel army he abandoned his official duties to seek asylum in the Argentine legation. On August 29, he officially handed power to General Manuel Baquedano, who maintained order in Santiago until the arrival of the congressional leaders on the 30th.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_HEADING_12">
+			<Text>The End of the Term</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_TEXT_12">
+			<Text>The president remained concealed in the Argentine legation until September 18. On the morning of that date, when the term for which he had been elected president of the republic terminated, he committed suicide by shooting himself. The excuse for this act, put forward in letters written shortly before his end, was that he did not believe the conquerors would give him an impartial trial. The death of Balmaceda finished all cause of contention in Chile, and was the closing act of the most severe and bloodiest struggle that the country had ever witnessed. In the various engagements throughout the conflict more than 10,000 people died, and the joint expenditure of the two governments on military preparations and the purchase of war material exceeded £10,000,000. The defeat of the presidential forces opened a so-called pseudo-parliamentary period in Chile's history, which lasted from 1891 to 1925.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_LIVED">
+			<Text>1840 - 1891 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_SUBTITLE">
+			<Text>Rajah of Cebu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_CEBU_TITLES_1">
+			<Text>Rajah</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_NC_CEBU_TEXT">
+			<Text>Greetings, President José Balmaceda. You are the President of Chile. Winning a bitter election in 1886, yours would be a presidency beset by the rivalries and bitterness of liberals and conservaties alike. Yet yours was also a presidency that managed to bring your enemies together in pursuit of reform and prosperity to the nation. Though by 1891, civil war would break out and your death would be imminent, your efforts for reconciliation for the good of the nation would not be forgotten.[NEWLINE][NEWLINE]Honoured President, the people of Chile care not for the bitter factionalism of government. They crave reform and pride. Can you deliver to your people the promise of a worthwhile future? Can you transform Chile into a model modern nation? Can you build a civilization to stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_FIRSTGREETING_1">
+			<Text>Welcome to Chile. I am José Manuel Balmaceda. If you share in the principles of liberty and prosperity, then I believe that you and I will have much to speak about.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_DEFEATED_1">
+			<Text>Though our flag has fallen folded and bloodied on the battlefields, it will be raised again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_ATTACKED_HOSTILE_1">
+			<Text>I dreamt that we as liberals could set aside our differences and join forces against those true enemies of freedom. But I was WRONG!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_DEC_FRIENDSHIP_1">
+			<Text>I will not see Chile go it alone in the defense of liberty. She seeks friends. Will you call yourself one with a public Declaration of Friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_DENOUNCE_1">
+			<Text>I KNEW I was wasting my time with you![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_DENOUNCE_FRIEND_1">
+			<Text>True friends are hard to find. YOU are not one of them![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_DOW_GENERIC_1">
+			<Text>To protect my nation, worthless leaders such as yourself must be erased.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_EXPANSION_SERIOUS_WARNING_1">
+			<Text>There can be no peace between us if you cannot keep your imperialism to yourself!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_GREETING_HOSTILE_HELLO_1">
+			<Text>Go on then!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_GREETING_NEUTRAL_HELLO_1">
+			<Text>Your purpose?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_GREETING_POLITE_HELLO_1">
+			<Text>Greetings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Chile will defend herself as needed. Remove your blasted troops from our borders!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_LUXURY_TRADE_1">
+			<Text>May an agreement lead to our joint prosperity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_OPEN_BORDERS_EXCHANGE_1">
+			<Text>There is no reason to keep our borders closed to one another. Let's discuss an open borders arrangement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>I had HOPED you might have more sense than to try and take our land!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_REQUEST_1">
+			<Text>I had hoped to ask your assistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You are a POX upon the liberties of men and state!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_TOO_SOON_FOR_DOF_1">
+			<Text>A shame that I must decline.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_CEBU_TOO_SOON_NO_PEACE_1">
+			<Text>Now is not the time.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_NC_CEBU_SHORT">
+			<Text>Kang Sri Lumayng Sugbu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NC_CEBU">
+			<Text>Adopted [ICON_CULTURE] Social Policies boost [ICON_PRODUCTION] Building Production based on the Policy Branch focus. For each [ICON_CULTURE] Policy Branch that shares an even number of adopted Policies with another, +1 [ICON_HAPPINESS_1] Happiness (up to +2).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NC_CEBU_PILLAGE_TOOLTIP">
+			<Text>Pillage this tile![NEWLINE](TODO: Find the actual text later)</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_CEBU_GOLD">
+			<Text>Barangay Gold Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_CEBU_GOLD_HELP">
+			<Text>+1 Gold per International Trade Route, per Barangay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_CEBU_HAS_TRADED">
+			<Text>Cebu Has Traded Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_CEBU_HAS_TRADED_HELP">
+			<Text>Marks civilizations Cebu has traded with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_CEBU_PORCELAIN">
+			<Text>Porcelain Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_CEBU_PORCELAIN_HELP">
+			<Text>+1 source of Porcelain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_CEBU_JEWELRY">
+			<Text>Jewelry Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_CEBU_JEWELRY_HELP">
+			<Text>+1 source of Jewelry.</Text>
+		</Row>
+		
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILD_NC_BARANGAY">
+			<Text>Construct a [LINK=IMPROVEMENT_NC_BARANGAY]Barangay[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_NC_BARANGAY_HELP">
+			<Text>Yields [ICON_FOOD] Food, as well as [ICON_GOLD] Gold for every Trade Route in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_NC_BARANGAY_REC">
+			<Text>It will yield +1 [ICON_FOOD] Food and extra [ICON_GOLD] Gold for every Trade Route in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_NC_BARANGAY">
+			<Text>Barangay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_NC_BARANGAY_TEXT">
+			<Text>Salitrera are Chilean Saltpetre Works, the most famous of which are the Humberstone and Santa Laura Saltpeter Works, were key to the economies of Chile, Peru and Bolivia. In in October 1869 the extraction of nitrates commenced in Oficina Salar del Carmen, the first nitrate producing plant. In 1871, the Nitrate Railway was inaugurated, running from Iquique to La Noria in Peru. The War of the Pacific inaugurated a boom of new Oficinas salitreras to quarry and extract nitrate. However the economic model collapsed during the Great Depression of 1929 because of the development of the synthesis of ammonia by the Germans Fritz Haber and Carl Bosch, which led to the industrial production of fertilizers. Many Salitrera became ghost towns, and Humberstone and Santa Laura were declared a World Heritage Site by UNESCO in 2005.</Text>
+		</Row>
+		
+		<!--UNIQUE 2-->>
+		<Row Tag="TXT_KEY_UNIT_NC_TIMAWA">
+			<Text>Timawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_TIMAWA_HELP">
+			<Text>Industrial Era Gun Unit. Production toward Civilian Units also contributes to this unit; doubled during an active war. Only Chile under Balmaceda can train it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_TIMAWA_STRATEGY">
+			<Text>The Batallon Civico is the unique Rifleman replacement for Chile when Balmaceda is leader. In addition to being a strong, late-game Gun Unit, the Batallon Civico benefits from any Production bonuses toward Civilian Units such as Workers and Settlers. These bonuses are doubled if Chile is actively at war with a major civilization. This allows the Batallon Civico to be deployed quickly in the face of war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_TIMAWA_TEXT">
+			<Text>Batallon Civico, or Civic Battalions, were Chilean militia units first mobilised during the War of the Pacific. Such units included the Batallón Cívico Movilizado Caupolicán and Batallón Cívico Movilizado "Concepción". In the course of the war, units were integrated into the regular force by decree of the Ministry of War. Key among commanders was Jose Maria del Canto Arteaga, commander of the Caupolicán Regiment, with which he participated in the battles of Chorrillos and Miraflores. During the civil war, he remained loyal to the president, unlike his cousin Estanislao del Canto who joined the side of the National Congress.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_NC_TIMAWA">
+			<Text>Timawa Promotion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_TIMAWA_HELP">
+			<Text>Marks a Timawa.</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_TIMAWA">
+			<Text>Dummy: Batallon Civico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_TIMAWA_HELP">
+			<Text>+1% [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_NC_CEBU_DESCRIPTION">
+			<Text>CHILE (BALMACEDA)[NEWLINE][NEWLINE]UNIQUE TRAIT: CLUB DE LA REFORMA[NEWLINE]Adopted [ICON_CULTURE] Social Policies boost [ICON_PRODUCTION] Building Production based on the Policy Branch focus. For each [ICON_CULTURE] Policy Branch that shares an even number of adopted Policies with another, +1 [ICON_HAPPINESS_1] Happiness (up to +2).[NEWLINE][NEWLINE]UNIQUE IMPROVEMENT: BATALLON CIVICO (RIFLEMAN)[NEWLINE]The Batallon Civico is the unique Rifleman replacement for Chile when Balmaceda is leader. In addition to being a strong, late-game Gun Unit, the Batallon Civico benefits from any Production bonuses toward Civilian Units such as Workers and Settlers. These bonuses are doubled if Chile is actively at war with a major civilization. This allows the Batallon Civico to be deployed quickly in the face of war.[NEWLINE][NEWLINE]UNIQUE IMPROVEMENT: SALITRERA[NEWLINE]Yields [ICON_FOOD] Food and [ICON_PRODUCTION] Production. Increases the amount of [ICON_FOOD] Food stored after growth in the nearest city by 5%. Can only be built over [ICON_RES_SALT] Salt.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

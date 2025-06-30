@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--WALLACHIA-->
+		<Row Tag="TXT_KEY_CIV_JFD_WALLACHIA_ADJECTIVE">
+			<Text>Wallachian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_WALLACHIA_DESC">
+			<Text>Wallachian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_WALLACHIA_SHORT_DESC">
+			<Text>Wallachia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_WALLACHIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_WALLACHIA_TEXT_1">
+			<Text>Wallachia or Walachia is a historical and geographical region of Romania. It is situated north of the Danube and south of the Southern Carpathians. Wallachia is traditionally divided into two sections, Muntenia (Greater Wallachia) and Oltenia (Lesser Wallachia). Wallachia as a whole is sometimes referred to as Muntenia through identification with the larger of the two traditional sections.[NEWLINE][NEWLINE]Wallachia was founded as a principality in the early 14th century by Basarab I, after a rebellion against Charles I of Hungary, although the first mention of the territory of Wallachia west of the river Olt dates to a charter given to the voivode Seneslau in 1246 by Béla IV of Hungary. In 1417, Wallachia accepted the suzerainty of the Ottoman Empire; this lasted until the 19th century, albeit with brief periods of Russian occupation between 1768 and 1854. In 1859, Wallachia united with Moldavia to form the United Principalities, which adopted the name Romania in 1866 and officially became the Kingdom of Romania in 1881. Later, in 1918-1920, following the dissolution of the Austro-Hungarian Empire and the resolution of the elected representatives of the Romanians from Transylvania, Banat, Crișana, Maramureș and Bukovina, the respective territories were allocated to the Kingdom of Romania, forming the modern Romanian state.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_WALLACHIA_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_WALLACHIA_TEXT_2">
+			<Text>With an area of approximately 77,000 km2 (30,000 sq mi), Wallachia is situated north of the Danube (and of present-day Bulgaria), east of Serbia and south of the Southern Carpathians, and is traditionally divided between Muntenia in the east (as the political center, Muntenia is often understood as being synonymous with Wallachia), and Oltenia (a former banat) in the west. The division line between the two is the Olt River.[NEWLINE][NEWLINE]Wallachia's traditional border with Moldavia coincided with the Milcov River for most of its length. To the east, over the Danube north-south bend, Wallachia neighbours Dobruja (Northern Dobruja). Over the Carpathians, Wallachia shared a border with Transylvania; Wallachian princes have for long held possession of areas north of the line (Amlaș, Ciceu, Făgăraș, and Hațeg), which are generally not considered part of Wallachia proper.[NEWLINE][NEWLINE]The capital city changed over time, from Câmpulung to Curtea de Argeș, then to Târgoviște and, after the late 17th century, to Bucharest.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_01">
+			<Text>Targoviste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_02">
+			<Text>Arges</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_03">
+			<Text>Campulung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_04">
+			<Text>Craiova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_05">
+			<Text>Turnu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_06">
+			<Text>Bucharest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_07">
+			<Text>Bran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_08">
+			<Text>Buzau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_09">
+			<Text>Giurgiu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_10">
+			<Text>Fagaras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_11">
+			<Text>Targsor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_12">
+			<Text>Braila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_13">
+			<Text>Rusii de Vede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_14">
+			<Text>Ploesti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_15">
+			<Text>Harsova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_16">
+			<Text>Orasul de Floci</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_17">
+			<Text>Corabia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_18">
+			<Text>Enisala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_19">
+			<Text>Slanic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_20">
+			<Text>Craciuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_21">
+			<Text>Chilia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_22">
+			<Text>Vicina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_23">
+			<Text>Tabla Butii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_24">
+			<Text>Bucov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_25">
+			<Text>Baia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_26">
+			<Text>Ramnicu Sarat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_27">
+			<Text>Reni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_28">
+			<Text>Salatrucu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_29">
+			<Text>Severin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WALLACHIA_30">
+			<Text>Silistra</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_WALLACHIA_0">
+			<Text>Moise</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_WALLACHIA_1">
+			<Text>Harkon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_WALLACHIA_2">
+			<Text>Serana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_WALLACHIA_3">
+			<Text>Valerica</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_WALLACHIA_4">
+			<Text>Vingalmo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_WALLACHIA_5">
+			<Text>Neacşa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_WALLACHIA_6">
+			<Text>Alexandru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_WALLACHIA_7">
+			<Text>Van Helsing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_WALLACHIA_8">
+			<Text>Christopher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_WALLACHIA_9">
+			<Text>Nosferatu</Text>
+		</Row>
+		<!--Vlad III Tepes-->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD">
+			<Text>Vlad III Tepes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VLAD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VLAD_TEXT_1">
+			<Text>Vlad III, known as Vlad the Impaler or Vlad Dracula, was voivode (or prince) of Wallachia three times between 1448 and his death. He was the second son of Vlad Dracul, who became the ruler of Wallachia in 1436. Vlad and his younger brother, Radu, were held as hostages in the Ottoman Empire from 1442 to secure their father's loyalty. Vlad's father and eldest brother, Mircea, were murdered after John Hunyadi, Regent-Governor of Hungary, invaded Wallachia in 1447. Hunyadi installed Vlad's second cousin, Vladislav II, as the new voivode.[NEWLINE][NEWLINE]Hunyadi launched a military campaign against the Ottoman Empire in the autumn of 1448, and Vladislav accompanied him. Vlad broke into Wallachia with Ottoman support in October, but Vladislav returned and Vlad sought refuge in the Ottoman Empire before the end of the year. Vlad went to Moldavia in 1449 or 1450, and later to Hungary. He invaded Wallachia with Hungarian support in 1456. Vladislav died fighting against him. Vlad began a purge among the Wallachian boyars to strengthen his position. He came into conflict with the Transylvanian Saxons who supported his opponents, Dan and Basarab Laiotă (who were Vladislav's brothers), and Vlad's illegitimate half-brother, Vlad the Monk. Vlad plundered the Saxon villages, taking the captured people to Wallachia where he had them impaled (which gave rise to his cognomen). Peace was only restored in 1460.[NEWLINE][NEWLINE]The Ottoman Sultan, Mehmed II, ordered Vlad to personally pay homage to him, but Vlad had the sultan's two envoys captured and impaled. In February 1462, he broke into Ottoman territory, massacring tens of thousands of Turks and Bulgarians. Mehmed launched a campaign against Wallachia to replace Vlad with Vlad's younger brother, Radu. Vlad attempted to capture the sultan at Târgovişte during the night of 16 and 17 June 1462. Although the sultan and the main Ottoman army left Wallachia, more and more Wallachians deserted to Radu. Vlad went to Transylvania to seek assistance from Matthias Corvinus, King of Hungary, in late 1462, but Corvinus had him imprisoned. The king accused Vlad of having started secret negotiations with sultan about a joint invasion of Hungary.[NEWLINE][NEWLINE]Vlad was held in captivity in Visegrád from 1463 to 1475. During this period, anecdotes about his cruelty started to spread in Germany and Italy. He was released at the request of Stephen III of Moldavia in the summer of 1475. He fought in Corvinus's army against the Ottomans in Bosnia in early 1476. Hungarian and Moldavian troops helped him to force Basarab Laiotă (who had dethroned Vlad's brother, Radu) to flee from Wallachia in November. Basarab returned with Ottoman support before the end of the year. Vlad was murdered before 10 January 1477. Books narrating Vlad's cruel acts were among the first bestsellers in the German-speaking territories. In Russia, popular stories suggested that Vlad could only strengthen central government through applying brutal punishments, and a similar view was adopted by most Romanian historians in the 19th century. Vlad's reputation for cruelty and his patronymic gave rise to the name of the vampire Count Dracula in Bram Stoker's 1897 novel Dracula.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VLAD_LIVED">
+			<Text>1428 - 1477</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VLAD_NAME">
+			<Text>Vlad III Tepes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VLAD_SUBTITLE">
+			<Text>Leader of Wallachia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VLAD_TITLES_1">
+			<Text>Prince of Wallachia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_VLAD_TEXT">
+			<Text>Fearsome Vlad Tepes, lord of Dracul, your enemies await their judgement. Rebelling against the Ottoman Sultan, Mehmed II, you led Wallachia through her darkest times. Using wicked and ruthless punishment, you subdued the forces that conspired against you, striking horror in your enemies and securing your realm. And though your cruelty precedes you, your name stands as a symbol of the equally fierce will of the Romanian nation.[NEWLINE][NEWLINE]Great prince, the enemies of Wallachia once more surround and threathen your claim to the throne. Can you lead your armies into battle and devastate your foes? Can you inspire terror and dread in those that would oppose you? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--HOUSE OF DRACUL-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_WALLACHIA_SHORT">
+			<Text>House of Dracul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_WALLACHIA">
+			<Text>Melee and Gun Units pillage for free. Each pillaged tile reduces [ICON_RESISTANCE] Resistance, hastens [ICON_RAZING] Razing, and increases [ICON_PRODUCTION] Production and XP of new units for a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_WALLACHIA">
+			<Text>JFD: Wallachia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_WALLACHIA_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<!--LEFEGII-->
+		<Row Tag="TXT_KEY_UNIT_JFD_LEFEGII">
+			<Text>Lefegii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_LEFEGII_HELP">
+			<Text>Sturdy Medieval Era unit that recovers quickly when beginning on pillaged Farms and Trading Posts, and resists Ranged Attacks. Only Wallachia may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_LEFEGII_STRATEGY">
+			<Text>The unique Lefegii is the Longswordsman replacement for Wallachia. Unlike the Longswordsman, this unit is very resilient to damage, especially from Ranged Attacks. It gains a 20% Defensive bonus against all Ranged Attacks and heals 10 damage each turn that it begins on a pillaged Farm or Trading Post. Lefegii will likely sustain themselves well for long, drawn-out wars.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LEFEGII_TEXT">
+			<Text>Lefegii were the foot soliders that composed the Moldavian armies, acting as heavy infantry. Moldavia had a military force for much of its history as an independent and, later, autonomous principality subject to the Ottoman Empire. Under the reign of Stephen the Great, all farmers and villagers had to bear arms. Stephen justified this by saying that "every man has a duty to defend his fatherland"; according to Polish chronicler Jan Długosz, if someone was found without carrying a weapon, he was sentenced to death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LEFEGII">
+			<Text>Fearless</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LEFEGII_HELP">
+			<Text>+20% Defense against [COLOR_POSITIVE_TEXT]Ranged Attacks[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LEFEGII_HEAL">
+			<Text>Oastea Mare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LEFEGII_HEAL_HELP">
+			<Text>When beginning its turn on a pillaged Farm or Trading Post, [COLOR_POSITIVE_TEXT]HEALS[ENDCOLOR] an extra +10 damage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LEFEGII_HEAL_ACTIVE_HELP">
+			<Text>Whilst beginning its turn on a pillaged Farm or Trading Post, [COLOR_POSITIVE_TEXT]HEALS[ENDCOLOR] an extra +10 damage.</Text>
+		</Row>
+		<!--FORTIFIED CHURCH-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_FORTIFIED_CHURCH">
+			<Text>Fortified Church</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_FORTIFIED_CHURCH_HELP">
+			<Text>Enemy Units within two tiles of this city have -10% [ICON_STRENGTH] Combat Strength.[NEWLINE][NEWLINE]Provides free Walls in this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_FORTIFIED_CHURCH_STRATEGY">
+			<Text>The Fortified Church, a unique Wallachian replacement for the Temple, does not require a Shrine to be built. This is especially useful as the Fortified Church reduces the Combat Strength of enemy units beginning their turn within two tiles of the city. In addition, the Fortified Church provides free Walls. Build Fortified Churches in your conquered cities to ensure they remain under your control.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_FORTIFIED_CHURCH_TEXT">
+			<Text>A fortified church is a church that is built to play a defensive role in times of war. Such churches were specially designed to incorporate military features, such as thick walls, battlements and embrasures. Others, such as the Cathedral of Ávila were incorporated into the town wall. Monastic communities, such as Lérins Abbey, are often surrounded by a wall, and some churches, such as St Arbogast in Muttenz, Switzerland, have an outer wall as well. South-eastern Transylvania region in Romania has one of the highest numbers of existing fortified churches from the thirteenth to sixteenth centuries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FORTIFIED_CHURCH">
+			<Text>Fearsome Pallisades</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FORTIFIED_CHURCH_HELP">
+			<Text>-10% [ICON_STRENGTH] Combat Strength whilst within [COLOR_NEGATIVE_TEXT]two tiles[ENDCOLOR] of a Wallachian city with a Fortified Church.</Text>
+		</Row>
+		<!--MINOR CIVS-->
+		<!--Chisinau-->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_CHISINAU">
+			<Text>Chisinau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_CHISINAU_DESC">
+			<Text>Chisinau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_CHISINAU_SHORT_DESC">
+			<Text>Chisinau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_CHISINAU_ADJECTIVE">
+			<Text>Chisinau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_CHISINAU_TEXT_1">
+			<Text>Chisinau, also known formerly as Kishinev and Kichineff, is the capital and largest city of the Republic of Moldova. Founded in 1436 as a monastery village, the city was part of the Principality of Moldavia (which, starting with the 16th century fell under the suzerainty of the Ottoman Empire). At the beginning of the 19th century Chișinău was a small town of 7,000 inhabitants. Today, it is home to 492,894 residents.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

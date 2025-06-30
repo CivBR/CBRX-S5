@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e35c9941-233b-4432-92d2-47bf66d5c2ca" version="7">
+  <Properties>
+    <Name>JakeWalrusWhale's Seychelles</Name>
+    <Teaser>Adds the Republic of [COLOR_XP_BLUE]Seychelles[ENDCOLOR] under France-Albert René.</Teaser>
+    <Description>UA: Finis Coronat Opus:
+[NEWLINE]Sea Resources in your Territory are automatically upgraded, at no additional cost. Depending on the amount of Tourism in the city, units will be trained with additional experience.
+[NEWLINE][NEWLINE]
+UU: SCG Cruiser:
+[NEWLINE]Replaces the Destroyer. After defeating an enemy in free territory, your closest city will gain population and the enemy might join your ranks. Can be expended to gain all adjacent unowned naval tiles if you’re in your territory.
+[NEWLINE][NEWLINE]
+UB: Lotel:
+[NEWLINE]Replaces the Hotel. Enemy Naval Units stationed within your territory will have a very small chance to convert to your side every turn. Sea Resources in this territory provide Tourism.</Description>
+    <Authors>JakeWalrusWhale</Authors>
+    <SpecialThanks>grant, DarthKyofu</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Rise to Power" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's CulDiv" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's Mercenaries" />
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="0" maxversion="999" title="Additional Achievements" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="055F8F35DA862F2BF9B40618802F453E" import="1">Art/AlbertReneScene.dds</File>
+    <File md5="0D09996C0FE29D08164266DCE6D3615F" import="1">Art/AlbertRene_DOM.dds</File>
+    <File md5="54B1CC9E69B4EDEC2FD560380C44470C" import="1">Art/Atlas/SCGCruiserAlpha32.dds</File>
+    <File md5="004F5DEE037764877D7F567AA855A150" import="1">Art/Atlas/SCGCruiser_sv.dds</File>
+    <File md5="9C7659123E5E0B45202A9274B4689DCA" import="1">Art/Atlas/SeychellesClaimAtlas45.dds</File>
+    <File md5="F80F6E30B85EB2D509A0747BDD5EDDC0" import="1">Art/Atlas/SeychellesClaimAtlas64.dds</File>
+    <File md5="A7872FC92F53D5A962B7B440E2A7E2D3" import="1">Art/Atlas/SeychellesIconAtlas128.dds</File>
+    <File md5="9032399000490EEBB1CA65194E096C07" import="1">Art/Atlas/SeychellesIconAtlas24.dds</File>
+    <File md5="8E5293E4EB0BEEDC3579849371633FE4" import="1">Art/Atlas/SeychellesIconAtlas256.dds</File>
+    <File md5="1EA1EE713B2D8BD73D63CC312447FD44" import="1">Art/Atlas/SeychellesIconAtlas32.dds</File>
+    <File md5="08ABF92F686C65E57C350DBDD376EBE1" import="1">Art/Atlas/SeychellesIconAtlas45.dds</File>
+    <File md5="92BCB6D68E9384C9ED65FC7DEF717551" import="1">Art/Atlas/SeychellesIconAtlas48.dds</File>
+    <File md5="A1E39C10D5F6D0347FAF2865744E9591" import="1">Art/Atlas/SeychellesIconAtlas64.dds</File>
+    <File md5="5E53294DCD5B3677FA7BC56C215202E8" import="1">Art/Atlas/SeychellesIconAtlas80.dds</File>
+    <File md5="0BC235139BEDF132AE9FE1B0C35BD9D7" import="1">Art/SeychellesMap.dds</File>
+    <File md5="087DA32A95FA6CE1C9FAA362E8768AEC" import="1">Code/Database/AlbertReneScene.xml</File>
+    <File md5="F92EF74AD102A2AA44CA157D6F1F3FD8" import="0">Code/Database/SeychellesArtDefines.sql</File>
+    <File md5="F93D1A3412029D1632B7D9187684DF0D" import="0">Code/Database/SeychellesGameDefines.sql</File>
+    <File md5="C0B3AEFAECEDA7C9383E7CB87279CABB" import="0">Code/Database/SeychellesModSupport.sql</File>
+    <File md5="1B1CCED064D97DF844EA356B9EEF8DDE" import="0">Code/Database/SeychellesText.xml</File>
+    <File md5="6F60EB46822376021EFD374C46C6128E" import="0">Code/Lua/JWW_Seychelles_Lotel_MCIS.lua</File>
+    <File md5="103B86DFB34699A8AEA8CA7EC2F21B45" import="0">Code/Lua/JWW_Seychelles_Lotel_MCIS.xml</File>
+    <File md5="131BA0537A92743F48D88DE6DCDFAFE2" import="0">Code/Lua/SeychellesFunctions.lua</File>
+    <File md5="1C4EDCA614D48E34C812A12793900CAE" import="0">Code/Lua/SeychellesFunctions.xml</File>
+    <File md5="64DF635BD57CDEB13DC1038934568A7E" import="0">Code/Lua/Utilities/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Code/Lua/Utilities/CityInfoStack.xml</File>
+    <File md5="40349A74E534C9AAAC722043D5EEF654" import="0">Credits.txt</File>
+    <File md5="566D3BBB31A8B6E92E438D8DEF5BC9D9" import="1">Audio/Seychelles_Peace.mp3</File>
+    <File md5="A4C9E470BCBD9CF03A16BB70DA00AEDC" import="1">Audio/Seychelles_War.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/Database/SeychellesArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/SeychellesGameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/SeychellesText.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Database/SeychellesModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/SeychellesFunctions.lua">
+      <Name>Seychelles stuff</Name>
+      <Description>yep</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/JWW_Seychelles_Lotel_MCIS.lua">
+      <Name>MCIS Main</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/Utilities/CityInfoStack.lua">
+      <Name>MCIS Utilities</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

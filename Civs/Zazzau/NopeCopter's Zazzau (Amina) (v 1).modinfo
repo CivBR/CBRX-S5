@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="af94dc94-8124-40da-9630-ab53e5b4d70d" version="1">
+  <Properties>
+    <Name>NopeCopter's Zazzau (Amina)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Kingdom of Zazzau under Amina to Civilization V.</Teaser>
+    <Description>Adds the Kingdom of Zazzau under Amina to Civilization V.</Description>
+    <Authors>NopeCopter</Authors>
+    <SpecialThanks>Lasqueto, TopHatPaladin, Senshi</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="045BA83C20C85804E45F214D9BA4F5DB" import="1">Art/Graphics/Yan Lifida/Knight_China.dds</File>
+    <File md5="8F1623F7700F96F5F1F63445F860E3B8" import="1">Art/Graphics/Yan Lifida/Knight_China.fxsxml</File>
+    <File md5="76093248416349CC632C122F69D1AAC2" import="1">Art/Graphics/Yan Lifida/Knight_China.gr2</File>
+    <File md5="1B7B58CAFF694D9C7AE80B42F1A5D591" import="1">Art/Graphics/Yan Lifida/Knight_China_gloss.dds</File>
+    <File md5="514494BD4C3C94AA30B0679BBEA1CDD1" import="1">Art/Graphics/Yan Lifida/Knight_China_Horse.dds</File>
+    <File md5="70C4D3C3349871E4FA53EA3F250B2FEE" import="1">Art/Graphics/Yan Lifida/Knight_China_Horse_gloss.dds</File>
+    <File md5="C8C1E59E18882DD25E18BDDDF1C14D19" import="1">Art/Graphics/Yan Lifida/sv_yanlifida.dds</File>
+    <File md5="87863FC2836E48AF3FC5BD7B358BAC81" import="1">Art/Icons/NC_ZazzauAtlas_128.dds</File>
+    <File md5="60F6D81016EFDC198BB94263E2BCBA69" import="1">Art/Icons/NC_ZazzauAtlas_256.dds</File>
+    <File md5="6018412F4B7B22669563F4D635AB0681" import="1">Art/Icons/NC_ZazzauAtlas_32.dds</File>
+    <File md5="DA8C8C1AA5D4AE184DD7BB5E380494DF" import="1">Art/Icons/NC_ZazzauAtlas_45.dds</File>
+    <File md5="9BD8B56F22F49F2939CE7DEE0F243E36" import="1">Art/Icons/NC_ZazzauAtlas_64.dds</File>
+    <File md5="20F51133BE361CC51CF63C4496826D8A" import="1">Art/Icons/NC_ZazzauAtlas_80.dds</File>
+    <File md5="84C0DE333D30A0C7610AB589D0025BB3" import="1">Art/Icons/Unit_YanLifida_Flag_32.dds</File>
+    <File md5="56629E62652C67BBB01431914345F2B0" import="1">Art/Icons/ZazzauAlpha_128.dds</File>
+    <File md5="20427927A96F26A11E6FA7A7A4DAE175" import="1">Art/Icons/ZazzauAlpha_24.dds</File>
+    <File md5="3AA2438CBAE6E632F4210EABF7F41922" import="1">Art/Icons/ZazzauAlpha_256.dds</File>
+    <File md5="A82B47BFEC3F5D18874E7BE9009FB0CE" import="1">Art/Icons/ZazzauAlpha_32.dds</File>
+    <File md5="C184D1C00119987CA8402FDBC2F66996" import="1">Art/Icons/ZazzauAlpha_48.dds</File>
+    <File md5="62D43E2DDC8CBF87C23B7DFF12619001" import="1">Art/Icons/ZazzauAlpha_64.dds</File>
+    <File md5="741227AA6C473CA28FAE028A81339060" import="1">Art/Leaderscene/amina_ls.xml</File>
+    <File md5="1D0F8223D61A1F6CF2CB68366330EF73" import="1">Art/Leaderscene/amina_ls.dds</File>
+    <File md5="1B376D93BCE3C8A243006A2DD3DF6067" import="1">Art/Maps/zazdom.dds</File>
+    <File md5="19B9B0DD9A8C502CD4C60A23CF0FFA0B" import="1">Art/Maps/zaz_smol.dds</File>
+    <File md5="EB2CC3B9BCB8354E1B20E99889C5D5D9" import="1">Audio/NC_Zazzau_War.mp3</File>
+    <File md5="F38770A904058416E61D03D684462B05" import="1">Audio/NC_Zazzau_Peace.mp3</File>
+    <File md5="0B5719F55907C6F135523DD8FA185A3F" import="0">Core/NC_Zazzau_ArtDefines.sql</File>
+    <File md5="7D8D7B547B971FE212603B6D2AF7FBF7" import="0">Core/NC_Zazzau_GameDefines.sql</File>
+    <File md5="237C30E6A410D8D4BE67A6F162112F84" import="0">Core/NC_Zazzau_GameText.xml</File>
+    <File md5="3E264B2228734D510CD9DB38B8AFF937" import="0">Core/NC_Zazzau_ModSupport.sql</File>
+    <File md5="69065C1CE0697A58AC4D5E5DE7EDF88D" import="0">Lua/NC_Zazzau_Functions.lua</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="802AF05F65DD9A118D322D47147771B1" import="1">Lua/Utilities/TSL/Zazzau_GlobalDefines.lua</File>
+    <File md5="280D237DD3708DF286A11277477F2F9A" import="1">Lua/Utilities/TSL/Zazzau_TSLSerializerV3.lua</File>
+    <File md5="CD3E8C278CE1FD36806AA4CF6BE3BF88" import="1">Lua/Utilities/TSL/TableSaverLoader016.lua</File>
+    <File md5="69FCADF0D2AE7C0C2CEC9D821AD41883" import="1">Lua/Utilities/TSL/TSLSerializerCoreV3.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/NC_Zazzau_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/NC_Zazzau_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/NC_Zazzau_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/NC_Zazzau_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/NC_Zazzau_Functions.lua">
+      <Name>Lua Functions</Name>
+      <Description>function deez nuts</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

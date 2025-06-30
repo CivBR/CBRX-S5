@@ -1,0 +1,22 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SENSHI_JANDAMARRA">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_JANDAMARRA_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SENSHI_JANDAMARRA">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_JANDAMARRA_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_SENSHI_JANDAMARRA_FIRSTGREETING_1">
+			<Text>Halt! I am Jandamarra, protector of the Bunuba people! Who are you to trespass in our lands?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_JANDAMARRA_DEFEATED_1">
+			<Text>Agh! I may fall here, but the spirit of my people lives on, and you cannot defeat a spirit!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

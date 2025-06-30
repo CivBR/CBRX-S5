@@ -1,0 +1,325 @@
+<GameData>
+    <Language_en_US>
+        <!--Cities-->
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_1">
+            <Text>Kellog</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_2">
+            <Text>Surgutikha</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_3">
+            <Text>Sulomay</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_4">
+            <Text>Maduyka</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_5">
+            <Text>Pakulikha</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_6">
+            <Text>Serkovo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_7">
+            <Text>Bakhta</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_8">
+            <Text>Goroshikha</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_9">
+            <Text>Kangatovo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_10">
+            <Text>Vereshchagino</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_11">
+            <Text>Farkovo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_12">
+            <Text>Baklanikha</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_13">
+            <Text>Sym</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_14">
+            <Text>Kostino</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_15">
+            <Text>Verkhneimbatsk</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_16">
+            <Text>Sumarokovo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_17">
+            <Text>Turukhansk</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_18">
+            <Text>Vorogovo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_19">
+            <Text>Svetlogorsk</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_20">
+            <Text>Bor</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_21">
+            <Text>Kureyka</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_KET_22">
+            <Text>Zotino</Text>
+        </Row>
+        
+        <!--Spies-->
+        <Row Tag="TXT_KEY_SPY_NAME_THP_KET_0">
+            <Text>Doh</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_KET_1">
+            <Text>Balna</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_KET_2">
+            <Text>Togeta</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_KET_3">
+            <Text>Belegin</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_KET_4">
+            <Text>Alba</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_KET_5">
+            <Text>Syoksa</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_KET_6">
+            <Text>Bissimdes</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_KET_7">
+            <Text>Deles</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_KET_8">
+            <Text>Hosedam</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_KET_9">
+            <Text>Tomam</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        
+        <!--Basic Info-->
+        <Row Tag="TXT_KEY_LEADER_THP_OLGIT">
+            <Text>Olgit</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_KET_ADJECTIVE">
+            <Text>Ket</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_KET_DESC">
+            <Text>The Ket</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_KET_SHORT_DESC">
+            <Text>The Ket</Text>
+        </Row>
+        
+        <!--Civilopedia-->
+        <Row Tag="TXT_KEY_PEDIA_THP_KET_HEADING_1">
+            <Text>Ket Culture</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_KET_TEXT_1">
+            <Text>The Ket, sometimes called the Yenisei Ostyaks, are an indigenous people of Siberia, who live along the Yenisei River. They traditionally lived a predominantly hunter-gatherer lifestyle, although some of the more northern Ket also engaged in pastoralism. The Ket language, the sole survivor of the Yeniseian language family, is thought by some scholars to be related to the Na-Dené languages of North America; if this theory is true, it will be the first confirmed language family that connects the Americas to Eurasia.[NEWLINE][NEWLINE]The Ket have a patriarchal society, divided into two exogamous moieties - that is, clans whose members traditionally only marry members of the other clan. Shamanism is central to Ket religious life. The predominant types of shaman are the sening and the bangos. A sening largely communicates with the spirit world, and is typically associated with the sky; more detail can be found on the Sening page. The bangos, meanwhile, is more associated with the earth and medicine; a bangos is traditionally believed to know both good and evil spells, in contrast to the more straightforwardly good sening.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_KET_HEADING_2">
+            <Text>History</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_KET_TEXT_2">
+            <Text>It is believed that the earliest ancestors of the Ket lived near the Altai mountains, but after being displaced twice by hostile steppe confederations, migrated to their current location. The first displacement is attributed to a group called the Tystad, who are thought to be the Huns, placing that migration in the third century AD; the second displacement is credited to the Kiliki, who may have been the Kirghiz of the ninth century AD. In their current location, the Ket developed good relationships with the Selkup to the west; conversely, the Evenks to the east were perennial rivals, and most Ket folk heroes achieved their fame in battle against Evenki opponents.[NEWLINE][NEWLINE]The Russians arrived in Ket territory beginning in the seventeenth century, and the Ket way of life was largely suppressed. Today, there are slightly over 1000 Ket people still alive, and only about 100 fluent speakers of the Ket language.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_OLGIT_PEDIA_NAME">
+            <Text>Olgit</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_OLGIT_PEDIA_SUBTITLE">
+            <Text>Leader of the Ket</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_OLGIT_PEDIA_TITLES_1">
+            <Text>Hero of the Ket</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_OLGIT_PEDIA_TITLES_2">
+            <Text>Ancestor of the Qengtandeng</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_OLGIT_PEDIA_LIVED">
+            <Text>Unknown</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_OLGIT_PEDIA_HEADING_1">
+            <Text>Biography</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_OLGIT_PEDIA_TEXT_1">
+            <Text>Olgit was a warrior figure and hero from Ket mythology. Like many traditional Ket heroes, Olgit distinguished himself in battle against the Evenks; Evenki raiders frequently attacked the Ket, providing the basis for such stories. Olgit was also the progenitor of the Qengtandeng moiety, one of the two exogamous marriage groups into which the Ket divided themselves. Like many other Ket heroes, Olgit was eventually immortalized as a mountainous crag along the eastern bank of the Yenisei River.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV5_DAWN_THP_KET_TEXT">
+            <Text>Greetings, Olgit, hero and progenitor of the Ket! Your people are one of the most enigmatic of Siberia, with only a thousand living to the present day, and an ill-attested language that may even be related to those of North America. Even so, you are remembered as one of their great heroes, achieving many victories against the hated Evenks and becoming the original ancestor of the great Qengtandeng clan. Your deeds were immortalized by the gods, who honored you by turning you into a crag along the banks of the Yenisei River.[NEWLINE][NEWLINE]Olgit, all the Ket shamans of today seek your intercession, calling for you above all other spirits. Can you forge an existence in some of the harshest terrains on Earth? Can you rally your hunters and shamans to conquer your enemies? Can you build a civilization that will stand the test of time?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_KET_SHORT">
+            <Text>Bangos Sorcery</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_KET">
+            <Text>Receive [ICON_FOOD] Food when a unit is killed in your territory, plus [ICON_PEACE] Faith if that unit was a Barbarian. When your borders expand, damage foreign units on or adjacent to the newly claimed tile.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_FISHBOWMAN">
+            <Text>Fish-Oil Bowman</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_FISHBOWMAN_HELP">
+            <Text>First ranged unit in the game. Only the Ket may build it. The Fish-Oil Bowman inflicts a "poisoned" status on units it attacks, causing the target to lose half its current HP when it next moves.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_FISHBOWMAN_STRATEGY">
+            <Text>The Fish-Oil Bowman is most useful as a skirmishing unit; use the Fish-Oil Bowman to harass as many enemy forces as possible, and the poison will ensure that the units stay weak while your mele units move into place to finish them off.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_FISHBOWMAN_TEXT">
+            <Text>Hunting and fishing were the predominant occupations of Ket men. Ket hunters would allow fish they caught to decompose, and smear the resulting oils on the tips of their arrows; this acted as a poison they could use in hunting and warfare.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_SENING">
+            <Text>Sening</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_SENING_HELP">
+            <Text>Religious unit. Only the Ket may build it. The Sening grants +10% Combat Strength to adjacent friendly units, and if expended in a friendly city, it claims a random unowned tile that is workable by that city.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_SENING_STRATEGY">
+            <Text>The Sening is a valuable support unit for several purposes. During wartime, you can take it to battle alongside your military units, and strengthen its associated units; during peacetime, you can expend it in your cities to claim additional tiles. This latter ability is also useful when waging defensive wars: the newly claimed plots will trigger the UA, damaging enemy units nearby.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_SENING_TEXT">
+            <Text>The sening was the most important type of shaman in Ket society. The sening largely operated by invoking the spirit world, which they did by performing séances during the twilight hours; these were believed to be most effective when the sun and moon were simultaneously visible in the sky. A sening was believed to be aided by sky spirits, known as esdeng, and as a sening grew in power he would have greater numbers of esdeng assisting him.[NEWLINE][NEWLINE]Central to Ket shamanism is the concept of 'qut', which refers both to the gift of shamanism and to the songs that a shaman would perform. Qut typically manifested in young adults, who would enter a state called 'dariy' in which they begun behaving oddly: typical manifestations of dariy included sudden unsociable behavior or inexplicable urges to sing or dance. It is believed that, if a youth experiencing dariy refused the call to shamanism, he would go permanently insane or die.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_KET_FISHOIL">
+            <Text>Noxious Oils</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_KET_FISHOIL_HELP">
+            <Text>May poison enemy units.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_KET_AFTERRANDOM">
+            <Text>[COLOR_FONT_GREEN]Poison Inflicted[ENDCOLOR]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_KET_AFTERRANDOM_HELP">
+            <Text>May poison enemy units.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_KET_UNIT_POISONED">
+            <Text>Poisoned</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_KET_UNIT_POISONED_HELP">
+            <Text>This unit was poisoned by a Fish-Oil Bowman! The next time it moves, its current HP will be halved.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_SENING">
+            <Text>Qut</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_SENING_HELP">
+            <Text>Grants +10% Combat Strength to adjacent friendly units.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_STRENGTH_NEAR_SENING">
+            <Text>Beneficiary of Qut</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_STRENGTH_NEAR_SENING_HELP">
+            <Text>+10% Combat Strength</Text>
+        </Row>
+        
+        <!--Mod Support-->
+        <Row Tag="TXT_KEY_GENERIC_THP_KET_INFLUENTIAL_ON_AI_1">
+            <Text>Our people are now wearing squirrel pelts and playing the pymel harp. I worry that the rest of the world will also succumb to the influence of your culture.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_COUNCILLOR_JFD_CHAPLAIN_DESC_THP_KET">
+            <Text>Qa Sening</Text>
+        </Row>
+        <Row Tag="TXT_KEY_COUNCILLOR_JFD_STEWARD_DESC_THP_KET">
+            <Text>Bangos</Text>
+        </Row>
+        
+        <!--Additional Achievements-->
+        <Row Tag="TXT_KEY_MOD_THP_KET_NAME">
+            <Text>TopHat's Ket</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_KET_ID_CFC">
+            <Text>a6a46011-2019-0110-bf3e-7a767db796e7</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_KET_ID_STEAM">
+            <Text>N/A (CFC version)</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_KET_AUTHORS">
+            <Text>TopHatPaladin</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_KET_VICTORY_HEADER">
+            <Text>Ket To The Chopper!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_KET_VICTORY_TEXT">
+            <Text>Win the game on any difficulty setting as the Ket.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_KET_SPECIAL_HEADER">
+            <Text>The Unorthodox Approach</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_KET_SPECIAL_TEXT">
+            <Text>As the Ket, use a Fish-Oil Bowman to poison a Russian missionary.</Text>
+        </Row>
+        
+        <!--E&D Support-->
+        <Row Tag="TXT_KEY_DECISIONS_THP_KET_ALLEL">
+             <Text>Invoke the Allel Dolls</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_KET_ALLEL_DESC">
+            <Text>Our people have passed down the allel dolls for generations; they are invaluable sources of protection against evil spirits. Let us fashion new clothing for the allel dolls in order to strengthen and refresh the protection they grant.
+             [NEWLINE]-------------------------
+             [NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+             [NEWLINE]-------------------------
+             [NEWLINE][ICON_BULLET]Player must be the Ket
+             [NEWLINE][ICON_BULLET]Must have researched Philosophy
+             [NEWLINE][ICON_BULLET]Empire must be [ICON_HAPPINESS_3] Unhappy
+             [NEWLINE][ICON_BULLET]May only be enacted once per game
+             [NEWLINE]-------------------------
+             [NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+             [NEWLINE]-------------------------
+             [NEWLINE][ICON_BULLET]100 [ICON_CULTURE] Culture
+             [NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+             [NEWLINE]-------------------------
+             [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+             [NEWLINE]-------------------------
+             [NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness in cities working Forest tiles
+             </Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_KET_ALLEL_ENACTED_DESC">
+             <Text>Our people have passed down the allel dolls for generations; they are invaluable sources of protection against evil spirits. Let us fashion new clothing for the allel dolls in order to strengthen and refresh the protection they grant.
+             [NEWLINE]-------------------------
+             [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+             [NEWLINE]-------------------------
+             [NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness in cities working Forest tiles
+             </Text>
+        </Row>
+        <Row Tag="TXT_KEY_WORLD_EVENT_THP_KET_ALLEL">
+            <Text>{1_LeaderName} has called upon the allel dolls to protect {2_CivName}!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_KET_ILIMKA">
+             <Text>Develop the Ilimka</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_KET_ILIMKA_DESC">
+            <Text>There is a world of inventions out there that we have little interacted with. Perhaps we should put our own spin on some of it! Some of my advisors have the idea for an "ilimka", a houseboat we could use to travel the rivers more easily...
+             [NEWLINE]-------------------------
+             [NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+             [NEWLINE]-------------------------
+             [NEWLINE][ICON_BULLET]Player must be the Ket
+             [NEWLINE][ICON_BULLET]Must have researched Navigation
+             [NEWLINE][ICON_BULLET]Must have at least one city on a river
+             [NEWLINE][ICON_BULLET]Must have a trade route with another Major Civilization
+             [NEWLINE][ICON_BULLET]May only be enacted once per game
+             [NEWLINE]-------------------------
+             [NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+             [NEWLINE]-------------------------
+             [NEWLINE][ICON_BULLET]600 [ICON_GOLD] Gold
+             [NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+             [NEWLINE]-------------------------
+             [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+             [NEWLINE]-------------------------
+             [NEWLINE][ICON_BULLET]Worked resources provide +1 [ICON_PRODUCTION] if adjacent to a river
+             </Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_KET_ILIMKA_ENACTED_DESC">
+             <Text>There is a world of inventions out there that we have little interacted with. Perhaps we should put our own spin on some of it! Some of my advisors have the idea for an "ilimka", a houseboat we could use to travel the rivers more easily...
+                 [NEWLINE]-------------------------
+                 [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+                 [NEWLINE]-------------------------
+                 [NEWLINE][ICON_BULLET]Worked resources provide +1 [ICON_PRODUCTION] if adjacent to a river
+             </Text>
+        </Row>
+        <Row Tag="TXT_KEY_WORLD_EVENT_THP_KET_ILIMKA">
+             <Text>{1_LeaderName} has developed the ilimka, a {2_CivName} style of houseboat!</Text>
+        </Row>
+        </Language_en_US>
+    </GameData>

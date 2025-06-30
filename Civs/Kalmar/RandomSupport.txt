@@ -1,0 +1,36 @@
+TraitBasedLua = 'TRUE';
+
+OVERRIDE_AUTO  = { 
+	CIVILIZATIONS = {
+		CIVILIZATION = {
+			Civilization = 'CIVILIZATION_JFD_KALMAR_UNION';
+			Leader = 'LEADER_JFD_MARGARETHE';
+		};
+	};
+
+	MOD_SUPPORT = {
+		Civ4Traits = {
+			LEADER_JFD_MARGARETHE = {
+				Leader 	= 	'LEADER_JFD_MARGARETHE';
+				LeaderTXT	=	'Margarethe I ';
+			};
+		};
+	};
+
+	COMPONENTS = {
+		COMPONENT = {
+			Type = 'UNIT_JFD_GUN_HOLK';
+			Class = 'UNITCLASS_GALLEASS';
+		};
+		COMPONENT = {
+			Type = 'BUILDING_JFD_KOBSTAD';
+			Class = 'BUILDINGCLASS_MARKET';
+		};
+	};
+
+	TRAITS = {
+		TRAIT = {
+			Type = 'TRAIT_JFD_KALMAR_UNION';
+		};
+	};
+};

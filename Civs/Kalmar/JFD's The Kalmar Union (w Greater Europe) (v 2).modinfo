@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="626d8925-bddc-4b3e-b15c-bbaab70c4f31" version="2">
+  <Properties>
+    <Name>JFD's The Kalmar Union (w/ Greater Europe)</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Kalmar Union[ENDCOLOR] with Margarethe I to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta, Viregel, Wolfdog</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Rise to Power" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD’s Cities in Development" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="16B9CC123837DA477A3B193F7AD52DEE" import="1">Art/Diplomacy/MargaretheI_Scene.xml</File>
+    <File md5="0CE33D7BFAF601D75E9AA3012E399F13" import="1">Art/Diplomacy/MargaretheI_Diplo.dds</File>
+    <File md5="3B2B1F9CA7F7FC485EB339218C2A6939" import="1">Art/Graphics/Gun Holk/gunholk.fxsxml</File>
+    <File md5="3CD29B8412E5599C47976C250A9DBEFC" import="1">Art/Graphics/Gun Holk/gunholk.gr2</File>
+    <File md5="8018560E78C9349FF51C297F817DFE7E" import="1">Art/Graphics/Gun Holk/gunholk_diff.dds</File>
+    <File md5="997802481AF18082ADECA48D2FBFAF93" import="1">Art/Graphics/Gun Holk/gunholk_sref.dds</File>
+    <File md5="802F5628C924FD9307B2D71899CD95DC" import="1">Art/Graphics/Gun Holk/sv_GunHolk.dds</File>
+    <File md5="86F9F9C75DE24D177E51E8D887C1EE3F" import="1">Art/Graphics/Magnate/magnate.dds</File>
+    <File md5="FD18F7F6A2D42841F69ADF51F905C96A" import="1">Art/Graphics/Magnate/magnate.fxsxml</File>
+    <File md5="5F9890081D7018868483A5942C705914" import="1">Art/Graphics/Magnate/magnate.gr2</File>
+    <File md5="11CE0CE65817588818E7AC9157FDE082" import="1">Art/Graphics/Magnate/magnate_sref.dds</File>
+    <File md5="DEC94045ADB8748353D32BBD63C685CF" import="1">Art/Graphics/Magnate/sv_Magnate.dds</File>
+    <File md5="C2BEE3927844CF733A5763CD591E2276" import="1">Art/IconAtlas/JFD_GE_GunHolkUnitFlag_32.dds</File>
+    <File md5="1DFB9235AC042C6E5DC7E447A4FF323C" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAtlas_128.dds</File>
+    <File md5="794A04CD7A8B9BC6C14FA8DCB67CB081" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAtlas_256.dds</File>
+    <File md5="9B41A5CE2FE484B1507D8666F52ED430" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAtlas_32.dds</File>
+    <File md5="FD9057D0B83F4898D04D9C35B7B38886" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAtlas_45.dds</File>
+    <File md5="B1CFE0415720FB13652EE655F866858F" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAtlas_64.dds</File>
+    <File md5="33FB9A83121F8EFE65B8C89526D17BA7" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAtlas_80.dds</File>
+    <File md5="8C8EFE5883C7E502A5C6962CDE335D77" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAlphaAtlas128.dds</File>
+    <File md5="865B1DEB74455947AE4F6F9DEAD44D9E" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAlphaAtlas_16.dds</File>
+    <File md5="5248B5C8C69B0A40CF7B88F1F86C5A1A" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAlphaAtlas_22.dds</File>
+    <File md5="C3912817DC68F00510EF56D3007539E8" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAlphaAtlas_24.dds</File>
+    <File md5="66C5491CE501B04AF452AD5FED11E6F1" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAlphaAtlas_256.dds</File>
+    <File md5="41BB2E5DC305C59384443F26B8783D03" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAlphaAtlas_32.dds</File>
+    <File md5="CE6594BCB11D7715795CEB5E2CCCECEC" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAlphaAtlas_45.dds</File>
+    <File md5="9AEAF00C673A29F435751B5A520E646D" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAlphaAtlas_48.dds</File>
+    <File md5="3F619B837FC275AE15DEA6C27F675C22" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAlphaAtlas_64.dds</File>
+    <File md5="DEC79E428AC717D60EB6DD9BC1C50C17" import="1">Art/IconAtlas/JFD_GE_KalmarUnionAlphaAtlas_80.dds</File>
+    <File md5="ACD7C87EB24F1B2044E8313E55F3ABFE" import="1">Art/IconAtlas/JFD_GE_MagnateUnitFlag_32.dds</File>
+    <File md5="562CCA2BC6279FB5ACF97C359083E6D7" import="1">Art/Map/Janboruta_KalmarUnion_DOM.dds</File>
+    <File md5="D1BC3216834631AE835F661E281D2463" import="1">Art/Map/Viregel_MapKalmarUnion512.dds</File>
+    <File md5="A901297AD964701A123F7E6060A49D1D" import="1">Audio/KalmarUnion.wav</File>
+    <File md5="C62CB86443E94A98F653B5AD7041C046" import="1">Audio/Kobstad.mp3</File>
+    <File md5="BEBEE952B756FE4C8CB110E53EE392EF" import="1">Audio/Margarethe_Peace.mp3</File>
+    <File md5="3F8DD0B56CCF985DD47CF060B594A4B0" import="1">Audio/Margarethe_War.mp3</File>
+    <File md5="01CA3D31DED5323686F6AC68CFB20E0D" import="0">Core/KalmarUnion_ArtDefines.sql</File>
+    <File md5="660149548A93AAE8C9ECC60B56132751" import="0">Core/KalmarUnion_GameDefines.sql</File>
+    <File md5="A41DD3F5F470ACFD763EE4FE6021E20B" import="0">Core/KalmarUnion_GameDefines_Diplomacy.sql</File>
+    <File md5="962DC1B5D557488DF2EF1DF368012A50" import="0">Core/KalmarUnion_GameDefines_ModSupport.sql</File>
+    <File md5="E5D59FBAD147B02528D790F54FED29CF" import="0">Core/KalmarUnion_GameText.xml</File>
+    <File md5="4DB4210E41B2E5155773467619A061D9" import="0">Core/KalmarUnion_GameText_Diplomacy.xml</File>
+    <File md5="BEA7F44432B43C79EF05C341289BF3EC" import="0">Core/KalmarUnion_GameText_ModSupport.xml</File>
+    <File md5="FC96D33CAD3F85B949439CEDD31FB9B5" import="0">JFD_KalmarUnion_UserSettings.sql</File>
+    <File md5="2BC8FADE0E3DA32A130F3632677C5258" import="1">Lua/JFD_KalmarUnion_Decisions.lua</File>
+    <File md5="D106CFAA37C7819D8AD071E143E29826" import="0">Lua/JFD_KalmarUnion_Functions.lua</File>
+    <File md5="B03D0A2E1B54300BC43C530A17C0605C" import="0">Lua/JFD_KalmarUnion_Functions.xml</File>
+    <File md5="3CAA4750903A66E63F243F26E4EBDA7B" import="1">Lua/Utilities/JFD_KalmarUnion_Utils.lua</File>
+    <File md5="E539594F6977B00D898061CF27F251B9" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="570447969504821BCAC2664A4C7296BA" import="0">RandomSupport.txt</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>JFD_KalmarUnion_UserSettings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/KalmarUnion_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/KalmarUnion_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/KalmarUnion_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/KalmarUnion_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/KalmarUnion_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/KalmarUnion_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/KalmarUnion_GameText_ModSupport.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_KalmarUnion_Functions.lua">
+      <Name>JFD_KalmarUnion_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

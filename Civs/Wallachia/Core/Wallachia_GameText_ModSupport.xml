@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--GAZEBO COMMUNITY BALANCE OVERHAUL-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_FORTIFIED_CHURCH_HELP_CBO">
+			<Text>Enemy Units within two tiles of this city have -10% [ICON_STRENGTH] Combat Strength.[NEWLINE][NEWLINE]Provides free Walls in this city.[NEWLINE][NEWLINE]+1 [ICON_CULTURE] Culture and +1 [ICON_GOLD] Gold from [ICON_RES_INCENSE] Incense and [ICON_RES_WINE] Wine. Reduces [ICON_HAPPINESS_3] Religious Unrest.</Text>
+		</Row>
+		<!--JFD CITIES IN DEVELOPMENT-->
+		<!--JFD PROVINCES-->
+		<Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_DESC_JFD_WALLACHIA">
+			<Text>Comuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_DESC_RULER_JFD_WALLACHIA">
+			<Text>Primar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_DESC_RULER_JFD_WALLACHIA_FEMININE">
+			<Text>Primar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_DESC_JFD_WALLACHIA">
+			<Text>Judet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_DESC_RULER_JFD_WALLACHIA">
+			<Text>Prefect</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_DESC_RULER_JFD_WALLACHIA_FEMININE">
+			<Text>Prefect</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_DESC_JFD_WALLACHIA">
+			<Text>Voivodeship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_DESC_RULER_JFD_WALLACHIA">
+			<Text>Voivode</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_DESC_RULER_JFD_WALLACHIA_FEMININE">
+			<Text>Voivode</Text>
+		</Row>
+		<!--Lefegii-->
+		<Row Tag="TXT_KEY_UNIT_JFD_LEFEGII_HELP_PROVINCES">
+			<Text>Sturdy Medieval Era unit that recovers quickly when beginning on pillaged Farms, Trading Posts, Towns, and Villages, and resists Ranged Attacks. Only Wallachia may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_LEFEGII_STRATEGY_PROVINCES">
+			<Text>The unique Lefegii is the Longswordsman replacement for Wallachia. Unlike the Longswordsman, this unit is very resilient to damage, especially from Ranged Attacks. It gains a 20% Defensive bonus against all Ranged Attacks and heals 5 damage each turn that it begins on a pillaged Farm, Trading Post, Town, or Village. Lefegii will likely sustain themselves well for long, drawn-out wars.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LEFEGII_HEAL_HELP_PROVINCES">
+			<Text>When beginning its turn on a pillaged Farm, Trading Post, Town, or Village, [COLOR_POSITIVE_TEXT]HEALS[ENDCOLOR] an extra +5 damage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LEFEGII_HEAL_ACTIVE_HELP_PROVINCES">
+			<Text>Whilst beginning its turn on a pillaged Farm, Trading Post, Town, or Village, [COLOR_POSITIVE_TEXT]HEALS[ENDCOLOR] an extra +5 damage.</Text>
+		</Row>
+		<!--JFD RISE TO POWER-->
+		<!--JFD SOVEREIGNTY-->
+		<!--Government-->
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_JFD_WALLACHIA">
+			<Text>Council of Lords</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA">
+			<Text>Grand Chancellor</Text>
+		</Row>
+		<!--Heads of Govt.-->
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_1">
+			<Text>Barbu Catargiu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_2">
+			<Text>Apostol Arsache</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_3">
+			<Text>Nicolae Cretulescu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_4">
+			<Text>Mihail Kogalniceanu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_5">
+			<Text>Constantin Bosianu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_6">
+			<Text>Ion Ghica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_7">
+			<Text>Lascăr Catargiu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_8">
+			<Text>Ion Ghica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_9">
+			<Text>Stefan Golescu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_10">
+			<Text>Nicolae Golescu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_11">
+			<Text>Dimitrie Ghica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_12">
+			<Text>Alexandru G. Golescu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_13">
+			<Text>Manolache Costache Epureanu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_14">
+			<Text>Ion Emanuel Florescu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_15">
+			<Text>Manolache Costache Epureanu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_16">
+			<Text>Ion Bratianu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_17">
+			<Text>Dimitrie Bratianu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_18">
+			<Text>Theodor Rosetti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_19">
+			<Text>Gheorghe Manu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_20">
+			<Text>Dimitrie Sturdza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_21">
+			<Text>Petre S. Aurelian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_22">
+			<Text>Gheorghe Grigore Cantacuzino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_23">
+			<Text>Petre P. Carp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_24">
+			<Text>Titu Maiorescui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_WALLACHIA_25">
+			<Text>Miron Cristea</Text>
+		</Row>
+		<!--Political Parties-->
+		<Row Tag="TXT_KEY_JFD_ASSEMBLY_JFD_MILITARY_JFD_WALLACHIA">
+			<Text>Wallachian State Council</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FACTION_JFD_NATIONALIST_JFD_WALLACHIA">
+			<Text>Greater Romanian Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FACTION_JFD_POPULARIST_JFD_WALLACHIA">
+			<Text>People's Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_BURGHERS_JFD_WALLACHIA">
+			<Text>Burghers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_CLERGY_JFD_WALLACHIA">
+			<Text>Clergy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_COMMUNIST_JFD_WALLACHIA">
+			<Text>Front of Socialist Unity and Democracy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_CONSERVATIVE_JFD_WALLACHIA">
+			<Text>Vlad Tepes League</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_FASCIST_JFD_WALLACHIA">
+			<Text>Crusade of Romanianism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERAL_JFD_WALLACHIA">
+			<Text>Alliance of Liberals and Democrats</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERTARIAN_JFD_WALLACHIA">
+			<Text>National Liberal Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_NOBILITY_JFD_WALLACHIA">
+			<Text>Boyars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_REACTIONARY_JFD_WALLACHIA">
+			<Text>Vlad Tepes League</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_REVOLUTIONARY_JFD_WALLACHIA">
+			<Text>National Salvation Front</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_SOCIALIST_JFD_WALLACHIA">
+			<Text>Social Democratic Party</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_DICTATORSHIP_TITLE_LEADER_JFD_WALLACHIA">
+			<Text>Grand Hetman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_DICTATORSHIP_TITLE_LEADER_JFD_WALLACHIA_FEMININE">
+			<Text>Grand Hetman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_DICTATORSHIP_TITLE_GOVERNMENT_JFD_WALLACHIA">
+			<Text>Hetmanate of {1_CivDesc}</Text>
+		</Row>
+		<!--Privy Councillors-->
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_CHANCELLOR_DESC_JFD_WALLACHIA">
+			<Text>Logofat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_HERALD_DESC_JFD_WALLACHIA">
+			<Text>Herald Extraordinary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_MARSHAL_DESC_JFD_WALLACHIA">
+			<Text>Marszalek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_STEWARD_DESC_JFD_WALLACHIA">
+			<Text>Vistier</Text>
+		</Row>
+		<!--City-State-->
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_GOVERNMENT_JFD_CHISINAU">
+			<Text>Principality of Chisinau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_LEADER_JFD_CHISINAU">
+			<Text>Hospodar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_LEADER_JFD_CHISINAU_FEMININE">
+			<Text>Hospodar</Text>
+		</Row>
+		<!--SUKRITACT DECISIONS-->
+		<!--Adopt Early Firearms-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_WALLACHIA_GUNPOWDER">
+			<Text>Adopt Early Firearms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_WALLACHIA_GUNPOWDER_DESC">
+			<Text>Our experimentation with gunpowder has yielded devastating success. To take this advantage over our enemies, we must not hesitate to incorporate this fearsome weapon into our elite forces.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Wallachia.
+				[NEWLINE][ICON_BULLET]Must have researched Gunpowder.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Unlocks training of Lefegii that possess greater [ICON_STRENGTH] Combat Strength.
+				[NEWLINE][ICON_BULLET]All currently active Lefegii are upgraded to this units.
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note: The [ICON_GOLD] Gold cost increases with every Lefegii you currently have.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_WALLACHIA_GUNPOWDER_ENACTED_DESC">
+			<Text>
+				Our experimentation with gunpowder has yielded devastating success. To take this advantage over our enemies, we must not hesitate to incorporate this fearsome weapon into our elite forces.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Unlocks training of Lefegii that possess greater [ICON_STRENGTH] Combat Strength.
+				[NEWLINE][ICON_BULLET]All currently active Lefegii are upgraded to this units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_WALLACHIA_GUNPOWDER">
+			<Text>{1_LeaderName} of {2_CivName} has adopted firearms into their elite Lefegii unit.</Text>
+		</Row>
+		<!--Form the Romanian Nation-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_WALLACHIA_ROMANIA">
+			<Text>Form the Romanian Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_WALLACHIA_ROMANIA_DESC">
+			<Text>
+				The last vestiges of the Roman Empire are gone, and although many would make claim to the imperial crown, we are its true descendants. With all the ancestral lands united under our wise rule, we can usher in a new era of prosperity. We are the children of Rome - the people of Romania!
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Wallachia.
+				[NEWLINE][ICON_BULLET]Must control at least three Capitals.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET]{2_Num} [ICON_FAITH] Faith.
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Civilization becomes known as Romania.
+				[ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins.
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness on Armories, Castles, and Fortified Churches.
+				[NEWLINE][ICON_BULLET]Build Armories, Castles, and Fortified Churches 20% faster.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_WALLACHIA_ROMANIA_DESC_SOVEREIGNTY">
+			<Text>
+				The last vestiges of the Roman Empire are gone, and although many would make claim to the imperial crown, we are its true descendants. With all the ancestral lands united under our wise rule, we can usher in a new era of prosperity. We are the children of Rome - the people of Romania!
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Wallachia.
+				[NEWLINE][ICON_BULLET]Must control at least two Capitals.
+				[NEWLINE][ICON_BULLET]Must have at least 75% [ICON_JFD_SOVEREIGNTY] Sovereignty.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET]{2_Num} [ICON_PEACE] Faith.
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Civilization becomes known as Romania.
+				[ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins.
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness on Armories, Castles, and Fortified Churches.
+				[NEWLINE][ICON_BULLET]Build Armories, Castles, and Fortified Churches 20% faster.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_WALLACHIA_ROMANIA_ENACTED_DESC">
+			<Text>The last vestiges of the Roman Empire are gone, and although many would make claim to the imperial crown, we are its true descendants. With all the ancestral lands united under our wise rule, we can usher in a new era of prosperity. We are the children of Rome - the people of Romania!
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness on Armories, Castles, and Fortified Churches.
+				[NEWLINE][ICON_BULLET]Build Armories, Castles, and Fortified Churches 20% faster.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_WALLACHIA_ROMANIA">
+			<Text>{1_LeaderName} has united his people and formed the Romanian nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ROMANIA_ADJECTIVE">
+			<Text>Romanian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ROMANIA_DESC">
+			<Text>Romanian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ROMANIA_SHORT_DESC">
+			<Text>Romania</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0f0bbd86-fa5c-4bb8-a6f9-e36a33c37800" version="2">
+  <Properties>
+    <Name>JakeWalrusWhale's Karankawa</Name>
+    <Teaser>Adds the [COLOR_RESEARCH_STORED]Karankawa[ENDCOLOR] people under Joseph Maria.</Teaser>
+    <Description>The Karankawa under Joseph María[NEWLINE][NEWLINE]
+
+
+UA: Isla del Malhado[NEWLINE]
+
+On rivers, marsh, or floodplains, units move faster and may embark at any time. Defeating units may spawn Oysters or Holly resources nearby. When near Oysters or Holly, defeating units will heal and provide culture and Golden Age points.[NEWLINE][NEWLINE]
+
+
+UU: Dug-out (Work Boat)
+[NEWLINE]
+Resources improved by this unit will grant a combat and movement boost to units starting on the tile. Transform into a naval melee unit when attacked by an enemy or on completion of fishing boats.
+
+[NEWLINE][NEWLINE]
+UB: Bá-ak (Barracks)
+[NEWLINE]
+Improved Holly and Oysters in this city contribute to longer Golden Ages. During a Golden Age, enemy units nearby will take small amounts of damage every turn.</Description>
+    <Authors>JakeWalrusWhale</Authors>
+    <SpecialThanks>Sas, NopeCopter, Ari, Zharques, Hoop_Thrower</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="CBP" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Rise to Power" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="CulDiv" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="Mercenaries" />
+    <Mod id="5103e8e5-a10e-474a-bcb8-2182c5868f76" minversion="0" maxversion="999" title="Embark Units At Sailing" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="9B762F1CBDA1E901ABADBBDFBD104440" import="1">Art/Atlas/JWWDugOutAlpha32.dds</File>
+    <File md5="46E64D6560AB18850E6C6F9003F9906A" import="1">Art/Atlas/JWWKarankawaIconAtlas128.dds</File>
+    <File md5="0CE005E26DBA404C840A93421599D245" import="1">Art/Atlas/JWWKarankawaIconAtlas24.dds</File>
+    <File md5="49706C14A1E2E71C23755A6AFC2BCBC5" import="1">Art/Atlas/JWWKarankawaIconAtlas256.dds</File>
+    <File md5="6B86CF35B52A120C46EA338CC4D47905" import="1">Art/Atlas/JWWKarankawaIconAtlas32.dds</File>
+    <File md5="A953A866058EFB9C9A5844E1A68B5B6D" import="1">Art/Atlas/JWWKarankawaIconAtlas45.dds</File>
+    <File md5="14C723457F691C2A363EA059D40FA407" import="1">Art/Atlas/JWWKarankawaIconAtlas48.dds</File>
+    <File md5="C082304D63C756A4FE1ACB61403FE70F" import="1">Art/Atlas/JWWKarankawaIconAtlas64.dds</File>
+    <File md5="02C835C6669B8866E22AE9B408EE810B" import="1">Art/Atlas/JWWKarankawaIconAtlas80.dds</File>
+    <File md5="51C3131B33F4B9D2485DA71B0143963C" import="1">Art/Atlas/JWWKarankawaResourceAtlas256.dds</File>
+    <File md5="B17138B6705C32D3E026927D81754A29" import="1">Art/Atlas/JWWKarankawaResourceAtlas45.dds</File>
+    <File md5="057DFA2DFFE58BD90F0F443DC58167ED" import="1">Art/Atlas/JWWKarankawaResourceAtlas64.dds</File>
+    <File md5="15F1F87192B041E0BACBA306CC6FE305" import="1">Art/Atlas/JWWKarankawaResourceAtlas80.dds</File>
+    <File md5="FC343E01B5E05ECA98D2FC5329D2C942" import="1">Art/Atlas/sv_JWWDugOut.dds</File>
+    <File md5="7C95F41B8F444CB5FF46FEB9C6ADC861" import="1">Art/Font Icons/KarankawaHollyFontIcon.ggxml</File>
+    <File md5="EFBACE3B14F42117992475236AEB1F51" import="1">Art/Font Icons/KarankawaHollyFontIcon.xml</File>
+    <File md5="A5264868CA0DE0C35F06E032BF31998F" import="1">Art/Font Icons/KarankawaOysterFontIcon.ggxml</File>
+    <File md5="12767D3758DA56D1D6F384594E3C3DC2" import="1">Art/Font Icons/KarankawaOysterFontIcon.xml</File>
+    <File md5="2EB811850C97997295438FD0BB4E5D27" import="1">Art/Font Icons/KarankawaHollyFontIcon.dds</File>
+    <File md5="E7EBF119AD837FCBE8C7B3E937C0F2A3" import="1">Art/Font Icons/KarankawaOysterFontIcon.dds</File>
+    <File md5="35EAFAAA51835584C19FEE5B8146E330" import="1">Art/Font Icons/sv_JWWHolly.dds</File>
+    <File md5="1AD46E7ABDEAE7E58D9540ECAB9390DE" import="1">Art/Font Icons/sv_JWWOysters.dds</File>
+    <File md5="26D345BD44805FDAFAB55FB0031A807C" import="1">Art/JWWMariaDoM.dds</File>
+    <File md5="DB1EDC653FDDCB5761BD197F18842ED7" import="1">Art/JWWJosephMariaScene.dds</File>
+    <File md5="E538F43A8A6CD1393C02EBE57A0FDAD3" import="1">Art/JWWKarankawaMap.dds</File>
+    <File md5="8C055C6867210113DE6CABC11801702F" import="1">Art/Model/MC_Chinook_Whaler.fxsxml</File>
+    <File md5="FCDA47D0FB1B1B15CC8ADDD9E0104A3B" import="1">Art/Model/MC_Chinook_Whaler.gr2</File>
+    <File md5="F028AB35CA5F45C5689D8A249EA49146" import="1">Art/Model/MC_Chinook_Whaler_diff.dds</File>
+    <File md5="CE7FE5F6F35C5F89CE41B2FC61EEA66D" import="1">Art/Model/MC_Chinook_Whaler_sref.dds</File>
+    <File md5="C3B00000C62E20437C75D12A3F80C9B0" import="1">Audio/JWWKarankawa_Peace.mp3</File>
+    <File md5="AB0CB16CB7C44B1AF957CBB8B3118FA7" import="1">Audio/JWWKarankawa_War.mp3</File>
+    <File md5="74441BD2F78E7D2CE908C7F1CFAB8661" import="0">Code/Database/JWWKarankawaArtDefines.sql</File>
+    <File md5="FD3E99071DAB8C5DB9126FD41E8A0CE7" import="0">Code/Database/JWWKarankawaGameDefines.sql</File>
+    <File md5="92E2CA98EFCBB126191BA280F9D54BB1" import="0">Code/Database/JWWKarankawaModSupport.sql</File>
+    <File md5="CE9FD4159FAC8E497235DCFEE92BD6A6" import="0">Code/Database/JWWKarankawaText.xml</File>
+    <File md5="C1BAD5E2CBAE4CA9783C7A950D8650AF" import="1">Code/Database/JWWJosephMariaScene.xml</File>
+    <File md5="15A98D4A4AFD2B72A1C3A97EBE853D31" import="0">Code/Lua/KarankawaFunctions.lua</File>
+    <File md5="A71525A132F6C79962927770CD9FDEAC" import="1">Code/Lua/Utilities/Karankawa_TSLSerializerV3.lua</File>
+    <File md5="CD3E8C278CE1FD36806AA4CF6BE3BF88" import="1">Code/Lua/Utilities/TableSaverLoader016.lua</File>
+    <File md5="FC62CA3A1C67B71BA4D3CCAD467DF9D0" import="1">Code/Lua/Utilities/TSLSerializerCoreV3.lua</File>
+    <File md5="E933AF560232124302C8578E4B37B73F" import="0">Credits.txt</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/Database/JWWKarankawaGameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/JWWKarankawaArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/JWWKarankawaModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/JWWKarankawaText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/KarankawaFunctions.lua">
+      <Name>Karenka funct</Name>
+      <Description>ohyeah</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

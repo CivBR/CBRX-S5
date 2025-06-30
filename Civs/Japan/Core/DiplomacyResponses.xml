@@ -1,0 +1,22 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SENSHI_HIDEYOSHI">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_HIDEYOSHI_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SENSHI_HIDEYOSHI">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_HIDEYOSHI_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_SENSHI_HIDEYOSHI_FIRSTGREETING_1">
+			<Text>I am Toyotomi Hideyoshi, undisputed leader of Japan. If you do not cooperate with us, we will make you cooperate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_HIDEYOSHI_DEFEATED_1">
+			<Text>Pessimism is a losing strategy, but I must admit my own failure. You were the greater general!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

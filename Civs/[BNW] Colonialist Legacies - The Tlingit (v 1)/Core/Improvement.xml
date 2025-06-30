@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/18/2014 7:21:02 PM -->
+<GameData>
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_CLFB_NOOW</Type>
+			<Description>TXT_KEY_IMPROVEMENT_CLFB_NOOW</Description>
+			<Help>TXT_KEY_IMPROVEMENT_CLFB_NOOW_HELP</Help>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_CLFB_NOOW_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CLFB_NOOW</ArtDefineTag>
+			<PillageGold>15</PillageGold>
+			<RequiresFeature>1</RequiresFeature>
+			<OutsideBorders>1</OutsideBorders>
+			<Coastal>1</Coastal>
+			<NoTwoAdjacent>true</NoTwoAdjacent>
+			<DefenseModifier>15</DefenseModifier>
+			<SpecificCivRequired>true</SpecificCivRequired>
+			<CivilizationType>CIVILIZATION_CL_TLINGIT</CivilizationType>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>CL_TLINGIT_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+
+	<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CLFB_NOOW</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_Yields>
+
+
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CLFB_NOOW</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CLFB_NOOW</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CLFB_NOOW</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+
+	<Improvement_ValidFeatures>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CLFB_NOOW</ImprovementType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CLFB_NOOW</ImprovementType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+		</Row>
+	</Improvement_ValidFeatures>
+
+	<Builds>
+		<Row>
+			<Type>BUILD_CLFB_NOOW</Type>
+			<PrereqTech>TECH_METAL_CASTING</PrereqTech>
+			<Time>700</Time>
+			<ImprovementType>IMPROVEMENT_CLFB_NOOW</ImprovementType>
+			<Description>TXT_KEY_BUILD_CLFB_NOOW</Description>
+			<EntityEvent>ENTITY_EVENT_MINE</EntityEvent>
+			<HotKey>KB_Y</HotKey>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>NOOW_ICON</IconAtlas>
+		</Row>
+	</Builds>
+
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_CLFB_NOOW</BuildType>
+		</Row>
+	</Unit_Builds>
+	
+	<Language_en_US>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CLFB_NOOW">
+			<Text>Noow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CLFB_NOOW_TEXT">
+			<Text>In 1804 the last major armed conflict between Russians and Alaska Natives was initiated in response to the destruction of a Russian trading post two years before. It was to be known as the Battle of Sitka. Two years prior, the Tlingit revelled in victory however the Tlingit Shaman Stoonook, confident that the Russians would soon return, and in force, urged the clan to construct a new fortification that was capable of withstanding cannon fire, and provided an ample water supply. Despite strong opposition, the Shaman's will prevailed, and the Kiks.ádi made preparations for war. The Tlingit chose to construct the roughly 240 feet by 165 feet (73 by 50 meters) Shís'gi Noow (the "Fort of Young Saplings") at the high water line near the mouth of the Indian River to take advantage of the long gravel beach flats that extend far out into the bay; it was hoped that the shallows would prevent the Russian ships from attacking the installation at close range. Some 1,000 native spruce logs were used in the construction of 14 buildings (barabaras) and the thick palisade wall that surrounded them. The Tlingit held out for many days, with the Russians throwing everything that their force could muster. In the end, the Russians scored a decisive victory, but not before being worn down by the surprising war acumen held by the Sitka peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CLFB_NOOW">
+			<Text>Noow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CLFB_NOOW_HELP">
+			<Text>Cannot be built adjacent to each other. The Noow can be built on any Coastal Forest or Jungle in neutral territory and upon completion, claims the tile. When outside the workable range of a city, units stationed on a Noow will provide the total yield of the tile to the nearest City. +1 [ICON_PRODUCTION] Production and +30% [ICON_STRENGTH] Defense.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

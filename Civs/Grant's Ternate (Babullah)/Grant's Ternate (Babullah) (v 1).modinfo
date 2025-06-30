@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="00308c9a-c16d-4498-9c86-d56d0db1abd9" version="1">
+  <Properties>
+    <Name>Grant's Ternate (Babullah)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Ternate Sultanate to BNW.</Teaser>
+    <Description>Adds the Ternate and Tidore Sultanates to BNW.</Description>
+    <Authors>Grant</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+	<Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+	<Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+	<Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+	<Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+	<Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="34A21F4202A61081895E67613A636019" import="1">Ternate/Art/Diplomacy/Babullah_Diplo.xml</File>
+    <File md5="AFA5F57C22ECAF92DF31FE8617591B01" import="1">Ternate/Art/Diplomacy/TernateLS.dds</File>
+    <File md5="BB1D96A8B6B248750138A8593D79CD4F" import="1">Ternate/Art/Graphics/MesopotamicEmbark.gr2</File>
+    <File md5="EC7EDC29C35CA668D8BDD7D28F2173FE" import="1">Ternate/Art/Graphics/Mesopotamic_Embark.dds</File>
+    <File md5="9004D4697D22DC9E6413A5CFEA37AC46" import="1">Ternate/Art/Graphics/Mesopotamic_Embark.fxsxml</File>
+    <File md5="0C759F1CED95795CCFBE40C6BD9A963C" import="1">Ternate/Art/Graphics/no_gloss.dds</File>
+    <File md5="03A73C6501C03B82F9A2E0CF3C1FA972" import="1">Ternate/Art/Graphics/Orembai_flag.dds</File>
+    <File md5="9CDBC070FC3177B9AE11E1E1AD6B5462" import="1">Ternate/Art/Graphics/sv_Orembai.dds</File>
+    <File md5="38D242CE09EEA0B4857FF967F2BA90F4" import="1">Ternate/Art/Icons/TernateAlpha128.dds</File>
+    <File md5="2091AFED36B79B5D5AF602F09E37DBD4" import="1">Ternate/Art/Icons/TernateAlpha24.dds</File>
+    <File md5="93994D0872B3A353EDA37283169F4AF9" import="1">Ternate/Art/Icons/TernateAlpha32.dds</File>
+    <File md5="17B6941A62D71315A81A828447797949" import="1">Ternate/Art/Icons/TernateAlpha48.dds</File>
+    <File md5="24707C2C776241910EAABEC5C2338E20" import="1">Ternate/Art/Icons/TernateAlpha64.dds</File>
+    <File md5="4327DEA9D729081503D60CE6E0294A86" import="1">Ternate/Art/Icons/TernateAlpha80.dds</File>
+    <File md5="D297ED099D1837B7CC93C544E248E0F7" import="1">Ternate/Art/Icons/TernateAtlas128.dds</File>
+    <File md5="4D30CB6CF4483417F6619C02E9E356C2" import="1">Ternate/Art/Icons/TernateAtlas24.dds</File>
+    <File md5="E1DA8ABA7DBA831602BEEC33C9276689" import="1">Ternate/Art/Icons/TernateAtlas256.dds</File>
+    <File md5="031A356C9524F5A981032B8FBAA477A1" import="1">Ternate/Art/Icons/TernateAtlas32.dds</File>
+    <File md5="F83B56A3DBE8D40D24A880943939627F" import="1">Ternate/Art/Icons/TernateAtlas45.dds</File>
+    <File md5="28868CD3AD77A4175D9E8F21D9EE93A9" import="1">Ternate/Art/Icons/TernateAtlas64.dds</File>
+    <File md5="B2D00361A709BEC1A52668AD98734F71" import="1">Ternate/Art/Icons/TernateAtlas80.dds</File>
+    <File md5="E0D4E255FF1C0A0DA86AFD2E34456B55" import="1">Ternate/Art/Map/Ternate_DoM.dds</File>
+    <File md5="D18685363632CF43139FA103AD282C3B" import="1">Ternate/Art/Map/Ternate_Map.dds</File>
+    <File md5="043881A002D5A4D944CCF935D151FF13" import="1">Ternate/Audio/Themes/Ternate_War.mp3</File>
+    <File md5="48DEC94C2F88962ED6D1074927B2A155" import="1">Ternate/Audio/Themes/Ternate_Peace.mp3</File>
+    <File md5="A28BEECBD979D5E9D9504CD1EC5A9829" import="0">Ternate/Core/Ternate_ArtDefines.sql</File>
+    <File md5="8125F56F3878281CE4E34E409F38D133" import="0">Ternate/Core/Ternate_GameDefines.sql</File>
+    <File md5="60CFBC013F56ABF192C5EB31676074CF" import="0">Ternate/Core/Ternate_GameText.xml</File>
+    <File md5="FEBAE3E9D8942AF7ECFF2CFF90B8C052" import="0">Ternate/Core/Ternate_ModSupport.sql</File>
+    <File md5="053831267006022047C2C86791D9EADF" import="0">Ternate/Lua/Functions/Ternate_Functions.lua</File>
+    <File md5="2CA62C8E3B85A32EAB2251E3CD1647D7" import="1">Ternate/Lua/Functions/Ternate_Functions.xml</File>
+    <File md5="64DF635BD57CDEB13DC1038934568A7E" import="0">Ternate/Lua/MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Ternate/Lua/MCIS/CityInfoStack.xml</File>
+    <File md5="1368ACF988CC8834BB7AD60585E8B936" import="1">Ternate/Lua/Utilities/AdditionalAchievementsUtility.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Ternate/Lua/Utilities/PlotIterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Ternate/Lua/Utilities/SaveUtils.lua</File>
+    <File md5="92F90C66FCF654EF2A2973AD915B7C8C" import="0">Ternate_UserSettings.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Ternate/Core/Ternate_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Ternate/Core/Ternate_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Ternate/Core/Ternate_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Ternate/Core/Ternate_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Ternate_UserSettings.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Ternate/Lua/Functions/Ternate_Functions.lua">
+      <Name>Ternate</Name>
+      <Description>Functions</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Ternate/Lua/MCIS/CityInfoStack.lua">
+      <Name>Ternate</Name>
+      <Description>MCIS</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

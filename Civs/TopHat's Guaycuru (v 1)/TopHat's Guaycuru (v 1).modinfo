@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="770208f2-cece-4c42-9738-77ecdf10486d" version="1">
+  <Properties>
+    <Name>TopHat's Guaycuru</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Guaycuru, led by Eso, to the game as a custom civilization.</Teaser>
+    <Description>Adds the Guaycuru, led by Eso, to the game as a custom civilization. Requires Brave New World.</Description>
+    <Authors>TopHatPaladin</Authors>
+    <SpecialThanks>Patum333</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="0" maxversion="999" title="Additional Achievements" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD and Pouakai's Mercenaries" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1537A1EF8E5063FBFF00EB4F1D0E2E54" import="1">Art/Eso_DOM.dds</File>
+    <File md5="D5D12CFA53FCC8770265DF5218AED7A5" import="1">Art/Eso_scene.dds</File>
+    <File md5="134759B466B383C3E5484CA768366C42" import="1">Art/Map_Guaycuru.dds</File>
+    <File md5="640227EEBD683D071F94BDD7B9BA74B6" import="1">Art/sv_haliaganek.dds</File>
+    <File md5="11D780A9E489D3327D6AF545616BF1D6" import="1">Art/THP_GuaycuruAlpha128.dds</File>
+    <File md5="2C5BA9822F0A1644AD6E134C249D356D" import="1">Art/THP_GuaycuruAlpha16.dds</File>
+    <File md5="B5C2FBEC278D727C17B266F6AB3675FE" import="1">Art/THP_GuaycuruAlpha24.dds</File>
+    <File md5="F797CE2B3302A2C6B12D11F6C6D87580" import="1">Art/THP_GuaycuruAlpha32.dds</File>
+    <File md5="366F03457175B34B31E7D61C608A0785" import="1">Art/THP_GuaycuruAlpha48.dds</File>
+    <File md5="8274855B9136E2D4874E5ADE2ECC8766" import="1">Art/THP_GuaycuruAlpha64.dds</File>
+    <File md5="40703F8D959B0D3CC2D45DA70E325D31" import="1">Art/THP_GuaycuruAtlas128.dds</File>
+    <File md5="49B9979BAD4062178C32149C64556E9E" import="1">Art/THP_GuaycuruAtlas256.dds</File>
+    <File md5="96BE469619B26944D550466EA03CECD9" import="1">Art/THP_GuaycuruAtlas32.dds</File>
+    <File md5="0367AF49DE6459FC73CCA5481F4079A4" import="1">Art/THP_GuaycuruAtlas45.dds</File>
+    <File md5="D22AF6EA069D202BB7952A1B0E438BA9" import="1">Art/THP_GuaycuruAtlas64.dds</File>
+    <File md5="16C772704FDE3BC0C322A2F43F319421" import="1">Art/THP_GuaycuruAtlas80.dds</File>
+    <File md5="CCC0FA569554AE52BFE149967A3154E7" import="1">Art/UnitModel/civ5_irohm5.fxsxml</File>
+    <File md5="DC99910AEB075BB4546E7AF888659AD1" import="1">Art/UnitModel/civ5_irohm5.gr2</File>
+    <File md5="AEDE08A49F705498D6B5837D431F5B95" import="1">Art/UnitModel/irohm5.dds</File>
+    <File md5="289706E74F641C499C80F711883E8933" import="1">Art/UnitModel/irohm5_sref.dds</File>
+    <File md5="0726368A7860FAB7E466C9CC95A0A8E2" import="1">Art/UnitModel/irohorse5.dds</File>
+    <File md5="BE3872D7790242221F2F5C17449A4437" import="1">Art/UnitModel/irohorse5_sref.dds</File>
+    <File md5="FD4B13C50E07661F005E8B0499468ABD" import="1">Art/Unit_Haliaganek_Flag_32.dds</File>
+    <File md5="700132257369DCBD280C41F87E4AEA66" import="1">Audio/Guaycuru_Peace.mp3</File>
+    <File md5="8465999A7758A72E09FA56999AEC1E9A" import="1">Audio/Guaycuru_War.mp3</File>
+    <File md5="893243F402069185B7A81B92A424E820" import="0">Core/DiploText.xml</File>
+    <File md5="6ECB23CEFF0BBFEF4FBAB5E379EAD1E7" import="0">Core/GameText.xml</File>
+    <File md5="1B8808EBB5DB37563F45DA89ABA94676" import="0">Core/Guaycuru_ArtDef.sql</File>
+    <File md5="B7246D97E2BDD481787F23CD9C6E9270" import="0">Core/Guaycuru_GameDef.sql</File>
+    <File md5="1C8B50D2B79D678EE49F72C2F4260C84" import="1">Core/Leaderhead_Eso.xml</File>
+    <File md5="42B63B781A3D350D57D8B17274D453B3" import="0">Core/ModSupport_Guaycuru.sql</File>
+    <File md5="1368ACF988CC8834BB7AD60585E8B936" import="1">Lua/AdditionalAchievementsUtility.lua</File>
+    <File md5="B87DC15C02370AEE55F95E3DEE21401D" import="0">Lua/Guaycuru_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DiploText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Guaycuru_ArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Guaycuru_GameDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport_Guaycuru.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Guaycuru_Functions.lua">
+      <Name>TophatGuaycuruFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

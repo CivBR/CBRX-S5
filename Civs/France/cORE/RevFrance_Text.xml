@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!--Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_URDNOT_GUILLOTINE">
+			<Text>Guillotine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_URDNOT_GUILLOTINE_HELP">
+			<Text>The Guillotine provides no [ICON_HAPPINESS_1] Happiness and 3 [ICON_CULTURE] Culture, but retains 50% of the [ICON_HAPPINESS_1] Happiness boost when rebuilt. Destroys two [ICON_CITIZEN] Citizens when built and one upon adopting a Social Policy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_URDNOT_GUILLOTINE_STRATEGY">
+			<Text>The Guillotine is a Renaissance-era Building unique to Revolutionary France, replacing the Zoo. At first glance it seems like an odd Happiness Building - not granting any Happiness on its own! That said, the Guillotine has a very unique interaction with France's unique ability. Whereas usually destroying a building only grants bonus happiness until rebuilt, the Guillotine continues to provide it, theoretically allowing you to stack happiness boosts (and culture bombs) infinitely! That said, the citizen loss effect can really take its toll on your cities if you aren't careful, so be strategic with your... citizen 'corrections'!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_URDNOT_GUILLOTINE_PEDIA">
+			<Text>The Guillotine has existed in some form or another since at least 1280, long before the French Revolution popularised its use. These 'beheading machines' were, however, rare novelties with only a handful known throughout the world - hanging remained the most common method of execution, though more brutal executions such as quartering, breaking on the wheel and strangulation remained popular long into the modern era. That is, these methods were commonly used on the lower classes - beheading was reserved for the nobility, who were graciously offered quick, clean and dignified executions by a skilled swordsman. [NEWLINE] [NEWLINE] When the age of revolutions swept Europe, the French saw this disparity beteween executions as an affront to the ideals of equality that so many had fought to advance. The idea of a 'beheading machine' which could offer every citizen a quick, painless death, swept the nation. Thus, on 10 October 1789, physician Joseph-Ignace Guillotin proposed to the national assembly that all executions take place by means of such a device, and so a commitee under Anton Louis designed and constructed a towering beast which was quickly named 'La Guillotine' after its original proponent - a name that Guillotin would come to despise. [NEWLINE] [NEWLINE] Louis Collenot d'Angremont was a royalist famed for having been the first guillotined for his political ideas, on 21 August 1792. During the Reign of Terror (June 1793 to July 1794) about 17,000 people were guillotined. Former King Louis XVI and Queen Marie Antoinette were executed at the guillotine in 1793. Towards the end of the Terror in 1794, revolutionary leaders such as Georges Danton, Saint-Just and Maximilien Robespierre were sent to the guillotine. Most of the time, executions in Paris were carried out in the Place de la Revolution (former Place Louis XV and current Place de la Concorde); the guillotine stood in the corner near the Hôtel Crillon where the City of Brest Statue can be found today. The machine was moved several times, to the Place de la Nation and the Place de la Bastille, but returned, particularly for the execution of the King and for Robespierre.[NEWLINE] [NEWLINE]For a time, executions by guillotine were a popular form of entertainment that attracted great crowds of spectators, with vendors selling programs listing the names of the condemned. But more than being popular entertainment alone during the Reign of Terror, the guillotine symbolized revolutionary ideals: equality in death equivalent to equality before the law; open and demonstrable revolutionary justice; and the destruction of privilege under the Ancien Régime, which used separate forms of execution for nobility and commoners. The Parisian sans-culottes, then the popular public face of lower-class patriotic radicalism, thus considered the guillotine a positive force for revolutionary progress.</Text>
+		</Row>
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_URDNOT_NATIONAL_GUARD">
+			<Text>National Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_URDNOT_NATIONAL_GUARD_HELP">
+			<Text>Early gunpowder Unit able to gain levels quickly through selling buildings or constructing guillotines. Provides [ICON_CULTURE] Culture when levelled up.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_URDNOT_NATIONAL_GUARD_STRATEGY">
+			<Text>The National Guard is able to rise through the ranks quickly without even being a part of combat, ensuring you have a deadly army waiting for any who would dare oppose your revolution. Simply by using France's UA to sell buildings, the National Guard will gain experience and generate you extra culture, so make sure you have one stationed in all your cities!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_URDNOT_NATIONAL_GUARD_CIVILOPEDIA">
+			<Text>The raising of a "Bourgeois Guard" ("garde bourgeoise") for Paris was discussed by the National Assembly on 11 July 1789 in response to the King's sudden and alarming replacement of minister for finance and state[4], Jacques Necker, with the Baron de Breteuil on that day. The replacement caused rapidly spread anger and violence throughout Paris. The National Assembly declared the formation of a "Bourgeois Militia" ("milice bourgeoise") on 13 July. In the early morning of the next day, the search for weapons for this new militia led to the storming of the Hotel des Invalides and then the storming of the Bastille. Lafayette was elected to the post of commander in chief of the Bourgeois Militia on 14 July, and it was renamed the "National Guard". Similar bodies were spontaneously created in the towns and rural districts of France in response to widespread fears of chaos or counter-revolution. When the French Guards mutinied and were disbanded during the same month, the majority of this former royal regiment's rank and file became the full-time cadre of the Paris National Guard.[NEWLINE] [NEWLINE] Initially each city, town and village maintained National Guard units operated by their respective local governments, until they were united on 14 July 1790 under Lafayette, who was appointed "Commandant General of all the National Guards of the Kingdom" and was responsible to the King as commander-in-chief of the armed forces.[NEWLINE] [NEWLINE] On 5 December 1790 Robespierre held a speech on the urgent topic of the National Guard, a police force, independent from the army and repeated his ideas in the following year.On 27 April 1791, Robespierre again opposed the plans for reorganizing the National Guard and restricting its membership to active citizens. At the end of September a law passed to reorganize the National Guard formations in cantons and districts; each year officers and non-commssioned officers could be elected on 14 July.[NEWLINE] [NEWLINE] Under the law of 14 October 1791, all active citizens and their children over 18 years were obliged to enlist in the National Guard. Their role was the maintenance of law and order and, if necessary, the defence of the territory. Following a nationwide scheme decided on in September 1791, the National Guard was organised on the basis of district or canton companies. Five of these neighbourhood units (designated as fusiliers or grenadiers) made up a battalion. Eight to ten battalions comprised a legion. Districts might also provide companies of veterans and young citizens, respectively drawn from volunteers of over 60 or under 18. Where possible, there was provision for mounted detachments and artillerymen.[NEWLINE] [NEWLINE] On 2 July 1792, the Assembly authorized the National Guard's attendance as part of the Festival of Federation on 14 July, thus circumventing a royal veto. Section assemblies were permitting "passive" citizens to join their National Guard companies without seeking formal permission. On 11 July, the Jacobins won an emergency vote in the wavering Assembly, declaring the nation in danger and drafting all Parisians with pikes or pistols into the National Guard. On 17 July the municipality of Paris accepted all citizens armed with a pike for enlistment as part of the capital's own National Guard unit.[NEWLINE] [NEWLINE] The citizens kept their weapons and their uniforms at home, and set forth with them when required. The initially multi-coloured uniforms of the various provincial National Guard units were standardised in 1791, using as a model the dark blue coats with red collars, white lapels and cuffs worn by the Paris National Guard since its creation. This combination of colours matched those of the revolutionary tricolour. </Text>
+		</Row>
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_URDNOT_TYRANTS_BLOOD_SHORT">
+			<Text>Watered With Tyrant's Blood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_URDNOT_TYRANTS_BLOOD">
+			<Text>Destroying Buildings grants a portion of their historic Yields as [ICON_CULTURE] Culture and grants +2 [ICON_HAPPINESS_1] Happiness until rebuilt. Receive a free Cultural Building when finishing a Policy Tree or entering a [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<!--UA notification-->
+		<Row Tag="TXT_KEY_US_ROBESPIERRE_BUILDING_SOLD_BODY">
+			<Text>You have sold a {1_Building} for {2_Culture} [ICON_CULTURE] Culture!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_US_ROBESPIERRE_BUILDING_SOLD_HEAD">
+			<Text>Building Destroyed! Vive la Revolution!</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_URDNOT_REV_FRANCE_0">
+			<Text>Marat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URDNOT_REV_FRANCE_1">
+			<Text>Talleyrand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URDNOT_REV_FRANCE_2">
+			<Text>Rocques</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URDNOT_REV_FRANCE_3">
+			<Text>Fouche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URDNOT_REV_FRANCE_4">
+			<Text>Danton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URDNOT_REV_FRANCE_5">
+			<Text>Barere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URDNOT_REV_FRANCE_6">
+			<Text>Roland</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URDNOT_REV_FRANCE_7">
+			<Text>Cadoudal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URDNOT_REV_FRANCE_8">
+			<Text>Egalite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_URDNOT_REV_FRANCE_9">
+			<Text>Ducange</Text>
+		</Row>
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_URDNOT_REV_FRANCE_DESC">
+			<Text>Revolutionary France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_URDNOT_REV_FRANCE_SHORT_DESC">
+			<Text>France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_URDNOT_REV_FRANCE_ADJECTIVE">
+			<Text>French</Text>
+		</Row>
+		<!--Civilopedias-->
+		<Row Tag="TXT_KEY_URDNOT_REV_FRANCE">
+			<Text>Revolutionary France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_URDNOT_REV_FRANCE_TITLE">
+			<Text>The First French Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_URDNOT_REV_FRANCE_HEADING_1">
+			<Text>The Ancien Regime</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_URDNOT_REV_FRANCE_TEXT_1">
+			<Text>The Ancien Régime was the political and social system of the Kingdom of France from the Late Middle Ages (circa 15th century) until the French Revolution of 1789, which led to the abolition (1792) of hereditary monarchy and of the feudal system of the French nobility.The late Valois and Bourbon dynasties ruled during the Ancien Régime. The term is occasionally used to refer to the similar feudal systems of the time elsewhere in Europe - for example, in Switzerland. The administrative and social structures of the Ancien Régime resulted from years of state-building, legislative acts (like the Ordinance of Villers-Cotterêts), internal conflicts, and civil wars. The Valois Dynasty's attempts to reform them and re-establish control over the scattered political centres of the country were hindered by the Huguenot Wars (or Wars of Religion of 1562-1598). Much of the reigns of Henry IV (r. 1589–1610) and Louis XIII (r. 1610–1643) and the early years of Louis XIV (r. 1643–1715) focused on administrative centralization. Despite the notion of absolute monarchy (typified by the king's right to issue lettres de cachet) and the efforts by the kings to develop a centralized state, the Kingdom of France retained administrative irregularities: authority regularly overlapped, and nobles resisted change and did their best to retain autonomy. [NEWLINE][NEWLINE]One key to this centralization was the replacing of personal patronage systems organized around the king and other nobles by institutional systems constructed around the state. The appointments of intendants—representatives of royal power in the provinces—did much to undermine local control by regional nobles. The same was true of the greater reliance shown by the royal court on the noblesse de robe as judges and royal counselors. The creation of regional parlements had initially the same goal of facilitating the introduction of royal power into newly-assimilated territories, but as the parlements gained in self-assurance, they began to become sources of disunity. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_URDNOT_REV_FRANCE_HEADING_2">
+			<Text>The First French Revolution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_URDNOT_REV_FRANCE_TEXT_2">
+			<Text>
+				France’s population had changed considerably since 1614. The non-aristocratic members of the Third Estate now represented 98 percent of the people but could still be outvoted by the other two bodies. In the lead-up to the May 5 meeting, the Third Estate began to mobilize support for equal representation and the abolishment of the noble veto—in other words, they wanted voting by head and not by status. While all of the orders shared a common desire for fiscal and judicial reform as well as a more representative form of government, the nobles in particular were loath to give up the privileges they enjoyed under the traditional system.[NEWLINE][NEWLINE]By the time the Estates-General convened at Versailles, the highly public debate over its voting process had erupted into hostility between the three orders, eclipsing the original purpose of the meeting and the authority of the man who had convened it. On June 17, with talks over procedure stalled, the Third Estate met alone and formally adopted the title of National Assembly; three days later, they met in a nearby indoor tennis court and took the so-called Tennis Court Oath (serment du jeu de paume), vowing not to disperse until constitutional reform had been achieved. Within a week, most of the clerical deputies and 47 liberal nobles had joined them, and on June 27 Louis XVI grudgingly absorbed all three orders into the new assembly.
+				[NEWLINE][NEWLINE]On June 12, as the National Assembly (known as the National Constituent Assembly during its work on a constitution) continued to meet at Versailles, fear and violence consumed the capital. Though enthusiastic about the recent breakdown of royal power, Parisians grew panicked as rumors of an impending military coup began to circulate. A popular insurgency culminated on July 14 when rioters stormed the Bastille fortress in an attempt to secure gunpowder and weapons; many consider this event, now commemorated in France as a national holiday, as the start of the French Revolution. The wave of revolutionary fervor and widespread hysteria quickly swept the countryside. Revolting against years of exploitation, peasants looted and burned the homes of tax collectors, landlords and the seigniorial elite.[NEWLINE][NEWLINE]Known as the Great Fear (la Grande peur), the agrarian insurrection hastened the growing exodus of nobles from the country and inspired the National Constituent Assembly to abolish feudalism on August 4, 1789, signing what the historian Georges Lefebvre later called the “death certificate of the old order.”[NEWLINE][NEWLINE]On August 4, the Assembly adopted the Declaration of the Rights of Man and of the Citizen (Déclaration des droits de l’homme et du citoyen), a statement of democratic principles grounded in the philosophical and political ideas of Enlightenment thinkers like Jean-Jacques Rousseau. The document proclaimed the Assembly’s commitment to replace the ancien régime with a system based on equal opportunity, freedom of speech, popular sovereignty and representative government.[NEWLINE][NEWLINE]Drafting a formal constitution proved much more of a challenge for the National Constituent Assembly, which had the added burden of functioning as a legislature during harsh economic times.For months, its members wrestled with fundamental questions about the shape and expanse of France’s new political landscape. For instance, who would be responsible for electing delegates? Would the clergy owe allegiance to the Roman Catholic Church or the French government? Perhaps most importantly, how much authority would the king, his public image further weakened after a failed attempt to flee the country in June 1791, retain?[NEWLINE][NEWLINE]Adopted on September 3, 1791, France’s first written constitution echoed the more moderate voices in the Assembly, establishing a constitutional monarchy in which the king enjoyed royal veto power and the ability to appoint ministers. This compromise did not sit well with influential radicals like Maximilien de Robespierre, Camille Desmoulins and Georges Danton, who began drumming up popular support for a more republican form of government and for the trial of Louis XVI.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_URDNOT_REV_FRANCE_HEADING_3">
+			<Text>The Second French Revolution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_URDNOT_REV_FRANCE_TEXT_3">
+			<Text>
+				In April 1792, the newly elected Legislative Assembly declared war on Austria and Prussia, where it believed that French émigrés were building counterrevolutionary alliances; it also hoped to spread its revolutionary ideals across Europe through warfare.On the domestic front, meanwhile, the political crisis took a radical turn when a group of insurgents led by the extremist Jacobins attacked the royal residence in Paris and arrested the king on August 10, 1792.[NEWLINE][NEWLINE]The following month, amid a wave of violence in which Parisian insurrectionists massacred hundreds of accused counterrevolutionaries, the Legislative Assembly was replaced by the National Convention, which proclaimed the abolition of the monarchy and the establishment of the French republic. On January 21, 1793, it sent King Louis XVI, condemned to death for high treason and crimes against the state, to the guillotine; his wife Marie-Antoinette suffered the same fate nine months later.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_URDNOT_REV_FRANCE_HEADING_4">
+			<Text>The Reign of Terror</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_URDNOT_REV_FRANCE_TEXT_4">
+			<Text>In the spring of 1793, the war entered a third phase, marked by new French defeats. Austria, Prussia, and Great Britain formed a coalition (later called the First Coalition), to which most of the rulers of Europe adhered. France lost Belgium and the Rhineland, and invading forces threatened Paris. These reverses, as those of 1792 had done, strengthened the extremists. The Girondin leaders were driven from the National Convention, and the Montagnards, who had the support of the Paris sansculottes (workers, craftsmen, and shopkeepers), seized power and kept it until 9 Thermidor, year II, of the new French republican calendar (July 27, 1794). The Montagnards were bourgeois liberals like the Girondins but under pressure from the sansculottes, and, in order to meet the requirements of defense, they adopted a radical economic and social policy. They introduced the Maximum (government control of prices), taxed the rich, brought national assistance to the poor and to the disabled, declared that education should be free and compulsory, and ordered the confiscation and sale of the property of émigrés. These exceptional measures provoked violent reactions: the Wars of the Vendée, the “federalist” risings in Normandy and in Provence, the revolts of Lyon and Bordeaux, and the insurrection of the Chouans in Brittany. Opposition, however, was broken by the Reign of Terror (19 Fructidor, year I–9 Thermidor, year II [September 5, 1793–July 27, 1794]), which entailed the arrest of at least 300,000 suspects, 17,000 of whom were sentenced to death and executed while more died in prisons or were killed without any form of trial. At the same time, the revolutionary government raised an army of more than one million men.[NEWLINE][NEWLINE]Thanks to this army, the war entered its fourth phase (beginning in the spring of 1794). A brilliant victory over the Austrians at Fleurus on 8 Messidor, year II (June 26, 1794), enabled the French to reoccupy Belgium. Victory made the Terror and the economic and social restrictions seem pointless. Robespierre, “the Incorruptible,” who had sponsored the restrictions, was overthrown in the National Convention on 9 Thermidor, year II (July 27, 1794), and executed the following day. Soon after his fall the Maximum was abolished, the social laws were no longer applied, and efforts toward economic equality were abandoned. Reaction set in; the National Convention began to debate a new constitution; and, meanwhile, in the west and in the southeast, a royalist “White Terror” broke out. Royalists even tried to seize power in Paris but were crushed by the young Gen. Napoleon Bonaparte on 13 Vendémiaire, year IV (October 5, 1795). A few days later the National Convention dispersed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_URDNOT_REV_FRANCE_HEADING_5">
+			<Text>After Robespierre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_URDNOT_REV_FRANCE_TEXT_5">
+			<Text>The constitution of the year III, which the National Convention had approved, placed executive power in a Directory of five members and legislative power in two chambers, the Council of Ancients and the Council of the Five Hundred (together called the Corps Législatif). This regime, a bourgeois republic, might have achieved stability had not war perpetuated the struggle between revolutionaries and counterrevolutionaries throughout Europe. The war, moreover, embittered existing antagonisms between the Directory and the legislative councils in France and often gave rise to new ones. These disputes were settled by coups d’état, chiefly those of 18 Fructidor, year V (September 4, 1797), which removed the royalists from the Directory and from the councils, and of 18 Brumaire, year VIII (November 9, 1799), in which Bonaparte abolished the Directory and became the leader of France as its “first consul.”</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_1">
+			<Text>Paris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_2">
+			<Text>Marseille</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_3">
+			<Text>Lyon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_4">
+			<Text>Toulouse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_5">
+			<Text>Le Havre-Marat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_6">
+			<Text>Nantes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_7">
+			<Text>Amiens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_8">
+			<Text>Bordeaux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_9">
+			<Text>Rouen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_10">
+			<Text>Nice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_11">
+			<Text>Bruxelles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_12">
+			<Text>Toulon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_13">
+			<Text>Arras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_14">
+			<Text>Ajaccio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_15">
+			<Text>Grenoble</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_16">
+			<Text>Montpellier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_17">
+			<Text>Dijon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_18">
+			<Text>Bayonne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_19">
+			<Text>Valmy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_20">
+			<Text>Reims</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_21">
+			<Text>Cologne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_22">
+			<Text>Cleves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_23">
+			<Text>Port-Au-Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_24">
+			<Text>Cordelier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_25">
+			<Text>Pondicherry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_26">
+			<Text>Calvin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URDNOT_REV_FRANCE_27">
+			<Text>Versailles</Text>
+		</Row>
+		<!-- Leader Civlopedia Text -->
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_DESC">
+			<Text>Maximilien Robespierre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_LIVED">
+			<Text>6 May 1758 - 28 July 1794</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_NAME">
+			<Text>Maximilien Francois Marie Isidore de Robespierre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_SUBTITLE">
+			<Text>President of the National Convention</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_TITLES_1">
+			<Text>Member of the Committee of Public Safety</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_TITLES_2">
+			<Text>Deputy to the Estates General for the Third Estate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_TEXT_1">
+			<Text>Maximilien Robespierre, in full Maximilien-François-Marie-Isidore de Robespierre, (born May 6, 1758, Arras, France—died July 28, 1794, Paris), radical Jacobin leader and one of the principal figures in the French Revolution. In the latter months of 1793 he came to dominate the Committee of Public Safety, the principal organ of the Revolutionary government during the Reign of Terror, but in 1794 he was overthrown and executed in the Thermidorian Reaction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_HEADING_2">
+			<Text>Early Life and the Estates General</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_TEXT_2">
+			<Text>Robespierre was the son of a lawyer in Arras. After his mother’s death, his father left home, and Maximilien, along with his brother and sisters, was raised by his maternal grandparents. From 1765 he attended the college of the Oratorians at Arras, and in 1769 he was awarded a scholarship to the famous college of Louis-le-Grand in Paris, where he distinguished himself in philosophy and law. He received a law degree in 1781 and became a lawyer at Arras, where he set up house with his sister Charlotte. He soon made a name for himself and was appointed a judge at the Salle Épiscopale, a court with jurisdiction over the provostship of the diocese. His private practice provided him with a comfortable income.[NEWLINE] [NEWLINE]He was admitted to the Arras Academy in 1783 and soon became its chancellor and later its president. Contrary to the long-held belief that Robespierre led an isolated life, he often visited local notables and mingled with the young people of the district. He entered academic competitions, and his “Mémoire sur les peines infamantes” (“Report on Degrading Punishments”) won first prize at the Academy of Metz. By 1788 Robespierre was already well known for his altruism. As a lawyer representing poor people, he had alarmed the privileged classes by his protests in his “Mémoire pour le Sieur Dupond” (“Report for Lord Dupond”) against royal absolutism and arbitrary justice.[NEWLINE] [NEWLINE]When the summoning of the Estates-General (a national assembly that had not been called since 1614) was announced, he issued an appeal entitled À la nation artésienne sur la nécessité de réformer les Etats d’Artois (“To the People of Artois on the Necessity of Reforming the Estates of Artois”). In March 1789 the citizens of Arras chose him as one of their representatives, and the Third Estate (the commons) of the bailiwick elected him fifth of the eight deputies from Artois. Thus he began his political career at the age of 30.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_HEADING_3">
+			<Text>The Revolution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_TEXT_3">
+			<Text>Robespierre preserved his frugal way of life, his careful dress and grooming, and his simple manners both at Versailles and later in Paris. He quickly attracted attention in an assembly that included some distinguished names. He probably made his maiden speech on May 18, 1789, and he was to speak more than 500 times during the life of the National Assembly. He succeeded in making himself heard despite the weak carrying power of his voice and the opposition he aroused, and his motions were usually applauded. Proofs of his growing popularity were the ferocious attacks made by the royalist press on this “Demosthenes,” “who believes everything he says,” this “monkey of Mirabeau’s” (the comte de Mirabeau, a politician who wanted to create a constitutional assembly).[NEWLINE] [NEWLINE]Robespierre was kept out of the committees and from the presidency of the National Assembly; only once, in June 1790, was he elected secretary of the National Assembly. In April he had presided over the Jacobins, a political club promoting the ideas of the French Revolution. In October he was appointed a judge of the Versailles tribunal.[NEWLINE] [NEWLINE]Robespierre nevertheless decided to devote himself fully to his work in the National Assembly, where the constitution was being drawn up. Grounded in ancient history and the works of the French philosophers of the Enlightenment, he welcomed the Declaration of the Rights of Man and of the Citizen, which formed the preamble of the French constitution of September 3, 1791, and he insisted that all laws should conform to it. He fought for universal suffrage, for unrestricted admission to the national guard, to public offices, and to the commissioned ranks of the army, and for the right to petition. He opposed the royal veto, the abuses of ministerial power, and religious and racial discrimination. He defended actors, Jews, and black slaves and supported the reunion of Avignon, formerly a papal possession, with France in September 1791. In May he had successfully proposed that all new deputies be elected to the next legislature so that, as a new body, it would better express the people’s will.[NEWLINE] [NEWLINE]His passionate fight for liberty won him more enemies, who called him a dangerous individual—and worse. After the flight of Louis XVI (June 20–21, 1791), for which Robespierre vainly demanded his trial, the slanders against the Revolutionary deputy became twice as violent. He hastened the vote on the constitution so as to attract “as many of the democratic party as possible,” inviting in his Adresse aux Français (July 1791; Address to the French) the patriots to join forces. Martial law was proclaimed, and at the Champ-de-Mars the national guard—under the command of the marquis de Lafayette, a moderate who wanted to save the monarchy—opened fire on a group demanding the abdication of the king. Robespierre, his life threatened, went to live with the family of the cabinetmaker Maurice Duplay. He managed to keep the Jacobin Club alive after all of its moderate members had joined a rival club. When the National Assembly dissolved itself, the people of Paris organized a triumphal procession for Robespierre.[NEWLINE] [NEWLINE]Although he had excluded himself and his colleagues from the new Legislative Assembly, Robespierre continued to be politically active, giving up the lucrative post of public prosecutor of Paris, to which he had been elected in June 1791. Henceforth, he spoke only at the Jacobin Club, where he was to be heard about 100 times, until August 1792. There he opposed the European war that Jacques-Pierre Brissot was advocating as a means of spreading the aims of the Revolution.[NEWLINE] [NEWLINE]He denounced the secret intrigues of the court and of the royalists, their collusion with Austria, the unpreparedness of the army, and the possible treason of aristocratic officers whose dismissal he demanded in February 1792. He also defended patriotic soldiers, such as those of the Châteauvieux regiment, who had been imprisoned after their mutiny at Nancy. When Brissot’s supporters stirred up opinion against him, Robespierre founded a newspaper, Le Défenseur de la Constitution (“Defense of the Constitution”), which strengthened his hand. He attacked Lafayette, who had become the commander of the French army and whom he suspected of wanting to set up a military dictatorship, but failed to obtain his dismissal and arrest.[NEWLINE] [NEWLINE]The reverses suffered by the French army after France had declared war on Austria and Prussia had been foreseen by Robespierre, and, when invasion threatened, the people rallied to him. Although he had defined the aims of insurrection, he hesitated to advocate it: “Fight the common enemy,” he told the provincial volunteers, “only with the sword of law.” When the insurrection nevertheless broke out on August 10, 1792, Robespierre took no part in the attack on the Tuileries Palace. But that same afternoon his section (an administrative subdivision of Paris), Les Piques, nominated him to the insurrectional Commune. As a member of the electoral assembly of Paris, he heard about the September Massacres of imprisoned nobles and clergy by Parisian crowds. He exonerated the mob, and on September 5 the people of Paris elected him to head the delegation to the National Convention.[NEWLINE] [NEWLINE]The Girondins—who favoured political but not social democracy and who controlled the government and the civil service—accused Robespierre of dictatorship from the first sessions of the National Convention. At the king’s trial, which began in December 1792, Robespierre spoke 11 times and called for death. His speech on December 3 rallied the hesitant. His new journal, Les Lettres à ses commettants (“Letters to His Constituents”), kept the provinces informed.[NEWLINE] [NEWLINE]The king’s execution did not, however, resolve the struggle between the Girondins and the Montagnards, the deputies of the extreme left. At the same time, the scarcity of food and the rising prices created a revolutionary mood. The treason of General Charles Dumouriez, who went over to the Austrians, precipitated the crisis. A kind of “popular front” was formed between the Parisian sansculottes, the poor, ultraleft republicans, and the Montagnards. On May 26, 1793, Robespierre called on the people “to rise in insurrection.” Five days later he supported a decree of the National Convention indicting the Girondin leaders and Dumouriez’s accomplices. On June 2 the decree was passed against 29 of them.</Text>
+		</Row>w
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_HEADING_5">
+			<Text>The Reign of Terror</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_TEXT_5">
+			<Text>After the fall of the Girondins, the Montagnards were left to deal with the country’s desperate position. Threatened from within by the movement for federalism and by the civil war in the Vendée in the northwest and threatened at the frontiers by the anti-French coalition, the Revolution mobilized its resources for victory. In his diary, Robespierre noted that what was needed was “une volonté une” (“one single will”), and this dictatorial power was to characterize the Revolutionary government. Its essential organs had been created, and he set himself to make them work.[NEWLINE] [NEWLINE]On July 27, 1793, Robespierre took his place on the Committee of Public Safety, which had first been set up in April. While some of his colleagues were away on missions and others were preoccupied with special assignments, he strove to prevent division among the revolutionaries by relying on the Jacobin societies and the vigilance committees. Henceforward his actions were to be inseparable from those of the government as a whole. As president of the Jacobin Club and then of the National Convention, he denounced the schemes of the Parisian radicals known as the Enragés, who were using the food shortage to stir up the Paris sections. Robespierre answered the demonstrators on September 5 by promising maximum prices for all foodstuffs and a Revolutionary militia for use in the interior against counterrevolutionaries and grain hoarders.[NEWLINE] [NEWLINE]In order to bring about a mass conscription, economic dictatorship, and total war, he asked to intensify the Reign of Terror. But he objected to pointless executions, protecting those deputies who had protested the arrest of the Girondins and of the king’s sister. He was sickened by the massacres condoned by the représentants en mission (members of the National Convention sent to break the opposition in the provinces) and demanded their recall for “dishonouring the Revolution.”[NEWLINE] [NEWLINE]Robespierre devoted his report of 5 Nivôse, year II (December 25, 1793 [the French republican calendar had been introduced in September 1793, with its beginning, or year I, set one year prior]), to justifying the collective dictatorship of the National Convention, administrative centralization, and the purging of local authorities. He protested against the various factions that threatened the government. The Hébertists, the Cordeliers, and the popular militants all called for more-radical measures and encouraged de-Christianization and the prosecution of food hoarders. Their excesses frightened the peasants, who could not have been pleased by the decrees of 8 and 13 Ventôse, year II (February 26 and March 3, 1794), which provided for the distribution among the poor of the property of suspects.[NEWLINE] [NEWLINE]Reappearing at the Jacobin Club after a month’s illness, Robespierre denounced the radical revolutionist Jacques-René Hébert and his adherents, who together with some foreign agents were executed in March. Those who wanted, like Georges Danton, to halt the Reign of Terror and the war attacked the policies of the Committee of Public Safety with increasing violence. Robespierre, although still hesitant, led the National Convention against these so-called Indulgents. The Dantonist leaders and the deputies who were compromised in the liquidation of the French East India Company were guillotined on 16 Germinal (April 5).[NEWLINE] [NEWLINE]A Deist in the style of Jean-Jacques Rousseau, Robespierre disapproved of the anti-Christian movement and the “masquerades” of the cult of reason. In a report to the National Convention in May, he affirmed the existence of God and the immortality of the soul and strove to rally the revolutionaries around a civic religion and the cult of the Supreme Being. That he remained extremely popular is shown by the public ovations he received after Henri Admirat’s unsuccessful attempt on his life on 3 Prairial (May 22). The National Convention elected him president, on 16 Prairial (June 4), by a vote of 216 out of 220. In this capacity he led the festival of the Supreme Being (“Etre suprême") in the Tuileries Gardens on 20 Prairial (June 8), which was to provide his enemies with another weapon against him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_HEADING_6">
+			<Text>Thermidorian Reaction and Downfall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_TEXT_6">
+			<Text>After the law of 22 Prairial (June 10) reorganizing the Revolutionary Tribunal, which had been formed in March 1793 to condemn all enemies of the regime, opposition to Robespierre grew; it was led by those représentants en mission whom he had threatened. His influence was challenged in the Committee of Public Safety itself, and the Committee of General Security, which felt slighted by the General Police Bureau directed by Robespierre, Georges Couthon, and Louis de Saint-Just, became even more hostile. In the cafés he was accused of being a moderate. And Joseph Cambon, the minister of finance, detested him.[NEWLINE] [NEWLINE]Unremitting work and frequent speeches in the Legislative Assembly and at the Jacobin Club (a total of some 450 since the beginning of the session) had undermined Robespierre’s health, and he became irritable and distant. Embittered by the slanders and by the accusations of dictatorship being spread both by the royalists and by his colleagues, the Montagnards, he stayed away from the National Convention and then, after 10 Messidor (June 28), from the Committee of Public Safety, confining his denunciations of counterrevolutionary intrigues to the Jacobin Club. At the same time, he began to lose the support of the people, whose hardships continued despite the recent French victories. From his partial retirement Robespierre followed the unleashing of the Great Terror in the summer of 1794 and the progress of opposition.[NEWLINE] [NEWLINE]Attempting to regain his hold on public opinion, Robespierre reappeared at the Committee of Public Safety on 5 Thermidor (July 23) and then, on 8 Thermidor (July 26), at the National Convention, to which he turned as his judge. His last speech was at first received with applause, then with disquiet, and finally the parliamentary majority turned against him. Despite his successful reception that evening at the Jacobin Club, Robespierre’s adversaries succeeded the next day in preventing him from speaking before the Convention, which indicted him together with his brother, Augustin, and three of his associates. Robespierre was taken to the Luxembourg prison, but the warden refused to jail him.[NEWLINE] [NEWLINE]Later he went to the Hôtel de Ville (City Hall), where he could, doubtless, still have continued the struggle, for armed contingents from some of the sections of the city had been summoned by the Paris Commune and were awaiting his orders. But Robespierre refused to lead an insurrection, and eventually his loyal contingents began to disperse. Declared an outlaw by the National Convention, Robespierre severely wounded himself by a pistol shot in the jaw at the Hôtel de Ville, throwing his friends into confusion. The soldiers of the National Convention attacked the Hôtel de Ville and easily seized Robespierre and his followers. In the evening of 10 Thermidor (July 28), the first 22 of those condemned, including Robespierre, were guillotined before a cheering mob on the Place de la Révolution (now the Place de la Concorde). In all, 108 people died for adherence to Robespierre’s cause.</Text>
+		</Row>
+		<!-- DOM Text-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_URDNOT_REV_FRANCE_TEXT">
+			<Text>
+				Salut, Citoyen Robespierre - the republic of virtue awaits your righteous guidance! Born under the tyrannical and decaying ancien regime of the Bourbon kings of France, you quickly came to realise that the governance provided by these kings and their noble courtiers served only to diminish the inherent righteousness of your countrymen, suffocating them beneath a blanket of arbitrary royal whims and decrepit, dysfunctional structures. Called to represent the common man of France at the historic Estates General of 1789, you quickly rose to prominence as one of the most aggressive and uncompromising defenders of the French commoner - refusing all notion of compromise with the hated aristocracy. After years of factional infighting, you emerged as the undisputed head of the revolution in 1793, with a singular goal in mind and the steely resolve needed to achieve it. In pursuit of a ‘republic of virtue’ - a state cleansed of all those who harboured even a spot of blackness in their hearts, you baptised the nation in a holy fury that spilled impure blood from the turbulent battlefields of the Vendee to the steps of the royal palace. To you there were no friends, no foes, no royals and no commoners - merely the virtuous and the damned - a path of damnation that led you to both the guillotine and the annals of world history. [NEWLINE][NEWLINE]Oh citizen Robespierre, the virtuous masses cry out for a leader who can shepherd them through the machinations of those who seek to chain them. Are you strong enough to cast aside your scruples and do what must be done? Have the people found their protector, or will you be yet another impure tyrant, destined for the sweet justice of the guillotine? Can you build a republic to stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_HEADING_7">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_URDNOT_ROBESPIERRE_TEXT_7">
+			<Text>Robespierre’s enemies credited him with dictatorial power, both in the Jacobin Club and in the Committee of Public Safety, a power that he did not have. Counterrevolutionaries and the rich condemned his egalitarian ideas, while popular militants accused him of lacking boldness. After his death, his memory was relentlessly attacked, and a great many of his papers were destroyed. History portrayed him as either a bloodthirsty creature or a timid bourgeois.[NEWLINE] [NEWLINE]But, following the appearance of working-class movements in the 19th century, both in France and abroad, homage was paid to this “persecuted patriot,” and his most famous speeches were reprinted. His social ideal consisted in reducing extreme inequalities of wealth, in increasing the number of small property owners, and in ensuring work and education for all. He was a man of his times, of the Enlightenment, a patriot, a man with a sense of duty and of sacrifice, whose influence remains considerable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROBESPIERRE_FIRSTGREETING">
+			<Text>Salut. They call me Citizen Robespierre. Know that I shall be your everlasting friend should you abide by the simple virtues of liberty, equality, and fraternity. If you have anything else on your mind, I suggest you keep quiet lest you find yourself beneath a guillotine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROBESPIERRE_DEFEATED">
+			<Text>Killing me stops nothing - your petty tyranny is but a weak and impermanent dam across the raging torrent of man's inherent righteousness. In the end, all men shall either swim with this torrent, or drown beneath it. It's clear you've made your choice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_US_LEGISLATURE_NAME_CIVILIZATION_URDNOT_REV_FRANCE">
+			<Text>National Convention</Text>
+		</Row>
+		<Row Tag="TXT_KEY_US_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_URDNOT_REV_FRANCE">
+			<Text>President of the National Convention</Text>
+		</Row>
+		<!--Heads of Govt.-->
+		<Row Tag="TXT_KEY_US_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_URDNOT_REV_FRANCE_1">
+			<Text>Georges Danton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_US_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_URDNOT_REV_FRANCE_2">
+			<Text>Abbé Sieyes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_US_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_URDNOT_REV_FRANCE_3">
+			<Text>Gilbert du Motier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_US_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_URDNOT_REV_FRANCE_4">
+			<Text>Napoleon Bonaparte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_US_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_URDNOT_REV_FRANCE_5">
+			<Text>Jacques Pierre Brissot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_US_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_URDNOT_REV_FRANCE_6">
+			<Text>Comte du Mirabeau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_US_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_URDNOT_REV_FRANCE_7">
+			<Text>Jean Bailly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_US_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_URDNOT_REV_FRANCE_8">
+			<Text>Louis Antoine de Saint-Just</Text>
+		</Row>
+		<Row Tag="TXT_KEY_US_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_URDNOT_REV_FRANCE_9">
+			<Text>Jean Marie Collot d'Herbois</Text>
+		</Row>
+		<Row Tag="TXT_KEY_US_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_URDNOT_REV_FRANCE_10">
+			<Text>Camille Desmoulin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ASSEMBLY_JFD_MILITARY_URDNOT_REV_FRANCE">
+			<Text>The Directory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FACTION_JFD_NATIONALIST_URDNOT_REV_FRANCE">
+			<Text>Bonapartists</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FACTION_JFD_POPULARIST_URDNOT_REV_FRANCE">
+			<Text>Heberists</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_BURGHERS_URDNOT_REV_FRANCE">
+			<Text>Girondins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_CLERGY_URDNOT_REV_FRANCE">
+			<Text>Superstitious Fools</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_COMMUNIST_URDNOT_REV_FRANCE">
+			<Text>The Conspiracy of Equals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_CONSERVATIVE_URDNOT_REV_FRANCE">
+			<Text>Feuillants Club</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_FASCIST_URDNOT_REV_FRANCE">
+			<Text>Emigres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERAL_URDNOT_REV_FRANCE">
+			<Text>Montagnards</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERTARIAN_URDNOT_REV_FRANCE">
+			<Text>Federalistes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_NOBILITY_URDNOT_REV_FRANCE">
+			<Text>Reactionaries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_REACTIONARY_URDNOT_REV_FRANCE">
+			<Text>Thermidorians</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_REVOLUTIONARY_URDNOT_REV_FRANCE">
+			<Text>Jacobins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_SOCIALIST_URDNOT_REV_FRANCE">
+			<Text>Enrages</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_US_DICTATORSHIP_TITLE_LEADER_URDNOT_REV_FRANCE">
+			<Text>First Consul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_US_DICTATORSHIP_TITLE_GOVERNMENT_URDNOT_REV_FRANCE">
+			<Text>Directorate of France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_US_MONARCHY_TITLE_LEADER_URDNOT_REV_FRANCE">
+			<Text>Tyrant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_US_MONARCHY_TITLE_GOVERNMENT_URDNOT_REV_FRANCE">
+			<Text>Opressed Citizens of {1_CivName}</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/7/2022 11:47:29 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_DALCASCOUT">
+			<Text>Cailín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_MARKLOST">
+			<Text>Cailín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_1">
+			<Text>Cailín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_2">
+			<Text>Melinka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_3">
+			<Text>Repollal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_4">
+			<Text>Aysén</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_5">
+			<Text>Dalcahue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_6">
+			<Text>Puyuhuapi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_7">
+			<Text>Llauquil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_8">
+			<Text>Quellón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_9">
+			<Text>Hornopirén</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_10">
+			<Text>Melchor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_11">
+			<Text>Traiguen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_12">
+			<Text>Cuptana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_13">
+			<Text>Calcai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_14">
+			<Text>Guabtana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_15">
+			<Text>Guamblin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_16">
+			<Text>Socorro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_17">
+			<Text>Guafo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_18">
+			<Text>Leucayes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_19">
+			<Text>Verdugo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_20">
+			<Text>Nalcayec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_21">
+			<Text>Dring</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_22">
+			<Text>Quetrolauquén</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_23">
+			<Text>Alfaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_24">
+			<Text>Nalcahue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_25">
+			<Text>Chucagua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_26">
+			<Text>Colhue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_27">
+			<Text>Abtao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_28">
+			<Text>Lín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_29">
+			<Text>Achao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_30">
+			<Text>Choen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_31">
+			<Text>Quemchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_32">
+			<Text>Queilén</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_33">
+			<Text>Pucolón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_34">
+			<Text>Chonchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_35">
+			<Text>Ancud</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_36">
+			<Text>Cisnes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_37">
+			<Text>Ketámaway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_38">
+			<Text>Laitec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_39">
+			<Text>Linlinao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_40">
+			<Text>Chaulinec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_41">
+			<Text>Lin-lín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_CHONO_42">
+			<Text>Ka'wais</Text>
+		</Row>
+
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_CHONO_0">
+			<Text>Talcapillán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_CHONO_1">
+			<Text>Tónkekoq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_CHONO_2">
+			<Text>Káafer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_CHONO_3">
+			<Text>Konkok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_CHONO_4">
+			<Text>Ténkok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_CHONO_5">
+			<Text>Wurk-wur-we</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_CHONO_6">
+			<Text>Ma'a</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_CHONO_7">
+			<Text>Omése</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_CHONO_8">
+			<Text>Konkóse</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_CHONO_9">
+			<Text>Wanéfe</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<!--Basic Info-->
+		<Row Tag="TXT_KEY_LEADER_RHO_OLLETA">
+			<Text>Martín Olleta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_RHO_CHONO_ADJ">
+			<Text>Chono</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_RHO_CHONO">
+			<Text>The Chono</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_RHO_CHONO_SHORT">
+			<Text>The Chono</Text>
+			<Plurality>2</Plurality>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="TXT_KEY_PEDIA_RHO_CHONO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_CHONO_TEXT_1">
+			<Text>The Chono, or Guaiteco were a nomadic indigenous people or group of peoples of the archipelagos of Chiloé, Guaitecas and Chonos. The Chono people lived as hunter-gatherers traveling by canoe. Much of what is known from Spanish sources on Chonos is filtered by a Huilliche (southern Mapuche) worldview, as Huilliches and Huilliche language was used to communicate with Chonos. The Chono people are believed to be Chiloé Archipelago's first ethnically identifiable inhabitants, which has led to the assumption that the Chono were the people who left behind most of the abundant shell middens of Chiloé. There are various place names in Chiloé with Chono etymologies despite the main indigenous language of the archipelago at the arrival of the Spaniards being Veliche. As such, some historians consider that places as far north as the coast of Osorno and Llanquihue Lake were once within the range of Chono nomadism. The Chono people met Europeans for the first time when the naval expedition of Francisco de Ulloa arrived at their lands in 1553. In the late 16th-century and early 17th-century there were various Spanish incursions aimed to bring Chono to the Spanish dominions of Chiloé. These incursions turned into outright slave raids following the 1608 decree of King Philip III of Spain that legalized slavery of "indigenous rebels". Interest in the Chono lands arose again in the 1740s when the Spaniards learned about the wreck of the British warship HMS Wager on Wager Island in western Patagonia. As a result of a corsair and pirate menace the Spanish authorities were ordered to depopulate the archipelagos of Chono and Guaiteca to deprive their enemies of any eventual support from the native populations. This then led to the transfer of population to Chiloé Archipelago in the north while some Chono moved south of Taitao Peninsula, effectively depopulating the territory. The Chono in Chiloé ended up being absorbed by the mestizo and indigenous Huilliche population there. The Chono largely disappear from the historical record after the 18th century, but sporadic references remained. Inhabitants in the island of Laitec, which has strong historical links to the Chono, have an indigenous genetic admixture averaging 80%. The custom of the inhabitants of Melinka to bring dogs on board in their travels may be rooted in Chono traditions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_OLLETA_NAME">
+			<Text>Martín Olleta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_OLLETA_SUBTITLE">
+			<Text>Leader of the Chono</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_OLLETA_TITLES_1">
+			<Text>Little Governor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_OLLETA_LIVED">
+			<Text>c. 1742</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_OLLETA_HEADING_1">
+			<Text>Biography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_OLLETA_TEXT_1">
+			<Text>
+				Martín Olleta was a Chono chieftain who was an important broker between Spanish authorities in Chiloé Archipelago and indigenous people of the fjords and channels of Patagonia. He is known for rescuing the survivors of from the wreck of HMS Wager in 1742. He was identified as chieftain by the British and referred to as "gobernadorcillo de dicha nación chonos" ("little governor of the Chono nation") by the Spanish governor of Chiloé Victoriano Martínez de Tineo. He used a rod with a silver handle as symbol of authority.
+				Olleta led a party of indigenous Chono that visited Captain Cheap's stranded group in Wager Island, Guayaneco Archipelago. This happened fifteen days after a group of British sailors returned to Wager Island after failing to round Taitao Peninsula with an improvised barge. The Spanish language proficiency of the Chonos was enough to communicate with the Spanish-speaking surgeon of the British party. After some negotiation, the Chono agreed to guide Cheap's group to a small Spanish settlement up the coast, using an overland route to avoid the peninsula. The castaways traded the barge and iron objects for the journey. Iron was highly valued by the Chono as this metal was even scarce in the Spanish settlements further north. The survivors of HMS Wager boarded the dalcas of Olleta's party and headed north. Martín Olleta led the survivors through an unusual route across Presidente Ríos Lake in Taitao Peninsula avoiding the common route through San Tadeo River and San Rafael Lake. Before handing over the English to Spanish authorities, Martín Olleta's party stopped somewhere south of Chiloé Island to hide all iron objects, likely to avoid have them confiscated. When Spanish authorities learned that Lieutenant Hamilton had been lost in the way north, they compelled Olleta to go back south and find him, which he actually did. After the rescue of the English, he lived on Cailín Island by 1744 at least.
+			</Text>
+		</Row>
+
+		<!--Gameplay-->
+		<Row Tag="TXT_KEY_CIV5_DAWN_RHO_CHONO_TEXT">
+			<Text>Hail, wily Martin Olleta, little governor of the Chono nation! When a ship full of British fools crashed in your lands, leaving the unprepared crew stranded on an uninhabited island in Guayaneco, it was your generous band that saved them and guided them to the nearby Spaniards. However, in your great wisdom, you took the rescuees via an uncommon and winding route, passing through a lake that the western colonizers would only reach more than two hundred years later! Not only that, but you carefully hid the precious iron the ship no longer needed, so that the greedy Spanish wouldn't take it from your needy people. You were not to be called mercenary either, for you even conducted another expedition to save a lone castaway that lost his way from the main party. After this brave rescue, your influence only grew, and from your home on Cailin you oversaw your Chono and their lives in the fjords and channels of Patagonia. [NEWLINE][NEWLINE]But it was not to last, little governor, and before long the words of the Chono had disappeared, replaced by the rough tongue of Chile. The exploits of the Walt and their wielders have faded from history, and even the agile Dalca no longer ply your ragged coastline, with their loyal Tewa nowhere to be seen. Oh grand chief, the spirits of the Chono are restless, desperate for you to lead them once again, and see our island of stones free. Can you drive back the colonizing forces? Can you rule again the boundary of the trees and the waves? Can build a civilization to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RHO_GUIDES_OF_TAITAO_SHORT">
+			<Text>Guides of Taitao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RHO_GUIDES_OF_TAITAO">
+			<Text>
+				Unused Strategic Resources are converted into [ICON_GOLD] Gold per turn, double for Iron. Upon meeting a foreign power, reveal the locations and levels of all their units and gain a burst of Culture from your Fresh Water tiles.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_WALT">
+			<Text>Walt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_WALT_HELP">
+			<Text>A Composite Bowman replacement suited to exploring foreign lands and defending your own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_WALT_STRATEGY">
+			<Text>A Composite Bowman replacement. Trained with Survivalism I. Drain temporary Movement and XP from adjacent foreign units at the start of the turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_WALT_TEXT">
+			<Text>'Walt' is attested as the Chono language word for a bow. The Chono were adept at hunting both on land or at sea. They were also known to deliberately take european visitors on confusing routes to preserve their mastery of the landscape.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_DALCA">
+			<Text>Dalca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_DALCA_HELP">
+			<Text>A Work Boat replacement that gives your civilization some extra culture and food boosts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_DALCA_STRATEGY">
+			<Text>A Work Boat replacement. Double Movement in Coast. Upon being expended, provides the nearest Culture for every adjacent Forest or Mine, then spawns a Scout on a nearby land tile if possible. Scouts spawned this way can be expended on a city for Food.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_DALCA_TEXT">
+			<Text>A Dalca is the type of small boat developed by the Chono, and it was so effective at navigating the ragged coastline of southern Chile that this boat design would be adopted by the neighbouring Mapuche and Kaweskar, and was even used by the Spanish colonizers long after the Chono identity itself had been wiped out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_DALCASCOUT">
+			<Text>Téwa's Aid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_DALCASCOUT_HELP">
+			<Text>Deleting this unit on a city provides Food.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_MARKLOST">
+			<Text>Lost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_MARKLOST_HELP">
+			<Text>-1 Movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_OLLETA_FIRSTGREETING_1">
+			<Text>Oh dear, are you lost? Come with me then, I'm sure we can work out a price.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_OLLETA_DEFEATED_1">
+			<Text>How can it all... end here...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_OLLETA_DOWGENERIC_1">
+			<Text>You've been wandering around near me for too long. I can use your land better than you could dream of doing!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_OLLETA_ATTACKEDHOSTILE_1">
+			<Text>If you think you know my land better than I, you're welcome to die, fool.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_OLLETA_LUXURYTRADE_1">
+			<Text>I don't suppose you have any iron to offer?</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

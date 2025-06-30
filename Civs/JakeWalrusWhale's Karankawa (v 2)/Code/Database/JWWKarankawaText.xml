@@ -1,0 +1,392 @@
+<GameData>
+	<Language_en_US>
+	<!-- Civilization -->
+		<Row Tag="TXT_KEY_CIV5_JWW_KARANKAWA_TITLE">
+			<Text>Karankawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_KARANKAWA_DESC">
+			<Text>The Karankawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_KARANKAWA_SHORT_DESC">
+			<Text>The Karankawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_KARANKAWA_ADJECTIVE">
+			<Text>Karankawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JWW_KARANKAWA_TEXT">
+			<Text>You must resist, oh chief Joseph María, leader of the Karankawa people. Victims of Spanish settlement and colonization, you led the abandonment of the mission they had forced your people on to, you yourself having been raised with the Catholic faith and Spanish language instead of your own. Abandoning the mission, from the coast you led raids. Seeing you as the leader, the Spanish hope to trap and kill you. But they failed, enraging your people even more. But as European goods dried up, you looked to cease hostilities. But as you were on the brink of peace, chance tempers led to further war and shattering your influence. It was during this time that the Apache killed you, before the peace between the Karankawa and Spanish could truly be settled.[NEWLINE][NEWLINE]Oh chief Joseph María, your people were a proud people. It is your duty to lead them back into the light,  so that the scent of shark oil on skin once again permeates the Texan coast. Can you resist your enemies, using your knowledge of the coast to your advantage? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+	<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_JWW_CANNIBAL_COAST_SHORT">
+			<Text>Isla del Malhado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JWW_CANNIBAL_COAST">
+			<Text>On rivers, marsh, or floodplains, units move faster and may embark at any time. Defeating units may spawn [ICON_RES_JWW_OYSTERS] Oysters or [ICON_RES_JWW_HOLLY] Holly nearby. If near [ICON_RES_JWW_OYSTERS] Oysters or [ICON_RES_JWW_HOLLY] Holly, defeating units will heal and provide [ICON_CULTURE] culture and [ICON_GOLDEN_AGE] points.</Text>
+		</Row>
+	<!-- Leader -->
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA">
+			<Text>Joseph María</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_JOSEPH_MARIA_LIVED">
+			<Text>? - 1789</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_JOSEPH_MARIA_NAME">
+			<Text>Joseph María</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_JOSEPH_MARIA_SUBTITLE">
+			<Text>Chief of the Karankawas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_JOSEPH_MARIA_TITLES_1">
+			<Text>Unifier of the Karankawas</Text>
+		</Row>
+	<!-- Unit -->
+		<Row Tag="TXT_KEY_UNIT_JWW_DUG_OUT">
+			<Text>Dug-out</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JWW_DUG_OUT">
+			<Text>Can only be built by the Karankawa. Replaces the Workboat. Resources improved by the Dug-out will grant a combat and movement boost to units starting on the tile. Transform into a naval melee unit when attacked by an enemy or on completion of fishing boats.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JWW_DUG_OUT_STRATEGY">
+			<Text>Improving resources with the Dug-out will allow the plot to provide +2 [ICON_MOVES] and +15% [ICON_STRENGTH] for any unit starting its turn there. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_KARANKAWA_COMBAT_STRENGTH">
+			<Text>Dug-Out Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_KARANKAWA_COMBAT_STRENGTH_HELP">
+			<Text>Since this unit is on a resource improved by a Dug-Out, this unit starts the turn with + [ICON_MOVES] and +25% [ICON_STRENGTH].</Text>
+		</Row>
+	<!-- Building -->
+		<Row Tag="TXT_KEY_BUILDING_JWW_BAAK">
+			<Text>Bá-ak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_BAAK_HELP">
+			<Text>Replaces the Barracks. Improved [ICON_RES_JWW_HOLLY] Holly and [ICON_RES_JWW_OYSTERS] Oysters in this city contribute to longer [ICON_GOLDEN_AGE] Golden Ages. During a [ICON_GOLDEN_AGE] Golden Age, enemy units nearby will take small amounts of damage every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_BAAK_STRATEGY">
+			<Text>+1 [ICON_GOLDEN_AGE] Turn for every improved [ICON_RES_JWW_HOLLY] Holly or [ICON_RES_JWW_OYSTERS] Oyster resource with city limits. During [ICON_GOLDEN_AGE] Golden Ages, enemy units lose -5% of their Health every turn they are within city limits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_KARANKAWA_GOLDEN_AGE_DUMMY">
+			<Text>Karankawa UB</Text>
+		</Row>
+	<!-- Resource -->
+		<Row Tag="TXT_KEY_RESOURCE_JWW_OYSTERS">
+			<Text>Oysters</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_JWW_HOLLY">
+			<Text>Holly</Text>
+		</Row>
+	<!-- Civilopedia -->
+		<Row Tag="TXT_KEY_CIV5_JWW_KARANKAWA_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_KARANKAWA_TEXT_1">
+			<Text>The Karankawa were an Indigenous people concentrated in southern Texas along the coast of the Gulf of Mexico, largely in the lower Colorado River and Brazos River valleys. They consisted of several independent, seasonal nomadic groups who shared a language and culture. The name Karankawa became the accepted designation for several groups of coastal people who shared a common language and culture. Those groups, identified in early historic times, included the Carancahuas, Coapites, Cocos, Cujanes, and Copanes. The significance of the name Karankawa has not been definitely established, although it is generally believed to mean "dog-lovers" or "dog-raisers." The Karankawas’ principal means of transportation was the dugout canoe, a watercraft made by hollowing out the trunk of a large tree. Those dugouts, unsuited for deep, open water, were used primarily in the relatively shallow waters between the islands and the mainland. Each canoe was spacious enough to carry an entire family along with their household goods. The Karankawas also traveled overland by foot, and were often described as powerful runners, as well as expert swimmers. Karankawa ceremonialism centered around gatherings which the Spaniards’ labeled "mitotes." The ceremonies often included dances and the consumption of intoxicating beverages brewed from the parched leaves and berries of the yaupon (Ilex cassine or vomitoria), a small shrublike tree native to south Texas. One observer in the sixteenth century witnessed that the "black drink" was consumed exclusively by the men of the tribe. The Karankawas also participated in competitive games demonstrating weapons skills or physical prowess. Wrestling was so popular among Karankawas that neighboring tribes referred to them as the "Wrestlers." Warfare was a fact of life for the Karankawas, and evidence indicates that the tribe practiced a ceremonial cannibalism prior to the eighteenth-century that involved eating the flesh of their traditional enemies. That custom, widespread among most Texas tribes during that era, involved consuming bits and pieces of the flesh of dead enemies as the ultimate revenge or as a magical means of capturing the enemy's courage. In later years, Europeans and Anglo-Americans utilized the Karankawas’ cannibalism as justification for annihilating them, despite the Karankawas having seemingly ceased the practice in the eighteenth century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_KARANKAWA_HEADING_2">
+			<Text>European Contact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_KARANKAWA_TEXT_2">
+			<Text>The Karankawas' entrance into the historical record in 1528 represents the first recorded contact between Europeans and American Indians in Texas. Two small boats carrying survivors of the ill-fated Spanish expedition of Pánfilo de Narváez landed on a small island to the west of Galveston Island. That island, named Malhado, or Isle of Misfortune, by the Spanish, was inhabited by Karankawa speakers. The written account of Álvar Núñez Cabeza de Vaca, one of those shipwrecked survivors, provides our earliest knowledge of these coastal people. Cabeza de Vaca lived among those hunting and gathering groups for several years and provided invaluable ethnological accounts of those Native Americans. After Cabeza de Vaca's encounter with them, the Karankawas were not substantially visited again by Europeans for more than a century and a half. In 1685 a French expedition, led by René Robert Cavelier, Sieur de La Salle, established Fort St. Louis on Garcitas Creek near Matagorda Bay, in the heart of Karankawa country. When the French settlers’ ship Aimable broke apart on Matagorda Bay in February 1685, the Karankawas acquired some debris from the wreckage. Hoping to reclaim the goods taken by the Karankawas, La Salle sent a party of aggressive Frenchmen to the Karankawas’ campsite where they retrieved their merchandise and stole canoes and other items. Armed conflict between the two groups broke out thereafter. Suffering from repeated attacks by the Karankawas, La Salle and a contingent of men set out for Canada to find help for the struggling colony. That help never came. La Salle’s own men murdered him on the expedition north, and in 1689, after an outbreak of smallpox on the Gulf Coast, the Karankawas attacked the remaining settlers at Fort Saint Louis and killed all but six children who were taken captive. Those children, four of whom were members of the Talon family, were later rescued by Spanish expeditions in the early 1690s. Two of the former captives, Pierre and Jean-Baptiste Talon, were returned to France in 1698 where they were interrogated by French officials.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_KARANKAWA_HEADING_3">
+			<Text>Spanish Arrival</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_KARANKAWA_TEXT_3">
+			<Text>In the early years of the eighteenth century, French interest in the Texas coast was rekindled, and Karankawa country again became the center of Spanish-French rivalry. In 1721 a French land expedition, led by Jean Baptiste Bénard de La Harpe, approached Karankawa territory. In response to that French incursion, the Spanish established Nuestra Señora de Loreta Presidio and Espíritu Santo de Zúñiga Mission near the site of former Fort St. Louis. Because of their locations near Matagorda Bay, both became known as La Bahía. The mission was established specifically to civilize and Christianize the Karankawas and make them loyal Spanish subjects, but hostilities between the two parties quickly developed when the captain of La Bahía detained some Karankawas that attempted to flee the settlement into a hut and fired a cannon at them. The cannonball missed and a Karankawa ultimately killed the captain with a half-pair of shears. By 1726 no neophytes remained at La Bahía, and the fort and the mission were moved to the Guadalupe River where they remained until 1749. At that time, they were relocated to the San Antonio River near present Goliad.[NEWLINE]Despite the lack of success at La Bahía, the Spanish continued their efforts to missionize the Karankawas for the dual purposes of subduing the tribe and establishing a permanent hold on the Texas coast. In 1754 a new mission, Nuestra Señora del Rosario de los Cujanes, was established for the Karankawas on the San Antonio River, upstream from La Bahía. Rosario Mission enjoyed some success, and in 1764 it boasted a neophyte population of 101. That success was short-lived.[NEWLINE]In 1779, the Karankawa-Spanish War erupted after Indian leader Joseph María assaulted the Andry expedition and he liberated around ten Karankawa families from Mission Rosario. While most Karankawas preferred peace—the war being spurred on by a small contingent of individuals—the Spaniards saw the conflict as a ripe opportunity to gain control of the Karankawas’ lands and open up access to the Texas coast. The Castilians predicted an easy victory. Instead, the war dragged on for more than a decade and resulted in three failed attempts at genocide led by Athanse de Mézières, Nicholas de La Mathe, and Domingo Cabello y Robles. When a smallpox pandemic ravaged Texas in 1780, the Karankawas sued for peace, but were repeatedly refused until interim-Governor Rafael Martínez Pacheco took control of Texas, defied the orders of his superior, and negotiated a ceasefire with the coastal tribes around 1790. By war’s end, the Karankawas remained in control of their territory and the Spanish agreed to build a new mission, Nuestra Señora del Refugio. The mission relocated three times, but was finally situated at Rancho de Santa Gertrudis, near the site of present Refugio. A reported 190 mixed Karankawas and Coahuiltecans occupied Refugio Mission in 1814, but by the early 1820s repeated Comanche attacks had caused the virtual depopulation of that mission. The two struggling Karankawa missions (Refugio and Rosario) continued to operate until they were secularized in 1830 and 1831.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_KARANKAWA_HEADING_4">
+			<Text>Later Encounters</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_KARANKAWA_TEXT_4">
+			<Text>An 1819 confrontation with Jean Laffite's pirate colony on Galveston Island marked the next major conflict for the Karankawas. The incident reportedly occurred when Laffite's men kidnapped a Karankawa woman, and the tribe retaliated by assembling a reported 300 warriors to attack the pirate compound. Laffite's force of 200 men armed with two cannons inflicted heavy losses on the Indians and forced them to retreat.[NEWLINE] After Mexico won independence from Spain in 1821, the new government encouraged Anglo-American immigration to the sparsely populated province of Texas. Among them was Moses Austin, who was introduced to the Karankawas by an encounter with a peaceful Coco tribe. After some talks and an exchange of tobacco and a frying pan, Moses Austin considered them good friends, but after a warning of Karankawas at the mouth of a nearby river, Moses wrote in his journal that Karankawas are universal enemies of man and cannot be befriended and must be exterminated for Anglo-American settlers to live in peace. In 1821, Moses Austin received the Austin land grant to settle 300 families between Galveston Bay and the Colorado River. The Karankawa sought to hinder their progress by killing settlers who were guarding the ship John Motley and by stealing their supplies. By 1825, settlers banded together to attack the Karankawa. Stephen Austin commissioned Captain Kuykendall to lead volunteers to expel them from the territory, which extended to the Lavaca River. They chased the Karankawa to Manahila Creek, where a Spanish missionary interceded on their behalf and made them promise to never again go east of the Lavaca. This promise was broken, however, and was met by disproportionate violence by the Texan colonists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_KARANKAWA_HEADING_5">
+			<Text>Karankawa Geoncide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_KARANKAWA_TEXT_5">
+			<Text>During the Texan Revolution, some of the Karankawa served in the Mexican Army. They suffered greatly in the Battle of the Alamo of 1836, and the Texans retaliated heavily for their service. Chief Jose Maria's 19-year-old son, Walupe, was captured by the Mexicans and killed. His father came on board the ship of a Texan settler and announced his intent of revenge, but the majority of his men and himself were killed. Antonio, who claimed he was the brother of Jose Maria, became chief after that. During his administration and afterward, the Karankawa population diminished significantly from disease, conflict with Europeans, and infighting. By the 1840s, the Karankawa consisted of two groups; one settled on Padre Island, while the other applied to settle in the Mexican state of Tamaulipas. After being exiled from their homeland, the latter group reportedly plundered and stole; the Mexican government then ordered troops to subdue them. General Avalos was ordered to move the Karankawa to the border of Tamaulipas and Nuevo León. The two states disputed over the Karankawa, and they were eventually returned to Reynosa. After continued robberies, the Karankawa were removed to Texas. In 1858, the judge of Rosario, Mexico, sent a message to the mayor of Reynosa that he had tried to arrest the Karankawa, but they moved north of the American border beyond his jurisdiction. He added that Mexicans and Americans should work together for the Karankawas' arrest. Later that year, Juan Cortina made a surprise attack on the recently returned Karankawa and annihilated what was believed to be at the time, the last members of the tribe. In a study on the Karankawa published in 1888, one interviewee "thought that some [Karankawa] may be still in existence, but could not tell where." The Karankawa went extinct as a distinct tribe in the late 19th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_KARANKAWA_HEADING_6">
+			<Text>Modern-Day Karankawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_KARANKAWA_TEXT_6">
+			<Text>However, many Karankawa have survived to the modern day. In 2021, a Karankawa Hertiage Group called the Karankawa Kadla was formed to gather and organize individuals who identified as being partially Karankawa. There are two clans of the Karankawa Kadla: the Hawks of Corpus Christi and the Coyotes of Galveston Bay. The Karankawa Kadla has since revitalized the Karankawan language, worked with local authorities to protect burial sites, and developed education programs that combat traditional Anglo education. For example, McGloin’s Bluff, which is situated on the northeastern side of Corpus Christi Bay (present-day Ingleside on the Bay), was a Karankawa town. It spanned around five football fields in length, was inhabited from the 1300s to the 1700s, and archeologists have located over 40,000 artifacts with thousands more still buried under sand dunes. This land, sold by the Port of Corpus Christi to oil companies, is currently being threatened with destruction by Enbridge, a natural gas distribution company. The efforts of the Indigenous People of the Coastal Bend, the Ingleside on the Bay Coastal Watch Association, and the Karankawa Kadla have temporarily halted Enbridge. The Karankawa people continue to make themselves known and protect the lands that have been a part of them for centuries.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_JOSEPH_MARIA_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_JOSEPH_MARIA_TEXT_1">
+			<Text>Joseph María was the most prominent Karankawa figure during the Spanish-Karankawa war in the late eighteenth century. He united different Karankawa Peoples, he sparked the abandonment of Nuestra Señora del Rosario Mission, and he demonstrated that the Karankawas held the most outstanding power on the Texas Coastal Bend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_JOSEPH_MARIA_HEADING_2">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_JOSEPH_MARIA_TEXT_2">
+			<Text>
+				Of the Coapite tribe of Karankawas, Joseph María grew up in and out of Mission Rosario where he learned the Catholic faith and Spanish language. In the mid-1770s the presidial captain Luis Cazorla imprisoned Joseph María, because the Guapite leader slaughtered a cow without Friar Joaquín de Escobar’s permission. After being imprisoned for an undisclosed amount of time, Joseph María escaped to the coast where he led a band of apostate Native Peoples on raids against the presidio La Bahía and the missions of Rosario and Nuestra Señora del Espíritu Santo de Zúñiga. The Spaniards responded by sending expeditions, unsuccessful and punitive in design, that targeted all Karankawas, not just those of Joseph María’s band.[NEWLINE]
+				In March 1778 Joseph María and eleven other Karankawas killed all the members, save one, of Luis Antonio Andry’s nautical expedition that was mapping Texas’s bays. The Karankawas’ murder of shipwrecked personnel had become normalized on the Texas coast and exemplifies what little power the Spanish had in the region and how harvesting these shipwrecks served as a valuable source of trade goods for the Karankawas.[NEWLINE]
+				On July 25, 1778, with a substantial amount of rifles, bullets, and powder acquired from Andry’s ship, Joseph María and his apostate group forced the abandonment of Mission Rosario. Twenty-two out of thirty-one remaining neophytes decided to accompany Joseph María to the coast. The captain of La Bahía, with fifty-seven men, sallied after the fleeing Karankawas, but Joseph María’s forces ambushed the chasing party, killed one pursuer, and caused the rest of the Spanish troops to retreat. Three months later, the governor of Texas, Barón de Ripperdá, granted a pardon for the neophytes—excluding Joseph María and his companion, Matheo—but the runaway American Indians remained on the impenetrable coast.[NEWLINE]
+				The Spanish saw Joseph María as the primary agitator among the coastal American Indians and believed that his death would result in the rest of the Karankawas returning to “civilized” life. Accordingly, the Spaniards concocted all manner of plans to apprehend or assassinate the fugitive. They requested fake peace talks with the Karankawa leader but planned to hang Joseph María as soon as he appeared; they implored other Karankawa chiefs to capture and imprison him; they jailed his brother, José Luis, as leverage; and they even discussed having a ship full of soldiers feign a shipwreck to lure the apostate Karankawas into a trap. Yet, Joseph María remained out of the Spaniards’ reach, and the conflict between the colonizers and the Karankawas increased, as did their suspicion toward each other. Most significantly, the Karankawas suspected that the Spaniards sought their absolute annihilation. These suspicions were well-founded. The Spanish attempted at least three different extermination plans. Each failed.[NEWLINE]
+				War with the Karankawas was a major detriment to the Spaniards. Primarily, it contributed to the near total collapse of a Spanish presence in Texas from 1780 to 1785. It also devoured much-needed manpower and left the citizens of La Bahía paralyzed, unable to tend to their cattle and fields. And when presidials made their expeditions against the Karankawas, a lack of watercraft meant that they could never follow the American Indians through the maze-like bay systems to attack the Karankawas on their islands. Often Spanish patrols would spot the coastal American Indians off-shore in their canoes and shout at them to come to shore so they could properly enact their punishment. Joseph María and other Karankawa chiefs further confounded the Spanish patrols by employing elaborate smoke signals and using information from Native Peoples living in La Bahía and Espiritu Santo to learn troop movements. Moreover, the Karankawas traded their weaponry directly and indirectly to other American Indian groups opposing the Spaniards—which bolstered the pressure on the Spanish elsewhere across Texas and which limited reinforcements to La Bahía.[NEWLINE]
+				Following an abundance of successful raids and skirmishes against the Spaniards, including another massacre of a shipwreck, Joseph María’s influence among the Karankawas flourished. His marriage with the daughter of a prominent “Carancaguazes” chief that the Spaniards labeled “Capitan Grande” allowed him to unify even more disparate Karankawas. Nevertheless, war was as analogously costly for the Karankawas as for the Spaniards. The Spanish barred other Native groups from trading with the Karankawas and implored their allies to attack the coastal peoples. And although the repeated week-long Spanish forays to the bays may have been consistently fruitless in terms of bodies, they nonetheless limited the Karankawas’ ability to hunt large game on the mainland. European goods that once were reliably-acquired from the missions and presidios now had to be acquired through middlemen, including the Akokisas, Bidais, Cocos, and Mayeyes. And lastly, a large-scale outbreak of disease in late 1780 ravaged Texas’s First Peoples and killed an untold number of Karankawas.[NEWLINE]
+				Therefore in 1780 and 1781 Joseph María, with the backing of other Karankawa chiefs, probed the Spanish to cease hostilities. Domingo Cabello y Robles, governor of Texas, knew that peace was greatly advantageous, but thought the Karankawas incapable of keeping their word because they had “experienced no persecution or punishment whatsoever by the armed forces.” Cabello believed that accepting peace without a show of force against the coastal American Indians signified weakness of the Spanish forces. Commandant general Teodoro de Croix, saw that the Spanish forces in Texas were, in fact, weak and implored Cabello to explore the option of reconciliation with the Karankawas, but upon Croix’s promotion as Viceroy of Peru, the rumblings of peace were brushed away in favor of continued war. From 1782 to 1786 hostilities persisted. Stock continued to be stolen, fear continued to entrance citizens, and the Karankawas remained the dominant coastal power.[NEWLINE]
+				When Rafael Martínez Pacheco became the interim governor of Texas in 1786, the war drastically shifted. Martínez Pacheco believed the best way to end American Indian hostilities was through gift-giving, or more accurately, annual tribute. He showed the effectiveness of this policy by first making peace with the Apaches, then the Norteños, and then by reinforcing the peace with the Comanches through the aid of Pedro (Pierre) Vial. After stabilizing Texas’s northern frontier, Martínez Pacheco turned his attention to the war between the Spanish and the Karankawas. While keeping his belligerent superior Juan de Ugalde in the dark, Martínez Pacheco sent four mission American Indians from San Antonio to make contact with Joseph María, to offer the Karankawas a pardon, and to extend an invitation to discuss reconciliation in San Antonio.[NEWLINE]
+				On June 26, 1787, Joseph María and nine prominent Karankawas representing the Guapites, the Cujanes, and the Carancahuas visited San Antonio. In a sudden reversal from having been bitter enemies, Martínez Pacheco wrote, “They were greeted with such rejoicing at this capital that they seemed to be long lost sons of our people.” After being ladened with gifts by Martínez, Joseph María made his own demonstrations of goodwill by giving speeches in Castilian Spanish, by confessing to the parish priest, and then by taking Communion.[NEWLINE]
+				In the fourteen-day-long discussions with the Spanish governor, Joseph María and the other Karankawa chiefs intended to end Spanish sorties, to regain access to Spanish missions, and to open up trade opportunities with the Spanish. Martínez Pacheco agreed on all three counts, and in exchange, he wanted the Karankawas to relocate from the coast to the mainland. Joseph María gave a faux agreement, only fully complying with having a royal engineer named Angel Anglino accompany the peace party back to Karankawas’ territory with twelve Spanish soldiers to map their bays. That the Spaniards still needed accurate maps of the Karankawas’ lands after more than 100 years in Texas is further testament to the Karankawas’ control of the coast.[NEWLINE]
+				By late July 1787 Angel Anglino’s mapping expedition on the Gulf Coast had gone according to plan. This altered when Joseph María ordered his wife to accompany him back to San Antonio for the second round of peace talks with Martínez Pacheco. She refused. Joseph María became angry. The Karankawas then became angry at Joseph María. With arguments escalating, the commanding officer of the Spanish soldiers, Pedro Perez, stepped in with his troops to calm the situation. An intoxicated Karankawa named Chepitto walked behind Pedro Perez and shot and killed him. A skirmish between the Karankawas and Spanish ensued, resulting in two Karankawas deaths and the Spaniards fleeing to La Bahía.[NEWLINE]
+				The death of Pedro Perez revitalized the Spanish-Karankawan war. Martínez Pacheco’s superior Ugalde thought him incompetent and foolish in attempting to deal with these coastal peoples and read the death of Perez as another ploy by Joseph María to murder Spaniards. But the Karankawas gained nothing from the death of Perez. For the past six years they had made repeated overtures of peace, Angel Anglino had toured their lands without the least bit of trouble until the unfortunate conflict, and these same Karankawas agreed on an identical peace treaty a year and a half later. Nevertheless, Ugalde saw Joseph María as “a traitor whom there were infinite reasons to distrust” and ordered an expedition to “domesticate or wipe out once and for all” the Karankawas.[NEWLINE]
+				The cycle of violence began anew. In February 1789 the Spaniards finally scored their first major success in battle. After the Karankawas killed three inhabitants around La Bahía, the captain of the presidio gathered ninety-two troops and attacked roughly 400 Karankawas at the convergence of the San Antonio and Guadalupe rivers (near present-day Tivoli). Initially surrounded by the Karankawas, the Spaniards drove the Native Peoples back, and then both sides retreated. The Spaniards had two men wounded. The Karankawas had eleven killed.[NEWLINE]
+				Commandant general Ugalde, overjoyed at the news of battle, pressed for continued attacks on the Karankawas and reiterated that peace was not an option. Nevertheless, in October 1789 an emissary named Manuel Delgado representing the Copane Chief Balthasar came to La Bahía and requested peace on behalf of multiple Karankawa tribes. Martínez Pacheco went against Ugalde’s orders, opened up talks with the Karankawas, and ultimately agreed on peace.[NEWLINE]
+				This peace was precariously achieved. One of the foremost challenges to the peace talks came in December 1789 when a rumor spread that “that the Spanish had captured José María and his son through treachery, bound them, and shot them to death.” Because Sgt. Antonio Treviño happened to be in Joseph María’s father-in-law’s settlement at the time, the rumor was squashed. Treviño explained that the Apaches (“Lipán Indians”) had killed Joseph María and his son—not the Spaniards. How, where, and why the Apaches killed Joseph María and his son are unknown.[NEWLINE]
+				War between the Karankawas and the Spanish ended with the reestablishment of the Rosario Mission in 1789 and the founding of the Nuestra Señora del Refugio Mission in 1793. Joseph María sparked the conflict more than a decade earlier, and by uniting discordant Karankawa tribes, asserted his control over the Spaniards. Although Joseph María attacked the Spanish, he did not intend to rid them from the coastal plains, rather, he wanted to continue using the Spaniards as a resource. The Guapite leader derived a portion of his power from his enemy. His familiarity with the Spaniards’ customs and language gave him a diplomatic and military edge when compared to other Karankawa leaders. And the Spaniards, inclined to cloak their worldview over other Native Peoples, unknowingly reinforced Joseph María’s authority by treating him as the centralized leader for all of the Karankawas. After Pedro Perez’s disastrous death, Joseph María lost his influence, and other Karankawa leaders, such as Chief Balthasar, stepped into the position created by Joseph María to win peace with the Spaniards.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_JWW_BAAK_TEXT">
+			<Text>A bá-ak, were buildings used by the Karankawa at their beach-side camps. "Bá-ak" is Karankawan for building, house, hut, lodge, or cabin. Oftentimes, the Karankawa set up temporary camps on the shore, using the bá-ak as a living quarters. At these camps, a dozen slender willow poles about one inch in diameter and fifteen to eighteen feet long were sharpened to a point for boring into the soil. These poles were set in a circle ordinarily of about ten or twelve feet in diameter, but varying with the size of the family or families - for two people often occupied the same bá-ak. The poles were about a yard apart and allowed for entrance between them. The tops of the poles were then bent over toward the center and interlaced in a type of wickerwork. Upon this light framework they usually spread deer, wildcat, and/or bear skins. They never covered more than one-half of the bá-ak, and always selected the windward side for this protection. If the wind were to change decidedly, or should the sun beat down too fiercely, they can change the position of the skins for shelter or shade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_JWW_DUG_OUT_TEXT">
+			<Text>A dug-out is a canoe made from large trees, the bark left on. One side of the log was hewed flat and the log was then dug out, the ends bluntly pointed, leaving a triangular place or deck at each end. Karankawa parties usually voyaged from place to place along the coast in these dug-outs. The women, children, and household goods occupied the hold, while the father of the family stood on the stern and poled the boat along, keeping not far away from the shore. On arriving at a landing place, the men hauled the dug-out up on the beach and then left the women to set up the bá-aks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_JWW_OYSTERS_TEXT">
+			<Text>
+				Oyster is the common name for a number of different families of salt-water bivalve molluscs that live in marine or brackish habitats. Some species of oyster are commonly consumed and are regarded as a delicacy in some localities. Some types of pearl oysters are harvested for the pearl produced within the mantle. Others, such as the translucent Windowpane oysters, are harvested for their shells.[NEWLINE]
+				Middens testify to the prehistoric importance of oysters as food, with some middens in New South Wales, Australia, dated at ten thousand years. They have been cultivated in Japan from at least 2000 BC. In the United Kingdom, the town of Whitstable is noted for oyster farming from beds on the Kentish Flats that have been used since Roman times. The borough of Colchester holds an annual Oyster Feast each October, at which "Colchester Natives" (the native oyster, Ostrea edulis) are consumed. The United Kingdom hosts several other annual oyster festivals; for example, Woburn Oyster Festival is held in September. In fact, in Victorian England, it was quite common for people to go to the pub and enjoy their favorite beer with some oysters. They quickly realized that the "rich, sweet, malty stouts" were great with the "briny, creamy oyster". Then brewers found that oyster shells naturally clarify a beer and they started putting crushed oyster shells into their brews. The first known brewery to start this was in 1938 at the Hammerton Brewery in London. That is where the oyster stout was first started.[NEWLINE]
+				In the early 19th century, oysters were cheap and mainly eaten by the working class. Throughout the 19th century, oyster beds in New York Harbor became the largest source of oysters worldwide. On any day in the late 19th century, six million oysters could be found on barges tied up along the city's waterfront. They were naturally quite popular in New York City, and helped initiate the city's restaurant trade. New York's oystermen became skilled cultivators of their beds, which provided employment for hundreds of workers and nutritious food for thousands. Eventually, rising demand exhausted many of the beds. To increase production, they introduced foreign species, which brought disease; effluent and increasing sedimentation from erosion destroyed most of the beds by the early 20th century. Oysters' popularity has put ever-increasing demands on wild oyster stocks.[NEWLINE]
+				Oysters are harvested by simply gathering them from their beds. In very shallow waters, they can be gathered by hand or with small rakes. In somewhat deeper water, long-handled rakes or oyster tongs are used to reach the beds. Patent tongs can be lowered on a line to reach beds that are too deep to reach directly. In all cases, the task is the same: the oysterman scrapes oysters into a pile, and then scoops them up with the rake or tongs.[NEWLINE]
+				The largest oyster-producing body of water in the United States is the Chesapeake Bay, although these beds have decreased in number due to overfishing and pollution. Other large oyster farming areas in the US include the bays and estuaries along the coast of the Gulf of Mexico from Apalachicola, Florida, in the east to Galveston, Texas, in the west. Large beds of edible oysters are also found in Japan and Australia. In 2005, China accounted for 80% of the global oyster harvest. In Europe, France remained the industry leader.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_JWW_HOLLY_TEXT">
+			<Text>
+				Ilex, or "Holly", is a genus of over 570 species of flowering plants in the family Aquifoliaceae, and the only living genus in that family. Ilex has the most species of any woody dioecious angiosperm genus. The genus is widespread throughout the temperate and subtropical regions of the world. It includes species of trees, shrubs, and climbers, with evergreen or deciduous foliage and inconspicuous flowers. Its range was more extended in the Tertiary period and many species are adapted to laurel forest habitats. It occurs from sea level to more than 2,000 m (6,600 ft) with high mountain species. It is a genus of small, evergreen trees with smooth, glabrous, or pubescent branchlets. The plants are generally slow-growing with some species growing to 25 m (82 ft) tall. The type species is the European holly Ilex aquifolium described by Linnaeus.[NEWLINE]
+				Plants in this genus have simple, alternate glossy leaves, frequently with a spiny leaf margin. The inconspicuous flower is greenish white, with four petals. They are generally dioecious, with male and female flowers on different plants. The small fruits of Ilex, although often referred to as berries, are technically drupes. They range in color from red to brown to black, and rarely green or yellow. The "bones" contain up to ten seeds each. Some species produce fruits parthenogenetically, such as the cultivar 'Nellie R. Stevens'. The fruits ripen in winter and thus provide winter colour contrast between the bright red of the fruits and the glossy green evergreen leaves. The fruits are generally slightly toxic to humans, and can cause vomiting and diarrhea when ingested. However, they are a food source for certain birds and other animals, which help disperse the seeds.[NEWLINE]
+				The genus is distributed throughout the world's different climates. Most species make their home in the tropics and subtropics, with a worldwide distribution in temperate zones. The greatest diversity of species is found in the Americas and in Southeast Asia. For example, the Ilex vomitoria, or Yaupon Holly that grows in the Southeastern United States. Some Native American tribes brew the leaves and stems to create an herbal tea, commonly called black drink. Historically, the ceremonial consumption often included vomiting. This is likely a result of the active ingredients, like those of the related yerba mate and guayusa plants, are caffeine, theobromine, and theophylline; and the great quantities in which they drank the beverage, coupled with fasting. Native Americans may have also used the infusion as a laxative. Ilex vomitoria usage by colonists for tea making and for medicinal uses in the Carolinas is documented by the early 18th century. In the English-speaking colonies, it was known variously as cassina, yaupon tea, Indian tea, Carolina tea, and Appalachian tea. Recently, the process of drying the leaves for consumption has been adopted by modern Americans, and yaupon is now commercially available.[NEWLINE]
+				Another example is the Ilex paraguariensis, or Yerba mate, which grows in South America. The leaves of the plant can be steeped in hot water to make a beverage known as maté. Brewed cold, it is used to make tereré. Both the plant and the beverage contain caffeine. The indigenous Guaraní and some Tupi communities (whose territory covered present-day Paraguay) first cultivated and consumed yerba mate prior to European colonization of the Americas. Its consumption was exclusive to the natives of only two regions of the territory that today is Paraguay, more specifically the departments of Amambay and Alto Paraná. After the Jesuits discovered its commercialization potential, yerba mate became widespread throughout the province and even elsewhere in the Spanish Crown.[NEWLINE]
+				The most well-known Holly is the Ilex aquifolium, or European Holly, and is grown throughout Western Europe. This Holly is commonly referenced at Christmas time, and is often referred to by the name Christ's thorn. In many Western Christian cultures, holly is a traditional Christmas decoration, used especially in wreaths and illustrations, for instance on Christmas cards. Since medieval times the plant has carried a Christian symbolism, as expressed in the traditional Christmas carol "The Holly and the Ivy", in which the holly represents Jesus and the ivy represents the Virgin Mary.
+			</Text>
+		</Row>
+	<!-- Diplomacy Responses -->
+		<!-- First Greeting -->
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_FIRSTGREETING_1">
+			<Text>Welcome to the lands of the Karankawa. If you hold no ill will, you will be welcome.</Text>
+		</Row>
+
+		<!-- Defeated -->
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_DEFEATED_1">
+			<Text>I couldn't do enough...</Text>
+		</Row>
+
+		<!-- Diplomacy: Wars, Denunciations, and DoF -->
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_ATTACKED_GENERIC_1">
+			<Text>You've made a mistake in making me an enemy, rest assured I will remove you from our lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_DEC_FRIENDSHIP_1">
+			<Text>I believe we will be destroyed unless we join forces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_DENOUNCE_1">
+			<Text>We cannot co-exist together.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_DENOUNCE_FRIEND_1">
+			<Text>Our time together has come to an end. I do not think we will be friends again any time soon.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_DOW_GENERIC_1">
+			<Text>You've made a mistake in making me an enemy, rest assured I will remove you from our lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You encroach upon my lands and yet you have demands of me?</Text>
+		</Row>
+
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Our time together has come to an end. I do not think we will be friends again any time soon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_GREETING_POLITE_HELLO_1">
+			<Text>Hello, good friend. Come, rub some shark oil on yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Hello again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_GREETING_HOSTILE_HELLO_1">
+			<Text>What do you want?</Text>
+		</Row>
+
+		<!-- Misc -->
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You must know that we Karankawas have the tools and the ability to defend ourselves. Do not play games with us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_LETS_HEAR_IT_1">
+			<Text>If you have an offer or a gift I would be welcome in hearing it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_LOSEWAR_1">
+			<Text>We will fight again, for our spirit remains.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_LUXURY_TRADE_1">
+			<Text>Our people seek something of value.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_NO_PEACE_1">
+			<Text>I won't end my struggle with you this soon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_OPEN_BORDERS_EXCHANGE">
+			<Text>Come, have free access through our coast and swamps.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_REPEAT_NO_1">
+			<Text>I must provide for my own, I cannot help.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_RESPONSE_REQUEST_1">
+			<Text>My people need your help. Can you come to our aid?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>I have endured threats from empires far greater than yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_TOO_SOON_NO_PEACE_1">
+			<Text>You cannot seriously believe that I would want to make peace at this moment?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_WINWAR_1">
+			<Text>I have fought, and I have won. Now, leave this place, and let us celebrate our victory.</Text>
+		</Row>
+
+		<!-- Cultural Influence -->
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_INFLUENTIAL_ON_AI_1">
+			<Text>I see that your people are now rubbing sharks' oil on their entire bodies and sheltering in the bá-aks. Our culture flourishes!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_JOSEPH_MARIA_INFLUENTIAL_ON_HUMAN_1">
+			<Text>Our people are now rubbing sharks' oil on their entire bodies and sheltering in the bá-aks. I worry the rest of the world will succumb to the influence of your culture.</Text>
+		</Row>
+	<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_0">
+			<Text>Carancahua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_1">
+			<Text>Cujane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_2">
+			<Text>Coapite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_3">
+			<Text>Coco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_4">
+			<Text>Copano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_5">
+			<Text>Caoque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_6">
+			<Text>Kouyam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_7">
+			<Text>Quouan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_8">
+			<Text>Ebahamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_9">
+			<Text>Kironoma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_10">
+			<Text>Yákwal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_11">
+			<Text>Bracamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_12">
+			<Text>Quinet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_13">
+			<Text>Malhado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_14">
+			<Text>McGloin’s Bluff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_15">
+			<Text>Guadalupe Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_16">
+			<Text>Morhiss Mound</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_17">
+			<Text>Mitchell Ridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_18">
+			<Text>Jamaica Beach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_19">
+			<Text>Three Trees</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_20">
+			<Text>Hynes Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_21">
+			<Text>Brazos Bend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_22">
+			<Text>Hawk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_23">
+			<Text>Coyote</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_24">
+			<Text>Skull Creek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_25">
+			<Text>Dressing Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_26">
+			<Text>Nuezes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_27">
+			<Text>Matagorda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_28">
+			<Text>Rosario</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_29">
+			<Text>Refugio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_30">
+			<Text>La Bahía</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_31">
+			<Text>Tamaulipas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_KARANKAWA_32">
+			<Text>Rio Grande City</Text>
+		</Row>
+	<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_KARANKAWA_0">
+			<Text>Balthasar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_KARANKAWA_1">
+			<Text>Walupe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_KARANKAWA_2">
+			<Text>Chepitto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_KARANKAWA_3">
+			<Text>Calí</Text>
+			<gender>feminine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_KARANKAWA_4">
+			<Text>Ushi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_KARANKAWA_5">
+			<Text>Yámawe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_KARANKAWA_6">
+			<Text>Chiara</Text>
+			<gender>feminine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_KARANKAWA_7">
+			<Text>José</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_KARANKAWA_8">
+			<Text>Béhema</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_KARANKAWA_9">
+			<Text>Kanínma</Text>
+			<gender>feminine</gender>
+		</Row>
+	</Language_en_US>
+</GameData>

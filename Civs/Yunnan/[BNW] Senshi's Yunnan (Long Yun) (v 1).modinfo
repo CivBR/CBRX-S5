@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="107ce558-ef33-416f-a9bf-75fa882e0340" version="1">
+  <Properties>
+    <Name>[BNW] Senshi's Yunnan (Long Yun)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Yunnan Clique to the game, under its great warlord and governor Long Yun!</Teaser>
+    <Description>Adds the Yunnan Clique to the game, under its great warlord and governor Long Yun!
+
+Merry Splatmas Tranq I'm only 8 months late :happytibs:
+
+Credits:
+Senshi: Concept, Code, Additional Art (incl Map) and Text
+JFD: Lua
+Alga: Art (Dian Corps &amp; Hump Airbase Icons)
+Arilasqueto: Art (Leaderscene &amp; Icon)
+DarthKyofu: Art (Civ Icon &amp; Alpha)
+Zharques: Text (Pedias and DoM)
+danrell: Dian Corps Model</Description>
+    <Authors>Senshi</Authors>
+    <SpecialThanks>JFD, Agla, Ari, Durth, Zlad, Chrisy</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="B3937387D470AF2D4AD9B3886359536A" import="0">Art/Atlas/AtlasDefines.xml</File>
+    <File md5="4106F536E5E218A0060F7BE9A2D857C3" import="1">Art/Atlas/DianCorpsFlag32.dds</File>
+    <File md5="734D4DC3229D80B8E13C2E60D3E54410" import="1">Art/Atlas/YunnanAlpha128.dds</File>
+    <File md5="CBB660F412F05E18F683739CE361CC15" import="1">Art/Atlas/YunnanAlpha16.dds</File>
+    <File md5="4A92358AB682978FC58F43DFE4594134" import="1">Art/Atlas/YunnanAlpha24.dds</File>
+    <File md5="A7F58CEFE26DB6F6155C37EB85C3F643" import="1">Art/Atlas/YunnanAlpha256.dds</File>
+    <File md5="FC1A56A47EF3C3D5C6786186392BC865" import="1">Art/Atlas/YunnanAlpha32.dds</File>
+    <File md5="19301AE967422C067A413C7EA5485160" import="1">Art/Atlas/YunnanAlpha48.dds</File>
+    <File md5="B92E09A4E4E4E24422917B3764CAC328" import="1">Art/Atlas/YunnanAlpha64.dds</File>
+    <File md5="86DE308AE5CDC57C360B0A7501012C03" import="1">Art/Atlas/YunnanAlpha80.dds</File>
+    <File md5="1D4485CC60D28667843989F0D6DAE29F" import="1">Art/Atlas/YunnanAtlas128.dds</File>
+    <File md5="DF22AE8759EA104E925A97B28F7CCDAE" import="1">Art/Atlas/YunnanAtlas256.dds</File>
+    <File md5="279FCAF444770C394C946D1922AE1A54" import="1">Art/Atlas/YunnanAtlas32.dds</File>
+    <File md5="12CB9B92A875190D656234DAA00F8023" import="1">Art/Atlas/YunnanAtlas45.dds</File>
+    <File md5="A82AFA02DED4DFF7B1052B3D6583A309" import="1">Art/Atlas/YunnanAtlas48.dds</File>
+    <File md5="A1BC15140BCB4DB39B60807F0D3FDC1F" import="1">Art/Atlas/YunnanAtlas64.dds</File>
+    <File md5="AF7A6A34F39DA54F0723021E3173DB26" import="1">Art/Atlas/YunnanAtlas80.dds</File>
+    <File md5="5C93AFEEA228FBE39CC33A109C05742F" import="1">Art/LongYunLS.dds</File>
+    <File md5="B976303C843B0E9C161AC157951DC9BE" import="0">Art/Music/SoundRig.xml</File>
+    <File md5="93F1A8BEABC5EABAE0F1DF4038E5958D" import="1">Art/Music/WarlordChinaPeace.mp3</File>
+    <File md5="61FE1A4C43BBD227B0C6E55624F0402C" import="1">Art/Music/WarlordChinaWar.mp3</File>
+    <File md5="FD8794B4438CC2CBD538FD322C5F964A" import="1">Art/Unit Models/Infantry_China.blend</File>
+    <File md5="0F568F3FD0F37D892286EDB85A514EBC" import="1">Art/Unit Models/Infantry_China.dds</File>
+    <File md5="BB1A37EA5C941EB32C9365A51406F096" import="1">Art/Unit Models/Infantry_China.fxsxml</File>
+    <File md5="E4D53338481F4B58BA8D104823AEAD3C" import="1">Art/Unit Models/Infantry_China.gr2</File>
+    <File md5="053C7929E92E17BE509C64CC15C266FB" import="1">Art/Unit Models/Infantry_China.jpg</File>
+    <File md5="8DCF84A8140C2A0AB5FEF6DDD133DBB8" import="0">Art/Unit Models/ModelRig.xml</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Unit Models/no_gloss.dds</File>
+    <File md5="1D41D5C74D0E424B813A70203D127091" import="1">Art/Unit Models/sv_DianCorps.dds</File>
+    <File md5="397539D545323AE503121B24053B855E" import="1">Art/YunnanDoM.dds</File>
+    <File md5="65A353867CD337B177D9B38A762FB557" import="1">Art/YunnanMap412.dds</File>
+    <File md5="A4C6C453A4F693C5F027BE307BB256BA" import="0">Core/Buildings.sql</File>
+    <File md5="CF37BB7091E98AAC176FA9E25F6709B7" import="0">Core/Civilizations.sql</File>
+    <File md5="342B21B67CD2FC821920BD16AA4F69FB" import="0">Core/DiplomacyResponses.xml</File>
+    <File md5="6CEECD2D570B7F02B223A4360B797160" import="0">Core/GameText.xml</File>
+    <File md5="6BBB01355EBF8CC5CF8736FA7BD9E4D3" import="0">Core/Leaderhead.sql</File>
+    <File md5="F0584A460E9A788C5044981537C18CEB" import="0">Core/ModSupport.sql</File>
+    <File md5="1354D9E340D057EC2AA8EE459F151A5E" import="0">Core/PlayerColours.sql</File>
+    <File md5="865A12C55E6C72004162EC76EBDEBE0B" import="1">Core/Senshi_LongYun_Scene.xml</File>
+    <File md5="D338D844051A1C7CECC7D0537A581172" import="0">Core/Senshi_YunnanDummies.sql</File>
+    <File md5="8161B53B4F34231B17A5CAFD1660951B" import="0">Core/Senshi_YunnanFunctions.lua</File>
+    <File md5="BBD369B154C71F6A413299BBDF101627" import="0">Core/Traits.sql</File>
+    <File md5="DCA5E5BD4A670BD4D0CF2BA52DE2DE92" import="0">Core/Units.sql</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">PlotIterators.lua</File>
+    <File md5="9B09DB0BAA8DE38E4407AC91420F2985" import="1">RouteConnections.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Atlas/AtlasDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Unit Models/ModelRig.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Senshi_YunnanDummies.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Music/SoundRig.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/Senshi_YunnanFunctions.lua">
+      <Name>YunnanFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

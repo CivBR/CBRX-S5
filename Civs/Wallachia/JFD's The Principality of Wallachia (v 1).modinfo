@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="37b0de18-fd20-40a3-a6b2-5381c033db61" version="1">
+  <Properties>
+    <Name>JFD's The Principality of Wallachia</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Principality of Wallachia[ENDCOLOR] under Vlad I to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <SpecialThanks>Lads, Whoward, Kesler</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" minversion="0" maxversion="999" title="Historical Religions Edit (BNW or GK)" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions (BNW or GK)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Rise to Power" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD’s Cities in Development" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="782DE1F1F1B5D74B1709936922270684" import="1">Art/Diplomacy/Janboruta_Vlad_Diplo.dds</File>
+    <File md5="0A705C7CD859C522E4262D0E48742998" import="1">Art/Diplomacy/Janboruta_Vlad_Scene.xml</File>
+    <File md5="C52D5A41C7ADE40BB320CFDFFF2D5AFF" import="1">Art/Graphics/Lefegii/Lefegii.dds</File>
+    <File md5="80C5645D3C0A6B28E17117F708A97FB5" import="1">Art/Graphics/Lefegii/Lefegii.fxsxml</File>
+    <File md5="AB7FBE5F7B59E1B4739BE734369D5BE0" import="1">Art/Graphics/Lefegii/Lefegii.gr2</File>
+    <File md5="314DCC9D0769895484F95034C7FA357C" import="1">Art/Graphics/Lefegii/Lefegii_gloss.dds</File>
+    <File md5="870F1EF5099B3EEDA87D1C242101911A" import="1">Art/Graphics/Lefegii/sv_Lefegii.dds</File>
+    <File md5="21CDCEED7D81983A502F1C20ED00BC57" import="1">Art/IconAtlas/Tomatekh_PromotionAtlas_256.dds</File>
+    <File md5="4515CFD32CBCA5FD9B31BA7E74BDF85D" import="1">Art/IconAtlas/Tomatekh_PromotionAtlas_32.dds</File>
+    <File md5="2D64910169FF17FBFD6D2CFAAAADE518" import="1">Art/IconAtlas/Tomatekh_PromotionAtlas_45.dds</File>
+    <File md5="D2E665F6B269588CF10F19FE789271C9" import="1">Art/IconAtlas/Tomatekh_PromotionAtlas_64.dds</File>
+    <File md5="D41F044E5D038C2D5C353D58E2D23451" import="1">Art/IconAtlas/Unit_Lefegii_Flag_32.dds</File>
+    <File md5="C02DBF8A419B66B9FAF5ED608915F24B" import="1">Art/IconAtlas/JFD_WallachiaAlphaAtlas_128.dds</File>
+    <File md5="FE18D6EE54ADFCA0F25B63380F88B356" import="1">Art/IconAtlas/JFD_WallachiaAlphaAtlas_16.dds</File>
+    <File md5="FBFE981E8232A257D360DBA1FF0208F1" import="1">Art/IconAtlas/JFD_WallachiaAlphaAtlas_22.dds</File>
+    <File md5="864F9C3DA8F5DED70EB33B6CD2470D11" import="1">Art/IconAtlas/JFD_WallachiaAlphaAtlas_24.dds</File>
+    <File md5="439D4ACBB31091E5F78BB6CFC667D698" import="1">Art/IconAtlas/JFD_WallachiaAlphaAtlas_256.dds</File>
+    <File md5="C2C312652E7EFE5D6A104D85E53A6C38" import="1">Art/IconAtlas/JFD_WallachiaAlphaAtlas_32.dds</File>
+    <File md5="6764317EA9276621E633A57D73AF4EAE" import="1">Art/IconAtlas/JFD_WallachiaAlphaAtlas_45.dds</File>
+    <File md5="2239B3240F60786E85B60904E94265F6" import="1">Art/IconAtlas/JFD_WallachiaAlphaAtlas_48.dds</File>
+    <File md5="3028177AC62E5E451F57D15E8AC26355" import="1">Art/IconAtlas/JFD_WallachiaAlphaAtlas_64.dds</File>
+    <File md5="8B417D3824B0621425AB731712BC9FC7" import="1">Art/IconAtlas/JFD_WallachiaAlphaAtlas_80.dds</File>
+    <File md5="2318CA4CA0F2A2D6E1FE09E22F4956B6" import="1">Art/IconAtlas/JFD_WallachiaAtlas_128.dds</File>
+    <File md5="3C88D641F1C6BB50C0F5F6D63691F5E0" import="1">Art/IconAtlas/JFD_WallachiaAtlas_256.dds</File>
+    <File md5="FD227C279D60CD76A8FD87AF9F3E498C" import="1">Art/IconAtlas/JFD_WallachiaAtlas_32.dds</File>
+    <File md5="96938BF87F3245B8D00AA668AB4971E9" import="1">Art/IconAtlas/JFD_WallachiaAtlas_45.dds</File>
+    <File md5="BDBFAA50BF6500175D58E1D751981E3B" import="1">Art/IconAtlas/JFD_WallachiaAtlas_64.dds</File>
+    <File md5="468BD61D395CDF88391262C87ECD2053" import="1">Art/IconAtlas/JFD_WallachiaAtlas_80.dds</File>
+    <File md5="EFEE324F8B99195273F8415319E33B0B" import="1">Art/Images/DefeatScreenEarlyWallachia.dds</File>
+    <File md5="CB1E2BDED1A85E658666FCA57E8837EA" import="1">Art/Images/DefeatScreenLateWallachia.dds</File>
+    <File md5="B639DF4CFEBE9E98AF02A75447AAF5AB" import="1">Art/Images/DefeatScreenMidWallachia.dds</File>
+    <File md5="F5E3F7227CBE3ECADED10DBDECCFA23A" import="1">Art/Map/Janboruta_Wallachia_DOM.dds</File>
+    <File md5="EB19DB5BE0B6A2359B1C2215D089D24F" import="1">Art/Map/Janboruta_MapWallachia512.dds</File>
+    <File md5="EA8FE76DEAEC46ADFDF68B4F56F840AB" import="1">Audio/FortifiedChurch.mp3</File>
+    <File md5="C858D058AA5E448098E5EE8F61656A50" import="1">Audio/Vlad_Peace.mp3</File>
+    <File md5="58FBA16BFFB6D299EA0A7DE88A160FA9" import="1">Audio/Vlad_War.mp3</File>
+    <File md5="113594282C86FEC9684DA517BD84457B" import="0">Core/Wallachia_ArtDefines.sql</File>
+    <File md5="2DE8A678BEEA2E31764DF48F5C5D5004" import="0">Core/Wallachia_GameDefines.sql</File>
+    <File md5="C9E1F1867D09D63E34088B89DC0932EC" import="0">Core/Wallachia_GameDefines_Diplomacy.sql</File>
+    <File md5="0AB10CDF355EDE96E7747274D04DB622" import="0">Core/Wallachia_GameDefines_ModSupport.sql</File>
+    <File md5="58B07868B3B3CDA50EF75697E84839FC" import="0">Core/Wallachia_GameText.xml</File>
+    <File md5="8B9D34C1865DD8286DDDF7F9E347F1E4" import="0">Core/Wallachia_GameText_Diplomacy.xml</File>
+    <File md5="4B85D6DC0758037D0DD308C2DDDFC9BE" import="0">Core/Wallachia_GameText_ModSupport.xml</File>
+    <File md5="C303A831C798E1EA078B7687EB2FA2EB" import="1">Lua/JFD_Wallachia_Decisions.lua</File>
+    <File md5="4A74716A134259C078776CA99CA0BEAA" import="0">Lua/JFD_Wallachia_Functions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="1914463133CCD5791FE93BC351D066F1" import="0">RandomSupport.txt</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Wallachia_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Wallachia_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Wallachia_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Wallachia_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Wallachia_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Wallachia_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Wallachia_GameText_ModSupport.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Wallachia_Functions.lua">
+      <Name>JFD_Wallachia_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

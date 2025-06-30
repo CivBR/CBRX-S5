@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="832b0fa4-f9b2-4110-864c-b8d318a8cc90" version="3">
+  <Properties>
+    <Name>DMS' Ethiopia (Zara Yaqob)</Name>
+    <Teaser>A variant of DMS' Ethiopia pack that only includes Zara Yaqob.</Teaser>
+    <Description>See more on Civfanatics.com</Description>
+    <Authors>DMS/Danmacsch, Kerfuffle, TPangolin</Authors>
+    <SpecialThanks>Scapegrace, TranquilSilence, HoopThrower, JanBoruta, JFD, Chrisy</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD’s Cities in Development" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="0A3D634C3836E63CA3F08E4F08334CB0" import="1">Art/Graphics/Debtera/DMS_EthiopianMissionary.dds</File>
+    <File md5="AC9F45AC2C6C773BF9F583DA4A2FC538" import="1">Art/Graphics/Debtera/DMS_EthiopianMissionary.fxsxml</File>
+    <File md5="15C2B83343A22CFBD93D8BFB275DF2D0" import="1">Art/Graphics/Debtera/DMS_EthiopianMissionary.gr2</File>
+    <File md5="4C706BA4B455A3789E013F284CFF5E4E" import="1">Art/Graphics/Debtera/EthiopianPikeman_sref.dds</File>
+    <File md5="EF56907EF732B1F0AA9D35AC74083035" import="1">Art/Graphics/Debtera/sv_u_debtera.dds</File>
+    <File md5="CC6B7A60ECB4D20388DF3B8946F96B41" import="1">Art/Graphics/Monolithic Church/Bete_Giyorgis PL.dds</File>
+    <File md5="469AD7AF13F3C78E02AD6D624A427A4D" import="1">Art/Graphics/Monolithic Church/Bete_Giyorgis.dds</File>
+    <File md5="FE276C2E4D46AE07E76C638CD9F5CCED" import="1">Art/Graphics/Monolithic Church/Lalibela Ground h.dds</File>
+    <File md5="02E94D332A50133B08D4E5C8CB166A0E" import="1">Art/Graphics/Monolithic Church/Lalibela Ground.dds</File>
+    <File md5="35ECECCC995C32C59938D32E170496AD" import="1">Art/Graphics/Monolithic Church/Lalibela HB.gr2</File>
+    <File md5="A52E03E44F86988182A5415549019763" import="1">Art/Graphics/Monolithic Church/Lalibela PL.gr2</File>
+    <File md5="5FAD8D87460DDDCDA2BC7687B7B7E911" import="1">Art/Graphics/Monolithic Church/Lalibela.gr2</File>
+    <File md5="85597BEB7C242E98B58291255B0D38FE" import="1">Art/Graphics/Monolithic Church/Lalibela_B.fxsxml</File>
+    <File md5="18FA0F1E2C24D9E891EFD15EC322F7D2" import="1">Art/Graphics/Monolithic Church/Lalibela_HB.fxsxml</File>
+    <File md5="B54A33FAE4FC4F010BAE3AD9AB626932" import="1">Art/Graphics/Monolithic Church/Lalibela_PL.fxsxml</File>
+    <File md5="E668BF0E20DFA10616A1F0E7F2BA7F80" import="1">Art/Graphics/Monolithic Church/sv_monolithic_church.dds</File>
+    <File md5="76CD505752C8E3601D9AEBA138E7A319" import="1">Art/GreatWorkBackgrounds/MahsafaBerhan_Background.dds</File>
+    <File md5="D94AFB5A5E5F15C47A971CE588FFE84C" import="1">Art/GreatWorkBackgrounds/MahsafaMilad_Background.dds</File>
+    <File md5="DFA1AF63FD151ED2C9AE77FF333399EF" import="1">Art/GreatWorkBackgrounds/MahsafaSelassie_Background.dds</File>
+    <File md5="2142902B9602A802DC9B8DC51B630889" import="1">Art/IconAtlas/EthiopiaAlphaAtlas_128.dds</File>
+    <File md5="681D149655807DD6BB7EAA6604392302" import="1">Art/IconAtlas/EthiopiaAlphaAtlas_16.dds</File>
+    <File md5="021C87252B86025FAC80264BEB0455CB" import="1">Art/IconAtlas/EthiopiaAlphaAtlas_24.dds</File>
+    <File md5="90DFA2788B8A8EC6E8C970CB452055C7" import="1">Art/IconAtlas/EthiopiaAlphaAtlas_256.dds</File>
+    <File md5="9A504EB88BDEE216F8150E8615F8810D" import="1">Art/IconAtlas/EthiopiaAlphaAtlas_32.dds</File>
+    <File md5="B659C970FCC68B2D93F19D64A1A049B0" import="1">Art/IconAtlas/EthiopiaAlphaAtlas_45.dds</File>
+    <File md5="B4C0E4ABBBF50BED2B286CE0E370F5FF" import="1">Art/IconAtlas/EthiopiaAlphaAtlas_48.dds</File>
+    <File md5="45F0538FD84B89A05E1C52189CFC8EDC" import="1">Art/IconAtlas/EthiopiaAlphaAtlas_64.dds</File>
+    <File md5="7BAEE6181476BA7CE3F48A1826E946C1" import="1">Art/IconAtlas/EthiopiaAlphaAtlas_80.dds</File>
+    <File md5="4FAC0D09F8C1E8FCE40371BEE2E50C6E" import="1">Art/IconAtlas/EthiopiaAtlas_128.dds</File>
+    <File md5="5464C40C3FB11E2FD49D91041862CB23" import="1">Art/IconAtlas/EthiopiaAtlas_256.dds</File>
+    <File md5="A2FE4C6FE40A803C88F3270DA8B3A817" import="1">Art/IconAtlas/EthiopiaAtlas_32.dds</File>
+    <File md5="330182FEBEF0E4C27E51308AFE245581" import="1">Art/IconAtlas/EthiopiaAtlas_45.dds</File>
+    <File md5="A25A144625F258AFAD93E14072472AD3" import="1">Art/IconAtlas/EthiopiaAtlas_64.dds</File>
+    <File md5="DD395EB495B7E5DCEA52BAB0332D68ED" import="1">Art/IconAtlas/EthiopiaAtlas_80.dds</File>
+    <File md5="43381F673D738DD7418FB1045CE60A1E" import="1">Art/IconAtlas/MonolithicChurchIcon256.dds</File>
+    <File md5="FF4748D0699B946411D798AA2D8E4FEB" import="1">Art/IconAtlas/MonolithicChurchIcon45.dds</File>
+    <File md5="90744F320D461F4364E677E2A98CD889" import="1">Art/IconAtlas/MonolithicChurchIcon64.dds</File>
+    <File md5="6653A596CB232228DE5746032C45E99F" import="1">Art/IconAtlas/UnitFlag_Debtera_32.dds</File>
+    <File md5="5F1060C5D50609FBD5A216C83E247068" import="1">Art/Leaderscene/ZaraYaqob_Diplo.xml</File>
+    <File md5="41A17427C76F5058BAB1AA52C66D380F" import="1">Art/Leaderscene/ZaraYaqob_Diplo.dds</File>
+    <File md5="475C9A17497A1D7C1609034FF9F0C717" import="1">Art/Map/DMS_DOM_ZaraYaqob.dds</File>
+    <File md5="9C6D92BDCBDC57BF3C523EAE55EB5D29" import="1">Art/Map/DMS_EthiopiaZaraYaqobMap_512.dds</File>
+    <File md5="75B072D0832C90154FEFA34F30122AA2" import="1">Audio/ZaraYaqob_War.mp3</File>
+    <File md5="AAA73CCE20B1DEA15DF8D1E407B297B6" import="1">Audio/ZaraYaqob_Peace.mp3</File>
+    <File md5="56C6365DA46B87DF7DC2D91B0AB911B3" import="0">Core/DMS_EthiopianCivPack_ArtDefines.sql</File>
+    <File md5="4FD8C2515151DDFA2B9FCC043C09AE90" import="0">Core/DMS_EthiopianCivPack_GameDefines_Diplomacy.sql</File>
+    <File md5="975921A1EA2C9EC9D30014093780B6DB" import="0">Core/DMS_EthiopianCivPack_GameDefines_ModSupport.sql</File>
+    <File md5="AF5FE387C8E450290E6EEBE1989FB3C9" import="0">Core/DMS_EthiopianCivPack_GameText.xml</File>
+    <File md5="A87F62CA3EC54A55676778F8883205DB" import="0">Core/DMS_EthiopianCivPack_GameText_Diplomacy.xml</File>
+    <File md5="673C8B4434E589114307F76E5EAC0AD5" import="0">Core/DMS_EthiopianCivPack_GameText_ModSupport.xml</File>
+    <File md5="70DC4440FC7BBA91EBDD196553A0565F" import="0">Core/DMS_EthiopianCivPack_GameDefines.sql</File>
+    <File md5="0D0C16FA108DF805B9BC6E2D244E2296" import="0">DMS_Ethiopia_Pack_UserSettings.sql</File>
+    <File md5="C70A4A2D82044EB21DC9A9257A5EA6BA" import="0">Lua/DMS_Ethiopia_Functions.lua</File>
+    <File md5="3791A8AC5C1E3B867D0315545543F3EC" import="1">Lua/GreatPersonRewardPopup.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DMS_EthiopianCivPack_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_EthiopianCivPack_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_EthiopianCivPack_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_EthiopianCivPack_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_EthiopianCivPack_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_EthiopianCivPack_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_EthiopianCivPack_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DMS_Ethiopia_Pack_UserSettings.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DMS_Ethiopia_Functions.lua">
+      <Name>DMS_Ethiopia_Functions.lua</Name>
+      <Description>DMS_Ethiopia_Functions.lua</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

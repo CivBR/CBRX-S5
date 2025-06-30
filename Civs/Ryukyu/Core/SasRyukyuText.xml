@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/8/2025 8:32:45 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_CHINKUNSHIN_MOVES_HELP">
+			<Text>Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_CHINKUNSHIN_MOVES">
+			<Text>Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_YUKATCHU_TEXT">
+			<Text>Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_RYUKYU_GPP_DUMMY">
+			<Text>Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_RYUKYU_CHINKUNSHIN_DUMMY_HELP">
+			<Text>Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_RYUKYU_CHINKUNSHIN_DUMMY_1">
+			<Text>Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_RYUKYU_CHINKUNSHIN_DUMMY_2">
+			<Text>Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_RYUKYU_CHINKUNSHIN_DUMMY_4">
+			<Text>Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_RYUKYU_CHINKUNSHIN_DUMMY_8">
+			<Text>Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_RYUKYU_CHINKUNSHIN_DUMMY_16">
+			<Text>Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_RYUKYU_CHINKUNSHIN_DUMMY_64">
+			<Text>Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_RYUKYU_CHINKUNSHIN_DUMMY_32">
+			<Text>Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_RYUKYU_CHINKUNSHIN_DUMMY_128">
+			<Text>Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_RYUKYU_ADJECTIVE">
+			<Text>Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_RYUKYU_DESC">
+			<Text>Ryukyu Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DAWN_SAS_RYUKYU_TEXT">
+			<Text>Lead your trading kingdom into its golden age, oh Sho Shin of the Ryukyu Kingdom. It was you who reformed your kingdom's administration to create a much more centralised and stable state. In order to tie your local lords, the aji, to your kingdom's administration and economy, you gathered all their weapons and ordered them to your capital, Shuri, to separate them from their land and weaken the likelihood of revellion. It was under you that the Shuri dialect of the Okinawan language was standarised, with poetry and literature blossoming, and new temples and a grand palace with Dragon Pillars constructed. But it was in trade that your kingdom led, with economic specialisation and integration allowing for the production of luxury goods and the spread of Ryukyuan ships across East Asia. After a fifty year reign, you died in 1526, with officials unable to remember the procedure of a royal funeral it had been such a long and stable reign.[NEWLINE][NEWLINE]Oh glorious Sho Shin, use your networks to trade with your neighbours, and reform your state to build a magnificent kingdom. Can you lead your kingdom into a golden age? Will you build a civilization that can stand the test of time</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_RYUKYU_SHORT_DESC">
+			<Text>Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_TEXT_1">
+			<Text>The Ryukyu Kingdom was a kingdom in the Ryukyu Islands that lasted from 1429 to 1879. It was ruled as a tributary state of imperial Ming China by the Ryukyuan monarchy, who unified Okinawa Island to end the Sanzan period, and extended the kingdom to the Amami Islands and Sakishima Islands. The Ryukyu Kingdom played a central role in the maritime trade networks of medieval East Asia and Southeast Asia despite its small size. The Ryukyu Kingdom became a vassal state of the Satsuma Domain of Japan after the invasion of Ryukyu in 1609 but retained de jure independence until it was transformed into the Ryukyu Domain by the Empire of Japan in 1872. The Ryukyu Kingdom was formally annexed and dissolved by Japan in 1879 to form Okinawa Prefecture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_HEADING_2">
+			<Text>The Cavemen and the Old Castles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_TEXT_2">
+			<Text>The ancestry of the modern-day Ryukyuan people is disputed. The time when human beings appeared in Okinawa remains unknown. The earliest human bones were those of Yamashita Cave Man, about 32,000 years ago, followed by Pinza-Abu Cave Man, Miyakojima, about 26,000 years ago and Minatogawa Man, about 18,000 years ago. They were thought to have come through China and were once considered to be the direct ancestors of those living in Okinawa. Following this was Okinawa midden culture or shell heap culture, initially hunter-gatherers who moved near the seashore, suggesting the engagement of people in fishery. Rice was cultivated during the latter period of shell-heap age. After the midden culture, agriculture started about the 12th century, with the center moving from the seashore to higher places. This period is called the gusuku period. In this period, porcelain trade between Okinawa and other countries became busy, and Okinawa became an important relay point in eastern-Asian trade. Ryukyuan kings, such as Shunten and Eiso, were considered to be important governors. In 1272, Kublai Khan ordered Ryukyu to submit to Mongol suzerainty, but King Eiso refused. In 1276, the Mongol envoys returned, but were driven off the island by the Ryukyuans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_HEADING_3">
+			<Text>The Three Mountain Period</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_TEXT_3">
+			<Text>This was followed by the Sanzan period, literally the three mountain period, where when three lines of kings, the Sanhoku, Chuzan, and Sannan, are said to have co-existed on Okinawa Island. It is said to have started during King Tamagusuku's reign in approx 1314, and ended in 1429 when Sho Hashi unified the island. Okinawa does not have their own contemporary records of the Sanzan period. Contemporary sources are limited to Chinese and, to a far lesser extent, Korean diplomatic records. They are in a fragmentary fashion and probably overshadowed by diplomatic fictions. Since the Chinese sources simply record local rulers who contacted China, they do not rule out the possibility that some other local rulers co-existed without establishing diplomatic contacts. For this reason, Okinawa's real situation remains largely a mystery. Hokuzan, which constituted much of the northern half of the island, was the largest in terms of land area and military strength but was economically the weakest of the three. Nanzan constituted the southern portion of the island. Chuzan lay in the center of the island and was economically the strongest. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_HEADING_4">
+			<Text>Sho Your Plans for Unification</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_TEXT_4">
+			<Text>From these three principalities, Chuzan emerged as the most powerful. The Chuzan leaders were officially recognized by Ming dynasty China as the rightful kings over those of Nanzan and Hokuzan, thus lending great legitimacy to their claims. The ruler of Chuzan passed his throne to King Hashi; Hashi conquered Hokuzan in 1416 and Nanzan in 1429, uniting the island of Okinawa for the first time, and founded the first Sho dynasty. Hashi was granted the surname Sho by the Ming emperor in 1421, becoming known as Sho Hashi. Sho Hashi  adopted the Chinese hierarchical court system, built Shuri Castle and the town as his capital, and constructed Naha harbor. Sho Hasi was succeeded by his son Sho Chu, who was succeeded by his son Sho Shitatsu, who was succeeded by his uncle Sho, who was succeeded by his uncle Sho Kinpuku, who was succeeded by his younger brother Sho Taikyu, who was succeed by his son Sho Toku. Unable to establish a consistent succession of father to son, the First Sho dynasty came to an end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_HEADING_5">
+			<Text>A Second Sho?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_TEXT_5">
+			<Text>With the death of Sho Toku in 1469 without a male heir, the pretender Sho En came to the throne, a palatine servant who declared that he was Toku's adopted son. He gained Chinese investiture, beginning the Second Sho dynasty. Ryukyu's golden age occurred during the reign of Sho Shin, the second king of that dynasty, who reigned from 1478 to 1526. The kingdom extended its authority over the southernmost islands in the Ryukyu archipelago by the end of the 15th century, and by 1571 the Amami Oshima Islands were incorporated into the kingdom as well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_HEADING_6">
+			<Text>Key Trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_TEXT_6">
+			<Text>For nearly two hundred years the Ryukyu Kingdom would thrive as a key player in maritime trade with Southeast and East Asia. Central to the kingdom's maritime activities was the continuation of the tributary relationship with Ming dynasty China. China provided ships for Ryukyu's maritime trade activities, allowed a limited number of Ryukyuans to study at the Imperial Academy in Beijing, and formally recognized the authority of the kings of the dynasties, allowing the kingdom to trade formally at Ming ports. Ryukyuan ships, often provided by China, traded at ports throughout the region, which included, among others, China, Dai Viet, Japan, Java, Korea, Luzon, Malacca, Pattani, Palembang, Siam, and Sumatra. Altogether, 150 voyages between the kingdom and Southeast Asia on Ryukyuan ships were recorded in the Rekidai Hoan, an official record of diplomatic documents compiled by the kingdom, as having taken place between 1424 and the 1630s, with 61 of them bound for Siam, 10 for Malacca, 10 for Pattani, and 8 for Java, among others. The Chinese policy of haijin, or sea bans, limiting trade with China to tributary states and those with formal authorization, along with the accompanying preferential treatment of the Ming Court towards Ryukyu, allowed the kingdom to flourish and prosper for roughly 150 years. In the late 16th century, however, the kingdom's commercial prosperity fell into decline. The rise of the wokou threat among other factors led to the gradual loss of Chinese preferential treatment; the kingdom also suffered from increased maritime competition from Portuguese traders. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_HEADING_7">
+			<Text>Dual Subordination</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_TEXT_7">
+			<Text>Around 1590, Toyotomi Hideyoshi asked the Ryukyu Kingdom to aid in his campaign to conquer Korea. If successful, Hideyoshi intended to then move against China. As the Ryukyu Kingdom was a tributary state of the Ming dynasty, the request was refused. The Tokugawa shogunate that emerged following Hideyoshi's fall authorized the Shimazu family, the feudal lords of the Satsuma domain, to send an expeditionary force to conquer the Ryukyus. The subsequent invasion took place in 1609, but Satsuma still allowed the Ryukyu Kingdom to find itself in a period of "dual subordination" to Japan and China, wherein Ryukyuan tributary relations were maintained with both the Tokugawa shogunate and the Chinese court. Occupation occurred fairly quickly, with some fierce fighting, and King Sho Nei was taken prisoner to Kagoshima and later to Edo. To avoid giving the Qing any reason for military action against Japan, the king was released two years later and the Ryukyu Kingdom regained a degree of autonomy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_HEADING_8">
+			<Text>Delegations and Domains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_TEXT_8">
+			<Text>In 1655, tribute relations between Ryukyu and Qing dynasty were formally approved by the shogunate. This was seen to be justified, in part, because of the desire to avoid giving Qing any reason for military action against Japan. Since Ming China prohibited trade with Japan, the Satsuma domain, with the blessing of the Tokugawa shogunate, used the trade relations of the kingdom to continue to maintain trade relations with China. Considering that Japan had previously severed ties with most European countries except the Dutch, such trade relations proved especially crucial to both the Tokugawa shogunate and Satsuma domain, which would use its power and influence, gained in this way, to help overthrow the shogunate in the 1860s. The Ryukyuan king was a vassal of the Satsuma daimyo, and the Satsuma Clan established a governmental office's branch known as Zaibankaiya at Shuri in 1628, and became the base of Ryukyu domination for 250 years, until 1872. hough technically under the control of Satsuma, Ryukyu was given a great degree of autonomy, to best serve the interests of the Satsuma. Ryukyu was a tributary state of China, and since Japan had no formal diplomatic relations with China, it was essential that China not realize that Ryukyu was controlled by Japan. According to statements by Qing imperial official Li Hongzhang in a meeting with Ulysses S. Grant, China had a special relationship with the island and the Ryukyu had paid tribute to China for hundreds of years, and the Chinese reserved certain trade rights for them in an amicable and beneficial relationship. Japan ordered tributary relations to end in 1875 after the tribute mission of 1874 was perceived as a show of submission to China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_HEADING_9">
+			<Text>Annexation and Later Okinawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_RYUKYU_TEXT_9">
+			<Text>In 1872, Emperor Meiji unilaterally declared that the kingdom was then Ryukyu Domain. At the same time, the appearance of independence was maintained for diplomatic reasons with Qing China until the Meiji government abolished the Ryukyu Kingdom when the islands were incorporated as Okinawa Prefecture on 27 March 1879. The last king of Ryukyu was forced to relocate to Tokyo, and was given a compensating kazoku rank as Marquis Sho Tai. The king's death in 1901 diminished the historic connections with the former kingdom. In the years leading up to World War II, the Japanese government sought to reinforce national solidarity in the interests of militarization. In part, they did so by means of conscription, mobilization, and nationalistic propaganda. Many of the people of the Ryukyu Islands, despite having spent only a generation as full Japanese citizens, were interested in proving their value to Japan in spite of prejudice expressed by mainland Japanese people. The Battle of Okinawa was one of the last major battles of World War II, claiming the lives of an estimated 120,000 combatants. The Ryukyus were the only inhabited part of Japan to experience a land battle during World War II. In addition to the Japanese military personnel who died in the Battle for Okinawa, well over one third of the civilian population, which numbered approximately 300,000 people, were killed. Many important documents, artifacts, and sites related to Ryukyuan history and culture were also destroyed, including the royal Shuri Castle. After the war, the islands were occupied by the United States and were initially governed by the United States Military Government of the Ryukyu Islands from 1945 to 1950 when it was replaced by the United States Civil Administration of the Ryukyu Islands from 1950 which also established the Government of the Ryukyu Islands in 1952. The Treaty of San Francisco which went into effect in 1952, officially ended wartime hostilities. However, ever since the battle of Okinawa, the presence of permanent American bases has created friction between Okinawans and the U.S. military. During the occupation, American military personnel were exempt from domestic jurisdiction since Okinawa was an occupied territory of the United States. </Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_SAS_SHOSHIN">
+			<Text>Sho Shin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_TEXT_1">
+			<Text>Sho Shin was the third king of the second Sho dynasty of the Ryukyu Kingdom. His reign was described as a period of great peace and relative prosperity. He was the son of Sho En, the founder of the dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_HEADING_2">
+			<Text>The Aji at Shuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_TEXT_2">
+			<Text>Much of the foundational organization of the kingdom's administration and economy is traced back to developments which occurred during Sho Shin's reign. As government became more institutionalized and organized, the aji , the local lords, gradually lost power and independence, becoming more closely tied to the central government at Shuri.  In order to strengthen central control over the kingdom, and to prevent insurrection on the part of the aji, Sho Shin gathered weapons from all the aji to be put to use for the defense of the kingdom, and ordered aji to make their residences in Shuri; lords separated from their lands and from their people were far less able to act independently or to organize rebellion, and, over time, their emotional connections to Shuri grew, those with their territory weakening. The residences at Shuri of the aji were divided into three districts, one each for those coming from the northern, central, and southern areas of Okinawa Island which had formerly been the independent kingdoms of Hokuzan, Chuzan, and Nanzan. These regions were now renamed Kunigami, Nakagami, and Shimajiri, respectively, place names which remain in use today. Through intermarriage, residence in Shuri, and other factors, the aji came to be more integrated as a class, more closely associated with life and customs and politics at Shuri, and less attached to their ancestral territorial identities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_HEADING_3">
+			<Text>Bureaucracy and Tradition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_TEXT_3">
+			<Text>The aji left deputies, called aji okite, to administer their lands on their behalf, and some years later a system of jito dai, agents sent by the central government to oversee the outlying territories, was established. Some aji of the northern regions were allowed to remain there, not moving to Shuri, as they were too powerful for the king to force their obedience in this matter; the king's third son was made Warden of the North, however, and granted authority to maintain peace and order in the region. The Shuri dialect of the Okinawan language used by administrators and bureaucrats became standardized at this time, and a golden age of poetry and literature blossomed. The first volumes of the Omoro Soshi, a collection of poems, songs, and chants reflecting centuries old  oral tradition as well as contemporary events, were completed in 1532. Along with later volumes, the Omoro Soshi would become one of the chief primary sources for modern-day historians studying the kingdom's history. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_HEADING_4">
+			<Text>The New Urban Class</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_TEXT_4">
+			<Text>The process of moving the aji to Shuri also brought about major changes to the city, including the construction of a great many grand gates, pavilions, lakes, bridges, monuments, and gardens. There came to be a great demand for masons, carpenters, and others, as well as for a wide variety of goods and materials, imported by each aji from his own territories. Okinawa Island quickly became more economically integrated, with goods and labor traveling to and from Shuri and the neighboring port city of Naha. Economic integration allowed territories to become more specialized, and the production of luxury goods expanded significantly. Various kinds of hairpins and other ornaments became standard elements of the fashions of courtiers and bureaucrats, new techniques in producing and weaving silk were imported, and the use of gold, silver, lacquer, and silk became more common among townspeople.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_HEADING_5">
+			<Text>Dragon Pillars and New Monuments</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_TEXT_5">
+			<Text>Many monuments, temples, and other structures were also erected during the prosperous reign of Sho Shin. A new palace building was constructed, in Chinese style, and court rituals and ceremonies were dramatically altered and expanded, in emulation of Chinese modes. A pair of tall stone "Dragon Pillars" were placed at the entrance to the palace, patterned not after Chinese, Korean or Japanese models, but after those of Thailand and Cambodia, reflecting, as Kerr points out, the reach and extent of Okinawan trade and the cosmopolitan nature of the capital at this time. The Buddhist temple Enkaku-ji was built in 1492, Sōgen-ji was expanded in 1496, and in 1501, Tamaudun, the royal mausoleum complex, was completed. Sho Shin successfully petitioned the Korean royal court, several times, to send volumes of Buddhist texts, and in the thirtieth year of his reign, a stele was erected in the grounds of Shuri Castle, listing Eleven Distinctions of the Age enumerated by court officials. A reproduction of this stele, destroyed in the 1945 Battle of Okinawa along with the castle, stands in the castle grounds today. Sho Shin also effected significant changes to the organization of the native noro, or village priestesses,  cult and its relationship to the government. He owed his uncle's abdication, and his own succession to his sister, the noro of the royal family, a special position known as the kikoe-ogimi. He established a new residence for the kikoe-ogimi just outside the gates to the castle, and erected high walls in 1519 around the Sonohyan Utaki, the sacred space and accompanying sacred hearth which she tended. A system by which the king and kikoe-ogimi appointed local noro across the kingdom was established, tying this element of the native Ryukyuan religion into formal systems of authority under the government.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_HEADING_6">
+			<Text>The Golden Age</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_TEXT_6">
+			<Text>The reign of Sho Shin also saw the expansion of the kingdom's control over several of the outlying Ryukyu Islands. Okinawan ships began in the late 15th century to frequent Miyakojima and the Yaeyama Islands; following a series of disputes among the local lords in the Yaeyama Islands which broke out in 1486, Sho Shin in 1500 sent military forces to quell the disputes and establish control over the islands. Kumejima was brought under firm control of Shuri, and liaison offices were established in Miyako and Yaeyama, in 1500 and 1524 respectively. After a fifty year reign, Sho Shin died in 1526, and was succeeded by his son Sho Sei. It is said that after such a long reign, officials encountered difficulties in determining the proper way to conduct the royal funeral, succession rituals, and other important related ceremonies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_LIVED">
+			<Text>1465 - 1527 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_NAME">
+			<Text>Sho Shin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_SUBTITLE">
+			<Text>Leader of Ryukyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_SHOSHIN_TITLES_1">
+			<Text>King</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_SAS_RYUKYU_SHORT">
+			<Text>Great Days of Chuzan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SAS_RYUKYU">
+			<Text>Cities with a reciprocal International Trade Route boost the generation of [ICON_GREAT_PEOPLE] Great People, both locally and in the Capital. </Text>
+		</Row>
+		<!--Kilosh-->
+		<Row Tag="TXT_KEY_UNIT_SAS_CHINKUNSHIN">
+			<Text>Chinkunshin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_CHINKUNSHIN_HELP">
+			<Text>Weaker than the default Privateer, but unlocks earlier, at Astronomy. Gains [ICON_GOLD] Gold from kills if within 2 tiles of a Gusuku. +1 [ICON_MOVES] Movement and generates Great Scientist Points if beginning a turn within 2 tiles of a Cargo Ship. Constructed faster for each outgoing Naval Trade Route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_CHINKUNSHIN_STRATEGY">
+			<Text>Weaker than the default Privateer, but unlocks earlier, at Astronomy. Gains [ICON_GOLD] Gold from kills if within 2 tiles of a Gusuku. +1 [ICON_MOVES] Movement and generates Great Scientist Points if beginning a turn within 2 tiles of a Cargo Ship. Constructed faster for each outgoing Naval Trade Route. Use Chinkunshin to protect your own trade routes and coasts, and send them abroad to protect trade partners or raid rivals!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SAS_CHINKUNSHIN_TEXT">
+			<Text>Chinkunshin, also known as shinko-sen, kai-sen, or maran-sen depending on the context, were ships used for international trade, mainly with China. Ryukyuan kai-sen were often second-hand shinko-sen, repurposed for local trade between Satsuma and Ryukyu once the armaments had been taken off. Trade occurred predominantly between Naha, the capital port of the Ryukyu Kingdom, and Fujian in China. Between AD 1383 and around 1450, shinko-sen-type vessels were granted to the Kingdom by the Ming when Ryukyu became a tributary state. Another ship type, maran-sen were middle to small-sized wooden junks made by Ryukyuan merchants for domestic trade, mostly within the Ryukyu Kingdom. The Ryukyuan kai-sen and maran-sen share the same basic ship structure as the shinko-sen and they were used up to the 18th century for local trade by private merchants between Naha and Kagoshima, the capital of Satsuma Domain in the southern part of Kyusyu Island. The construction of maran-sen started in the early 18th century. Shinko-sen and kai-sen are the largest with their hulls as long as 34.8 m, and 9.7 m in the beam, while maran-sen vessels are much smaller with a maximum hull length of only 14.2 m and beam of 5.4 m.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_CHINKUNSHIN_GOLD">
+			<Text>Royal Goods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_CHINKUNSHIN_GOLD_HELP">
+			<Text>Gains [ICON_GOLD] Gold from Kills while within 2 tiles of a Gusuku.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAS_CHINKUNSHIN_MOVES">
+			<Text>Tribute Ship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAS_CHINKUNSHIN_MOVES_HELP">
+			<Text>+1 [ICON_MOVES] Movement when starting its turn near a Cargo Ship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_YUKATCHU">
+			<Text>Yukatchu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_YUKATCHU_HELP">
+			<Text>Unique Great Scientist only available to Ryukyu. May be expended to construct a [COLOR_CYAN]Gusuku[ENDCOLOR] on a Coastal tile or (when embarked) an Atoll. When expended to Boost [ICON_RESEARCH] Science in a City, provides a lump sum of [ICON_CULTURE] Culture based on that City's outgoing Trade Routes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_YUKATCHU_STRATEGY">
+			<Text>Unique Great Scientist only available to Ryukyu. May be expended to construct a [COLOR_CYAN]Gusuku[ENDCOLOR] on a Coastal tile or (when embarked) an Atoll. When expended to Boost [ICON_RESEARCH] Science in a City, provides a lump sum of [ICON_CULTURE] Culture based on that City's outgoing Trade Routes. Construct Gusuku where you can throughout the game to fortify your coasts and build up your Science output, and start using your Yukatchu for massive boosts of Science and Culture in the later game, once your Trade Route slots are filled and your Science per turn is nearing its peak!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SAS_YUKATCHU_TEXT">
+			<Text>Yukatchu, also known as Samuree, were the aristocracy of the Ryukyu Kingdom. They were part of a complex caste system that existed in Ryukyu for centuries. They were the feudal scholar-officials charged with enforcing the law and providing military defense to the Ryukyu Kingdom. The specific rank of a Yukatchu was noted by the colour of his jiifaa hairpin and hachimachi hat. The class was quite broad, ranging from the Ueekata, lords just below the royalty to the Niya, above only commoners and afforded no rank. The weapons of the Yukatchu were confiscated was during the reign of Sho Shin, who centralized the Ryukyu Kingdom by forcing the Aji to leave their respective Magiri and move to Shuri. He confiscated weapons from commoners and Yukatchu who weren't part of the Ryukyuan military to lower the possibility of rebellion. The yukatchu class was formally created around 1650, and each rank was accompanied by a rice stipend. A yukatchu's primary purpose was to study traditional Chinese subjects; in addition to purely theoretic or academic studies, yukatchu of Kumemura were specifically cultivated for service in the royal bureaucracy, and in diplomatic relations with China. Though tribute missions to China were formally made once every two years, journeys between Ryukyu and Fujian were in fact much more frequent. </Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_BUILD_SAS_GUSUKU">
+			<Text>Construct a [LINK=IMPROVEMENT_SAS_GUSUKU]Gusuku[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SAS_GUSUKU_HELP">
+			<Text>May only be built on Coastal tiles or Atolls. Yields +6 [ICON_RESEARCH] Science and +2 [ICON_CULTURE] Culture. Provides a +50% Defensive Bonus to stationed units, and adjacent enemy Naval Units are damaged for 35HP at the start of their turn. Constructing a Gusuku consumes the unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SAS_GUSUKU_REC">
+			<Text>May only be built on Coastal tiles or Atolls. Yields +6 [ICON_RESEARCH] Science and +2 [ICON_CULTURE] Culture. Provides a +50% Defensive Bonus to stationed units, and adjacent enemy Naval Units are damaged for 35HP at the start of their turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SAS_GUSUKU">
+			<Text>Gusuku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SAS_GUSUKU_TEXT">
+			<Text>May only be built on Coastal tiles or Atolls by a Yukatchu. Yields +6 [ICON_RESEARCH] Science and +2 [ICON_CULTURE] Culture. Provides a +50% Defensive Bonus to stationed units, and adjacent enemy Naval Units are damaged for 35HP at the start of their turn.[NEWLINE][NEWLINE]Gusuku were the castles and fortresses of Ryukyu. However, the origin and essence of gusuku remain controversial. In the archaeology of Okinawa Prefecture, the Gusuku period refers to an archaeological epoch of the Okinawa Islands that follows the shell-mound period and precedes the Sanzan period, when most gusuku are thought to have been built. The most prominent feature of most gusuku is their walls. Gusuku walls are primarily made with Ryukyuan limestone and, sometimes, coral. There are three types of gusuku walls: aikata-zumi, nozura-zumi, and nuno-zumi. The shape of gusuku walls usually follows the contours of the land. They are usually thick, and sometimes have low parapets atop them. Some gusuku walls, like those of Nakagusuku Castle, were designed to resist cannon fire. Gusuku have one or more baileys. The baileys of typical gusuku usually contained a residence, a well, an utaki, and storage buildings. Larger gusuku, like Nakijin Castle, could have more than five baileys, while smaller gusuku, like Iha Castle, had a single bailey. At the heart of most gusuku was the Main Hall, typically the residence of the feudal lord. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAS_YUKATCHU_ACTION_HELP">
+			<Text>Construct a Gusuku</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_RYUKYU_9">
+			<Text>Umitogani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_RYUKYU_8">
+			<Text>Sashisaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_RYUKYU_7">
+			<Text>Sei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_RYUKYU_6">
+			<Text>Ryutoku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_RYUKYU_5">
+			<Text>Iko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_RYUKYU_4">
+			<Text>Choei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_RYUKYU_3">
+			<Text>Shoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_RYUKYU_2">
+			<Text>Kyojin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_RYUKYU_1">
+			<Text>Gendo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_RYUKYU_0">
+			<Text>Yosoidon</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_1">
+			<Text>Shuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_2">
+			<Text>Naha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_3">
+			<Text>Nanzan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_4">
+			<Text>Tomari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_5">
+			<Text>Nakijin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_6">
+			<Text>Kume</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_7">
+			<Text>Amami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_8">
+			<Text>Miyakojima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_9">
+			<Text>Ishigaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_10">
+			<Text>Katsuren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_11">
+			<Text>Zakimi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_12">
+			<Text>Nakagusuku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_13">
+			<Text>Urasoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_14">
+			<Text>Chatan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_15">
+			<Text>Uezu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_16">
+			<Text>Nakazato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_17">
+			<Text>Gushikawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_18">
+			<Text>Goeku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_19">
+			<Text>Yomitanzan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_20">
+			<Text>Kunigami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_21">
+			<Text>Iheya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_22">
+			<Text>Nago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_23">
+			<Text>Kin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_24">
+			<Text>Erabu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_25">
+			<Text>Yoron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_26">
+			<Text>Haneji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_27">
+			<Text>Tomigusuku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_28">
+			<Text>Kyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_29">
+			<Text>Mabuni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_30">
+			<Text>Gushichan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_31">
+			<Text>Shimajiriozato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_32">
+			<Text>Makabe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_33">
+			<Text>Sashiki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_34">
+			<Text>Kochinda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_35">
+			<Text>Nishihara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_36">
+			<Text>Ozato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_37">
+			<Text>Kanegusuku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_38">
+			<Text>Shidooke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_RYUKYU_39">
+			<Text>Araki</Text>
+		</Row>
+		<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_SAS_SHOSHIN_FIRSTGREETING_1">
+			<Text>Welcome to the glorious Kingdom of Ryukyu! I am Sho Shin, Ryukyu-koku Chuzan-o, please enjoy the many goods our merchants can offer you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAS_SHOSHIN_DEFEATED_1">
+			<Text>Thus, I resign my kingdom to the domination of those which do not wish to see it flourish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAS_SHOSHIN_DOW_GENERIC_1">
+			<Text>I no longer have need for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAS_SHOSHIN_ATTACKED_HOSTILE">
+			<Text>It would be unwise to cross me. I have powerful friends.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAS_SHOSHIN_DEC_FRIENDSHIP_1">
+			<Text>We have been on good terms for so long, it makes a lot of sense to tie ourselves together diplomatically!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAS_SHOSHIN_DENOUNCE_1">
+			<Text>I can't believe that you've been allowed to continue the way you have! I'll see to it that you are dispatched with... eventually...[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAS_SHOSHIN_DENOUNCE_FRIEND_1">
+			<Text>And thus, a beautiful friendship came to an end. I can no longer deal with you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAS_SHOSHIN_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Do you think you are relevant to me? I have connections across the region! You will rue this!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAS_RYUKYU_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now wearing different coloured hats to symbolise rank and listening to the counsel of the noro. I worry the rest of the world will succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAS_RYUKYU_INFLUENTIAL_ON_HUMAN_1">
+			<Text>I see that your people are now wearing different coloured hats to symbolise rank and listening to the counsel of the noro. It is most fine to see this!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

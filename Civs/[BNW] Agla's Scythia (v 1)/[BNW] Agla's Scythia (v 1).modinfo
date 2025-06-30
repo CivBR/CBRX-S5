@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6d4a9814-ec9f-4ad3-9416-69e4eeaa78ed" version="1">
+  <Properties>
+    <Name>[BNW] Agla's Scythia</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds Scythia to the game.</Teaser>
+    <Description>Adds Scythia to the game.</Description>
+    <Authors>The mighty hons</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="EBA855474CCB7C92C068F1FEEE3E7513" import="1">Art/Graphics/Oathsman/HorseArcher_Mongol.dds</File>
+    <File md5="D0ED4C6743DC6254B7FFC013B6C7254D" import="1">Art/Graphics/Oathsman/HorseArcher_Mongol.fxsxml</File>
+    <File md5="BC2EC94F7FF3C4EC0E7CD605FC160027" import="1">Art/Graphics/Oathsman/HorseArcher_Mongol.gr2</File>
+    <File md5="7EA3B6C9B6AFD3C3B14E48C5626FFBE7" import="1">Art/Graphics/Oathsman/HorseArcher_Mongol_gloss.dds</File>
+    <File md5="ED76F6C0472BACA1DE4B269178C0501C" import="1">Art/Graphics/Oathsman/HorseArcher_Mongol_Horse.dds</File>
+    <File md5="33DB0C96D6497E6A5765838AC77ED0E2" import="1">Art/Graphics/Oathsman/JFD_Tulku.fxsxml</File>
+    <File md5="0CBF09D4E2775B97D9D29562223AA3E0" import="1">Art/Graphics/Oathsman/JFD_Tulku.gr2</File>
+    <File md5="C853FB3C88982D463DF957032B89C765" import="1">Art/Graphics/Oathsman/JFD_Tulku_d.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Graphics/Oathsman/no_gloss.dds</File>
+    <File md5="0C72CFD2ED0D16B0618FD3C937B2FF9D" import="1">Art/Graphics/Oathsman/sv_Oathsman.dds</File>
+    <File md5="F444AD97C006A38A0837274DDFEB09F6" import="0">Art/Graphics/Oathsman/sv_Tulku.dds</File>
+    <File md5="9708C9430ACF0A2C58911183E529354B" import="1">Art/Icons/SuckerHonsSV.dds</File>
+    <File md5="9708C9430ACF0A2C58911183E529354B" import="1">Art/Icons/EnareeSV.dds</File>
+    <File md5="9708C9430ACF0A2C58911183E529354B" import="1">Art/Icons/Agla_Scythia_UnitFlagAtlas_32.dds</File>
+    <File md5="C85A0A25002C1261D65AD878AB71C94C" import="1">Art/Icons/Agla_Scythia2_UnitFlagAtlas_32.dds</File>
+    <File md5="DE7EB335E1DAD0740EFA3DAD92A5A927" import="1">Art/Icons/Agla_Scythia_AlphaAtlas_128.dds</File>
+    <File md5="D725744F128F41A4DBF0E6C2DB2261EE" import="1">Art/Icons/Agla_Scythia_AlphaAtlas_16.dds</File>
+    <File md5="BC2C83F18F5623AE4D369AE4B6EBFED7" import="1">Art/Icons/Agla_Scythia_AlphaAtlas_22.dds</File>
+    <File md5="90A02F9C23B127FB6F3A7832F1016122" import="1">Art/Icons/Agla_Scythia_AlphaAtlas_24.dds</File>
+    <File md5="1EDCFAB19521AB5B2E37055EFE013B68" import="1">Art/Icons/Agla_Scythia_AlphaAtlas_32.dds</File>
+    <File md5="2A22FAED8565ACCAB2310A502C9535FA" import="1">Art/Icons/Agla_Scythia_AlphaAtlas_45.dds</File>
+    <File md5="F901E833D5BB70E5F765BC056BCD5B8D" import="1">Art/Icons/Agla_Scythia_AlphaAtlas_48.dds</File>
+    <File md5="CCED4798AD17F49678F0A8CA6E2AC644" import="1">Art/Icons/Agla_Scythia_AlphaAtlas_64.dds</File>
+    <File md5="477768B0D9D69B84A9A62F70F21FACF5" import="1">Art/Icons/Agla_Scythia_AlphaAtlas_80.dds</File>
+    <File md5="658F1B466990361B922DA3AB4888966B" import="1">Art/Icons/Agla_Scythia_IconAtlas_128.dds</File>
+    <File md5="019BCDA9B3243FD4DCA4F6BBFC1544F0" import="1">Art/Icons/Agla_Scythia_IconAtlas_256.dds</File>
+    <File md5="91999DA04BA5D787EF00595D0361BAB1" import="1">Art/Icons/Agla_Scythia_IconAtlas_32.dds</File>
+    <File md5="EC54EBAFDFD40547449A986091FDC0DC" import="1">Art/Icons/Agla_Scythia_IconAtlas_45.dds</File>
+    <File md5="FD9958F6916790424D27CC09E1782710" import="1">Art/Icons/Agla_Scythia_IconAtlas_64.dds</File>
+    <File md5="F41B7E9DE65E2FA2167565945A15B8CC" import="1">Art/Icons/Agla_Scythia_IconAtlas_80.dds</File>
+    <File md5="C776696E0132B2341D7F5C603991A34D" import="1">Art/Icons/FC3DrugsIcon256.dds</File>
+    <File md5="27D5E43A596ED0B6AFAAEDCF6229E97A" import="1">Art/Icons/FC3DrugsIcon45.dds</File>
+    <File md5="AC5D5991106042C6C9BCE0A7D1618EBC" import="1">Art/Icons/FC3DrugsIcon64.dds</File>
+    <File md5="EEEAE1DA86FABDD7ED5FFCDEFD4626F3" import="1">Art/Icons/FC3DrugsIcon80.dds</File>
+    <File md5="CA3A9AF8E10FC8EA157FAA2FF0B388B8" import="1">Art/Icons/FontIcon_VaasDrugs.dds</File>
+    <File md5="73D9AFB332E9270ECF6F1C1B377BA89C" import="1">Art/Icons/FontIcon_VaasDrugs.ggxml</File>
+    <File md5="21CDCEED7D81983A502F1C20ED00BC57" import="1">Art/Icons/Tomatekh_PromotionAtlas_256.dds</File>
+    <File md5="4515CFD32CBCA5FD9B31BA7E74BDF85D" import="1">Art/Icons/Tomatekh_PromotionAtlas_32.dds</File>
+    <File md5="2D64910169FF17FBFD6D2CFAAAADE518" import="1">Art/Icons/Tomatekh_PromotionAtlas_45.dds</File>
+    <File md5="D2E665F6B269588CF10F19FE789271C9" import="1">Art/Icons/Tomatekh_PromotionAtlas_64.dds</File>
+    <File md5="0534DCBD99DABDEAF92D98C3557F97F4" import="1">Art/Leaderscene/Ateas_Diplo.dds</File>
+    <File md5="1E1F4B63FB3D0DEEDD71A8A443F9E21B" import="1">Art/Leaderscene/Ateas_Scene.xml</File>
+    <File md5="BDCAEE262393F7D1112964560A92FD2C" import="1">Art/Maps/Agla_Map_Ateas.dds</File>
+    <File md5="EC137A5419F569A67D6353DF58278163" import="1">Art/Maps/Ateas_DOM.dds</File>
+    <File md5="01C68460531BBA9019B107F0EF1F204A" import="1">Audio/Themes/Ateas_Peace.mp3</File>
+    <File md5="47C01F8BAA3EFB571247D10EF2028A98" import="1">Audio/Themes/Ateas_War.mp3</File>
+    <File md5="1FFC00D38210C68FDC8B2CBF442C3D42" import="0">Core/Agla_Scythia_ArtDefines.sql</File>
+    <File md5="8262331BE3EB9F5277C0EC5D22CAEC46" import="0">Core/Agla_Scythia_GameDefines.sql</File>
+    <File md5="10D321FF0A572AF4450847D60E879A18" import="0">Core/Agla_Scythia_GameText.xml</File>
+    <File md5="BE2E737BE48AC4C6240F30A1FB8F625C" import="0">Lua/PromoFunctions.lua</File>
+    <File md5="B411A3C01C7A9ED2050CA3D0E3E02CC6" import="0">Lua/420.lua</File>
+    <File md5="B9293AAA0023F58A44C9EA28CA6F9DB5" import="0">Lua/HealingFunctions.lua</File>
+    <File md5="35E1E73BFFCF353EAEBDD632FD7D4A9D" import="0">Lua/Plains.lua</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Agla_Scythia_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Agla_Scythia_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Agla_Scythia_GameText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Plains.lua">
+      <Name>PlainsFaith</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/PromoFunctions.lua">
+      <Name>UAPromo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/420.lua">
+      <Name>UGP</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/HealingFunctions.lua">
+      <Name>UGP Combat</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

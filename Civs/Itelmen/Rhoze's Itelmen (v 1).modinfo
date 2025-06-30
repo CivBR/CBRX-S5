@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="17b9a0f3-9b83-43ab-b0d3-80706bca92b3" version="1">
+  <Properties>
+    <Name>Rhoze's Itelmen</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Itelmen of Kamchatka to the game, under the confident leader Harchin, who almost expelled the Russians.</Teaser>
+    <Description>Adds the Itelmen of Kamchatka to the game, under the confident leader Harchin, who almost expelled the Russians.</Description>
+    <Authors>Rhoze</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="D6D87D315EBDA04C73E216CE4AC70101" import="1">Art/harchin_LS.xml</File>
+    <File md5="363FD0EF1232138BD18B30C838025F7F" import="1">Art/harchinls.dds</File>
+    <File md5="7509BB5CE38BA341AC3583D7878C41C5" import="1">Art/ItelmenAlpha_24.dds</File>
+    <File md5="38D423643C3F6E010B17DC7D7BA60B7A" import="1">Art/ItelmenAlpha_32.dds</File>
+    <File md5="C85AC60F033D84AF240503080C2CA017" import="1">Art/ItelmenAlpha_48.dds</File>
+    <File md5="8CAE81E87E0D027988AF24E389CF8762" import="1">Art/ItelmenAlpha_64.dds</File>
+    <File md5="A620204E3E8294E03C708E82F6AAA932" import="1">Art/ItelmenIcon_128.dds</File>
+    <File md5="C2BC9184A708B8EFEF82600306C5A826" import="1">Art/ItelmenIcon_256.dds</File>
+    <File md5="951CE94B5C99226580B9621FC61D5466" import="1">Art/ItelmenIcon_32.dds</File>
+    <File md5="27BA33B1B69022B3CB14BDB62ECAF650" import="1">Art/ItelmenIcon_45.dds</File>
+    <File md5="E3A19851E03A80CDFCE92C2DABCED71B" import="1">Art/ItelmenIcon_64.dds</File>
+    <File md5="AC9870E6A06D888B31E1690A36297BD5" import="1">Art/ItelmenIcon_80.dds</File>
+    <File md5="8B353FDE6D7F00734A1A1BCD6D7A0BA7" import="1">Art/itelmen_dom.dds</File>
+    <File md5="6797CDCCD4A1B9A38ED5508929F9D3E7" import="1">Art/itelmen_map_small.dds</File>
+    <File md5="C3311ACC872E29E92981EC652BC02C14" import="1">Art/KammaUnitflag32.dds</File>
+    <File md5="54AF998DF1A59641364764BB8877D48B" import="1">Art/svKamma.dds</File>
+    <File md5="A5A20DF1447D1A6C87931347504A870F" import="1">Audio/ItelmenWar.mp3</File>
+    <File md5="326F7D148D9B98386650ED0152CC88BB" import="1">Audio/ItelmenPeace.mp3</File>
+    <File md5="F9A76EC784DCC44DC7F5B8ADDB29BC37" import="0">Core/ItelmenArtdef.sql</File>
+    <File md5="DFC4C44EB312BF22AD9903066E6FDC8F" import="0">Core/ItelmenCore.sql</File>
+    <File md5="EAC46CF5F78E7C4043F14EFF0FCF96BA" import="0">Core/ItelmenSupport.sql</File>
+    <File md5="FB35C4CAF0D04D5299572F7A62D09BD5" import="0">Core/ItelmenText.xml</File>
+    <File md5="E958B29070143707C49A02DDCC306D53" import="0">Lua/ItelmenFunc.lua</File>
+    <File md5="A7084347613410218D7612D93B5A950C" import="1">Lua/RiverConnections.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/ItelmenArtdef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ItelmenCore.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ItelmenSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ItelmenText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/ItelmenFunc.lua">
+      <Name>ItelmenFunc</Name>
+      <Description>ItelmenFunc</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

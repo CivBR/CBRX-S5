@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/7/2022 11:47:29 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_VYATKAUUMARK1">
+			<Text>Khlynov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_VYATKAUUMARK2">
+			<Text>Khlynov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_VYATKAUUMARK3">
+			<Text>Khlynov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_1">
+			<Text>Khlynov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_2">
+			<Text>Kotelnich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_3">
+			<Text>Orlov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_4">
+			<Text>Nikulitsyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_5">
+			<Text>Dymkovo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_6">
+			<Text>Vyatskiye Polyany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_7">
+			<Text>Slobodskoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_8">
+			<Text>Ust-Cheptsa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_9">
+			<Text>Shabalinskoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_10">
+			<Text>Osinovets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_11">
+			<Text>Karino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_12">
+			<Text>Shestakov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_13">
+			<Text>Zyuzdino-Afanasyevskoye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_14">
+			<Text>Glazov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_15">
+			<Text>Verkhoshizhemye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_16">
+			<Text>Sosnovka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_17">
+			<Text>Kiknur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_18">
+			<Text>Nikolskoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_19">
+			<Text>Lalsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_20">
+			<Text>Orichi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_21">
+			<Text>Nema</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_22">
+			<Text>Pizhanka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_23">
+			<Text>Peskovka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_24">
+			<Text>Kovrovskoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_25">
+			<Text>Razderikhinsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_26">
+			<Text>Vakhrushi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_27">
+			<Text>Murygino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_28">
+			<Text>Sarai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_29">
+			<Text>Arkhangelsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_VYATKA_30">
+			<Text>Kazan</Text>
+		</Row>
+
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_VYATKA_0">
+			<Text>Konstantin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_VYATKA_1">
+			<Text>Daniil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_VYATKA_2">
+			<Text>Yury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_VYATKA_3">
+			<Text>Gleb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_VYATKA_4">
+			<Text>Boris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_VYATKA_5">
+			<Text>Eudoxia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_VYATKA_6">
+			<Text>Marfa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_VYATKA_7">
+			<Text>Helena</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_VYATKA_8">
+			<Text>Anna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_VYATKA_9">
+			<Text>Maria</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<!--Basic Info-->
+		<Row Tag="TXT_KEY_LEADER_RHO_IOANN">
+			<Text>Ioann Anikiev Myshkin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_RHO_VYATKA_ADJ">
+			<Text>Vyatchan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_RHO_VYATKA">
+			<Text>Vyatka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_RHO_VYATKA_SHORT">
+			<Text>Vyatka</Text>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="TXT_KEY_PEDIA_RHO_VYATKA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_VYATKA_TEXT_1">
+			<Text>The Vyatka Land is a historical region in the basin of the Vyatka River, approximately corresponding to modern-day Kirov Oblast in Russia. While the Komi, Mari, and Udmurts were its original inhabitants, it was gradually settled by Slavic settlers whose arrival is traditionally dated to the late 12th century. Vyatka Land, being geographically isolated from the rest of the Russian lands, sometimes accepted the suzerainty of other Russian and Tatar states but de facto enjoyed a large degree of independence until it was annexed by the Grand Principality of Moscow in 1489. The settlement of Vyatka appears in the archeological record of the 11th–13th centuries and intensifies after the Mongol conquest of Rus'. The first undisputed mention of Vyatka in Russian chronicles dates to 1374 when a band of ushkuyniks coming from Vyatka raided Sarai. As Vyatka slowly rose in importance among the slavic and tatar areas of the east, it was passed around as a possession of various Novgorodian and Muscovite princes, few if any of whom actually ever visited the remote region. Vyatka Land was self-governed to a large degree; however, the nature of its government is not known for sure. The local leaders, known as voivodes, were apparently elected and sometimes they are identified with atamans who headed military campaigns and raids. There are no explicit mentions of a veche republic in Vyatka in surviving sources, and historians' opinions on its existence differ. By 1452, after the Muscovite War of Succession, power in Vyatka truly passed to the local boyars, independent for a time. Around the same time, the Vyatchane gained a reputation as ruthless plunderers, accused of destroying churches and selling slavs as slaves in Kazan. After a 1459 show of force, Vyatka was once again a tributary of Moscow - at least in name. In actuality, the Vyatchane rarely supported Moscow and continued raiding both Muscovite and Tatar lands. This state of affairs continued for a time, but as the ascendant Moscow conquered Perm and Novgorod, Vyatka soon found itself surrounded on almost all sides. Pro- and anti-Moscow factions feuded in the citadel of Khlynov, with the independence faction succeeding. However, in 1489, Moscow attacked with a massive army, subjugating Vyatka once and for all, and executing and exiling leaders for good measure. Vyatka was incorporated into the expanding Moscow domain. However, many traditions survived the transition, such as the Svistoplyaska whistling festival commemorating a feud with Ustyug.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_IOANN_NAME">
+			<Text>Ioann Anikiev Myshkin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_IOANN_SUBTITLE">
+			<Text>Leader of Vyatka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_IOANN_TITLES_1">
+			<Text>Boyar, Ataman, Voivode</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_IOANN_LIVED">
+			<Text>d.1489</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_IOANN_HEADING_1">
+			<Text>Biography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_IOANN_TEXT_1">
+			<Text>
+				Ioann Anikiev Myshkin is a scant figure, appearing only as the defender of Vyatka in its final days. A boyar from Khlynov, he is first mentioned in 1485, successfully defending Vyatka from a Muscovite reprisal when the Vyatchans refused to attack Kazan, an ally at that time, as Moscow commanded. In this, he replaced Konstantin Yuriev, the previous principal figure from Vyatka, who had successfully plundered Sarai, but who supported Moscow taking full control of Vyatka. Under Ioann's leadership, several raids were made on Muscovite lands along the Northern Dvina and near Ustyug. In 1489, however, Moscow sent a massive army of 64,000 under Daniil Shchenya to conquer Vyatka, and was successfull. Anikiev and two other leading figures in Vyatka, referred to as 'Atamans' by Moscow, were executed, and many of the nobles and merchants of Vyatka were forcefully expelled and settled near Moscow, with new, loyal ones taking control of Vyatka thereafter.
+			</Text>
+		</Row>
+
+		<!--Gameplay-->
+		<Row Tag="TXT_KEY_CIV5_DAWN_RHO_VYATKA_TEXT">
+			<Text>Hail, Ioann Anikiev Myshkin, unbowed defender of Vyatka and its liberties, who never bent the knee to Moscow! From out of the vast wilderness of rivers in the east your people rose, making war and making merry as they pleased. Yet as the Khan and the Tsar slowly closed freedom's noose you found yourself standing alone at the head of the artisans and pirates. Abandoned by your allies, eventually you were just another obstacle on Moscow's path to supremacy - you executed and your people scattered. [NEWLINE][NEWLINE]Now, o valiant leader, the memory of Vyatka and the culture of its people stir, as yet unforgotten. Can you take the reins once more, and remind the people from the White Sea to the Black of your name? Can you sound the shrill whistle of death once more? Can you build a civilization to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RHO_SVISTOPLYASKA_SHORT">
+			<Text>Svistoplyaska</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RHO_SVISTOPLYASKA">
+			<Text>
+				Killing enemy units yields [ICON_CULTURE] Culture inside your own territory, or [ICON_GOLD] Gold outside it, scaling the further from your capital you are.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_RHO_USHKUYNIK">
+			<Text>Ushkuynik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_USHKUYNIK_HELP">
+			<Text>An always-available Landsknecht replacement best at ranging near rivers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_USHKUYNIK_STRATEGY">
+			<Text>A Landsknecht replacement. Doesn't need the Mercenary Army policy (but adopting the policy will spawn two for free). Amphibious. The first 3 moves into river tiles each turn are free. Automatically heals on river tiles when distant from your capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_USHKUYNIK_TEXT">
+			<Text>The ushkuyniki were medieval Novgorodian pirates who operated in the north of European Russia until the 15th century. The north of European Russia was mostly colonized by the Novgorodians from the 14th to 15th centuries, with the ushkuyniks possibly leading the way from the 12th to 14th centuries; northern Russian traditions linked the appearance of brigand hideouts on mountainous terrain or the mouths of rivers with the ushkuyniks. Ushkuyniki, named after their eponymous river boats, Ushkuys, wielded all sorts of weapons. Uskuyniks were not exclusive to Vyatka, but it was used as a base for piratical raids as far away as Sarai and Arkhangelsk. By some accounts, the ushkuyniki were the founders of Vyatka.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_TOYMAKER">
+			<Text>Dymkovo Toymaker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_TOYMAKER_HELP">
+			<Text>Unique replacement for the Zoo. Only Vyatka may build it. Constructed slightly faster for every unit that has ever died in this city's borders. Receive twice this city's Culture output as Gold whenever you adopt a Social Policy, and twice this city's Gold output as Culture whenever you purchase a unit or building in it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_TOYMAKER_STRATEGY">
+			<Text>Unique replacement for the Zoo. Only Vyatka may build it. Constructed slightly faster for every unit that has ever died in this city's borders. Receive twice this city's Culture output as Gold whenever you adopt a Social Policy, and twice this city's Gold output as Culture whenever you purchase a unit or building in it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_TOYMAKER_TEXT">
+			<Text>Dymkovo toys are moulded painted clay figures of people and animals, originally in the form of a pennywhistle. It is one of the old Russian folk art handicrafts, still existing in the village of Dymkovo). Traditionally, the Dymkovo toys are made by women, and timed to the spring Svistoplyaska festival, but they slowly lost their ritual meaning and turned into children's toys.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_VYATKAUUMARK1">
+			<Text>Pirates of the Long Rivers (1)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_VYATKAUUMARK1_HELP">
+			<Text>3 free moves into river tiles each turn (1 left).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_VYATKAUUMARK2">
+			<Text>Pirates of the Long Rivers (2)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_VYATKAUUMARK2_HELP">
+			<Text>3 free moves into river tiles each turn (2 left).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_VYATKAUUMARK3">
+			<Text>Pirates of the Long Rivers (3)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_VYATKAUUMARK3_HELP">
+			<Text>3 free moves into river tiles each turn (3 left).</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_RHO_IOANN_FIRSTGREETING_1">
+			<Text>I hope you're not here to infringe on our liberty. On the other hand, if you know anyone sitting on too much gold, you know where my rivers flow.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_IOANN_DEFEATED_1">
+			<Text>Traitors! All of them! Accursed ruler, if you think my death will make me bow to you, your arrogance has reached new heights.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_IOANN_DOWGENERIC_1">
+			<Text>I think you've been getting a bit too comfortable there, friend. Luckily, me and my men are here to take some of that excess away from you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_IOANN_ATTACKEDHOSTILE_1">
+			<Text>All is fair out on the river. But do you really think your warriors are better than mine? Let's find out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_IOANN_LUXURYTRADE_1">
+			<Text>We make all sorts of great trinkets here, care to trade?</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_NC_PONCA_ADJECTIVE">
+			<Text>Ponca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NC_PONCA_DESC">
+			<Text>Ponca Tribe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NC_PONCA_SHORT_DESC">
+			<Text>The Ponca</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_NC_TAL_PONCA">
+			<Text>The Ponca</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_TEXT_1">
+			<Text>The Ponca people are an Native American nation. By the end of the 18th century, the Ponca people had established themselves at the mouth of the Niobrara River near its confluence with the Missouri River, remaining there until 1877 when the United States forcibly removed the Ponca people from the Ponca Reservation in the Dakota Territory to the Indian Territory. This event, known as the Ponca Trail of Tears, resulted in the deaths of hundreds of Ponca civilians and the splintering of the nation. In 1879, two years after the removal, a small portion of the Ponca elected to return to Nebraska in 1879. This group, led by Standing Bear, ultimately gave rise to the present-day Ponca Tribe of Nebraska. Two years later, the majority of the Ponca were given the opportunity to return to Nebraska but elected against doing so, having established themselves on a new reservation in the Indian Territory. This group, led by White Eagle, ultimately gave rise to the Ponca Tribe of Oklahoma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_HEADING_2">
+			<Text>The Migration of the Dhegihan Sioux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_TEXT_2">
+			<Text>At the time of European contact, the Ponca lived around the mouth of the Niobrara River in northern Nebraska. They had, along with other Siouan-speaking tribes such as the Omaha, Osage, Quapaw and Kaw, migrated to the West from east of the Mississippi River, as the invasions of the Iroquois from their traditional base in the north pushed the tribes out of the Ohio River area. Following Howard, they migrated following the Ohio river, then up the Mississippi, whereas the Quapaws went downstead. It is unclear whther they continued to follow the Mississippi or follow the Missouri, but they made their way to present-day Nebraska, splitting up with the other Dhegiha Siouan peoples along the way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_HEADING_3">
+			<Text>The Maize Plains Peoples</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_TEXT_3">
+			<Text>The Ponca appear on a 1701 map by Pierre-Charles Le Sueur, who placed them along the upper Missouri. In 1789, fur trader Juan Baptiste Munier was given an exclusive license to trade with the Ponca at the mouth of the Niobrara River. He founded a trading post at its confluence with the Missouri, where he found about 800 Ponca residing. Shortly after that, the tribe was hit by a devastating smallpox epidemic. In 1804, when they were visited by the Lewis and Clark Expedition, only about 200 Ponca remained. Later in the 19th century, their number rose to about 700. Most of the leadership of the Ponca people was destroyed in 1824. Hostile Lakotas attacked a delegation of 30 leaders of various rank returning from a visit in a friendly Oglala Lakota camp. Unlike most other Plains Indians, the Ponca grew maize and kept vegetable gardens. Their last successful buffalo hunt was in 1855.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_HEADING_4">
+			<Text>An Oh-so Common Story of People Not Bothering to Learn Crucial Information Which Causes Problems Later On</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_TEXT_4">
+			<Text>In 1817 the tribe signed a peace treaty with the United States. By a second treaty in 1825, they regulated trade and tried to minimize inter-tribal clashes on the Northern Plains. In 1858 the Ponca signed a treaty by which they gave up parts of their land to the United States in return for protection from hostile tribes and a permanent reservation home on the Niobrara. The Ponca signed their last treaty with the US in 1865. In the 1868 US-Sioux Treaty of Fort Laramie the US mistakenly included all Ponca lands in the Great Sioux Reservation. Conflict between the Ponca and the Lakota, who now claimed the land as their own by US law, forced the US to remove the Ponca from their own ancestral lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_HEADING_5">
+			<Text>Meetings to Move</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_TEXT_5">
+			<Text>On September 11 and 23, 1875, Ponca Indian agent A.J. Carrier held meetings with the Ponca. A paper was signed after the last meeting, and Standing Bear and some members of the Ponca Tribe agreed to move to Indian Territory. A request was also included that a delegation of Ponca chiefs should be allowed to visit the Indian Territory to select a new reservation. Carrier later claimed that the agreement represented the unanimous opinion of the Indians present at the meetings. Standing Bear, however, later claimed that there was a misunderstanding, as the Ponca language had no separate word for land in the Indian Territory. He further stated he reasonably thought he was agreeing to move to the Omaha Reservation. Nevertheless, in 1877 Indian Inspector E.C. Kemble was told by Washington to meet with the Ponca leaders and make arrangement for them to visit the Indian Territory and select a site for a new reservation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_HEADING_6">
+			<Text>A New Reservation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_TEXT_6">
+			<Text>The Trail of Tears began with a scouting mission. On February 2, 1877, Inspector E.C. Kemble, Ponca agent J. Lawrence, Standing Bear, and nine other Ponca leaders left for the Osage Reservation in Indian Territory to select a site for the new Ponca Reservation. Adequate preparations had not been made for the visit to the Osages and many of the Osage chiefs were absent when the Ponca arrived. Consequently, no serious business could be conducted and the land shown to the Ponca as possible sites for their reservation were not satisfactory. Standing Bear and the other tribal leaders informed Kemble they wanted to return home. Kemble was furious with their refusal to survey any other lands. He called their actions "insubordination." He refused to honor their request to return home. On February 21, 1877, Standing Bear and seven of his fellow chiefs decided to return on their own. It was midwinter, they had to sleep much on the time on the open prairie, and they went for days without rations. An agent for the Otoe Reservation in Gage County remarked that the Ponca leaders left bloody footprints in the snow. After a strenuous journey, the Ponca leaders arrived at the Ponca Reservation on April 2, 1877. Unfortunately for Standing Bear and the Ponca, Kemble was already back, and he had new orders from Washington — the Ponca were to be moved, using force if necessary, to Indian Territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_HEADING_7">
+			<Text>The Ponca Trail of Tears</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_TEXT_7">
+			<Text>The Ponca were divided in their willingness to leave. Those willing to journey south left with Kemble on April 16. In May, Standing Bear and the remainder of the Ponca Tribe started the long journey to Indian Territory, prodded along by the U.S. military. They encountered bad weather almost from the beginning of the trip, and by the time the tribe reached their destination, the summer heat had become oppressive and they were constantly plagued with insects and extreme weather conditions. Nine people died on the journey, including Stand Bear's daughter, Prairie Flower, who died of consumption and was buried at Milford, Nebraska. Chief Standing Bear was among those who had most vehemently protested the tribe's removal. When his eldest son, Bear Shield, lay on his deathbed, Standing Bear promised to have him buried on the tribe's ancestral lands. In order to carry out his promise, Standing Bear left the reservation in Oklahoma and traveled back toward the Ponca homelands. He was arrested for doing so without US government permission and ordered confined at Fort Omaha. Many people took up his cause, and two prominent attorneys offered their services pro bono. Standing Bear filed a habeas corpus suit challenging his arrest. In Standing Bear v. Crook, held in Omaha, Nebraska, the US District Court established for the first time that Native Americans are "persons within the meaning of the law" of the United States, and that they have certain rights as a result. This was an important civil rights case.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_HEADING_8">
+			<Text>The Two Tribes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_TEXT_8">
+			<Text>In 1881, the US returned 26,236 acres of Knox County, Nebraska to the Ponca, and about half the tribe moved back north from Indian Territory. The tribe continued to decline. After World War II, the US government began a policy of terminating its relationship with tribes. In 1966, the US federal government terminated the tribe, then known as the Northern Ponca.  It distributed its land by allotment to members, and sold off what it called surplus. Many individuals sold off their separate allotments over the decades, sometimes being tricked by speculators. In the 1970s, the tribe started efforts to reorganize politically. Members wanted to revive the cultural identity of its people and improve their welfare. First, they sought state recognition and then allied with their Congressional representatives to seek legislation for federal recognition. On October 31, 1990, the Ponca Restoration Bill was signed into law, and they were recognized as the Ponca Tribe of Nebraska. They are now trying to rebuild a land base on their ancestral lands. They are the only federally recognized tribe in Nebraska without a reservation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_HEADING_9">
+			<Text>Those Who Remained</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_PONCA_TEXT_9">
+			<Text>After the 1877 forced relocation onto the Quapaw Reservation in Indian Territory, the tribe moved west to their own lands along the Arkansas and Salt Fork Rivers. During opposition by Ponca leadership, the US government began dismantling tribal government under the Curtis Act. In an attempt to encourage assimilation, they allotted reservation lands to individual members under the Dawes Act in 1891 and 1892. Any land remaining after allotment was made available for sale to non-natives, a fate very similar to their northern counterparts. After Oklahoma achieved statehood, some remaining Ponca land was leased or sold to the 101 Ranch, where many Ponca people found employment. The 1911 discovery of oil on Ponca lands provided revenues but had mixed results. In 1918, three Ponca men, Frank Eagle, Louis McDonald, and McKinley Eagle, helped co-found the Native American Church. In 1950, the nation organized a new government under the Oklahoma Indian Welfare Act. Ponca leaders adopted the Ponca Constitution on 20 September 1950. Today, the Ponca Tribe is headquartered in White Eagle, Oklahoma and conducts business from Ponca City.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_1">
+			<Text>Nanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_2">
+			<Text>Wáin-Xude</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_3">
+			<Text>Húbdon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_4">
+			<Text>Xáda De</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_5">
+			<Text>Maxúde Wa'aeda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_6">
+			<Text>Mígasude</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_7">
+			<Text>Kúhe Wade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_8">
+			<Text>Tenúga-sabe Wae'edon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_9">
+			<Text>Nixué</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_10">
+			<Text>Xáda Uzinga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_11">
+			<Text>Zábe Tie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_12">
+			<Text>Uhé Atan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_13">
+			<Text>Mikae Huxpa'adaetne Dandi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_14">
+			<Text>Gaxdíbe Wade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_15">
+			<Text>Zanwídandan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_16">
+			<Text>Tíwan Ni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_17">
+			<Text>Pipestone Quarry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_18">
+			<Text>Páhe Snabe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_19">
+			<Text>Nískide Tonwangdan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_20">
+			<Text>Ni-Púke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_21">
+			<Text>Omadi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_22">
+			<Text>Burgess Creek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_23">
+			<Text>Dead Tree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_24">
+			<Text>Farming Ground</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_25">
+			<Text>Big Bend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_26">
+			<Text>Wirth Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_27">
+			<Text>Xe Aze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_28">
+			<Text>Nee be the Ska</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_29">
+			<Text>Elkhorn River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_30">
+			<Text>White Eagle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_31">
+			<Text>Niobrara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_32">
+			<Text>Wayne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_33">
+			<Text>Páhe Sabe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_34">
+			<Text>Páhe-Wadahuni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_35">
+			<Text>Páhe Ze-egan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_36">
+			<Text>Taháwati Wadu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_37">
+			<Text>Padonka Fort</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_PONCA_38">
+			<Text>Ponca City</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_NC_PONCA_0">
+			<Text>Mariano</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_PONCA_1">
+			<Text>Antonio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_PONCA_2">
+			<Text>Rafael</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_PONCA_3">
+			<Text>Francisco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_PONCA_4">
+			<Text>José</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_PONCA_5">
+			<Text>Manuel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_PONCA_6">
+			<Text>Vicente</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_PONCA_7">
+			<Text>Pedro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_PONCA_8">
+			<Text>Diego</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_PONCA_9">
+			<Text>Carmen</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_NC_PONCA">
+			<Text>White Eagle</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_NAME">
+			<Text>White Eagle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_TEXT_1">
+			<Text>White Eagle was the hereditary chief of the Ponca from 1870 until 1904, from the unlawful Ponca Trail of Tears in 1877 through his successful struggle for justice for his people by using media to turn public opinion against America's Indian removal policy, and pressured American presidents such as Rutherford B. Hayes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_HEADING_2">
+			<Text>At the Convergence of the Niobrara and Missouri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_TEXT_2">
+			<Text>White Eagle was born on the ancestral Ponca homeland somewhere near the confluence of the Niobrara River and Missouri River. At the time of his birth, the Ponca form of government was an oligarchy, in which the full sovereign power of the Ponca was vested in a hereditary chief sovereign who was counseled by thirteen chiefs, six senior chiefs and seven junior chiefs, who represented the interests of the Ponca citizenry. Dynastic rule was vested in White Eagle's direct male line, a dynasty established by White Eagle's paternal grandfather Chief Little Bear late in the 18th century when he assumed power from the traditional sovereigns by heroic feat. White Eagle's exact birth year is unknown. Various sources place his birth year as early as 1803 and as late as 1840, though both historical estimates are dubious.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_HEADING_3">
+			<Text>The Ponca Trail of Tears</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_TEXT_3">
+			<Text>White Eagle's tenure as chief was defined by the unlawful forced removal of the Ponca from their treaty protected territory in the Dakota Territory to the Indian Territory in 1877, in direct violation of the Ponca Treaty of 1865 and American law. Known as the Ponca Trail of Tears, this removal was a six-hundred mile forced march spanning three modern-day states, resulting in numerous deaths en route.  The forced march consisted of two parties of Ponca citizens. The first party was composed of approximately 170 Ponca citizens with mixed ancestry and began on April 16, 1877. The second party was to consist of the vast majority of the Ponca citizenry numbering about 500 people, including White Eagle and his vice chief Standing Bear. For nearly a month, White Eagle and Standing Bear resisted the unlawful efforts of Edward Cleveland Kemble, the federal agent sent by President Ulysses S. Grant, to force the Ponca removal by fraud. On April 24, 1877, General William Tecumseh Sherman ordered two companies of American soldiers to Ponca territory to force their compliance. The removal lasted 54 miserable days, beginning on May 16, 1877, and ending on July 9, 1877. The removal was plagued by torrential rains which flooded the unpaved dirt roads, miring the Ponca in mud for most of the march. A tornado struck the Ponca removal party on June 7, 1877, near Milford, Nebraska, killing one child and injuring many others. The following day, yet another child died.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_HEADING_4">
+			<Text>The Days of Misery and Assassination Attempts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_TEXT_4">
+			<Text>As the Poncas continued their forced march across Kansas, four more people died: a young child named Little Cottonwood died outside Blue Rapids, Kansas, on June 18, two elderly women died south of Manhattan, Kansas, on June 25, and a young child died outside of Emporia, Kansas, on June 30. Two days later, an assassination attempt was made on White Eagle by a disaffected Ponca named Buffalo Chip who held White Eagle responsible for the mounting death toll. A week after the failed assassination attempt, the Ponca arrived at the Quapaw Agency in the Indian Territory. As a result of the unlawful removal, the Ponca suffered severe economic losses, including the loss of their wooden homes, personal property, and agricultural implements. Due to the hasty nature of the unlawful removal perpetuated by Edward Cleveland Kemble and the Hayes administration, the Ponca were removed to a swampy marsh in the Indian Territory and forced to live outside exposed to the elements in a tropical climate. No preparations were made to accommodate the Ponca by the newly inaugurated Hayes administration or Carl Schurz, President Hayes' cabinet secretary responsible for overseeing the removal. Within six months, a further 141 deaths were reported as half of the Ponca population suffered from tropical diseases such as malaria and yellow fever. Among the victims were White Eagle's wife, four of his children, and his father Iron Whip.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_HEADING_5">
+			<Text>Native Civil Rights</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_TEXT_5">
+			<Text>White Eagle led a delegation of Ponca leaders to Washington in the immediate aftermath of the removal in order to confront President Hayes and the American politicians in the Congress regarding the clear illegality of the removal. He and Standing Bear arrived on November 8, 1877. White Eagle's leadership during the Ponca removal crisis played a central role in the series of events culminating in a landmark civil rights ruling in 1879 recognizing Native Americans as persons due civil rights under the Constitution of the United States for the first time in American history in Standing Bear v. Crook. Immediately following the Ponca removal, White Eagle aggressively sought restoration of the ancestral Ponca homeland from President Hayes and the United States Senate for the American government's violation of the Ponca Treaty of 1865 and its subsequent mismanagement of the Ponca removal. The efforts of both White Eagle and Standing Bear generated significant support from many notable Americans of the time including the poet Henry Wadsworth Longfellow, former abolitionist Wendell Phillips, and author Helen Hunt Jackson who advocated on behalf of the Ponca by writing the seminal book on Native American civil rights entitled "A Century of Dishonor." Nebraska journalist Thomas Tibbles traveled the country on a speaking tour to raise the money necessary for the Ponca to appeal their removal to the United States Supreme Court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_HEADING_6">
+			<Text>Differences In History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_TEXT_6">
+			<Text>Unlike President Andrew Jackson's forced removals of the Cherokee, Choctaw, Chickasaw, Creek, and Seminoles which the American government regarded as legal under the Indian Removal Act of 1830, the Ponca removal was widely acknowledged by contemporary Americans to be unlawful from its inception as it was in clear violation of the Ponca Treaty of 1865 and a 1876 Act of Congress which required the federal removal agent, Edward Cleveland Kemble, to obtain White Eagle's consent before removing the Ponca to Indian Territory, which White Eagle refused. As public outrage grew, the Senate created a select committee to investigate the Ponca removal which found that the United States had forced a great injustice upon the Ponca through the misdeeds of Edward Cleveland Kemble, concluding: "If the government expects to exterminate this tribe, it has but to continue the policy of the past few years. The committee can see no valid objection, therefore, to that means of redress which comes nearest to putting these Indians in precisely the condition they were in when E.C. Kemble undertook, without authority of law, to force them from their homes into the Indian Territory."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_HEADING_7">
+			<Text>The New Cornerstones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_TEXT_7">
+			<Text>White Eagle subsequently negotiated a settlement with the United States on behalf of the Ponca in January 1881 pursuant to which the Ponca agreed to remain in the Indian Territory for monetary reparation in the amount of $125,000. His decision shocked political observers but his rationale was based on guaranteed national security in the Indian Territory from Sioux aggression in addition to unique economic opportunities in the Indian Territory such as leasing. On October 22, 1880, White Eagle symbolically declared his intention to remain in the Indian Territory by laying the cornerstone of a school on the Ponca Agency alongside Chief Joseph of the Nez Perce. White Eagle deposited the Sioux scalp taken by his grandfather Chief Little Bear in a box at the laying of the cornerstone, symbolically closing a chapter of Ponca history. Following the enactment of the Dawes Act, however, White Eagle forged a close association with former Confederate general George W. Miller and leased most of the 110,000 acres which became the Miller 101 Ranch. In 1907, he later befriended oilman E.W. Marland. White Eagle became acquainted with Miller in then immediate aftermath of the Ponca Trail of Tears in July 1877 at the Quapaw Reservation as the Ponca waited disconsolately at Baxter Springs, homesick, and with considerable sickness. White Eagle and Miller soon developed a lifelong friendship built upon mutual respect as Miller learned the Ponca language. Miller quickly became a trusted advisor to White Eagle and the two held many conferences over the plight of the tribe. While inspecting land in the Cherokee Strip Col. Miller, Joe, and a number of cowboys found themselves near the proposed Ponca Reservation. After inspection Miller was satisfied that if White Eagle could visit the country he would accept the offer of the government and make it their home.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_HEADING_8">
+			<Text>Messages</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_TEXT_8">
+			<Text>Since White Eagle intended to leave soon for Washington to refuse the grant, Miller knew it was necessary to get word to him. Joe, his son, was the messenger. He was a mere boy but fully qualified to care for himself and since he knew and could speak the Ponca language he could meet and talk with them in their own way. He arrived just in time for White Eagle was preparing to leave for Washington. For the first time in the memory of the tribe, when the chiefs and head men met in council that night, a white boy sat in the center and answered their questions in their own tongue. It was decided that the next day White Eagle would return with Joe to view this land, and that the Poncas would never forget this kindness. The Indians moved to their new home in 1879. The United States drastically altered its policies toward Native Americans Immediately following the Senate investigation of the Ponca removal by terminating the forced removal policy which began under President Jackson's Indian Removal Act. White Eagle was later credited as being responsible for forcing this change in government policy. After successfully obtaining reparations for the unlawful removal, White Eagle remained a prominent advocate for Native American civil rights and the advancement of his people. He was one of the few outspoken opponents of the disastrous Dawes Act of 1887 which sought to culturally assimilate Native Americans into American society by withholding civil rights to Native Americans unless they agreed to abolish their governments, thereby relinquishing control of communal lands. In exchange, the United States would grant citizenship to individual Native Americans who agreed to accept small allotments of land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_HEADING_9">
+			<Text>The Impact of the Dawes Act</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_TEXT_9">
+			<Text>White Eagle had used diplomacy and litigation to deflect the onrushing American immigrants, by 1889, these efforts had failed. This left the surviving Ponca facing reservation life and continuing pressures from the Harrison administration to acculturate. Federal officials demanded that the Ponca abandon their traditions and join the white American mainstream. Following the Oklahoma Land Run of 1889, President Benjamin Harrison convened a commission with the objective of acquiring land occupied by thirteen separate Native American nations, including the Ponca, for the purpose of opening the land to American settlers. In 1891, White Eagle appeared before a panel convened by President Harrison. By 1892, Harrison's commission had successfully annexed land from every nation except the Ponca. On March 17, 1892, led by White Eagle, the Ponca were the first tribe to refuse to engage in negotiations. Commissioners attempted to acquaint the Ponca with the size of 80 acres by staking out two such plots and marking them with flags. To their disappointment, the Poncas declined all invitations to ride a wagon around the plots with White Eagle declaring that he already knew the size of 80 acres. On April 12, 1892, the Commission articulated President Harrison's proposal. Each Ponca would receive an allotment of 80 acres and $20, coming from the federal payment of $69,000.00 for the surplus lands. The balance of the purchase price would be placed in the United States Treasury where it would earn 5% interest, which would be paid annually at the rate of $10 per month to each tribal member. In the event the Ponca desired to withdraw the principle amount, each Ponca family of 5 would receive $1,000.00. White Eagle was highly critical of this offer. The depth of the Ponca resistance was immense and the Commission was unable to extract any concessions whatsoever.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_HEADING_10">
+			<Text>Leasing Land and Abdication</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_TEXT_10">
+			<Text>White Eagle effectively utilized the Dawes Act by conveying Ponca land to a prominent oil tycoon when a large oilfield was discovered under the Ponca reserve in 1911, using his relationship with oil tycoon and future United States congressman E. W. Marland. He also leased significant acreage of the Ponca Reservation in the Indian Territory to the Miller Brothers 101 Ranch who used the land to establish what would become one of the most recognizable names in ranching and western entertainment, staging Wild West shows. In September 1883, Joe Miller joined by White Eagle, led a delegation of Poncas to the Alabama State Fair where he helped the Poncas establish an Indian village to hold traditional dances. This included marching in parades on Mar. 18, 1899. In late 1902, White Eagle traveled to Birmingham, Alabama to perform in the 101 Ranch Wild West Show. However, White Eagle was forbidden to leave the Ponca Reservation without permission from the federal government. White Eagle formally abdicated his position as hereditary chief on May 8, 1904, to his son and successor, Horse Chief Eagle, who would ultimately be recognized as the last hereditary chief in the United States due to the enactment of the Oklahoma Indian Welfare Act of 1936 prohibiting non-democratic Native American governments. White Eagle's abdication ceremony and the traditional buffalo hunt that followed was attended by an estimated 13,000 people. The press described the ceremony as the last buffalo hunt in this history of the Great Plains. White Eagle died on February 3, 1914, and is interred on Monument Hill in Noble County, Oklahoma.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_LIVED">
+			<Text>1825 - 1914 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_SUBTITLE">
+			<Text>Chief of the Ponca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_PONCA_TITLES_1">
+			<Text>Chief</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_NC_PONCA_TEXT">
+			<Text>Many blessings to you, Chief White Eagle, protector of the Ponca tribe! Coming to power in a tumultuous time for your people, it was during your tenure as chief that the United States government came to force the Ponca off of their homeland, in violation of a treaty made barely ten years prior. Though you did all you could to resist, your people were forced to travel from the Niobrara River all the way to the Indian Territory in what would become known as the Ponca Trail of Tears, with death and devastation wearing them down. But you did not give up - with the help of your vice-chief Standing Bear, you took to the Supreme Court in a landmark case that saw Native Americans recognized as people under the law and won the right for the Ponca to return to their ancestral lands, although you yourself chose to stay in Indian Territory. You went on to fight hard against the Dawes Act that would take away your new reservation, and when the act passed despite your best efforts, you took the steps to ensure that your surrendered land would at least be leased to those who would guarantee your people money and employment.[NEWLINE][NEWLINE]Chief White Eagle, great conquerors are once again eyeing up your homeland, seeking to take it for themselves. Can you defend the sovereignty of your tribe? Can you take your would-be conquerors to task and ensure that your lands will still be there for your children? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_NC_PONCA_FIRSTGREETING_1">
+			<Text>I welcome you, stranger, to the lands of the Ponca. I hope that you do not wish to bring trouble.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_PONCA_DEFEATED_1">
+			<Text>We may be defeated, but when your people ask why we have died, it shall be answered that we died to maintain our rights, that we died rather than leave our land, and that we only did what was right.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_PONCA_ATTACKED_HOSTILE_1">
+			<Text>So be it. We will fight and die on our lands, then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_PONCA_DEC_FRIENDSHIP_1">
+			<Text>Your kindness has been a massive boon, and we have nothing but our thanks to give. Would you be willing to make a public Declaration of Friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_PONCA_DENOUNCE_1">
+			<Text>You are a threat to the safety of not only my people but all those of the world, and I believe it is time everybody else knows it.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_PONCA_DENOUNCE_FRIEND_1">
+			<Text>I believed that I could trust you, but it seems I was wrong.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_PONCA_DOW_GENERIC_1">
+			<Text>I have worked hard to save my people from bloodshed, but you have given me no choice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_PONCA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Please keep your people on your own reservations instead of allowing them to seize the land we need for our children and our animals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_PONCA_GREETING_HOSTILE_HELLO_1">
+			<Text>State your business quickly and then leave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_PONCA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Ah, welcome. What have you come to discuss?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_PONCA_GREETING_POLITE_HELLO_1">
+			<Text>Welcome, honored guest. It is wonderful to see you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_PONCA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Why do I find you here now armed against me? I request that you remove your soldiers from our borders at once, or we will be forced to defend them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_PONCA_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Our land is not for sale. Please, stop attempting to purchase it all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_PONCA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>For what reason do you wish to be enemies? Have you no pity?</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_NC_PONCA_SHORT">
+			<Text>Blood the Same Color As Yours</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NC_PONCA">
+			<Text>During a peace treaty, you may settle one city within the other civilization's territory. When a city grows, every worked Farm contributes a small amount of [ICON_SCIENCE] Science.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_PONCA_PEACE">
+			<Text>Ponca Peace Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_PONCA_PEACE_HELP">
+			<Text>Tracks a Ponca peace deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NC_PONCA_SETTLE_IN_CITY_HELP">
+			<Text>Found Treaty City[NEWLINE][NEWLINE]Found a city on this tile.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_NC_MAITHI">
+			<Text>Maithi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_MAITHI_HELP">
+			<Text>Unique Walls replacement for the Ponca. Built up to twice as fast based on the number of nearby foreign cities, and creates Farms on valid adjacent tiles on completion. Provides [ICON_FAITH] Faith when nearby enemy units die or when this city completes a [ICON_TRADE_WHITE] Trade Route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_MAITHI_STRATEGY">
+			<Text>The Maithi is the Ponca Unique Building, replacing the Walls. Not only is the Maithi constructed faster the more foreign cities are near the site of its construction, but upon being completed, the Maithi will automatically construct a Farm on any valid tiles adjacent to the city itself. As if that wasn't enough, the Maithi also generates [ICON_FAITH] Faith when an enemy unit dies nearby or when the city that built it completes a [ICON_TRADE_WHITE] Trade Route! Build the Maithi in border cities to not only defend them, but also to get them up and running at breakneck speeds - then use them to generate plenty of [ICON_FAITH] Faith, whether your neighbors are peaceful or not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_MAITHI_TEXT">
+			<Text>Maithi were the earthlodges of the Ponca. All maithi were round, built facing east to catch the morning sun, had a wooden framework, and were covered with brush, prairie grass, and dirt, which generally lasted about five to seven years. The earth layer provided insulation against the extreme temperatures of the Plains. The Ponca, along with the Omaha, are generally believed to have originally used dwelling of other types, and borrowed the Maithi from the Arikara. The Maithi were never far from the cultuvated gardens.</Text>
+		</Row>
+		<!--UNIQUE 2-->>
+		<Row Tag="TXT_KEY_UNIT_NC_WASHABE">
+			<Text>Washa'be</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_WASHABE_HELP">
+			<Text>Unique Crossbowman replacement for the Ponca.  Begins with the Cover promotion. After engaging in combat four times, gains +1 [ICON_MOVES] Movement and weakens adjacent enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_WASHABE_STRATEGY">
+			<Text>The Washa'be is the Ponca Unique Unit, replacing the Crossbowman. While not particularly unique at first, after attacking four enemies it not only gains extra [ICON_MOVES] Movement but weakens nearby enemy units as well. Keep your Washa'be safe as you pelt your enemies with arrows, and your reward will be a powerful military force.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_WASHABE_TEXT">
+			<Text>The Washa'be were the warrior clan, known also as the Buffalo clan, of the Ponca. The word, translated literally, means buffalo in a mist or a fog. It shares a name with an Omaha subgroup. The clan included the hereditary chiefs of the Ponca, Little Chief, Little Bear, Two Bulls, Iron Whip, and White Eagle.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASHABE_PRE">
+			<Text>Washa'be Combat Tracker: 0</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASHABE_1">
+			<Text>Washa'be Combat Tracker: 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASHABE_1_FAKE">
+			<Text> </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASHABE_2">
+			<Text>Washa'be Combat Tracker: 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASHABE_2_FAKE">
+			<Text> </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASHABE_3">
+			<Text>Washa'be Combat Tracker: 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASHABE_3_FAKE">
+			<Text> </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASHABE_HELP">
+			<Text>Tracks the number of times this Washa'be has engaged in combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASHABE_BONUS">
+			<Text>Washa'be Combat Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASHABE_BONUS_HELP">
+			<Text>+1 Movement. Weakens adjacent enemies.</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_NC_PONCA_DESCRIPTION">
+			<Text>PONCA[NEWLINE][NEWLINE]UNIQUE TRAIT: BLOOD THE SAME COLOR AS YOURS[NEWLINE]During a peace treaty, you may settle one city within the other civilization's territory. When a city grows, every worked Farm contributes a small amount of [ICON_SCIENCE] Science.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

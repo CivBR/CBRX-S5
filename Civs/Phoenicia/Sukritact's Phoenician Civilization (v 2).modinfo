@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c4eff830-2f6b-46d5-988e-b6ed61e7e236" version="2">
+  <Properties>
+    <Name>Sukritact's Phoenician Civilization</Name>
+    <Teaser>Phoenicia: Merchants of the Mediterranean</Teaser>
+    <Description>Phoenicia was an ancient Semitic civilization situated on the western, coastal part of the Fertile Crescent and centered on the coastline of modern Lebanon and Tartus Governorate in Syria. It was an enterprising maritime trading culture that spread across the Mediterranean from 1550 BC to 300 BC. They were famed in Classical Greece and Rome as 'traders in purple', referring to their monopoly on the precious purple dye of the Mrex snail, used, among other things, for royal clothing, and for their spread of the alphabet, upon which all major modern alphabets are derived.</Description>
+    <Authors>Sukritact, Leugi, Janboruta</Authors>
+    <SpecialThanks>LastSword, JFD, Charlatan Alley</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige " />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="D56D6E897C712D8E3977F151964DA539" import="1">Art/Atlas/PhoeniciaAlpha_128.dds</File>
+    <File md5="FD1FEC5499B08ED11ABC56B47F788073" import="1">Art/Atlas/PhoeniciaAlpha_16.dds</File>
+    <File md5="04948702D2891A585E9511F92C2D7591" import="1">Art/Atlas/PhoeniciaAlpha_24.dds</File>
+    <File md5="5FC6A26D758FCA743002271F8A194D80" import="1">Art/Atlas/PhoeniciaAlpha_32.dds</File>
+    <File md5="DA3A7F66A36368408C1A0111A8A8B67B" import="1">Art/Atlas/PhoeniciaAlpha_48.dds</File>
+    <File md5="E09A418AE6C964A36B5D9862A1BC95E3" import="1">Art/Atlas/PhoeniciaAlpha_64.dds</File>
+    <File md5="843646D1E28C6DE8FBA6C309A8CBF5EB" import="1">Art/Atlas/PhoeniciaAtlas_128.dds</File>
+    <File md5="5FBC8B6D1BF57320F0489CF79011A278" import="1">Art/Atlas/PhoeniciaAtlas_256.dds</File>
+    <File md5="C7D0FE0E7D57862538595A0E686BED55" import="1">Art/Atlas/PhoeniciaAtlas_32.dds</File>
+    <File md5="E355992F9F6FAE2A3DE58DF3920DB4DA" import="1">Art/Atlas/PhoeniciaAtlas_45.dds</File>
+    <File md5="29E5AB04391CE8113E3AD1F3D65CE32D" import="1">Art/Atlas/PhoeniciaAtlas_48.dds</File>
+    <File md5="474FD2A2564F8630A22F73835A7B108A" import="1">Art/Atlas/PhoeniciaAtlas_64.dds</File>
+    <File md5="6343EB10CAD57A910406A58BBE6B50B9" import="1">Art/Atlas/PhoeniciaAtlas_80.dds</File>
+    <File md5="FE77168BB7B0690654165DDFCAD9A595" import="1">Art/Audio/HiramWar.mp3</File>
+    <File md5="5EEE6A253D8703E9B643A507D44E07FD" import="1">Art/Audio/HiramPeace.mp3</File>
+    <File md5="06CBDD72959B9ABDC7AC1BA04234E2A9" import="1">Art/Audio/HiramDOM.mp3</File>
+    <File md5="C8948DDB40512058A4B87E93ABF32C69" import="0">Art/Phoenicia_ArtDefines.sql</File>
+    <File md5="EA61C9F4412A7B9495FFD63510DA8327" import="0">Art/Phoenicia_Audio.sql</File>
+    <File md5="6BC9E853F20F331A00F0E02B5C833097" import="1">Art/FontIcons/Tyrian_Dyes_fonticons_22.ggxml</File>
+    <File md5="4896BD30D1EAD73C2F5A89E47DA6C8DE" import="1">Art/FontIcons/Tyrian_Dyes_fonticons.dds</File>
+    <File md5="A83959E6142C0B086294AAAC720E4C03" import="1">Art/Scenes/Phoenicia_Diplo.dds</File>
+    <File md5="67181CED7DA45E9276DB9FBF56C25BED" import="1">Art/Scenes/MC_Phoenicia_DOM.dds</File>
+    <File md5="7E02B0A3426FEA64E03B6C3FED640FDE" import="1">Art/Scenes/Phoenicia_Leaderhead.xml</File>
+    <File md5="940CCA25F711EF504A30CD9EBD4A17C5" import="1">Art/Scenes/MC_PhoeniciaMap512.dds</File>
+    <File md5="D1074F188D0C8D7C0724D8293636490A" import="1">Art/Units/Bireme/bireme.fxsxml</File>
+    <File md5="038325E0963A92E57ABDA68D2FDF5192" import="1">Art/Units/Bireme/bireme.gr2</File>
+    <File md5="9A242A548C780CA19A3AE67063F86390" import="1">Art/Units/Bireme/bireme_diff.dds</File>
+    <File md5="097CF6D5CA3743DA7A7F5B308476127D" import="1">Art/Units/Bireme/bireme_sref.dds</File>
+    <File md5="F21BF7B690EB8550EF7753C2738B6699" import="1">Art/Units/Bireme/flag_bireme.dds</File>
+    <File md5="384FE7E6A57C40842BE32629B54865D7" import="1">Art/Units/Bireme/sv_bireme.dds</File>
+    <File md5="EB0D340871B509DB45F3DD87325ECA71" import="1">Art/Units/Tyrian Merchant/flag_tyrian_merchant.dds</File>
+    <File md5="5B10379297AE7AED81E45A75163F27DF" import="1">Art/Units/Tyrian Merchant/fx_triggers_tyre_merchant.ftsxml</File>
+    <File md5="D23E83860ACC994BF669C8C75DC76AF7" import="1">Art/Units/Tyrian Merchant/sv_tyrian_merchant.dds</File>
+    <File md5="186B2FE42CB307867CCA0A2B1E499602" import="1">Art/Units/Tyrian Merchant/tyre_merchant.fxsxml</File>
+    <File md5="87511A77AF2298B2F92AE1FDF26D7DF1" import="1">Art/Units/Tyrian Merchant/tyre_merchant.gr2</File>
+    <File md5="6233B27EFFDFE9E9E99A64F4169147E7" import="1">Art/Units/Tyrian Merchant/tyre_merchant_diff.dds</File>
+    <File md5="0BC6EB1030E231A7CAB4F35F2BFC4241" import="1">Art/Units/Tyrian Merchant/tyre_merchant_sref.dds</File>
+    <File md5="A13253F39896A6E7CDCB16AE20979CA7" import="0">Core/Decisions Support/Phoenicia_Decisions.sql</File>
+    <File md5="8F87C5BBD878E9BAC29507A3A82DB332" import="1">Core/JFD's Dynamic Tooltip Support/MC_Phoenicia_DynamicTopPanelSupport.lua</File>
+    <File md5="2185FE954F43A4812FAF474C721D7A76" import="0">Core/JFD's ExCE Support/Phoenicia_EXCE.xml</File>
+    <File md5="70AE7A55A94341D2D107169009B34332" import="0">Core/JFD's ExCE Support/Phoenicia_EXCE.sql</File>
+    <File md5="093202C699B6C257D64AD018F6CC4981" import="0">Core/JFD's Dynamic Tooltip Support/MC_Phoenicia_TopPanelAddins.sql</File>
+    <File md5="345EC2DE14D5D72E7A55AE381A85ED80" import="0">Core/Phoenicia_Promotions.sql</File>
+    <File md5="5BFE119366E51784DA7660E88606CD73" import="1">Core/Decisions Support/Phoenicia_Decisions.lua</File>
+    <File md5="5DB68C56088F9185C848A56F5B42BD45" import="0">Core/Decisions Support/Phoenicia_EN_US.xml</File>
+    <File md5="70E95624F4706FD33DC0ACD837DD9730" import="0">Core/Phoenicia_Civilizations.sql</File>
+    <File md5="6BD880857C33712E5EB6F40F2B531FDB" import="0">Core/Phoenicia_Diplomacy.sql</File>
+    <File md5="933D677A65C64917EDDD06A77E17172F" import="0">Core/Phoenicia_EN_US.xml</File>
+    <File md5="44285165EC1379ED155C94037A6E3D13" import="0">Core/Phoenicia_Leaderhead.sql</File>
+    <File md5="5E17CA5945A30C55A77F8A673B380770" import="0">Core/Phoenicia_PlayerColours.sql</File>
+    <File md5="9FADE051DC74D93A6B560B515CF64178" import="0">Core/Phoenicia_Traits.sql</File>
+    <File md5="AFE741DC5A6835A4899EDD4D2FC913DA" import="0">Core/Phoenicia_Units.sql</File>
+    <File md5="B34371E20CB9D8A0D09CBD584657EF02" import="0">Core/Piety and Prestige Support/Phoenicia_Flavor.sql</File>
+    <File md5="5B1FCCA06B871A85257C573CDDD8034C" import="0">Core/Phoenicia_Resources.sql</File>
+    <File md5="C1103A5CBC7D121E4341D86A6C83CBF4" import="0">Core/YnAEMP Support/Phoenicia_TSL.sql</File>
+    <File md5="BF6ED6D52645F402AAAA3F0E43D01DAE" import="0">Lua/CedarOfLebanon.lua</File>
+    <File md5="4EFF5A6DEDB14BCA66B833F8617F8351" import="0">Lua/PhoenicianUA.lua</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Lua/Sukritact_SaveUtils.lua</File>
+    <File md5="80172A74EF4009F1D49937C348A4ECD6" import="0">Lua/UI/PhoenicianUI.lua</File>
+    <File md5="3D8FDC57B83B3BE8402D99B507B0545B" import="0">Lua/UI/PhoenicianUI.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Phoenicia_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Phoenicia_Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions Support/Phoenicia_Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions Support/Phoenicia_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Piety and Prestige Support/Phoenicia_Flavor.sql</UpdateDatabase>
+      <UpdateDatabase>Core/YnAEMP Support/Phoenicia_TSL.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Phoenicia_Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Phoenicia_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Phoenicia_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Phoenicia_Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Phoenicia_PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Phoenicia_Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Phoenicia_Resources.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Phoenicia_Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Phoenicia_Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Dynamic Tooltip Support/MC_Phoenicia_TopPanelAddins.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's ExCE Support/Phoenicia_EXCE.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's ExCE Support/Phoenicia_EXCE.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/PhoenicianUA.lua">
+      <Name>PhoenicianUA</Name>
+      <Description>PhoenicianUA</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/CedarOfLebanon.lua">
+      <Name>CedarOfLebanon</Name>
+      <Description>CedarOfLebanon</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/UI/PhoenicianUI.lua">
+      <Name>PhoenicianUI</Name>
+      <Description>PhoenicianUI</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

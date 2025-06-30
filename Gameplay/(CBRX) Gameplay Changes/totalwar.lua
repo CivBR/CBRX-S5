@@ -29,8 +29,9 @@ local function DeclareWarEveryWhere()
 	for teamID, team in pairs(Teams) do
 		if team:IsAlive() then
 			for otherTeamID, otherTeam in pairs(Teams) do
-				if otherTeam:IsAlive() and teamID ~= otherTeamID and not team:IsAtWar(otherTeamID) then
+				if otherTeam:IsAlive() and teamID ~= otherTeamID then
 					team:DeclareWar(otherTeamID)
+					team:SetPermanentWarPeace(otherTeamID, true)
 				end
 			end
 		end
@@ -41,8 +42,8 @@ local function MakePeaceEveryWhere()
 	for teamID, team in pairs(Teams) do
 		if team:IsAlive() then
 			for otherTeamID, otherTeam in pairs(Teams) do
-				if otherTeam:IsAlive() and teamID ~= otherTeamID and team:IsAtWar(otherTeamID) then
-					team:MakePeace(otherTeamID)
+				if otherTeam:IsAlive() and teamID ~= otherTeamID then
+					team:SetPermanentWarPeace(otherTeamID, false)
 				end
 			end
 		end
@@ -51,14 +52,12 @@ end
 
 local function EnableTotalWarScripts()
 	TotalWarActive = true
-	GameEvents.MakePeace.Add(TotalWar)
 	-- GameEvents.CityTrained.Add(OnUnitTrained)
 	DeclareWarEveryWhere()
 end
 
 local function DisableTotalWarScripts()
 	TotalWarActive = false
-	GameEvents.MakePeace.Remove(TotalWar)
 	-- GameEvents.CityTrained.Remove(OnUnitTrained)
 	MakePeaceEveryWhere()
 end

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="018f2c80-f891-4eb8-8624-bedde52031f3" version="1">
+  <Properties>
+    <Name>[BNW] Sas's Xavante - Apoena</Name>
+    <Teaser>This mod adds the Xavante people of Mato Grosso, Brazil, to the game!</Teaser>
+    <Description>This mod adds the Xavante people of Mato Grosso, Brazil, to the game!</Description>
+    <Authors>Sasquatch (AKA Kramer), JakeWalrusWhale</Authors>
+    <SpecialThanks>Darth, Zharques, Arilasqueto</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="66A733997C55724D62074C7E1C358C98" import="1">Art/Atlases/Alpha/SasXavanteAlpha_128.dds</File>
+    <File md5="B15D39BF57083390B8A02EC213904B84" import="1">Art/Atlases/Alpha/SasXavanteAlpha_16.dds</File>
+    <File md5="38F64801A01A598D4EEB927BA8218E4B" import="1">Art/Atlases/Alpha/SasXavanteAlpha_24.dds</File>
+    <File md5="23ADBCBB0377AA004B8E1CFCF544E919" import="1">Art/Atlases/Alpha/SasXavanteAlpha_32.dds</File>
+    <File md5="F732EFC646BAE3FAA8ECEB8BB06682FD" import="1">Art/Atlases/Alpha/SasXavanteAlpha_45.dds</File>
+    <File md5="B6836925CE4A4AFD77C083283D49E9D8" import="1">Art/Atlases/Alpha/SasXavanteAlpha_48.dds</File>
+    <File md5="722B45EDA269662976F4C2BA888DE747" import="1">Art/Atlases/Alpha/SasXavanteAlpha_64.dds</File>
+    <File md5="DBB47BAB8113CBA5147543D4A5EAB728" import="1">Art/Atlases/Alpha/SasXavanteAlpha_80.dds</File>
+    <File md5="6C425657B7C4A9B7764239553FBAF902" import="1">Art/Atlases/SasXavanteIcons128.dds</File>
+    <File md5="A933A00E3CF9D7B7145390003740446C" import="1">Art/Atlases/SasXavanteIcons256.dds</File>
+    <File md5="3F6F05E06C7FD848704FC7327411AB7E" import="1">Art/Atlases/SasXavanteIcons32.dds</File>
+    <File md5="69E67D93F41F38579D96549B2251CD0D" import="1">Art/Atlases/SasXavanteIcons45.dds</File>
+    <File md5="7B63DEDB80AE095EF8B4F78B5FA117B3" import="1">Art/Atlases/SasXavanteIcons64.dds</File>
+    <File md5="3E4DC0270FE3BEFA05CB2F841C4B74F4" import="1">Art/Atlases/SasXavanteIcons80.dds</File>
+    <File md5="9F98A0B95B946C8E7074DDC79797E973" import="1">Art/Model/Xavante_Scout.dds</File>
+    <File md5="9793DAF25C8D2E4C6562770B6306A6E3" import="1">Art/Model/Xavante_Scout.fxsxml</File>
+    <File md5="56587F85158C74B8292646ED9A68A203" import="1">Art/Model/Xavante_Scout.gr2</File>
+    <File md5="BF5077D4BD4199E5871DF2A7A6039197" import="1">Art/Model/Xavante_Scout_gloss.dds</File>
+    <File md5="6B147086BBDFAD9A214FE9759BC6FC05" import="1">Art/SasTsaworowaFlag.dds</File>
+    <File md5="72783954E2BF3FD89B886C5EE2ACF564" import="1">Art/SasXavante412.dds</File>
+    <File md5="183148CD944C74F3AC8E84CF2AB7362E" import="1">Art/Sas_Apoena_DOM.dds</File>
+    <File md5="FF2F5443DF8F01CCA7A3B30C04F0AE62" import="1">Art/Sas_Apoena_Scene.dds</File>
+    <File md5="0CABA580AA7885B78FA23405BD339E7D" import="1">Art/SV_Sas_Wazuriwa.dds</File>
+    <File md5="AFDD4D509B5A39508C6D7506A4E718F6" import="1">Core/Sas_Apoena_Scene.xml</File>
+    <File md5="3D3AE6A632B1EFCBBA57CFD1C229F66E" import="0">Core/XavanteArtDefs.sql</File>
+    <File md5="0CA790179F857A7C4B217FFF934EA457" import="0">Core/XavanteCore.sql</File>
+    <File md5="8464CE912073B93951F3187357FBD46A" import="0">Core/XavanteModSupport.sql</File>
+    <File md5="5B80325B602B23188BF1F0AB4434971F" import="0">Core/XavanteText.xml</File>
+    <File md5="ECAB666AB4DE79251056BA3408DE0363" import="0">Lua/XavanteFunctions.lua</File>
+    <File md5="E35C3C45773FA7211870A612FCB1F9BE" import="1">Lua/XavanteFunctions.xml</File>
+    <File md5="A3F577E091CDCD0EFE147C67157A7B41" import="1">Sound/Sas_Apoena_Peace.mp3</File>
+    <File md5="D43443154257942151E9A1AAEA7D8DDD" import="1">Sound/Sas_Apoena_War.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Sas_Apoena_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Core/XavanteArtDefs.sql</UpdateDatabase>
+      <UpdateDatabase>Core/XavanteCore.sql</UpdateDatabase>
+      <UpdateDatabase>Core/XavanteModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/XavanteText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/XavanteFunctions.lua">
+      <Name>XavanteFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

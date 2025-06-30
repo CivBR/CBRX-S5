@@ -1,0 +1,212 @@
+<GameData>
+	<Language_en_US>
+		<!-- MA'IN -->
+		<!-- CITIES -->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_1">
+			<Text>Qarnawu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_2">
+			<Text>Yathill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_3">
+			<Text>Kaminahu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_4">
+			<Text>Haramum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_5">
+			<Text>Inabba'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_6">
+			<Text>Nashan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_7">
+			<Text>Nashaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_8">
+			<Text>Manhiyat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_9">
+			<Text>Najran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_10">
+			<Text>Dedan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_11">
+			<Text>Ma'an</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_12">
+			<Text>Siraqa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_13">
+			<Text>Ma'rabum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_14">
+			<Text>Ghayl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_15">
+			<Text>Nahom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_16">
+			<Text>Timna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_17">
+			<Text>Libna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_18">
+			<Text>Mwyt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_19">
+			<Text>Shabwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_20">
+			<Text>Qaryat Dhu Kahl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_21">
+			<Text>Hegra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_22">
+			<Text>Hafari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_23">
+			<Text>Waraqah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_24">
+			<Text>Sirwah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_25">
+			<Text>Delos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_MINAEANS_26">
+			<Text>Gayman</Text>
+		</Row>
+		<!-- SPY NAMES -->
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_MINAEANS_0">
+			<Text>Ilyafa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_MINAEANS_1">
+			<Text>'Ammyitha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_MINAEANS_2">
+			<Text>Hayu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_MINAEANS_3">
+			<Text>Halkarib</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_MINAEANS_4">
+			<Text>Haufi'athat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_MINAEANS_5">
+			<Text>Hufn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_MINAEANS_6">
+			<Text>Abyada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_MINAEANS_7">
+			<Text>Yitha'il</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_MINAEANS_8">
+			<Text>Waqah'il</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_MINAEANS_9">
+			<Text>Yadhmurmalik</Text>
+		</Row>
+		<!-- THE MINAEANS -->
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_MINAEANS">
+			<Text>Ma'in Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_MINAEANS_SHORT">
+			<Text>Ma'in</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_MINAEANS_ADJECTIVE">
+			<Text>Minaean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_MINAEANS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_MINAEANS_TEXT_1">
+			<Text>Ma'in was an pre-islamic Arab kingdom in present-day Yemen. While there is much uncertainty and various theories pointing in different directions regarding both their origin and demise, most scholars believe that the kingdom lasted from around the 10th century BC until the late 2nd century BC, when it was conquered by either neighboring Saba or the Qatabanians. The timeframe of their golden age is also widely disputed, but sources agree that it was in the latter half of their existence, when they conquered Najran, the Asir, and much of the Hejaz as well as increased their influence along the incense trail, trading with Egypt, the Levant and even Greece.[NEWLINE][NEWLINE]The Minaeans differ from the other pre-islamic Arab kingdoms in that they speak directly about trade in their many inscriptions and the kingdom seems to have been much more concentrated on commerce than on war. Their many trade colonies established along the incense trade route, also show features of being peaceful communities not unlike that of city-state-like democracies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_MINAEANS_HEADING_10">
+			<Text>Minaean factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_MINAEANS_TEXT_10">
+			<Text>...</Text>
+		</Row>
+		<!-- WAQAH'IL SADIQ I -->
+		<Row Tag="TXT_KEY_LEADER_DMS_WAQAH_IL_SADIQ_I">
+			<Text>Waqah'il Sadiq I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_WAQAH_IL_SADIQ_I_HEADING_1">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_WAQAH_IL_SADIQ_I_TEXT_1">
+			<Text>Waqah'il Sadiq I was king of Ma'in during what is commonly known as the golden age of the kingdom. However, sources differ on when this golden age occured by to as much as 2 centuries: from the early 4th century BC to the early 2nd century BC. One thing is certain, though, and that is that during this time, the influence of Ma'in streched all across the Arabian peninsula and even beyond, to Egypt and Greece.[NEWLINE][NEWLINE]In the city of Dedan in the Lihyanite Kingdom of western Arabia, it is believed that a Minaean community prospered and inscriptions list Waqah'il Sadiq I as their king. This is likely Dedan actually came under Minaean control, either directly or indirectly. It was also during this time, that the Minaeans became the dominant power of the southern Arabian kingdoms and controlled much of the activity of the incense trade route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_WAQAH_IL_SADIQ_I_NAME">
+			<Text>Waqah'il Sadiq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_WAQAH_IL_SADIQ_I_SUBTITLE">
+			<Text>King of Ma'in</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_WAQAH_IL_SADIQ_I_TITLES_1">
+			<Text>King of the Minaeans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_WAQAH_IL_SADIQ_I_LIVED">
+			<Text>c. 360 BC – c. 340 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_DMS_MINAEANS_TEXT">
+			<Text>The snakes of Wadd bless you, oh great king Waqah'il Sadiq of Ma'in. You lead a kingdom shrouded in mysteries and the unknown and yet your accomplishments shine through. Ruling over a vast kingdom with influence all across Arabia and even beyond, it was under your rule that the kingdom's control reached faraway Dedan in western Arabia and control over the incense trail was solidified. Even in Greece and Egypt, Minaean communities thrived and your merchants travelled the known world, supplying temples with valuable incense.[NEWLINE][NEWLINE]O great Waqah'il Sadiq, your people look to you to bring them wealth. To make them rich and prosperous, to help them rise above their neighbors.  Can you guide them through the dangers ahead, oh King?  Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- WADD'AB -->
+		<Row Tag="TXT_KEY_TRAIT_DMS_WADD_AB_SHORT">
+			<Text>Wadd'ab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_WADD_AB">
+			<Text>When an [ICON_INTERNATIONAL_TRADE] International Trade Route ends, receive [ICON_GREAT_WRITER] Great Writer Points based on the two Cities' [ICON_GOLD] Gold output. Every [ICON_GREAT_WORK] Great Work provides [ICON_PEACE] Faith in the Capital.</Text>
+		</Row>
+		<!-- HAWTAH -->
+		<Row Tag="TXT_KEY_BUILDING_DMS_HAWTAH">
+			<Text>Hawtah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_HAWTAH_TEXT">
+			<Text>The Hawtah was a religious institution that to some degree still exists to this day in southern Arabia. The term "Hawtah" is an ancient term and basically means something like "Sacred Enclave", and while the rise of Islam abolished the Arabian gods of paganism, the sacred enclaves remained.[NEWLINE][NEWLINE]In ancient Arabian religion, the element of inviolability was very important, and concerned the traditions of "haram" and "hawtah" as they existed in pre-Islamic Arabia from San'a to Mecca and Mecca to Marib. These were sacred enclaves, expressed architecurally as walled enclosures, which acted as neutral, inviolable havens amongst warring tribes. The enclaves known as Hawtah would also act as marketplaces, where all factions could trade and carry out commerce.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_HAWTAH_HELP">
+			<Text>Besides the standard effects of the Shrine, the Hawtah extends the range of Trade Routes by +10% in all Minaean Cities with a Hawtah. Provides 1 slot for a [ICON_GREAT_WORK] Great Work of Writing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_HAWTAH_STRATEGY">
+			<Text>The Hawtah is the Minaean unique replacement for the Shrine. Provides +1 [ICON_PEACE] Faith like the Shrine. Additionally, it both provides 1 slot for a [ICON_GREAT_WORK] Great Work of Writing and extends the range of Trade Routes by +10% in all Minaean Cities with a Hawtah.</Text>
+		</Row>
+		<!-- KABIR -->
+		<Row Tag="TXT_KEY_UNIT_DMS_KABIR">
+			<Text>Kabir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_KABIR_TEXT">
+			<Text>The Minaeans were divided into groups of various sizes, led by a very high official called the kabir, appointed once every two years, who was in charge of one or sometimes all of the trading posts in a given area. These areas were not restricted to Minaean cities; we know of Kabir officials controlling trading posts in areas around both Shabwa, the capital of the Hadramawt kingdom, and Timna, the capital of the Qataban kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_KABIR_STRATEGY">
+			<Text>The Kabir is Ma'in's unique replacement for the Great Merchant. The Kabir can construct the Custom House Improvement or perform Trade Missions like the Great Merchant, but upon being expended in any of these ways, Trading Posts are automatically constructed in all adjacent unimproved tiles, even if the required Technology has not been researched.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_KABIR_HELP">
+			<Text>Unique Great Merchant Unit for the Minaeans. Besides regular Great Merchant abilities, the Kabir will construct Trading Posts in all adjacent unimproved tiles upon being expended, even if the required Technology has yes to be researched.</Text>
+		</Row>
+		<!-- NOTIFICATIONS -->
+		<Row Tag="TXT_KEY_TRAIT_DMS_WADD_AB_NOTIFICATION">
+			<Text>+{1_iPoints} [ICON_GREAT_WRITER] Great Writer points granted in {2_sCityName} from Trade Route ending.</Text>
+		</Row>
+		<!-- DUMMY BUILDINGS -->
+		<Row Tag="TXT_KEY_BUILDING_DMS_MINAEANS_WADD_AB_FAITH">
+			<Text>DMS: Ma'in: UA Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_MINAEANS_WADD_AB_FAITH_HELP">
+			<Text>+2% faith per GW.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_MINAEANS_HAWTAH_DISTANCE">
+			<Text>DMS: Ma'in: UB trade route distance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_MINAEANS_HAWTAH_DISTANCE_HELP">
+			<Text>UB increases trade route distance in all minaean cities.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

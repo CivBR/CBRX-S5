@@ -15,6 +15,16 @@ if Game then
 	function Game.IsJFDLLActive()
 		return Game_IsModActive("dedf47d7-6428-4e62-b48e-18e07e4fcc53")
 	end
+	
+	--Game.IsAIObserverActive
+	function Game.IsAIObserverActive()
+		return Game_IsModActive("970aae10-1004-4c8a-af2d-8d601de5ec02")
+	end
+	
+	--Game.IsJFDCBRX5HelperActive
+	function Game.IsJFDCBRX5HelperActive()
+		return Game_IsModActive("8447d4fd-2a52-48eb-87ee-0d3b0dede701")
+	end
 end
 local isJFDLLActive = Game.IsJFDLLActive()
 --------------------------------------------------------------

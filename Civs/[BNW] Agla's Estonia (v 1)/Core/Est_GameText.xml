@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_BUILDING_AGLA_LAULUVALJAK_GREAT_PEOPLE">
+			<Text>Estonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGLA_LAULUVALJAK_GREAT_PEOPLE_HELP">
+			<Text>Estonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_AGLA_ESTONIA_HELP">
+			<Text>Estonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BLDG_AGLA_ESTONIA_MUSIC">
+			<Text>Estonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AGLA_FBROTHER">
+			<Text>Estonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AGLA_FBROTHER_HELP">
+			<Text>Estonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_AGLA_ESTONIA">
+			<Text>Estonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AGLA_ESTONIA_ADJECTIVE">
+			<Text>Estonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AGLA_ESTONIA_DESC">
+			<Text>Republic of Estonia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AGLA_ESTONIA_SHORT_DESC">
+			<Text>Estonia</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_1">
+			<Text>Tallinn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_2">
+			<Text>Tartu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_3">
+			<Text>Narva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_4">
+			<Text>Pärnu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_5">
+			<Text>Kohtla-Järve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_6">
+			<Text>Viljandi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_7">
+			<Text>Rakvere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_8">
+			<Text>Trenčín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_9">
+			<Text>Maardu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_10">
+			<Text>Kuressaare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_11">
+			<Text>Sillamäe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_12">
+			<Text>Valga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_13">
+			<Text>Vöru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_14">
+			<Text>Keila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_15">
+			<Text>Paide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_16">
+			<Text>Elva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_17">
+			<Text>Saue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_18">
+			<Text>Tapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_19">
+			<Text>Kunda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ESTONIA_20">
+			<Text>Loksa</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ESTONIA_0">
+			<Text>Liina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ESTONIA_1">
+			<Text>Kadri</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ESTONIA_2">
+			<Text>Maart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ESTONIA_3">
+			<Text>Toomas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ESTONIA_4">
+			<Text>Jaan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ESTONIA_5">
+			<Text>Priit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ESTONIA_6">
+			<Text>Arvo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ESTONIA_7">
+			<Text>Mihkel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ESTONIA_8">
+			<Text>Peeter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ESTONIA_9">
+			<Text>Aagl</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA">
+			<Text>Lennart Meri</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_ESTONIA_NAME">
+			<Text>Lennart Meri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_ESTONIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_ESTONIA_TEXT_1">
+			<Text>
+				Lennart Meri (1929–2006) was an Estonian writer, filmmaker, and statesman who played a key role in the country's path to independence from the Soviet Union. Born in Tallinn, Meri was the son of a diplomat and spent much of his childhood abroad. After his family was deported to Siberia during Soviet rule, Meri returned to Estonia and became a noted author and film director, focusing on Estonian culture and history. As a prominent intellectual, he helped shape the national independence movement in the late 1980s and became Estonia's second president, serving from 1992 to 2001. During his presidency, Meri worked to secure Estonia's integration into European and global institutions, playing a pivotal role in its accession to NATO and the European Union. He is remembered as a leading figure in Estonia's post-Soviet transformation and a symbol of its cultural and political resurgence.
+
+			</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_ESTONIA_LIVED">
+			<Text>1929–2006</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_ESTONIA_SUBTITLE">
+			<Text>Leader of Estonia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_ESTONIA_TITLES_1">
+			<Text>President</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_AGLA_ESTONIA_TEXT">
+			<Text>In the twilight of empires, you rose from a people long suppressed, uniting them with the strength of your voice, the power of your pen, and the clarity of your vision. Lennart Meri, diplomat, scholar, and statesman, you embodied the resilience of Estonia, guiding your nation from the shadows of foreign dominion to the dawn of independence.As president, you worked tirelessly to integrate Estonia into the global community, securing its place in the European Union and NATO. Under your leadership, the Estonian people found not only their political freedom but also the strength to preserve their culture and identity.[NEWLINE][NEWLINE]Lennart Meri, your people look to you once again. Will you lead Estonia to new heights of prosperity and influence, navigating the challenges of the modern world as you once did in the past? Can you harness the strength of the Estonian spirit and build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_FIRSTGREETING_1">
+			<Text>Greetings friend, I am Lennart Meri, president of this fine land and those brave people. Are you interested in exchanging songs and folklore?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_DEFEATED_1">
+			<Text> Dictatorship always looks good on paper. But in reality, it is impossible to have a dictatorship and a flourishing economy, as the two are incompatible.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_ATTACKED_HOSTILE_1">
+			<Text>To resort to such unholy tactics. You are a brute!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_DEC_FRIENDSHIP_1">
+			<Text>I can teach you much about the future of government. Come, let us make a Declaration of Friendship and together we can move you out of the dark ages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_DENOUNCE_1">
+			<Text>You have no place amongst the faithful rulers of this world.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_DENOUNCE_FRIEND_1">
+			<Text>And to think I considered you an equal. Oh how sorely mistaken I was![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_DOW_GENERIC_1">
+			<Text>It pains me to resort to violence but I do what must be done for the good of my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I will not tolerate your expansion into my lands. You have been warned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_GREETING_HOSTILE_HELLO_1">
+			<Text>Get on with it brute.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Something to discuss?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_GREETING_POLITE_HELLO_1">
+			<Text>Hello friend. What brings you to my court this day?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Do you seek to attack us like some barbarian from the dark age? Get your troops out of my lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_LUXURY_TRADE_1">
+			<Text>A decadent finery, if I do say. Care to share?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Peace can be better assured if we open our borders to one another. What do you say?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_REQUEST_1">
+			<Text>Will you give us the aide she needs?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_TOO_SOON_NO_PEACE_1">
+			<Text>You amuse me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ESTONIA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>So this is how you treat a friend? An ally? Bah! I'm wasting my time with you. Begone.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_AGLA_ESTONIA_SHORT">
+			<Text>Singing Revolution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_AGLA_ESTONIA">
+			<Text>For every activated [ICON_CULTURE] Social Policy Branch gain +5% [ICON_GREAT_PEOPLE] Great People Generation. Every Great Work of Music boosts the cities defense it is stored in.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_UNIT_AGLA_FBROTHER">
+			<Text>Forest Brothers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AGLA_FBROTHER_HELP">
+			<Text>Replacement for the Marine. Additionally gains the Woodsman Promotion, aswell able to use enemy roads and ignoring Zones of Control, while weaker.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AGLA_FBROTHER_STRATEGY">
+			<Text>A perfect unit for partisan warfare as it able to gain advantages in any rough terrain, be it forest or at rivers. Use them to harrass your enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AGLA_FBROTHER_TEXT">
+			<Text>
+				Estonian partisans, also called the Forest Brothers (Estonian: Metsavennad) were partisans who engaged in guerrilla warfare against Soviet forces in Estonia from 1940 to 1941 and 1944 to 1978.
+
+				When the USSR occupied and annexed Estonia in 1940, former civilians, soldiers, and real and perceived opponents to the Kremlin were threatened with arrest and repression. People sought refuge in the forest after the mass deportation on June 14, 1941.
+
+				The largest organization of the Forest Brothers was the Armed Combat Union (RVL), which operated from 1946 to 1949. The most important RVL leaders were killed in the summer of 1949. Large battles between the Forest Brothers and KGB units ended in Estonia in 1953, although minor conflict continued until 1957.
+
+				The last Forest Brothers to be arrested were Hugo and Aksel Mõttus, who were captured in Võru County in the summer of 1967. August Sabbe remained at large until 1978, when he was either killed in Võru County by the KGB or drowned attempting to escape them.[1]
+			</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_BUILDING_AGLA_LAULUVALJAK">
+			<Text>Lauluväljak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGLA_LAULUVALJAK_HELP">
+			<Text>Unique Stadium, while boosting Happiness it aswell yields +1 [ICON_GOLD] gold on scientist and engineer specialists , +1 [ICON_CULTURE] culture on merchant specialists and +1 [ICON_PRODUCTION] production on cultural specialists for every finished Social Policy Branch. Contains an addtional Great Work of Music Slots.  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGLA_LAULUVALJAK_STRATEGY">
+			<Text>Perfect for boosting ur defense, while bringing effectiveness and happiness to your city.</Text>
+		</Row>
+			<Row Tag="TXT_KEY_BUILDING_AGLA_LAULUVALJAK_TEXT">
+				<Text>In 1869 Johann Voldemar Jannsen established the Estonian Song Festival while the nation was still a province of the Russian Empire. This festival was considered responsible for fostering an Estonian national awakening. After that, the new tradition was born and the festivals are still held every five years.	</Text>
+			</Row>
+	</Language_en_US>
+</GameData>

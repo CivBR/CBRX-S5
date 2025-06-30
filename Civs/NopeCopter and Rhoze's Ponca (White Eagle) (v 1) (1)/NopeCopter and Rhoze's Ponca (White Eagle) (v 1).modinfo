@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4cbba70f-ce41-432a-8857-eb28ee285b84" version="1">
+  <Properties>
+    <Name>NopeCopter and Rhoze's Ponca (White Eagle)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Ponca tribe under White Eagle to Civilization V.</Teaser>
+    <Description>Adds the Ponca tribe under White Eagle to Civilization V.</Description>
+    <Authors>NopeCopter, Rhoze</Authors>
+    <SpecialThanks>Arilasqueto, Zharques, DarthKyofu, Orangechrisy</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="40FEA83CE3C39AB76FAC4743E2FD572B" import="1">Art/Graphics/Washabe/Archer_Aztec.blend</File>
+    <File md5="73B603546EA11E5C97778FFCA42B53E5" import="1">Art/Graphics/Washabe/Archer_Aztec.dds</File>
+    <File md5="6E39D7C7E272556D3DD9F5136844CFDD" import="1">Art/Graphics/Washabe/Archer_Aztec.fxsxml</File>
+    <File md5="0BF7B552009B557ECD0B176FA2156998" import="1">Art/Graphics/Washabe/Archer_Aztec.gr2</File>
+    <File md5="D6E3D1F49BF21F46F84B52B63D4BDD4E" import="1">Art/Graphics/Washabe/Archer_Aztec_gloss.dds</File>
+    <File md5="AA9BF71E07A3FB366EAAB2557FF54073" import="1">Art/Icons/BedouinsCampFlag45.dds</File>
+    <File md5="8B447436E4255C967354F128A521D4FC" import="1">Art/Icons/BedouinsCampFlag80.dds</File>
+    <File md5="85B38AAF5F92F54E4B1989B3D5A9073B" import="1">Art/Icons/PoncaAlpha_128.dds</File>
+    <File md5="3178F1084150E9419D6870524359C0F3" import="1">Art/Icons/PoncaAlpha_24.dds</File>
+    <File md5="349BF92D00E64FCD7FFD6ADBAB629D46" import="1">Art/Icons/PoncaAlpha_256.dds</File>
+    <File md5="4C3970239414D1C56C79A88F1F7AA90A" import="1">Art/Icons/PoncaAlpha_32.dds</File>
+    <File md5="7F3D00D31A2EA0E22515D5B7F6ABB06A" import="1">Art/Icons/PoncaAlpha_48.dds</File>
+    <File md5="D3ED93D21B4B820CE1E00D61BDC743B3" import="1">Art/Icons/PoncaAlpha_64.dds</File>
+    <File md5="66010BE9B00630CBDD24563E51931446" import="1">Art/Icons/PoncaAtlas_128.dds</File>
+    <File md5="5B1E4D0774EC5505F5E5386D0D3A8001" import="1">Art/Icons/PoncaAtlas_256.dds</File>
+    <File md5="05201BBAF4A9C88994EBE86BA177CA6E" import="1">Art/Icons/PoncaAtlas_32.dds</File>
+    <File md5="9F4D2E345D767E139406F0F42C684C9B" import="1">Art/Icons/PoncaAtlas_45.dds</File>
+    <File md5="604EF4E1C8BB717324465B4AE8031CF2" import="1">Art/Icons/PoncaAtlas_64.dds</File>
+    <File md5="7217CAB807BB5416754D8AE08EA1278A" import="1">Art/Icons/PoncaAtlas_80.dds</File>
+    <File md5="7D8E348EE9546EE2DFF517100F9C82A4" import="1">Art/Icons/PoncaFlag32.dds</File>
+    <File md5="A34176F4A1AC5A6EEA331F19C87BEB80" import="1">Art/Icons/PoncaFlagSV.dds</File>
+    <File md5="F5996EE52987B57CF829AA5E510E0719" import="1">Art/Leaderscene/PoncaLS_Scene.xml</File>
+    <File md5="1D1F70E8A697DB2114835F7C8B3E1D0C" import="1">Art/Leaderscene/PoncaLS.dds</File>
+    <File md5="78F2EDA3EAD0741FCB53D61EEDDE62E9" import="1">Art/Maps/PoncaDOM.dds</File>
+    <File md5="F57289AB80FA18A57871959BB3284AAA" import="1">Art/Maps/PoncaMap.dds</File>
+    <File md5="E26105AB51538055AB9BF0DD95CFFACD" import="1">Audio/NC_Ponca_War.mp3</File>
+    <File md5="594047519D1F799DF0F50EA7DF51A7E1" import="1">Audio/NC_Ponca_Peace.mp3</File>
+    <File md5="AE33CB1956FA687A39CC93B74D1160DE" import="0">Core/NC_Ponca_ArtDefines.sql</File>
+    <File md5="59C6C6D7B270A1C86A162CC55BD15077" import="0">Core/NC_Ponca_GameDefines.sql</File>
+    <File md5="B820B9E1EEB67D08EBF11321EAC3E6B4" import="0">Core/NC_Ponca_GameText.xml</File>
+    <File md5="6B56F0D95E5BEB97C86512C5FA389C48" import="0">Core/NC_Ponca_ModSupport.sql</File>
+    <File md5="C35820BFF2E8D45BCB195320BCC0DA7C" import="0">Lua/Ponca_Functions.lua</File>
+    <File md5="EABD9A6684081C67B476624EA59391DE" import="0">Lua/Ponca_Functions.xml</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/NC_Ponca_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/NC_Ponca_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/NC_Ponca_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/NC_Ponca_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Ponca_Functions.lua">
+      <Name>Lua Functions</Name>
+      <Description>function deez nuts</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

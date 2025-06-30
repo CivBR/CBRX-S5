@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_LEU_ONONDAGA_TADODAHO_ADJECTIVE">
+			<Text>Onondaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_LEU_ONONDAGA_TADODAHO_DESC">
+			<Text>Onondaga Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_LEU_ONONDAGA_TADODAHO_SHORT_DESC">
+			<Text>The Onondaga</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LEU_ONONDAGA_TADODAHO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LEU_ONONDAGA_TADODAHO_TEXT_1">
+			<Text>Onondaga, self-name Onoñda’gega’ (“People of the Hills”), tribe of Iroquoian-speaking North American Indians who lived in what is now the U.S. state of New York. The Onondaga traditionally inhabited villages of wood and bark longhouses occupied by related families. They moved these houses periodically to plant new fields, to seek fresh supplies of firewood, and to be nearer fish and game. They grew corn (maize), beans, squash, sunflowers, and tobacco. A council of adult males in each community guided the village chiefs.[NEWLINE][NEWLINE]The Onondaga tribe, one of the five original nations of the Iroquois (Haudenosaunee) Confederacy, was the political and geographical centre of the league. With 14 seats in the council, the Onondaga furnished the chairman and the archivist, who kept the records of transactions in wampum belts.[NEWLINE][NEWLINE]In the 18th century a sizable faction of Onondaga favouring the French interest migrated to Jesuit mission settlements along the St. Lawrence River. Another faction remained loyal to the British, and, upon the breakup of the Iroquois Confederacy after the American Revolution, a small party followed other members to Grand River in what is now Ontario. The majority, however, remained in their ancestral valley.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LEU_ONONDAGA_TADODAHO_HEADING_2">
+			<Text>Pledge of Neutrality</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LEU_ONONDAGA_TADODAHO_TEXT_2">
+			<Text>The Onondaga and the Haudenosaunee saw the colonists growing and uniting to become a new government called the United States of America. After fighting with the Haudenosaunee in the French and Indian War, the colonists called upon the Haudenosaunee to a meeting at Ft. Pitt in 1775 to ask in their aide in the upcoming revolution against the British.[NEWLINE][NEWLINE]The Haudenosaunee pledged neutrality with this statement, “We see this as a fight between father and son. We will not join either side. But we are free men, if any choose to fight for you, they may.”[NEWLINE][NEWLINE]During the American Revolution, some Mohawks led by Joseph Brant chose to fight with the British and to defend the Proclamation Line. This line was established after the French and Indian War by King George as a boundary between the colonists and Indian lands. The Mohawks saw the colonial settlements in violation of the Proclamation Line and trespassers in their territory. Many colonial homes were attacked.[NEWLINE][NEWLINE]With the Haudenosaunee standing in the way of westward expansion of the new Republic and with General George Washington seeking revenge against the raids of colonial homes, he ordered the termination of the Haudenosaunee and sent these orders to General Sullivan.[NEWLINE][NEWLINE]“The Expedition you are appointed to command is to be directed against the hostile tribes of the Six Nations of Indians, with their associates and adherents. The immediate objects are the total destruction and devastation of their settlements, and the capture of as many prisoners of every age and sex as possible. It will be essential to ruin their crops now in the ground and prevent their planting more.”[NEWLINE][NEWLINE]“I would recommend, that some post in the center of the Indian Country, should be occupied with all expedition, with a sufficient quantity of provisions whence parties should be detached to lay waste all the settlements around, with instructions to do it in the most effectual manner, that the country may not be merely overrun, but destroyed.”[NEWLINE][NEWLINE]In April 1779, the colonial army attacked the capital of the Haudenosaunee, the Onondaga Nation. The Onondagas, who were honoring the neutrality agreement, were not prepared for the attack. For over 8 miles south of Onondaga Lake, the colonial army followed the orders of General Washington killing and burning. The surviving Onondaga were homeless; some began to rebuild; some headed west to find shelter with their brother nations the Cayuga and Seneca. In August and September, the campaign resumed with multiple attacks against the Cayuga and Seneca Nations with the army again killing Haudenosaunee people and destroying their villages.[NEWLINE][NEWLINE]The Haudenosaunee took notice of General George Washington’s actions. When George Washington was elected President of the newly formed United States, Seneca Chief Cornplanter addressed President Washington in 1790.[NEWLINE][NEWLINE]“When your army entered the country of the Six Nations, we called you Hanadagáyas (Town Destroyer): and to this day when that name is heard our women look behind them and turn pale, and our children cling close to the necks of their mothers. Our counsellors and warriors are men, and cannot be afraid; but their hearts are grieved with the fears of our women and children, and desire that it may be buried so deep as to be heard no more.”[NEWLINE][NEWLINE]Since that day, the Haudenosaunee have referred to all of the Presidents of the United States as Hanadagáyas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LEU_ONONDAGA_TADODAHO_HEADING_3">
+			<Text>Lifestyle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LEU_ONONDAGA_TADODAHO_TEXT_3">
+			<Text>Like other Iroquois, the Onondaga used to live in long housees, large bark homes which could be as much as 200 feet (61 m) long and functioned as a communal clan home. While they adapted to European influences and moved into cabins that housed nuclear families in the nineteenth century, the long house remains an important symbol of the identity of the Haudenosaunee, which means "people of the long house."[NEWLINE][NEWLINE]The Onondaga lived as hunter-gatherers, and grew corn, beans, and squash. These were known as the "Three sisters" and were considered special, the first to have been given to the people by mother earth, and songs were sung to give thanks for the work they did to support the people. As hunters, the Onondaga ate deer, turkey, rabbit, and other game, sharing whatever they did not need with other members of the community. In the spring, they could also gather plants, such as wild onion, dandelion, and milkweed. In summer, strawberries were enjoyed, and were also considered special as they grow so close to the earth. Special thanks were also offered for them each year.[NEWLINE][NEWLINE]The dress of the Onondaga was made from animal skins—dresses, leggings, moccasins, and aprons were all fashioned from the hide of deer. When the Tuscarora joined, they were called the "shirt wearers" because they used hemp to make decorative shirts. The distinctive feature of the men's dress is their headgear called gustoweh, a hat made of strips of wood decorated with feathers. Each of the Six Nations has a different style of feathers, with the Onondaga gustoweh containing one feather pointing upwards and another pointing downwards.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_01">
+			<Text>Onondaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_02">
+			<Text>Ahaouete</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_03">
+			<Text>Deseroken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_04">
+			<Text>Gadoquat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_05">
+			<Text>Gannentaha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_06">
+			<Text>Gistswiahna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_07">
+			<Text>Onontatacet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_08">
+			<Text>Otiahanague</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_09">
+			<Text>Teionnontatases</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_10">
+			<Text>Tgasunto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_11">
+			<Text>Touenho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_12">
+			<Text>Tueadasso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_13">
+			<Text>Sganawadih</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_14">
+			<Text>Sehawi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_15">
+			<Text>Sagogehe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_16">
+			<Text>Sodegwase</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_17">
+			<Text>Hoyonynih</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_18">
+			<Text>Hanihoh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_19">
+			<Text>Gawenesedoh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_20">
+			<Text>Honowiyehdi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_21">
+			<Text>Dehayatgwae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_22">
+			<Text>Awe'gehyat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_23">
+			<Text>Honya'dajiwak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_24">
+			<Text>Dehatgahdos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_25">
+			<Text>Gane'sehe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_26">
+			<Text>Tadodahoh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_27">
+			<Text>Oneida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_28">
+			<Text>Otisco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_29">
+			<Text>Skaneateles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_30">
+			<Text>Onondaghara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEU_ONONDAGA_TADODAHO_31">
+			<Text>Onondahgegahgeh</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_LEU_ONONDAGA_TADODAHO_9">
+			<Text>Cogwagee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEU_ONONDAGA_TADODAHO_8">
+			<Text>Oren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEU_ONONDAGA_TADODAHO_7">
+			<Text>Sid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEU_ONONDAGA_TADODAHO_6">
+			<Text>Canassatego</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEU_ONONDAGA_TADODAHO_5">
+			<Text>Longboat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEU_ONONDAGA_TADODAHO_4">
+			<Text>Black Kettle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEU_ONONDAGA_TADODAHO_3">
+			<Text>Shenandoah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEU_ONONDAGA_TADODAHO_2">
+			<Text>Hononwirehdonh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEU_ONONDAGA_TADODAHO_1">
+			<Text>Jihah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEU_ONONDAGA_TADODAHO_0">
+			<Text>Hageha</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_LEU_ONONDAGA_TADODAHO">
+			<Text>Tadodaho</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEU_ONONDAGA_TADODAHO_NAME">
+			<Text>Tadodaho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEU_ONONDAGA_TADODAHO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEU_ONONDAGA_TADODAHO_TEXT_1">
+			<Text>Tadodaho was said to be a warrior and primary chief of the Onondaga people. Depending on the speaker's dialect and the writer's orthography, other versions of the name include Adodarhoh, Atartaho, Atotarho, Tatotarho, Thatotarho, and Watatohtahro. In the 1883 work The Iroquois Book of Rites, edited by Horatio Hale, the term Atartaho is said to signify "entangled". In 1889, J. N. B. Hewitt recounted an Iroquois tale which refers to Tadodaho as a "misshapen monster". Jean Houston and Margaret Rubin write in Manual for the Peacemaker that Tadodaho had "matted and spiky hair", and that this visage lent itself to legends that he had snakes in his hair. He is said to have had a "twisted body" and could kill his enemies from a distance without seeing them. Tadodaho ruled with fear, and his people believed him to be a sorcerer. He scared his own people and threatened other peoples, including the Seneca and Cayuga nations. Tadodaho successfully led his Onondaga in raids against the nearby Cayuga people and traveled west, and attacked the Seneca people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEU_ONONDAGA_TADODAHO_HEADING_2">
+			<Text>Rise of the Peacemaker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEU_ONONDAGA_TADODAHO_TEXT_2">
+			<Text>The Peacemaker was born on the northern shores of Lake Ontario.  There he was raised by his mother and grandmother.  Right away, they knew that this young person was special.  He always talked of peace and that he was given a powerful message by the Creator.[NEWLINE][NEWLINE]When he was ready, the Peacemaker told his mother and grandmother that he was off to bring peace to the warring people.  To travel there, the Peacemaker carved a canoe made entirely out of white stone! This amazing canoe would help convince the people of the powerful message of peace the Creator was sending to the five nations.  He said his goodbyes, and then started his journey across the big lake in the stone white canoe.[NEWLINE][NEWLINE]In order for the Creator’s message to spread, the Peacemaker sought out the most evil leaders of the people of the five nations. In searching for these people, the Peacemaker came upon a woman. This woman had no alliances but did provide shelter and food and promoted the continuation of the fighting between us. The Peacemaker told her about the message of peace and that her actions were promoting war and saddening the Creator.[NEWLINE][NEWLINE]After listening to the Peacemaker’s message, she agreed to follow the message. She was the first to accept the great peace and change her ways.  Because of this, the Peacemaker set aside a special duty for the women of the five nations.  They will have the duty of Clan Mother.  The Clan Mother will watch over the members of her clan and counsel them in a peaceful way. The Clan Mother will also have the important duty of selecting the next leader of their clan to keep the great peace continuing on.[NEWLINE][NEWLINE]The Peacemaker started with the eastern most nation, the Mohawks. In order for his plan to succeed, the Peacemaker sought after the most feared leaders. Peacemaker explained that he carried the Creator’s plan of peace.  That one nation can be easily broken, like a single arrow.  But five arrows bound together with one heart, one mind, and one law will be powerful.  The Mohawks liked his plan but were weary of a trap, so they tested the Peacemaker.  Once the Peacemaker passed their test over a large waterfall, the Mohawks were the first Nation to accept the peace.[NEWLINE][NEWLINE]The Peacemaker continued traveling west, seeking out the most evil and dangerous men.  As the Peacemaker told of the arrows, of all of the nations living symbolically in a large longhouse stretching across the land; the peace began to grow.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEU_ONONDAGA_TADODAHO_HEADING_3">
+			<Text>Legend of Tadodaho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEU_ONONDAGA_TADODAHO_TEXT_3">
+			<Text>Tadodaho was said to be so evil that his body was twisted and snakes grew from his head. Tadodaho defied all talks of peace.  When one man, Hiawatha talked of peace and the end of war, Tadodaho killed his family.  Grief stricken, Hiawatha no longer thought of peace  until one day when he came upon a lake.  As he came upon the lake, he found white and purple clam shells.  When stringing these together, Hiawatha was able to have peace.  He then joined with the Peacemaker and together they continued to spread the word of the peace to the other nations.[NEWLINE][NEWLINE]Once all four nations agreed to join in the peace, all that remained was the Onondaga.  Peacemaker, Hiawatha, and the leaders from the other Nations were ready to confront Tadodaho again. Tadodaho tried his sorcerous ways to stop them as they traveled across Onondaga Lake.  But the message of peace was unstoppable.[NEWLINE][NEWLINE]The Peacemaker then offered to Tadodaho a very special duty in this plan of peace.  Tadodaho would preside over the Grand Council of 50 chiefs.  That he would have the responsibility to make sure that decisions were made with a good mind and were aligned not only for today, but for the generations not yet born.   It is at this time when Tadodaho agreed to live in a peaceful way as they “combed the snakes” from Tadodaho’s hair.[NEWLINE][NEWLINE]The Peacemaker then  symbolized this union of peace by uprooting a great white pine tree.  All 50 leaders and threw their weapons of hatred, jealousy, anger, and war into the hole and a mighty stream washed it away. As they replanted the tree, the Peacemaker placed an eagle on top of the Tree of Peace.  The eagle is there to use his eyesight to look out far and to warn the Haudenosaunee, the People of the Longhouse, of any dangers on the horizon to this great peace.[NEWLINE][NEWLINE]A wampum belt was made to record the event.  It is called the Hiawatha Belt.  The belt is made of purple shells with five symbols across the center.  Hiawatha Belt begins with a symbol for the Mohawk people, next the Oneida, in the center is the Tree of Peace and the Onondaga, next is the Cayuga and the final symbol is the Seneca people.  We were now all united in peace and have remained that way for countless centuries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEU_ONONDAGA_TADODAHO_HEADING_4">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEU_ONONDAGA_TADODAHO_TEXT_4">
+			<Text>The term Tadodaho later was used by the Iroquois to refer to their most influential spiritual leader in New York State; it has been used in this way for centuries. The Tadodaho in New York State is the spiritual leader of the Haudenosaunee, Six Nations that includes the Cayuga, Mohawk, Oneida, Onondaga, Seneca, and Tuscarora people. The post is also called the "Head Chief of All the Six Nations". He presides over the Grand Council of the Haudenosaunee (also called Iroquois). The Great Council Fire of the Iroquois League is still located within the Onondaga reservation in present-day New York. Many of the Iroquois live in Canada, where their ancestors moved after the American Revolutionary War, as they were allies of the defeated British. The Crown gave them some land in compensation for what they lost.[NEWLINE][NEWLINE]Along with other Native American leaders, the Tadodaho is responsible for maintaining the history of the Haudenosaunee people. The position of Tadodaho is a lifetime appointment. According to tradition, when the previous Tadodaho dies, a council of chiefs from the Haudenosaunee chooses a leader from the Onondaga people.
+			</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEU_ONONDAGA_TADODAHO_LIVED">
+			<Text>Between 1450 and 1660 (estimate)</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEU_ONONDAGA_TADODAHO_SUBTITLE">
+			<Text>Sachem of the Onondaga Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEU_ONONDAGA_TADODAHO_TITLES_1">
+			<Text>Keeper of Fire</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_LEU_ONONDAGA_TADODAHO_TEXT">
+			<Text>The People of the Longhouse greet you with undying respect, great Tadodaho. It is said that first you ruled your lands with fear, as those around the hills believed you as powerful as a sorceror. Yet you only saught to keep your people strong against all opponents, and you showed your neighbors the Onondaga are not to be trifled with. Raiding the nearby Cayuga and Seneca encampments, your actions caught the attention of Deganawidah and Hiawatha, as both ventured to seek peace. It is said that only when Jigonhsasee, other of Nations, combed the snakes of your head would you agree to this new alliance. But you know well that peace must be fought for, and as the Onondaga accepted the new law of Peace, they were given a central spot thanks to your power and tenacity. Indeed your legacy is remembered through the ages, as new Tadodahos rise in the hills remembering the Tree of Peace that was placed in your lands.[NEWLINE][NEWLINE]Great Keeper of the Central Fire, your people call for a leader with the strength to face down enemies and the wisdom to rise in new alliances. It is time for new wampum belts to be created for the new legends you are bound to create. Can you earn the respect of the surrounding nations? Can you keep the fires of alliance burning brighter than ever? Can you build a civilisation that will stand the test of time?</Text>
+		</Row>
+		
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_LEU_ONONDAGA_TADODAHO_FIRSTGREETING_1">
+			<Text>You come unarmed? Do you fear not the sight of Tadodaho? Well... you will fear soon enough, as even the hills tremble in my presence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEU_ONONDAGA_TADODAHO_FIRSTGREETING_2">
+			<Text>What business brings you foreigner? Have you not heard these hills are protected by the power of Tadodaho? You must be quite brave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEU_ONONDAGA_TADODAHO_DEFEATED_1">
+			<Text>You disrespect the Great Law of Peace... but the fire I kept is unquenchable, and the people of the Longhouse will rise again!</Text>
+		</Row>
+		<!--Other Responses-->
+		<Row Tag="TXT_KEY_LEADER_LEU_ONONDAGA_TADODAHO_ATTACKED_BETRAYAL_1">
+			<Text>You dare defy my power? Not even those sent by the Creators could stand against me, and now you face all the Haudenosaunee!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEU_ONONDAGA_TADODAHO_ATTACKED_EXCITED_1">
+			<Text>You think you can comb my snakes? Come and face the power of Tadodaho!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEU_ONONDAGA_TADODAHO_ATTACKED_HOSTILE_1">
+			<Text>Even the great Peacemaker failed to deal with me... do you think yourself worthy of combing my snakes?</Text>
+		</Row>
+		<!--DOWs-->
+		<Row Tag="TXT_KEY_LEADER_LEU_ONONDAGA_TADODAHO_DECLAREWAR_BETRAYAL_1">
+			<Text>Your people are not worthy of allying with the Onondaga. So I must set your villages with an unquenching fire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEU_ONONDAGA_TADODAHO_DECLAREWAR_CONQUEST_1">
+			<Text>You are nothing compared to Tadodaho. There is no law of peace to protect you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEU_ONONDAGA_TADODAHO_DECLAREWAR_NOCHOICE_1">
+			<Text>You have threatened the people of Onondaga and you are left with no other option than facing Tadodaho. Only if I fall will people your discover peace...</Text>
+		</Row>
+		!--PEACE-->
+		<Row Tag="TXT_KEY_LEADER_LEU_ONONDAGA_TADODAHO_WANTS_PEACE_1">
+			<Text>The snakes have been combed! It is time for peace!.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEU_ONONDAGA_TADODAHO_WANTS_PEACE_2">
+			<Text>You have seen the might of Tadodaho. However the snakes have been combed, it is time for peace.</Text>
+		</Row>
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_LEU_ONONDAGA_TADODAHO_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are crafting wampum belts and admiring your lacrosse champions. I worry the rest of the world will also succumb to the influence of your culture</Text>
+		</Row>
+		
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_LEU_ONONDAGA_TADODAHO_SHORT">
+			<Text>Combing of the Snakes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LEU_ONONDAGA_TADODAHO">
+			<Text>Melee units receive +25% XP and +15% Combat Strength when fighting in Hills tiles, and +10% XP otherwise. Upon declaring Peace receive a burst of [ICON_PEACE] Faith and [ICON_GOLDEN_AGE] Golden Age Points for every promotion of owned military units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STATUS_PEACE_TADODAHO">
+			<Text>The Combing of the Snakes provided you with [COLOR_POSITIVE_TEXT]{1_Num} [ICON_PEACE] Faith[ENDCOLOR] and [COLOR_POSITIVE_TEXT]{2_Num} [ICON_GOLDEN_AGE] Golden Age Points[ENDCOLOR]!</Text>
+		</Row>
+
+		<!--Promos-->
+		<Row Tag="TXT_KEY_PROMOTION_LEU_ONONDAGA_TADODAHO">
+			<Text>People of the Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LEU_ONONDAGA_TADODAHO_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength and +25% XP gain in Hills. +10% XP gain otherwise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LEU_ONONDAGA_TADODAHO_A">
+			<Text>People of the Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LEU_ONONDAGA_TADODAHO_A_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength and +25% XP gain in [COLOR_GREEN]Hills[ENDCOLOR]. +10% XP gain otherwise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LEU_FIREKEEPER">
+			<Text>Great Law of Peace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LEU_FIREKEEPER_HELP">
+			<Text>Can be expended at City-States for a burst of [ICON_PEACE] Faith and [ICON_INFLUENCE] Influence. Expending while in a [ICON_GOLDEN_AGE] Golden Age adds 5 turns to it. This bonus is doubled while at Peace.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_UNIT_LEU_FIREKEEPER">
+			<Text>Fire Keeper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LEU_FIREKEEPER_HELP">
+			<Text>Replacement for the Great General. Can be expended at City-States for a burst of [ICON_CULTURE] Culture and [ICON_INFLUENCE] Influence. Expending a Keeper of Fire while in a [ICON_GOLDEN_AGE] Golden Age doubles the [ICON_CULTURE] Culture earned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LEU_FIREKEEPER_STRATEGY">
+			<Text>Fire Keepers are as useful as Great Generals for providing bonuses to your units while in war. However their greatest asset comes from being expended during Golden Ages to earn more allies and more Faith. Combined with the Combing of the Snakes, try to get your units with as many promotions as you can before declaring peace to start a Golden Age and then use the Fire Keepers to gather more Culture to earn more policies!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LEU_FIREKEEPER_TEXT">
+			<Text>The term Fire Keeper was used by the Iroquois to refer to their most influential spiritual leader in New York State; it has been used in this way for centuries.The Tadodaho in New York State is the spiritual leader of the Haudenosaunee, Six Nations that includes the Cayuga, Mohawk, Oneida, Onondaga, Seneca, and Tuscarora people. The post is also called the "Head Chief of All the Six Nations". He presides over the Grand Council of the Haudenosaunee (also called Iroquois). The Great Council Fire of the Iroquois League is still located within the Onondaga reservation in present-day New York. Many of the Iroquois live in Canada, where their ancestors moved after the American Revolutionary War, as they were allies of the defeated British. The Crown gave them some land in compensation for what they lost.[NEWLINE][NEWLINE]Along with other Native American leaders, the Fire Keeper is responsible for maintaining the history of the Haudenosaunee people. The position of Fire Keeper, also called Tadodaho, is a lifetime appointment. According to tradition, when the previous Tadodaho dies, a council of chiefs from the Haudenosaunee chooses a leader from the Onondaga people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STATUS_FIREKEEPER_FAITH">
+			<Text>The Fire Keeper deeds provide you with [COLOR_POSITIVE_TEXT]{1_Num} [ICON_CULTURE] Culture[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STATUS_FIREKEEPER_FAITH_GOLDEN_AGE">
+			<Text>The Fire Keeper deeds during this Golden Age provide you with [COLOR_POSITIVE_TEXT]{1_Num} [ICON_CULTURE] Culture[ENDCOLOR]!</Text>
+		</Row>
+
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_BUILDING_LEU_WAMPUM_HOUSE">
+			<Text>Wampum House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LEU_WAMPUM_HOUSE_HELP">
+			<Text>Replacement for the Temple. +1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith for every Allied City-State, doubled during [ICON_GOLDEN_AGE] Golden Ages. Having a Wampum House in all cities increases [ICON_GOLDEN_AGE] Golden Age duration by 25%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LEU_WAMPUM_HOUSE_STRATEGY">
+			<Text>The Wampum Houses are particularly useful if you have many City-State allies, and provide stronger benefits when built on all cities so try to build them as soon as you are able. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LEU_WAMPUM_HOUSE_TEXT">
+			<Text>Wampum is a vital part of Onondaga and Haudenosaunee culture. Wampum is created from the shell of a clam. The beads are cut from the white and purple parts of the shell. The pieces are rounded, sanded and drilled to make a bead. Because of the effort that is needed to make a bead, wampum is highly valued.[NEWLINE][NEWLINE]The shell is thought of as a living record of the Haudenosaunee. The speaker puts the words of the agreement into the wampum as the strings or belts are woven together. Each speaker thereafter uses the wampum to remember the initial agreement and the history that has happened to date. To us, the belts are our living history.[NEWLINE][NEWLINE]Wampum has many uses. One of the uses is to invite the other nations to council meetings. These wampum strings are given the topic that all of the nations are to meet and discuss about. At the end of the wampum string is a wooden stick. The wooden stick tells the people of the nation when the meeting is to take place. As each day passes, a notch is cut off the stick and when the notches are all gone, the meeting will take place.[NEWLINE][NEWLINE]Wampum also symbolizes titles within the Haudenosaunee. Each position of a Clan Mother of a Chief has their own wampum string. When a person holds this title for the Nation, they carry the wampum to show their place in the community. When a leader falls, the wampum is passed on to the new leader.[NEWLINE][NEWLINE]When a string of wampum that is held in a person’s hand, they are said to be speaking truthfully. During ceremonies, the wampum strings are used to convey that the speaker’s words are true. People listening to a speaker holding the wampum also know this and are very attentive and respectful of the speaker’s message.[NEWLINE][NEWLINE]Onondaga was given the responsibility of Wampum Keeper of the Haudenosaunee at the founding of the Great Peace. Four countless centuries the Onondaga were the caretakers of the belts. When our white brothers first began interacting with us, they noticed how important the belts were to us. Then after many attempts, New York anthropologists were able to obtain the belts through an illegal sale. The Nation immediately tried to have the belts returned. But the State of New York deemed that these belts were too valuable and needed to placed in the State’s museum for safe keeping. But the Onondaga Nation worked diligently to have the wampum return home. Finally in the fall of 1989, some belts returned after the determined efforts of the chiefs to bring these belts back to the people.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_LEU_WAMPUM_HOUSE_ALLY">
+			<Text>Wampum House: Great Law of Peace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LEU_WAMPUM_HOUSE_ALL_WAMPUM">
+			<Text>Wampum House: Clan Traditions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_LEU_WAMPUM_HOUSE_HELP">
+			<Text></Text>
+		</Row>
+	</Language_en_US>
+</GameData>

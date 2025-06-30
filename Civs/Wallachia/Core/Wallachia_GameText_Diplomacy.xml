@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- When you first meet this AI player -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_FIRSTGREETING_1">
+			<Text>What is your business in Wallachia? I am Vlad III Tepes, her noble prince. See these impaled souls behind me? Be careful or you'll wind up skewed alongside them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_FIRSTGREETING_2">
+			<Text>You are brave to enter these lands. Or perhaps foolish. I am Vlad III Tepes, prince of Wallachia.</Text>
+		</Row>
+		<!-- When you've defeated this AI player through conquest -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DEFEATED_1">
+			<Text>I go to my grave leaving behind a nightmare buried deep within this princedom. It will one day destroy you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DEFEATED_2">
+			<Text>So it was with bravery that you steps into my lands. Take good care of my forest of impalements.</Text>
+		</Row>
+		<!-- Trying to contact or trade with the AI too many times; "REPEAT" appears first, and then "TOO_MUCH" if you continue (regardless of AI feelings) -->
+		<!-- Repeatedly contacting the AI -->
+		<!-- AI has no strong feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_REPEAT_1">
+			<Text>Well, well. You're a sick fellow aren't you? Come back to gaze upon the horrors that befell my enemies?</Text>
+		</Row>
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_HOSTILE_REPEAT_1">
+			<Text>I doubt you're here for anything worthwhile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_HOSTILE_REPEAT_2">
+			<Text>You're back. How annoying...</Text>
+		</Row>
+		<!-- You have contacted them for a fifth time -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<!-- Repeatedly trying to trade with the AI -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_REPEAT_TRADE_1">
+			<Text>Shall I cut off your ears? You're clearly not using them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_REPEAT_TRADE_2">
+			<Text>Perhaps your eyes need to be gouged out. You're clearly unable to see what a good deal looks like.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_REPEAT_TRADE_3">
+			<Text>Are you done offering these pathetic deals?</Text>
+		</Row>
+		<!-- You have tried for a fifth time (?) -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+
+		<!-- ==================================== Greetings ==================================== -->
+		<!-- Generic greetings depending on how the AI feels about you -->
+		<!-- AI likes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_POLITE_HELLO_1">
+			<Text>Please - sit, friend. Don't worry, I won't stab you.</Text>
+		</Row>
+		<!-- AI has no strong feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_NEUTRAL_HELLO_1">
+			<Text>You've business then. So speak.</Text>
+		</Row>
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_HOSTILE_HELLO_1">
+			<Text>Be careful. My stabbing hand is getting itchy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_HOSTILE_HELLO_2">
+			<Text>What is it?</Text>
+		</Row>
+
+		<!-- Greetings while at war -->
+		<!-- All other times -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_AT_WAR_HOSTILE_1">
+			<Text>So you've come to surrender then? Have you decided on a spot that you'd like to be skewered?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_AT_WAR_HOSTILE_2">
+			<Text>There isn't anything to say if it's not about your surrender. Get on with it.</Text>
+		</Row>
+
+		<!-- Situational greetings -->
+		<!-- You have a Declaration of Friendship with them -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_WORKING_WITH_1">
+			<Text>Yes, I think of you as a friend. But that doesn't mean I want you around all the time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_WORKING_WITH_2">
+			<Text>Well, friend?</Text>
+		</Row>
+		<!-- The human is at war -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>It amuses me that you come when you're about to be destroyed.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_HUMAN_AT_WAR_1">
+			<Text>I am not interested in discussing your war, if that's why you are here.</Text>
+		</Row>
+		<!-- The human has an aggressive military posture -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>Do you soldiers see what lies for them if they enter my lands? Turn back or every last one of them will die.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>I will skewer your men if you do not remove them from my lands. All who enter Wallachia uninvited are enemies.</Text>
+		</Row>
+		<!-- The human is aggressively setting cities -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Be careful with your expansion. I will catch one of your settlers one day and eat them.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>I willy gladly force you back if you cannot control your expansion.</Text>
+		</Row>
+		<!-- The human is aggressively claiming plots -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Gold will not restore the earth that I will salt because of this transgression. You cannot merely buy my lands.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I have noticed that you're getting too close to my lands. Turn back now or face the consequences.</Text>
+		</Row>
+		<!-- AI is praising your strong military -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your army is very strong, and I would be right to fear it.</Text>
+		</Row>
+		<!-- AI is praising your strong economy -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your pockets are overflowing with gold. Care to leave some of it laying around for us less fortunate rulers?</Text>
+		</Row>
+		<!-- AI is mocking you for having fewer cities than them -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>Are you having some trouble expanding?</Text>
+		</Row>
+		<!-- AI is mocking you for having a small military -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Fear not. The children that don your soldiers' garb will face the same fate should you seek to invade me.</Text>
+		</Row>
+		<!-- AI considers you to be a warmonger -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>You are called a warmonger, but I do not see it.</Text>
+		</Row>
+
+		<!-- ==================================== Declarations of Friendship and Denouncing ==================================== -->
+		<!-- AI offers you a Declaration of Friendship -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DEC_FRIENDSHIP_1">
+			<Text>It is difficult to make friends. I have a habit of stabbing them. You'll give a Declaration of Friendship with me a chance won't you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DEC_FRIENDSHIP_2">
+			<Text>You are the first leader that I want to see kept alive. Would you agree to a Declaration of Friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DEC_FRIENDSHIP_3">
+			<Text>I promise you that I will do my utmost to defend you and your people, if you would agree to a Declaration of Friendship with me.</Text>
+		</Row>
+		<!-- AI isn't ready for a Declaration of Friendship yet -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_TOO_SOON_FOR_DOF_1">
+			<Text>I am not interested.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_TOO_SOON_FOR_DOF_2">
+			<Text>This would be of no service to me.</Text>
+		</Row>
+		<!-- AI, as your friend, wants you to denounce another civilization -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>I want you to denounce {1_CivName}. As my friend, you will agree to this without question.</Text>
+		</Row>
+		<!-- AI, as your friend, wants you to declare war on another civilization (disabled in normal DLL according to whoward69) -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DOF_AI_WAR_REQUEST_1">
+			<Text>It is time that {1_CivName}'s fate be sealed, and I need you to join me on the battlefield. What do you say? (WILL DECLARE WAR IMMEDIATELY)</Text>
+		</Row>
+		<!-- AI is denouncing you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DENOUNCE_1">
+			<Text>I will let the others know in advance that you will soon be joining my forest of impalements.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DENOUNCE_2">
+			<Text>Do not be surprised if you wake up one morning and your guts are spilling from your belly.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DENOUNCE_3">
+			<Text>Your threat to my princedom is too great to be ignored. Consider this my warning to you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<!-- AI is responding to you denouncing them -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Well then. You'd better start running before I catch and gut you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>You'd best not stick around then. I've been looking for someone new to join my forest of impalements.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_RESPONSE_TO_BEING_DENOUNCED_3">
+			<Text>You have authored your own demise.</Text>
+		</Row>
+		<!-- AI contacting you after you befriend their friend -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_HUMAN_DOFED_FRIEND_1">
+			<Text>So, you've become friends with {1_CivName}. This is reassuring.</Text>
+		</Row>
+		<!-- AI contacting you after you befriend their enemy -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_HUMAN_DOFED_ENEMY_1">
+			<Text>I recommend that you not get too close with {1_CivName}. If so... we might have problems getting along.</Text>
+		</Row>
+		<!-- AI contacting you after you denounce their friend -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>I'll have you know that {1_CivName} and I have worked together in the past, and I have the utmost respect for them. Just so you're aware.</Text>
+		</Row>
+		<!-- AI contacting you after you denounce their enemy -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>Glad to hear there are others in the world that share my disgust with {1_CivName}. They are clearly not to be trusted.</Text>
+		</Row>
+		<!-- AI contacting you after they befriend your friend -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I see that you are now friends with {1_CivName}. Good.</Text>
+		</Row>
+		<!-- AI contacting you after they denounce your enemy -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your disdain for {1_CivName}. Perhaps one day we will have them for dinner.</Text>
+		</Row>
+		<!-- AI contacting you after they denounce your friend -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Your relationship with {1_CivName} troubles me.</Text>
+		</Row>
+		<!-- AI contacting you after they befriend your enemy -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>Enjoy your time with {1_CivName}. Knowing them, they will dispose of you before too long.</Text>
+		</Row>
+
+		<!-- ==================================== AI warnings ==================================== -->
+		<!-- AI has noticed your military posture is aggressive -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Your soldiers will decorate my pallisades nicely. That is, if you do not remove them from my lands.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I will give you a chance to move your armies away from my lands.</Text>
+		</Row>
+
+		<!-- AI has noticed your aggressive settling -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_EXPANSION_SERIOUS_WARNING_1">
+			<Text>The next settler that I catch near my lands will be send back to you in pieces.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_EXPANSION_WARNING_1">
+			<Text>I warn you to keep away from my lands.</Text>
+		</Row>
+
+		<!-- AI has noticed your aggressive plot claiming -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Do you think I will not impale your merchants buying up my lands? I will, I assure you.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_PLOT_BUYING_WARNING_1">
+			<Text>Keep your gold and stay away from my lands.</Text>
+		</Row>
+
+		<!-- ==================================== War requests ==================================== -->
+		<!-- AI wants you to go to war against a third party -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_COOP_WAR_REQUEST_1">
+			<Text>My disdain for {1_PlayerName:textkey} has become too much to bear. This is a situation that can only be resolved on the battlefield. Will you join me, friend?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey} has become a blight on my people. One that can only be dealt with through war. I seek allies - can I count you among them?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_COOP_WAR_REQUEST_3">
+			<Text>{1_PlayerName:textkey} is a threat to the stability of this world. The time has come to deal with them once and for all. Will you assist me in this effort?</Text>
+		</Row>
+
+		<!-- ==================================== Miscellanious comments ==================================== -->
+		<!-- You and the AI are competing for the same city states -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_MINOR_CIV_COMPETITION_1">
+			<Text>It's come to my attention that you're getting a little friendly with {1_MinorCivName:textkey}. In case you weren't aware, they're within my sphere of influence, and I'd prefer if you stayed out of it.</Text>
+		</Row>
+
+		<!-- ==================================== Player requests ==================================== -->
+		<!-- You continue to ask for something that the AI is not interested in -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_REPEAT_NO_1">
+			<Text>Begone.</Text>
+		</Row>
+		<!-- You ask the AI to not settle near you -->
+		<!-- AI agrees -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DONT_SETTLE_YES_1">
+			<Text>I will agree to this.</Text>
+		</Row>
+		<!-- AI doesn't agree -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DONT_SETTLE_NO_1">
+			<Text>Hah. You do not frighten me.</Text>
+		</Row>
+
+		<!-- ==================================== Insults ==================================== -->
+		<!-- Generic insult if no others are picked -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INSULT_GENERIC_1">
+			<Text>You don't seem to be using your head that much. I should do you a favour and remove it for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INSULT_GENERIC_2">
+			<Text>You would make a fine addition to my forest of impalements, don't you think?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INSULT_GENERIC_3">
+			<Text>I'm getting sick of seeing your face. Maybe I should tear it off and wear it on mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INSULT_GENERIC_4">
+			<Text>I should come over there and put you in your place on my pallisades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INSULT_MILITARY_1">
+			<Text>Your army is so wanting that I fear I would not have enough to build a forest with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INSULT_MILITARY_2">
+			<Text>Your soldiers would scare no one, even with their guts around their necks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INSULT_NUKE_1">
+			<Text>I would have you strapped to a nuclear bomb!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INSULT_BULLY_1">
+			<Text>I reserve a special place in my palace for bullies like you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INSULT_UNHAPPINESS_1">
+			<Text>Your people would be happier impaled on my pikes, wouldn't you agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INSULT_UNHAPPINESS_2">
+			<Text>I should come over there and put your people out of their misery.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INSULT_CITIES_1">
+			<Text>A pathetic attempt at building an empire. Why do you bother?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INSULT_POPULATION_1">
+			<Text>Have you been a bit too free with your culling, too? I dare say this explains your pathetic size.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INSULT_CULTURE_1">
+			<Text>A pathetic and meagre culture. Not worth pillaging, frankly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INSULT_CULTURE_2">
+			<Text>It must only be through devilry that your pathetic culture has managed to sustain itself.</Text>
+		</Row>
+
+		<!-- ==================================== Trade ==================================== -->
+		<!-- AI is offering a trade because they want a luxury from you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_LUXURY_TRADE_1">
+			<Text>You have a luxury resource that I want. Now, you know that I'm not one to be refused.</Text>
+		</Row>
+		<!-- AI is asking for a mutual open borders agreement -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_OPEN_BORDERS_EXCHANGE_1">
+			<Text>What do you think of an Open Borders arrangement with me?</Text>
+		</Row>
+
+		<!-- ==================================== Player declares war on the AI ==================================== -->
+		<!-- AI Attacked by another player -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_ATTACKED_HOSTILE_1">
+			<Text>I gladly invite you to witness the horrors that await your men.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_ATTACKED_HOSTILE_2">
+			<Text>I see, and from which end do you prefer me to skew you one a pike?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_ATTACKED_HOSTILE_3">
+			<Text>Yes, I think I have a dozen or so pikes to impale your soldiers on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_ATTACKED_HOSTILE_4">
+			<Text>I will not be easily defeated. Your men will cower in fear as they near my lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_ATTACKED_HOSTILE_5">
+			<Text>Your men will face much horror in the coming war.</Text>
+		</Row>
+
+		<!-- ==================================== AI declares war on the player ==================================== -->
+		<!-- Generic response -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DOW_GENERIC_1">
+			<Text>You have conspired against me too long. You will join the army of dead that don my pallisades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DOW_GENERIC_2">
+			<Text>You best bring your best men to face me, because when I capture you, I will slowly roast you alive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DOW_GENERIC_3">
+			<Text>I have submitted to your will too long. It is time to see what your guts look like.</Text>
+		</Row>
+		<!-- AI is in a land dispute with the player -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DOW_LAND_1">
+			<Text>I am ordained by God to expand my princedom and I will continue with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_DOW_LAND_2">
+			<Text>I continue my mission to cover the earth with my princedom by taking you on.</Text>
+		</Row>
+		<!-- AI declares war after the player refuses a demand -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_WAR_DEMAND_REFUSED_1">
+			<Text>Then I will begin thinking of all the ways I am going to torture you for this when I capture you.</Text>
+		</Row>
+
+		<!-- ==================================== Peace offers ==================================== -->
+
+		<!-- AI doesn't want to have peace -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_NO_PEACE_1">
+			<Text>Do not talk to me about peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_NO_PEACE_2">
+			<Text>I am prepared to talk peace. If you let me slice off your toes.</Text>
+		</Row>
+		<!-- Player asks for peace on the same turn war was declared - no peace! -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_TOO_SOON_NO_PEACE_1">
+			<Text>You mustn't care for your pretty head if you come begging for peace at this hour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_TOO_SOON_NO_PEACE_2">
+			<Text>No. Now get out before I get the urge to plunge a knife into your skull.</Text>
+		</Row>
+
+		<!-- ==================================== Cultural Influence ==================================== -->
+		<!-- Player is influential on the AI (Our people are wearing your blue jeans...) -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now sleeping in coffins and drinking the blood of their enemies! We're worried the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- AI is influential on the player -->
+		<Row Tag="TXT_KEY_LEADER_JFD_VLAD_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are now sleeping in coffins and drinking the blood of their enemies. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

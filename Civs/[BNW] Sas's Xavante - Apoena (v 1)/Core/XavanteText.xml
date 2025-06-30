@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/29/2023 11:42:55 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_SAS_XAVANTE_ADJECTIVE">
+			<Text>Xavante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_XAVANTE_DESC">
+			<Text>The Xavante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DAWN_SAS_XAVANTE_TEXT">
+			<Text>Hail, Chief Apoena, cunning and thoughtful leader of the Xavante. Your people experienced horrific violence and cruel treatment, but you were determined to keep and develop your culture, and not lose it to the sands of time. To protect your culture, a culture of growing maize and hunting tapir, a culture of Australasian origin and one which had migrated across the river Araguaia, you devised an ingenious strategy to "tame" the colonisers of the frontier. Through political diplomacy you organised peace conferences between your people and settled white man, publicised your culture through Brazilian media, visited regional capitals, and organised exchanged, where non-native people would visit your villages. By also using the colonial tools provided by groups such as FUNAI, you protected your society, keeping your traditional customs alive.[NEWLINE][NEWLINE]Oh guileful Apoena, your people now call on you protect them once again. The frontier is once again encroaching upon your native lands, and your people call upon you to act, to keep them safe. Your expertise is necessary to avoid conflict while still maintaining the land and your peoples best interest. Can you once again "tame" the people of Brazil to defend the boundaries of your land? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_XAVANTE_SHORT_DESC">
+			<Text>The Xavante</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_TEXT_1">
+			<Text>The Xavante are an indigenous people of Brazil, located in the eastern part of the modern state of Mato Grosso in Brazil. They have a dualistic societal structure, made up of two clans, the Awawe and Po'reza'ono. They speak the Xavante language, which is part of the Je family, and became well known in Brazil at the end of the 1940s thanks to the government's campaign to publicise its 'March to the West'. Today, there are approximately 30,000 Xavante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_HEADING_2">
+			<Text>Speaking Je</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_TEXT_2">
+			<Text>The Xavante language is spoken by 9,600 people, of whom about 7,000 are monolingual. It is a language in the Je family, specifically Akuwe, or Central Je. The Xavante language was first referenced in the 19th century, in works of comparative philology which used word lists from the language and overviews of its structure. The survival of the Xavante culture was helped by the Xavante language, which allowed their traditions to be passed down to younger generations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_HEADING_3">
+			<Text>X-avante Origins: Population Y</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_TEXT_3">
+			<Text>A 2015 genetic study reached a surprising conclusion about the origins of the Xavante people. Unlike other Native American peoples, the Paiter-Surui, Karitiana, and Xavante have an ancestry partially related to indigenous Australasian populations of the Andaman Islands, New Guinea, and Australia. Scientists speculate that the relationship derives from an earlier people, called Population Y, in East Asia from whence both groups diverged 15,000 to 30,000 years ago, the future Australasians migrating south and the remote ancestors of the Xavante northward finding their way to the New World and to the interior Amazon Basin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_HEADING_4">
+			<Text>Amazing Maize and Tapir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_TEXT_4">
+			<Text>Traditionally, the Xavante were nomadic hunters and gatherers who lived in temporary horseshoe-shaped villages on the savannah and cultivated maize, beans, and pumpkins on seasonally visited garden plots. They hunted tapir, deer, wild pigs, and birds and gathered roots, nuts, and honey. The trek is integral to the nomadic life. An entire camp will pick up and move to take advantage of natural resources. When a tribe sets up camp more permanently, it places the huts in a semicircle opening onto a water source. This lifestyle has changed recently because settlers and ranches now surround the Xavante and control the country they used to roam. The Xavante are therefore trying to become settled agriculturalists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_HEADING_5">
+			<Text>The Same Old Story of Contact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_TEXT_5">
+			<Text>At the beginning of the 18th century, the discovery of gold in the then province of Goias led to the arrival of miners, explorers, settlers and missionaries, causing conflicts with the local indigenous populations.  The native peoples reacted in different ways to the outsiders' invasions. Some resisted, with surprise attacks and warfare, others stayed put or migrated.  In the second half of the century several groups, including some identified as "Xavante", were living in settlements sponsored by the government, where they suffered the devastating effects of epidemics of disease. A number were enslaved in the 18th century, after which they have tried to avoid contact. Later, sometime at the end of the 18th or the beginning of 19th century, the Xavante crossed the river Araguaia. This displacement towards the west definitively separated the Xavantes from the Xerentes, who remained on the east bank of the river. The old Xavante told dramatic stories about the separation of their people from the Xerente. In one of these versions, a huge dolphin reared up in the middle of the Araguaia, blocking the river and terrifying the "relatives" who had not yet crossed over. Once they had crossed the Araguaia, the Xavante established themselves in the Roncador mountains, in what is today the state of Mato Grosso. During the 19th century and the first half of the 20th, different groups migrated further west, either following the banks of the Rio das Mortes, or heading towards the Suia-Missu river and the headwaters of the Kuluene river.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_HEADING_6">
+			<Text>Opening up the Interior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_TEXT_6">
+			<Text>The Xavante successfully defended their new territory against outsiders and lived in relative isolation until the 1930s, when they were "re-discovered". Brazilian newspapers and magazines published government propaganda articles that portrayed the Xavante as a symbol of the "noble savage". From 1946 to 1957, they were brought under Getúlio Vargas’ National Integration Program, but still experienced massacres and disease. Due to this history, they have a distrust of non-Xavante people. Today they are still wary of any approach of non-Xavante, called "waradzu". The Xavante, like other indigenous tribes, were treated badly by the government beginning in the 1960s, the Xavante were moved from their homeland in Mato Grosso to a southern, malnourished area of Brazil. There, thousands of natives died due to disease, famine and warfare. After Brazil's capital moved to Brasilia and the military government began "opening up" the interior in earnest, many indigenous peoples who had been protected by remoteness suffered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_HEADING_7">
+			<Text>Victories and Conflict</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_TEXT_7">
+			<Text>In the 1960s, government plans involved building a road across Xavante land to link with the Trans-Amazon Highway. The ensuing flood of settlers led to intense conflict. The government established several successive reserves for the Xavante, but none were demarcated, while the overburdened and corrupt Indian Service frequently gave out titles to Indian and regardless of the reserves. Tensions grew, and by the late 1970s the Xavante had pushed many settlers off the land. Xavante leaders demanded action in Brasilia. After dramatic protests and repeated negotiations, Xavante land was guaranteed. Inspite of these victories, conflicts have continued in  some places up until today. In the 1990s, the Xavante won the right to extend the limits of several areas, and, after a long battle, they managed to get the demarcation and official recognition of the Marawaitsede area in the Suia-Missu region.  Yet inspite of the completion of the process for official recognition, a large part of the indigenous area is still occupied by hundreds of non-indians. Just one small group of Xavante have managed to occupy a small part of the Marawaitsede area. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_HEADING_8">
+			<Text>The Duality of Clans and Noise Against Hunger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_XAVANTE_TEXT_8">
+			<Text>In 1996 the Brazilian heavy metal band Sepultura stayed and recorded with the Xavante people, who are featured on their album Roots. A small number of Xavante even travelled to São Paulo to partake in Sepultura's Barulho Contra Fome, literally Noise Against Hunger, concert in 1998 that marked the start of their tour for their follow-up album, Against, where their presence was featured in the music video for the song "Choke". The Xavante have a dualistic societal structure, made up of two clans, the Awawe and Po'reza'ono. Marriage is not allowed between members of the same clan. An example of inter-clan relationships are the traditional log races, where the two clans compete in a race to carry palm tree trunks weighing as much as 80 kg to a defined point. The Xavante are also known for their complex initiation rituals for young males, such as when small wooden sticks are inserted in the earlobes at the age of fourteen. As time passes, the size of these adornments is increased for the rest of their lives.</Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_SAS_APOENA">
+			<Text>Apoena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_APOENA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_APOENA_TEXT_1">
+			<Text>Apoena was a Xavante chief and elder who gained prominence in Brazil for his complex and nuanced interactions with Brazilian society, with the goal of "taming" the white population and allowing for peaceful contact. Starting in the 1940s and carrying through the 1980s, Apoena attempted to preserve the Xavante culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_APOENA_HEADING_2">
+			<Text>The March to the West</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_APOENA_TEXT_2">
+			<Text>During the 1940s, as the Xavante culture was "re-discovered" by colonial authorities, the Xavante culture came under threat by encroaching settlers during the Brazilian 'March to the West'. The Xavante had, since the eighteenth century, engaged in cycles of violence and revenge with white interlopers, but they also had interacted peacefully with traders, missionaries, and officials.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_APOENA_HEADING_3">
+			<Text>Apoena's Gambit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_APOENA_TEXT_3">
+			<Text>Apoena devised a plan to protect his people. Through until the 1980s, and after the consent of Xavante men and women, Apoena engaged in what was colloquially known as "taming the whites". Through political diplomacy you organised peace conferences between your people and the settlers, publicised your culture through Brazilian media, visited regional capitals, and organised exchanges, where non-native people would visit your villages. This was known as the Xavante strategy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_APOENA_HEADING_4">
+			<Text>Aniceto and Apoena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_APOENA_TEXT_4">
+			<Text>However, while Apoena was respected, he was engaged in a power struggle with his brother. By the end of 1980, Apoena began to oppose Aniceto, most likely to promote his son Orestes, and turned to the Brazilian authorities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_APOENA_LIVED">
+			<Text>c. 1890s - 1980s AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_APOENA_NAME">
+			<Text>Apoena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_APOENA_SUBTITLE">
+			<Text>Leader of The Xavante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_APOENA_TITLES_1">
+			<Text>Chief</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_SAS_XAVANTE_SHORT">
+			<Text>Roots, Bloody Roots</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SAS_XAVANTE">
+			<Text>Known Civilizations who produce more [ICON_TOURISM] Tourism than you provide Great Musician points. Whenever a Great Musician is expended in your territory, recieve a lump sum of [ICON_GOLDEN_AGE] Golden Age points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAS_XAVANTE_BUTTON_TOOLTIP">
+			<Text>[COLOR_POSITIVE_TEXT]Spawn a Random Plantation Resource![ENDCOLOR][NEWLINE][NEWLINE] Expend this unit to put a random plantation resource on this plot.</Text>
+		</Row>
+		<!--Kilosh-->
+		<Row Tag="TXT_KEY_UNIT_SAS_TSAWOROWA">
+			<Text>Wazu'ri'wá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_TSAWOROWA_HELP">
+			<Text>Unique Scout for the Xavante. Slightly weaker than the Scout it replaces, but also possesses a Ranged Attack, and may move after attacking. During a [ICON_GOLDEN_AGE] Golden Age, Wazu'ri'wá may be expended in friendly territory to plant a random Plantation-based resource.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_TSAWOROWA_STRATEGY">
+			<Text>Unique Scout for the Xavante. Slightly weaker than the Scout it replaces, but also possesses a Ranged Attack, and may move after attacking. During a [ICON_GOLDEN_AGE] Golden Age, Wazu'ri'wá may be expended in friendly territory to plant a random Plantation-based resource.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_TSAWOROWA_TEXT">
+			<Text>Wazu'ri'wá are Xavante warriors and scouts. The word Wazu'ri'wá means 'trailblazer', a warrior who goes ahead to scout the terrain and define the paths for the rest of the village. With their red, black, and white paint, the Xavante have long used weapons such as the bow and club for both the hunt and conflict. As the Brazilian state pushed westwards, conflict was inevitable, and the Xavante pushed back against encroaching frontiers. A notable incident was when, in 1973 as a decree marked out five reservations for the Xavante to live, settlers refused to move, Xavante collected rifles and shotguns and put on war paint to defend their territory. The word Wazu'ri'wá was also used by Apoena to describe the Xavante boys he sent to live amongst the whites in his Xavante Strategy, signifying their important dual roles as both scouts and diplomats.</Text>
+		</Row>
+		<!--Kiva-->
+		<Row Tag="TXT_KEY_BUILDING_SAS_DZOMORI">
+			<Text>Dzomori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_DZOMORI_PEDIA">
+			<Text>The Xavante have traditionally collected seeds. However, with the advent of modern agricultural practices worldwide, seeds have become homogenised in order to maximise food output. However, Xavante have collected natural seeds, usually collected straight from the tree for the highest quality. The collection of native seeds on harvesting journeys, called dzomoris, has helped reforest areas of the degraded rainforest. These dzomoris were previously used to collect roots and fruits along with seeds, but due to the desecration of deforestation and non-indigenous land grabs, the focus became less on food and more on replanting. Xavante villages often collaborate with intertribal environmental organizations such as the Xingu Seed Network, selling them seeds gathered by dzomoris to help preserve and replenish native flora even further across the region.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_DZOMORI_STRATEGY">
+			<Text>Unique Hospital for the Xavante. In addition to the effects of a standard Hospital, the Dzomori provides +1 [ICON_CULTURE] Culture from worked sources of Plantation-based Resources. Contains a slot for a Great Work of Music that, when filled, provides an extra +1 [ICON_FOOD] Food from worked sources of Plantation-based Resources. Dzomoris are constructed faster during [ICON_GOLDEN_AGE] Golden Ages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_DZOMORI_HELP">
+			<Text>Unique Hospital for the Xavante. In addition to the effects of a standard Hospital, the Dzomori provides +1 [ICON_CULTURE] Culture from worked sources of Plantation-based Resources. Contains a slot for a Great Work of Music that, when filled, provides an extra +1 [ICON_FOOD] Food from worked sources of Plantation-based Resources. Dzomoris are constructed faster during [ICON_GOLDEN_AGE] Golden Ages.</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_XAVANTE_9">
+			<Text>Tsetetó</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_XAVANTE_8">
+			<Text>Cipassé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_XAVANTE_7">
+			<Text>Pe'Wee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_XAVANTE_6">
+			<Text>Dumhiwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_XAVANTE_5">
+			<Text>Tsorompré</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_XAVANTE_4">
+			<Text>Orestes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_XAVANTE_3">
+			<Text>Aniceto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_XAVANTE_2">
+			<Text>Hiparidi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_XAVANTE_1">
+			<Text>Jurandir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_XAVANTE_0">
+			<Text>Cidancri</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_1">
+			<Text>Etenhiritipá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_2">
+			<Text>Abelhinha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_3">
+			<Text>Marimbú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_4">
+			<Text>Wedezé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_5">
+			<Text>Maraiwatsédé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_6">
+			<Text>Areões</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_7">
+			<Text>Idzo'uhu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_8">
+			<Text>Wede'ra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_9">
+			<Text>Cipasse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_10">
+			<Text>Severiá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_11">
+			<Text>Rowatsétédzépa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_12">
+			<Text>Tritópa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_13">
+			<Text>Batovi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_14">
+			<Text>Bo'u</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_15">
+			<Text>Norõtsutetepa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_16">
+			<Text>O're Owawe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_17">
+			<Text>Tsiba'aro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_18">
+			<Text>U'rébéro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_19">
+			<Text>Tepebonhib' Ene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_20">
+			<Text>Ub'rãtãwawe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_21">
+			<Text>I Tehutunhitsipri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_22">
+			<Text>Tsõ'rehipãridzé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_23">
+			<Text>Parawãdza'radzé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_24">
+			<Text>Wairene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_25">
+			<Text>Etedzahopo'ri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_26">
+			<Text>Otõmodza'rob'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_27">
+			<Text>Dzéirépa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_28">
+			<Text>Volta Grande</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_29">
+			<Text>Bom Jesus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_XAVANTE_30">
+			<Text>Ub'donho'u</Text>
+		</Row>
+		<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_SAS_APOENA_FIRSTGREETING_1">
+			<Text>Rowa'awe, wanderer. This is the land of the Xavante, my people -- we're glad to have discovered and finally established communication with one of your kind!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAS_APOENA_DEFEATED_1">
+			<Text>It seems that we could not tame your savage kind in the end. Our songs will echo into eternity, and you cannot silence us.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

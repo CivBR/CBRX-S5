@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Kuksu -->
+		<Row Tag="TXT_KEY_RELIGION_KUKSU">
+			<Text>Kuksu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_KUKSU_PEDIA">
+			<Text>Kuksu was a religion practiced throughout Northern California down to the Central Valley and Central Coast. Most notable among the Pomo, Kuksu is named after the Pomo spirit Kuksu, also called Guksu, who was a red-beaked supernatural being that lived in a sweathouse at the southern end of the world. Kuksu is primarily marked by a secret society of men who would perform rituals and ceremonies in disguises in underground dance rooms. The dancers wore elaborate costumes which sometimes reflective of Kuksu or other spirits. The dance rituals were for everything from bountiful harvests and good weather to fertility and rites of passage to an annual mourning ceremony. [NEWLINE][NEWLINE]Kuksu was strongest and most widespread among the Pomo, Patwin, and Maidu, among some other nearby tribes. A number of southern Kuksu groups, such as the Ohlone, Miwok, Esselen, and northern Yokuts, practiced a form of Kuksu that wasn't as specialized in its cosmogony or important to daily life. Among the Patwin and Maidu there was a subdivision of Kuksu called Hesi, distinguished by its female participation as opposed to the normal male only secret societies.</Text>
+		</Row>
+		<!-- Datura Cult -->
+		<Row Tag="TXT_KEY_RELIGION_DATURA">
+			<Text>Datura Cult</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_DATURA_PEDIA">
+			<Text>Many cultures in the Southwestern United States and Northwestern Mexico have formed religions based around the Datura plant, a poisonous plant species used as a hallucinogen. Most often, the plant was used in religious ceremonies and rites of passage, to connect the user with the spiritual world, or as a method of divination. Although in some groups it was also used in other manners such as an anesthetic or medicinal uses. When used for religious purposes, those who take Datura use it in part to connect to dream helpers in the spiritual world to gain answers or insight into questions at hand.[NEWLINE][NEWLINE]The Chumash are one of the more well known people to heavily use Datura, using it year round. They used it in ceremonies, especially the first time being a rite of passage at a young age that not all survived, used it for medicine and visions, even called what we would consider January to be "the month of Datura". Other groups, such as the Yokuts had optional drinking rituals every spring, others limited its use to only men or only shamans, only at certain times of year, as a group rather than individually, or even for just for one ceremony in their life and never anytime else. The Tongva were also prominant users of Datura during their local practices based on their creator god Chinigchinich.</Text>
+		</Row>
+		<!-- Waashat -->
+		<Row Tag="TXT_KEY_RELIGION_WAASHAT">
+			<Text>Waashat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_WAASHAT_PEDIA">
+			<Text>Waashat, along with the Dreamer Faith, Dream Dance, Earth Lodge Religion, Native Shaker, Bole Maru, Feather Religion, and more, were a number of revitalization movements in the Pacific Northwest. Often times mixing Christian beliefs, they generally called for a return to their original way of life, shunning white influences, and a reviving of traditional ceremonies. Similar to the Ghost Dance, they tended to predict that the world would end and be returned to the Indians. [NEWLINE][NEWLINE]Smohalla, a Wanapum Indian, became a prophet by using older Waashat/Washani rituals to build up a following in the PNW for a return to their original way of life. The Waashat Dance that the religion centered on involved seven drummers, a salmon feast, use of eagle and swan feathers, and a sacred song sung every seventh day. Smohalla's movement was one of the first Indian revitilization movements, spurring on the Dreamer Movement in the PNW as well as serving as an model for later religions like the Ghost Dance.</Text>
+		</Row>
+		<!-- Dreaming -->
+		<Row Tag="TXT_KEY_RELIGION_DREAMING">
+			<Text>Dreaming</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_DREAMING_PEDIA">
+			<Text>Many cultures along the lower Colorado River, such as the Mojave and Yuma, had religious beliefs centering around dreams and the power of dreaming to connecting with spirits. There were few visible rituals and other forms of symbolism, instead focusing on song acquired through dreaming. These songs would tell the histories of the tribes, answer questions the dreamer had, or provide guidance for the future, among other things. All power is given through dreaming, and is said to come from the original creator. For the Mojave it is said that the creator deity Mastamho told them that the river, the plants, and the order of their society that he created "will always be yours as long as you are dreamers."</Text>
+		</Row>
+		<!-- World Renewal -->
+		<Row Tag="TXT_KEY_RELIGION_WORLD_RENEWAL">
+			<Text>World Renewal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_WORLD_RENEWAL_PEDIA">
+			<Text>World Renewal is a religious system practiced by a few cultures in the northwest of California, specifically the Yurok, Kurok, and Hupa, who lived along the Klamath River. A few other nearby peoples would sometimes join in as well, though they didn't actually practice the religion. World Renewal also was referred to as "New Years" or "Pikiavish" (Karok for "World's Restoration/repair/fixing").[NEWLINE][NEWLINE]World Renewal is characterized by two dances, the Deerskin and Jumping dances, held at around a dozen specific ritual sites. The two dances used different regalia though were similar in their other aspects, and were repeated frequently for days at a time, with increasing numbers of dancers. There was also a loose connection between the dances and the first-salmon rites, while the ceremonies generally happened in autumn there was also a similar one in spring for the incoming salmon.</Text>
+		</Row>
+		<!-- Bole Maru -->
+		<Row Tag="TXT_KEY_RELIGION_BOLE_MARU">
+			<Text>Bole Maru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_BOLE_MARU_PEDIA">
+			<Text>Bole Maru, or Dream Dance, is a variation of Ghost Dance created by the Pomo in 1870. It was immediately preceeded by the Earth Lodge Cult and followed by the Big Head Cult. All of these were specifically Californian variants of Ghost Dance, combining traditional beliefs with the focus on the afterlife and anti-white attitudes. Ghost Dance had been brought to California through the Paiute in the late 1860s, and the Californian variations spread throughout Northern California during the early 1870s. However, they died down a bit soon after when the promises of the beliefs didn't come true quickly. [NEWLINE][NEWLINE]The rituals are led by Dreamers, who are largely women and who derives ceremonies, songs, and dances from their own Dream. Bole Maru continued through the 1900s, with notably Mabel Mckay, who died in 1993, being the last Dreamer of the Pomo, and many still try to hold on to the dances that she and others preformed.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

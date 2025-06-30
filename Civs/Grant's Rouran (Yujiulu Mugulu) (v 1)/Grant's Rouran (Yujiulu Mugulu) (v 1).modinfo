@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="689d0ac1-9d79-4cc4-8900-a70259d7e3c3" version="1">
+  <Properties>
+    <Name>Grant's Rouran (Yujiulu Mugulu)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Rouran Khaganate, the first khaganate in history. Requires Brave New World.</Teaser>
+    <Description>Adds the Rouran Khaganate, the first recorded khaganate in history. Requires Brave New World.</Description>
+    <Authors>Grant</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet not another earth map pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="ED7CDBB2200DDC18CEF28A568C2F74CA" import="1">Art/DDS/RouranDoM.dds</File>
+    <File md5="78D2A16A8DF6163A6BC19BC643C699B4" import="1">Art/DDS/Rouran_Atlas128.dds</File>
+    <File md5="C49CB87B1D513224A75ACC85D3C87F35" import="1">Art/DDS/Rouran_Atlas24.dds</File>
+    <File md5="696B32AE9507D6DDB5BF8E7E06A495AE" import="1">Art/DDS/Rouran_Atlas256.dds</File>
+    <File md5="3378F6A601E0F311557828B95F8513EB" import="1">Art/DDS/Rouran_Atlas32.dds</File>
+    <File md5="A9C0B229363366AE76ED9D801D2587F1" import="1">Art/DDS/Rouran_Atlas45.dds</File>
+    <File md5="F7F845C8945F3D654508F22682AC6193" import="1">Art/DDS/Rouran_Atlas64.dds</File>
+    <File md5="2669450545CB612EDFE843943ABC35EA" import="1">Art/DDS/Rouran_Atlas80.dds</File>
+    <File md5="ECE6B01CF44E1F4F90936D5FD0D5CF16" import="1">Art/DDS/Rouran_Diplo.dds</File>
+    <File md5="D85138A823E6B4166C583B1699B259F7" import="1">Art/DDS/Rouran_Diplo.xml</File>
+    <File md5="835E1B2BF318FB486D79BF8D8E780C2F" import="1">Art/DDS/OrtegeAtlas45.dds</File>
+    <File md5="37CDBEBA5F58F9957E70C0F06BA675F6" import="1">Art/DDS/OrtegeAtlas64.dds</File>
+    <File md5="240DA12E7457E076E67206D050D8FE06" import="1">Art/DDS/RouranMap.dds</File>
+    <File md5="A3E121454C04277E3E6D5DE2FBB52527" import="1">Art/DDS/Rouran_Alpha128.dds</File>
+    <File md5="51798B49AD236589146850D751885DD0" import="1">Art/DDS/Rouran_Alpha24.dds</File>
+    <File md5="BBED70BFD1E02C609F408C294F4B094E" import="1">Art/DDS/Rouran_Alpha32.dds</File>
+    <File md5="7F485E742AF1B89A526771E3C940957B" import="1">Art/DDS/Rouran_Alpha48.dds</File>
+    <File md5="D54EBA01626F376695B8F65DC2A01435" import="1">Art/DDS/Rouran_Alpha64.dds</File>
+    <File md5="C5148CA767B9903BAC3BBE95D8ADE8C4" import="1">Art/DDS/Rouran_Alpha80.dds</File>
+    <File md5="96D3BA336E635C9C032A7FF35633EC57" import="1">Art/DDS/Rouran_DoM.dds</File>
+    <File md5="6F88585C9372C5B59DA9E5409C877E28" import="1">Art/DDS/sv_Nonor.dds</File>
+    <File md5="33987EF488F2F9821BCA8880AFE5F1AC" import="1">Art/DDS/sv_Ortege.dds</File>
+    <File md5="E620C5E03B9F095A598F056ACD4BF6FE" import="1">Art/DDS/sv_WrigglingRider.dds</File>
+    <File md5="10AF1524D46AD64A368B8C877DAF319B" import="1">Art/DDS/uu_Nonor_flag.dds</File>
+    <File md5="BBED70BFD1E02C609F408C294F4B094E" import="1">Art/DDS/uu_WrigglingRider_flag.dds</File>
+    <File md5="F8CAF05E2EA7196C7274EE6232AC4D75" import="1">Art/Model/Knight_Persia.dds</File>
+    <File md5="4541401A9BB1499F76B82EEA6DCD61FF" import="1">Art/Model/Knight_Persia.fxsxml</File>
+    <File md5="58AB6FE86E3FE679DEA40C0C3D480612" import="1">Art/Model/Knight_Persia.gr2</File>
+    <File md5="8F439ED343C7B2A612F07BE809317BE5" import="1">Art/Model/Knight_Persia_gloss.dds</File>
+    <File md5="7C7E2DD773992614055A5188497CBF75" import="1">Art/Model/Knight_Persia_Horse.dds</File>
+    <File md5="FB5DF706C65770F25C443B34581B2774" import="1">Art/Model/Knight_Persia_Horse_gloss.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Model/no_gloss.dds</File>
+    <File md5="2B5A9CD74D5883E555A348833C44CBA8" import="1">Art/Model/tcmAltaicRider.dds</File>
+    <File md5="0B7779E900E77714C0C28755B1B1F264" import="1">Art/Model/tcmAltaicRider.fxsxml</File>
+    <File md5="1252C2E805812999A6E8A44C183AFD0C" import="1">Art/Model/tcmAltaicRider.gr2</File>
+    <File md5="7EA3B6C9B6AFD3C3B14E48C5626FFBE7" import="1">Art/Model/tcmAltaicRider_gloss.dds</File>
+    <File md5="822B02AFA861A06BDBC1745117DC8A89" import="1">Art/Model/tcmAltaicRider_Horse.dds</File>
+    <File md5="C6FD6843D574CEB706EC53986762FB4F" import="1">Art/Model/tcmYurtCamp.dds</File>
+    <File md5="2E29F5B731AC13719CBE9F32F986C97D" import="1">Art/Model/tcmYurtCamp.fxsxml</File>
+    <File md5="F37942F4F454ADB0AA41EA1FB0D6AE3F" import="1">Art/Model/tcmYurtCamp.gr2</File>
+    <File md5="15B1D1D1A4FA1FDC23195E66733E9C02" import="1">Audio/RouranPeace.mp3</File>
+    <File md5="7512D2A80B1A27370A61B2D9507A697D" import="1">Audio/RouranWar.mp3</File>
+    <File md5="920AAF839C63DFFEAFAFAB679625C418" import="0">Core/RouranCore.sql</File>
+    <File md5="FC14709DB2323DABEC664EC9B534E13F" import="0">Core/RouranText.xml</File>
+    <File md5="C677FCAEF475859D9E6E942F116DE2B2" import="0">Lua/RouranFunctionsNoUnexpectedSymbol.lua</File>
+    <File md5="B10E32BF63AE53832520196F97830C4C" import="0">Lua/RouranFunctionsNoUnexpectedSymbol.xml</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/RouranCore.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RouranText.xml</UpdateDatabase>
+      <UpdateDatabase>Art/DDS/Rouran_Diplo.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/RouranFunctionsNoUnexpectedSymbol.lua">
+      <Name>RouranFunctionsNoUnexpectedSymbol</Name>
+      <Description>RouranFunctionsNoUnexpectedSymbol</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

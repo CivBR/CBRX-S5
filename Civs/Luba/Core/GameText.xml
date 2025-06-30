@@ -1,0 +1,289 @@
+<GameData>
+    <Language_en_US>
+        <!--Cities-->
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_1">
+            <Text>Katende</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_2">
+            <Text>Mwibele</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_3">
+            <Text>Kipushya</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_4">
+            <Text>Kabongo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_5">
+            <Text>Budyende</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_6">
+            <Text>Kitabi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_7">
+            <Text>Musumba</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_8">
+            <Text>Bukama</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_9">
+            <Text>Kamina</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_10">
+            <Text>Dyombo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_11">
+            <Text>Bunkaya</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_12">
+            <Text>Mwansabombwe</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_13">
+            <Text>Kolwezi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_14">
+            <Text>Bukunga</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_15">
+            <Text>Dilala</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_16">
+            <Text>Ntumbo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_17">
+            <Text>Manika</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_18">
+            <Text>Kalemie</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_19">
+            <Text>Lubidi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_20">
+            <Text>Ankoro</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_21">
+            <Text>Sandoa</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_22">
+            <Text>Munza</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_23">
+            <Text>Kapanga</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_24">
+            <Text>Gandajika</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_25">
+            <Text>Kamolongo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_26">
+            <Text>Kampumo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_27">
+            <Text>Rwashi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_28">
+            <Text>Katuba</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_29">
+            <Text>Kambove</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_30">
+            <Text>Tshituru</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_31">
+            <Text>Kipushi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_32">
+            <Text>Pweto</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_33">
+            <Text>Mtshatsha</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_34">
+            <Text>Kikula</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_35">
+            <Text>Kamolondo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_36">
+            <Text>Kako</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_LUBA_37">
+            <Text>Panda</Text>
+        </Row>
+        
+        <!--Spies-->
+        <Row Tag="TXT_KEY_SPY_NAME_THP_LUBA_0">
+            <Text>Mujibu</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_LUBA_1">
+            <Text>Kumwimbe</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_LUBA_2">
+            <Text>Kalala</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_LUBA_3">
+            <Text>Ngongo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_LUBA_4">
+            <Text>Maniema</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_LUBA_5">
+            <Text>Umpafu</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_LUBA_6">
+            <Text>Mbidi Kiluwe</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_LUBA_7">
+            <Text>Dyango</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_LUBA_8">
+            <Text>Mabele</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_LUBA_9">
+            <Text>Bulanda</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        
+        <!--Basic Info-->
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU">
+            <Text>Ilunga Sungu</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_LUBA_ADJECTIVE">
+            <Text>Luba</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_LUBA_DESC">
+            <Text>Luba Empire</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_LUBA_SHORT_DESC">
+            <Text>Luba</Text>
+        </Row>
+        
+        <!--Civilopedia-->
+        <Row Tag="TXT_KEY_PEDIA_THP_LUBA_HEADING_1">
+            <Text>Origins</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_LUBA_TEXT_1">
+            <Text>The Kingdom of Luba is a state that occupied the Upemba Depression, in the southern Congo, for about three centuries in the early modern period. The peoples of the Upemba Depression began centralizing in the fourteenth century; these states then began jockeying with each other to dominate the region's resources, particularly fish, salt, and iron. One of these contenders was Kongolo Mwamba, who founded the Luba Empire in approximately 1585. He built a capital city of Mwibele, near Lake Boya, and expanded the Luba territory at the expense of nearby Songye chiefdoms.[NEWLINE][NEWLINE]
+            As his reign wore on, Kongolo came to be seen as a tyrant, and ultimately he was overthrown by his nephew, Kalala Ilunga. Kalala Ilunga was the first to receive the royal title "mulopwe"; he was a skilled expansionist, and would inaugurate the dynasty that would rule Luba for most of its existence.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_LUBA_HEADING_2">
+            <Text>Government</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_LUBA_TEXT_2">
+            <Text>The Luba Kingdom ruled over its surrounding states with a tributary system. The mulopwe ("sacred king") was the overall leader of the empire, and maintained a large court of nobles. This court included members of the Mbudye, a secret society who preserved the oral histories of Luba. Tributary states were ruled by balopwe - "clan kings" - and paid their tributes to the central government via agricultural and mineral resources.[NEWLINE][NEWLINE]
+            Because of its position in central Africa, Luba came to be at the center of both short-range and long-range trade routes. Luba's trade networks allowed it to monopolize resources such as salt and copper, and to connect the northern forests of the Congo with the mineral-rich "copper belt" to its south. Longer-distance trade also allowed Luba to access the Atlantic and Indian Ocean trade networks, giving them access to luxury goods such as glass beads and cowry shells.[NEWLINE][NEWLINE]
+            Artists were also highly esteemed in Luba. Art items - including staffs, caryatid stools, and bow stands - were important signifiers of status; accordingly, carvers were highly respected, and carried around adzes to indicate their occupation. One of the most unique types of Luba art was the lukasa memory board, a decorated piece of wood used as a mnemonic for recounting oral histories.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_LUBA_HEADING_3">
+            <Text>Later History</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_LUBA_TEXT_3">
+            <Text>Beginning in the 1850s, traders from East Africa began raiding Luba in pursuit of slaves and ivory. This put a high amount of pressure on the Luba Kingdom, causing it to fracture entirely when a succession crisis broke out in 1889. The successor states of the Luba Empire would then be absorbed into the Belgian Congo.[NEWLINE][NEWLINE]
+            When the Democratic Republic of the Congo gained its independence, the Luba population was largely concentrated in Katanga Province. This led them to be heavily affected by Moise Tshombe's attempts to create a secessionist State of Katanga; the Luba people were highly divided in their opinions on this matter, with some both supporting and opposing him. When Tshombe's movement collapsed in 1965, the Luba people largely fell in line behind the central government of the DRC, where they remain today.
+            </Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_PEDIA_NAME">
+            <Text>Ilunga Sungu</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_PEDIA_SUBTITLE">
+            <Text>Leader of Luba</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_PEDIA_TITLES_1">
+            <Text>Mulopwe of Luba</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_PEDIA_LIVED">
+            <Text>died ca. 1810</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_PEDIA_HEADING_1">
+            <Text>Biography</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_PEDIA_TEXT_1">
+            <Text>Ilunga Sungu was the ruler of the Luba Kingdom around the turn of the nineteenth century. His father was the king Kekenya, and his mother was a Songye princess; consequently, Ilunga Sungu would have likely lived with his mother's family in the Songye lands during his childhood.[NEWLINE][NEWLINE]
+            Kekenya died when Ilunga Sungu was a young child, and so the throne devolved instead to Ilunga Sungu's cousin, Kumwimbe Kaumbu. However, after Kumwimbe Kaumbu died (circa 1780), there ensued a succession struggle; Ilunga Sungu won this struggle and thus rose to kingship himself. Ilunga Sungu inaugurated his reign by settling a new capital city, Katende. While traditional Luba capitals had been on the northeast side of Lake Boya, Katende was instead on the southwest, so as to be closer to the salt-producing Mashyo region. He also established a residence in Kipushya, near the empire's main iron mines. Maintaining these twin residences allowed Ilunga Sungu to maintain close control of the kingdom's most important resources.[NEWLINE][NEWLINE]
+            Ilunga Sungu also maintained an expansionist foreign policy. He was most successful in his eastern campaigns; he reduced the Hemba and Holoholo people to tributaries, and expanded Luba control as far east as Lake Tanganyika. His western campaigns were less fruitful. Overcrowding in Katende led Ilunga Sungu to expel the Kanyok people from that city, leading them to cease paying tribute in revenge; Ilunga Sungu then tried, without success, to subdue them by force. He similarly failed to conquer the kingdom of Mutombo Muluku.[NEWLINE][NEWLINE]
+            Ilunga Sungu died in Katende in approximately 1810. A succession crisis ensued between his sons, with the kingship ultimately passing to Kumwimbe Ngombe.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV5_DAWN_THP_LUBA_TEXT">
+            <Text>May you ever be remembered, great king Ilunga Sungu. It was you who brought the Kingdom of Luba to its greatest height; you added the Hemba and Holoholo to your empire's long list of tributaries, and created an empire stretching from Lake Boya to Lake Tanganyika. You also maintained tight control over the kingdom's rich resources, maintaining one residence next to the salt-producing heartland and another next to your iron mines. It is thanks to powerful rulers like you that Luba became the most dominant kingdom of the Upemba Depression, spreading its trade networks and artistic styles all throughout the region.[NEWLINE][NEWLINE]Ilunga Sungu, your people have preserved your legend in their oral histories, and now they seek to recreate it. Can you become master of all the world's great resources? Can you cultivate memories that will last for all of history? Can you build a civilization that will stand the test of time?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_LUBA_SHORT">
+            <Text>Long Claw of Memory</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_LUBA">
+            <Text>When conquering a city, instantly fill an empty [ICON_GREAT_WORK] Great Work slot in that city. Units start with additional experience for each type of [ICON_GREAT_WORK] Great Work present in the city where they were trained.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_NZAPPA_ZAP">
+            <Text>Nzappa Zap</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_NZAPPA_ZAP_HELP">
+            <Text>Strong, front-line unit of the Classical Era. Only Luba may build it. Generates Great Artist points from kills. Cities captured by a Nzappa Zap do not enter Resistance.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_NZAPPA_ZAP_STRATEGY">
+            <Text>The Nzappa Zap is a vital unit to keep on the front lines of your army. When a Nzappa Zap kills an enemy unit, it provides Great Artist points to the Capital, allowing you to kickstart your production of Great Works of Art even before unlocking the Artist's Guild. The ability for Nzappa Zaps to conquer cities without sparking Resistance will also allow you to quickly convert your conquered cities into productive parts of your empire.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_NZAPPA_ZAP_TEXT">
+            <Text>The nzappa zap (known by various other names including the zappozap or kilonda) is a type of axe traditionally used in the Congo. It was first created by the Nsapo people, who traditionally built it with an iron blade and a copper-covered wooden handle. The nzappa zap is a versatile weapon that can be either thrown or used in hand-to-hand combat. Ceremonial variants of the nzappa zap were also common, both as trade goods and as status symbols.[NEWLINE][NEWLINE]
+            The Zappo Zap movement - a group of Songye militants who worked on behalf of the Belgian colonial administration - named itself after the nzappa zap.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_MBUDYE_LODGE">
+            <Text>Mbudye Lodge</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_MBUDYE_LODGE_HELP">
+            <Text>Unique replacement for the Castle. Only Luba may build it. In addition to the normal Castle benefits, the Mbudye Lodge contains two slots for Great Works of Art, and receives a Theming Bonus if both slots are filled by foreign-created Great Works or Artifacts. Provides a Growth bonus for each filled slot.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_MBUDYE_LODGE_STRATEGY">
+            <Text>The Mbudye Lodge gives you an opportunity to put your Great Artists to work, besides their standard cultural output. The Growth bonus will help you grow larger and more productive, allowing your Great Works to give you a wide range of benefits. This growth bonus can be especially useful for bringing conquered cities online, so make sure to prioritize constructing defensive buildings after you take a new city.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_MBUDYE_LODGE_TEXT">
+            <Text>Memory was highly important to the Luba Kingdom, and the kingdom's historical memory was principally maintained by a secret society known as the Mbudye. Members of this society were known as bana balute, and it was their role to memorize and preserve the oral histories of the Luba Kingdom. The bana balute frequently used art items as mnemonic devices, particularly the lukasa or "memory board." A typical lukasa was made from wood; shells, beads, and carvings were then used to map different kinds of memory upon the board.</Text>
+        </Row>
+        
+        <Row Tag="TXT_KEY_PROMOTION_THP_NZAPPA_ZAP">
+            <Text>The Essentially Powerful</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_NZAPPA_ZAP_HELP">
+            <Text>Provides Great Artist points on kills. Cities captured by this unit do not enter Resistance.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_LUBA_FOOD_DUMMY">
+            <Text>Luba Food Dummy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_THP_THEMING_BONUS_MBUDYE_LODGE">
+            <Text>+2: Memories of Our Trade Partners</Text>
+        </Row>
+        <Row Tag="TXT_KEY_THP_MBUDYE_LODGE_THEMING_HELP">
+            <Text>To maximize your bonus, make sure both Great Works are created by civilizations other than the city owner.</Text>
+        </Row>
+
+        <!--Mod Support-->
+        <Row Tag="TXT_KEY_GENERIC_THP_LUBA_INFLUENTIAL_ON_AI_1">
+            <Text>Our people are now sitting on your caryatid stools and recording events on your lukasa boards. I worry that the rest of the world will also succumb to the influence of your culture.</Text>
+        </Row>
+        
+        <!--Additional Achievements-->
+        <Row Tag="TXT_KEY_MOD_THP_LUBA_NAME">
+            <Text>TopHat's Luba</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_LUBA_ID">
+            <Text>e3d411e9-0f09-46e4-bfca-82611755410e</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_LUBA_AUTHORS">
+            <Text>TopHatPaladin</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_LUBA_VICTORY_HEADER">
+            <Text>No Lukasa Needed; We're Unforgettable</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_LUBA_VICTORY_TEXT">
+            <Text>Win the game on any difficulty setting as Luba.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_LUBA_SPECIAL_HEADER">
+            <Text>Nzappa Zapskrieg</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_LUBA_SPECIAL_TEXT">
+            <Text>As Luba, capture two cities with Nzappa Zaps on the same turn.</Text>
+        </Row>
+    </Language_en_US>
+</GameData>

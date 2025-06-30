@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="55fc3bcf-4d5e-4046-ac39-fb5d4998aa0c" version="2">
+  <Properties>
+    <Name>TopHat's Ket</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Ket people, led by Olgit, to the game.</Teaser>
+    <Description>Adds the Ket people, led by Olgit, to the game as a custom civilization. Requires Brave New World.</Description>
+    <Authors>TopHatPaladin</Authors>
+    <SpecialThanks>danrell, Civitar</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="0" maxversion="999" title="Additional Achievements" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD and Pouakai's Mercenaries" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact's Events &amp; Decisions" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="4919AD4C48F495371188D809D264983A" import="1">Art/BowmanModel/Composite_Bowman_Russia.blend</File>
+    <File md5="FE1AD2F695B813D96606B15865645905" import="1">Art/BowmanModel/Composite_Bowman_Russia.dds</File>
+    <File md5="0E0CF91E93B344C0FB92A04A035632DC" import="1">Art/BowmanModel/Composite_Bowman_Russia.fxsxml</File>
+    <File md5="7758A5DC259BDACFD62B4E33ADDB9F78" import="1">Art/BowmanModel/Composite_Bowman_Russia.gr2</File>
+    <File md5="FBC376D44EA51022378A45464B50D469" import="1">Art/BowmanModel/Composite_Bowman_Russia_gloss.dds</File>
+    <File md5="C5102605BFBC62CE187A23FBCA1C297E" import="1">Art/Map_Ket.dds</File>
+    <File md5="7827E2D58CAAC093D136D765BD294C38" import="1">Art/Olgit_DOM.dds</File>
+    <File md5="13520D2875D90D7CEC2D64DB1B84945E" import="1">Art/Olgit_scene.dds</File>
+    <File md5="159D2BAB4C9DFAA9C6731FC8C01B7658" import="1">Art/SeningModel/u_anishinaabe_medicine_man.fxsxml</File>
+    <File md5="5F1EB213A1EAC20CC1DA06F24C173A89" import="1">Art/SeningModel/u_anishinaabe_medicine_man.gr2</File>
+    <File md5="BA0D13FB897EFEA0E85613C0C522463D" import="1">Art/SeningModel/u_anishinaabe_medicine_man_diff.dds</File>
+    <File md5="5C192C8A2672E6CB868197DB931BF58B" import="1">Art/sv_fishbowman.dds</File>
+    <File md5="1B2C53CA17773856D3910EC36134031B" import="1">Art/sv_sening.dds</File>
+    <File md5="0FD61830BD767588E863B19EC738C01B" import="1">Art/THP_KetAlpha128.dds</File>
+    <File md5="90550ABC4566F2ED5FEA284022EFA997" import="1">Art/THP_KetAlpha16.dds</File>
+    <File md5="FFB8D895E54005DFC1B1C6523F024CC1" import="1">Art/THP_KetAlpha24.dds</File>
+    <File md5="453B3595F9F41FF677B5DFCA5A8875E6" import="1">Art/THP_KetAlpha32.dds</File>
+    <File md5="3DB676285D1C32A57B458927A33144E5" import="1">Art/THP_KetAlpha48.dds</File>
+    <File md5="EEEA5C54C6CDB0D3CFADCA97BEF59A77" import="1">Art/THP_KetAlpha64.dds</File>
+    <File md5="38DC3E53433817C7CA0E8CF31C2521E2" import="1">Art/THP_KetAtlas128.dds</File>
+    <File md5="2F3F8FB849458FB21871F04A42AEAF17" import="1">Art/THP_KetAtlas256.dds</File>
+    <File md5="36F05FAE18E76897A9A498D85022434B" import="1">Art/THP_KetAtlas32.dds</File>
+    <File md5="A8E21F60BCDC157E5E8329AFC0AAE86B" import="1">Art/THP_KetAtlas45.dds</File>
+    <File md5="E1B866A57402F2315C0D6E8CD324AAE2" import="1">Art/THP_KetAtlas64.dds</File>
+    <File md5="F6857F51FE61AC675F3B0B6136CCD3C4" import="1">Art/THP_KetAtlas80.dds</File>
+    <File md5="8B5B1EC3BBA726E5B7412EB170272132" import="1">Art/Unit_FishBowman_Flag_32.dds</File>
+    <File md5="ED1FE6B796DADE61A636EE0F16C5994F" import="1">Art/Unit_Sening_Flag_32.dds</File>
+    <File md5="5D7933FF9BF791358F9ED826A8714624" import="1">Audio/Ket_Peace.mp3</File>
+    <File md5="CDF36B7D2B41D45C6BD819E7ECF30AB0" import="1">Audio/Ket_War.mp3</File>
+    <File md5="B8851F0F4EF9AD8F9B7482C384D7BA29" import="0">Core/DiploText.xml</File>
+    <File md5="050A6D549324EAA9FF2CD57F700A351C" import="0">Core/GameText.xml</File>
+    <File md5="8671AA83AC347F21CE71E78825929215" import="0">Core/Ket_ArtDef.sql</File>
+    <File md5="0E1ECED415D530A0F2D84CD55AF0ADED" import="0">Core/Ket_GameDef.sql</File>
+    <File md5="6BB23296A7DBAD76DC5C1551B5837F99" import="1">Core/Leaderhead_Olgit.xml</File>
+    <File md5="0E2200E8D3A29FFEB1187BA0C1AAF61B" import="0">Core/ModSupport_Ket.sql</File>
+    <File md5="1368ACF988CC8834BB7AD60585E8B936" import="1">Lua/AdditionalAchievementsUtility.lua</File>
+    <File md5="7330F02F2E1FF6BB32E5C1ABBA6BC7EA" import="0">Lua/HolyOverride.lua</File>
+    <File md5="F9E4BAAFE83622627EB901B33CF12299" import="1">Lua/Ket_Decisions.lua</File>
+    <File md5="7EE11336B848552DBB97DCB26B35B00B" import="0">Lua/Ket_Functions.lua</File>
+    <File md5="E44557AD6A0788BC5AA5CB5A81850A67" import="1">Lua/PlotIterators.lua</File>
+    <File md5="3C815F624BB06695C74288B10E650274" import="0">Lua/ProductionPopup.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DiploText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Ket_ArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ket_GameDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport_Ket.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Ket_Functions.lua">
+      <Name>TophatKetFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/HolyOverride.lua">
+      <Name>TophatKetHolyOverride</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

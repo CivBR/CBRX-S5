@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ead03944-275a-4c47-a865-86f742dbad10" version="1">
+  <Properties>
+    <Name>[BNW] Senshi's Bangladesh (Sheikh Mujibur Rahman)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the nation of Bangladesh into the game, under the Bangabadhu, Sheikh Mujibur Rahman!</Teaser>
+    <Description>Adds the nation of Bangladesh into the game, under the Bangabadhu, Sheikh Mujibur Rahman!
+
+Credits:
+Senshi: Concept, Art (Civ Icon, Map), additional Code and stuff
+Chrisy15: Lua
+Darth_Kyofu: Art (Civ Icon &amp; Alpha, Leaderscene &amp; Icon, Mukti Bahini Icon, Monument of Martyrs Icon)
+Zharques: Text (DoM and Pedias)
+danrell: Unit Models</Description>
+    <Authors>Senshi</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="0DD4984357A7383E8932F04E92AFCBDB" import="0">Art/Atlas/AtlasDefines.xml</File>
+    <File md5="6161460B14051B3C8F760FB60E0BFADE" import="1">Art/Atlas/BangladeshAlpha_128.dds</File>
+    <File md5="40026CA6495080A89B90B80D2502036B" import="1">Art/Atlas/BangladeshAlpha_24.dds</File>
+    <File md5="99AB5A5C8EAE2D171DCBB09F8C0295CA" import="1">Art/Atlas/BangladeshAlpha_256.dds</File>
+    <File md5="C396FECA23B07DAAC83DA992C3440F17" import="1">Art/Atlas/BangladeshAlpha_32.dds</File>
+    <File md5="3AA5142D4961F6CE54938D87377A9906" import="1">Art/Atlas/BangladeshAlpha_48.dds</File>
+    <File md5="FF70A4091194B9410256FBF8C925C0DA" import="1">Art/Atlas/BangladeshAlpha_64.dds</File>
+    <File md5="B5F2268FA0BD944AF3B3CAB68FC512D6" import="1">Art/Atlas/BangladeshAtlas_128.dds</File>
+    <File md5="189C1CCFE6E3EF649D1D53A43B9898E0" import="1">Art/Atlas/BangladeshAtlas_256.dds</File>
+    <File md5="F87754D126ADE2FEA3E6F219BA08A611" import="1">Art/Atlas/BangladeshAtlas_32.dds</File>
+    <File md5="F2F8657826EA0F1551B5F63602E2F473" import="1">Art/Atlas/BangladeshAtlas_45.dds</File>
+    <File md5="E83CD67792B9F75D715735EBCEB5FC96" import="1">Art/Atlas/BangladeshAtlas_64.dds</File>
+    <File md5="2BEC3677E60D4204E7960BE22E6B7BB8" import="1">Art/Atlas/BangladeshAtlas_80.dds</File>
+    <File md5="3328A96B9540DEDB10268A9BF04DE57C" import="1">Art/Atlas/MuktiBahiniFlag32.dds</File>
+    <File md5="F2835729FDC1A9ACD87E17F1BE82F6DD" import="1">Art/BangladeshDoM.dds</File>
+    <File md5="B6C626A1C322538C503C30ED6C00C38A" import="1">Art/BangladeshLS.dds</File>
+    <File md5="34D1F698EF9BBBB138A13316C8C05ECA" import="1">Art/BangladeshMap.dds</File>
+    <File md5="ECC9FB26134153A04A1A7405D937F200" import="1">Art/Music/BangladeshPeace.mp3</File>
+    <File md5="3459D00D7CA3F788D5AFE6AEE1AA64AE" import="1">Art/Music/BangladeshWar.mp3</File>
+    <File md5="D20CB5CF58EA31FD24A2E3BF936EBA23" import="0">Art/Music/SoundRig.xml</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Units/no_gloss.dds</File>
+    <File md5="8B0A2E8C92377884713DB83F978D0BE8" import="0">Art/Units/ArtDefines.xml</File>
+    <File md5="DBE36EA26DF1E980876763F9C4EAF75E" import="1">Art/Units/Paratrooper_UK.dds</File>
+    <File md5="AEDD847C7A666EC641A5B081349AD581" import="1">Art/Units/Paratrooper_UK_MG.blend</File>
+    <File md5="1276DE74AF0617A6D87989485DA409D5" import="1">Art/Units/Paratrooper_UK_MG.fxsxml</File>
+    <File md5="F87C976E71B3CF912EC5A897B35D78E0" import="1">Art/Units/Paratrooper_UK_MG.gr2</File>
+    <File md5="14CC70A7317C2394A5423796CCB10739" import="1">Art/Units/sv_MuktiBahini.dds</File>
+    <File md5="73F699A3FFF220A3704F9490089C45B1" import="1">C15_IteratorPack_v4.lua</File>
+    <File md5="698CCC0DC50ED971E267783670609FB7" import="0">Core/Buildings.sql</File>
+    <File md5="182D71EAB6F36571DF851A778474545B" import="0">Core/Civilizations.sql</File>
+    <File md5="691FD37CF3622DB4366E9F1AF08867B4" import="0">Core/DiplomacyResponses.xml</File>
+    <File md5="73ADBCAD4909EDE27F4DDBBD13B18D54" import="0">Core/GameText.xml</File>
+    <File md5="F5A9B5535E90862E948C24C7617EC3FF" import="0">Core/Leaderhead.sql</File>
+    <File md5="7CE6DDAE7B39CFDF4F33F9E73D9A0F51" import="0">Core/ModSupport.sql</File>
+    <File md5="F28D9755B92AF399A3419C23C2BBD09D" import="0">Core/PlayerColours.sql</File>
+    <File md5="C31C666BDED66FE9151F99EEF685647D" import="0">Core/SenshiBangladesh.lua</File>
+    <File md5="E78103997CF8D19FC762387D45B65AAF" import="1">Core/Senshi_Mujibur_Scene.xml</File>
+    <File md5="8EF00018390F5C4ED120D88146328CB4" import="0">Core/Traits.sql</File>
+    <File md5="B6B23C96D818EE2BBC98328DE693DB64" import="0">Core/Units.sql</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="0">PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Atlas/AtlasDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Units/ArtDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Music/SoundRig.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/SenshiBangladesh.lua">
+      <Name>SenshiBangladesh</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

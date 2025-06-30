@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/24/2020 9:47:01 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- Civilization -->
+		<Row Tag="TXT_KEY_CIV5_TG_SUSQUEHANNOCK_TITLE">
+			<Text>Susquehannock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TG_SUSQUEHANNOCK_DESC">
+			<Text>The Susquehannock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TG_SUSQUEHANNOCK_SHORT_DESC">
+			<Text>The Susquehannock</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TG_SUSQUEHANNOCK_ADJECTIVE">
+			<Text>Susquehannock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_TG_SUSQUEHANNOCK_TEXT">
+			<Text>
+				Oh great Old Sheehays, chief of of the Susquehannock and protector of Conestoga! The Susquehannock worked tirelessly from their northern homeland, and turned into a fighting force feared across the mountains and down into the bay. The superior organization of your people allowed them to be some of the first to make contact with Europeans who feared the tall stature of your leaders. With access to their firearms, control of the river valley seemed all but inevitable. Your naval raids terrorized those in the bay. You subjugated the Lenape to build your trading empire. Your people stood strong against your many enemies for hundreds of years, before being overwhelmed in conflict between the treacherous Europeans, and the steady onslaught of the Iroquois Confederacy. Many of your people were absorbed into the Confederacy, while some fled to other tribes dotted across the Eastern Woodlands. The rest would remain in close quarters in a town called Conestoga.[NEWLINE][NEWLINE]You stood tall in the face of adversity while the world around you tried to whither your existence away. Despite your valiant efforts to protect your home, a pogrom would eventually lead to the downfall of Conestoga. The survivors joined various other people across the continent, but were largely dispersed. But there remains hope as long as you breathe. Rise up Sheehays, will you start again for your people? Can you rebuild the nation torn apart by war and conquest? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+
+		<!-- Trait-->
+		<Row Tag="TXT_KEY_TRAIT_TG_MINQUAS_PATH">
+			<Text>
+				For every trade route to and from the Susquehannock Empire, gain +1% [ICON_STRENGTH] Combat Strength for all military units, up to 20%. +1% [ICON_GOLD] Gold for every [ICON_CONNECTED] City Connection or unique luxury resource you own, up to 20%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TG_MINQUAS_PATH_SHORT">
+			<Text>Great Minquas Path</Text>
+		</Row>
+
+		<!-- Leader -->
+		<Row Tag="TXT_KEY_LEADER_TG_SHEEHAYS">
+			<Text>Old Sheehays</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TG_SHEEHAYS_LIVED">
+			<Text>1706-1816</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TG_SHEEHAYS_NAME">
+			<Text>Old Sheehays</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TG_SHEEHAYS_SUBTITLE">
+			<Text>Chief of the Susquehannock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TG_SHEEHAYS_TITLES_1">
+			<Text>Chief</Text>
+		</Row>
+
+		<!-- Building -->
+		<Row Tag="TXT_KEY_TG_SUSQUEHANNOCK_UADUMMY_DESC">
+			<Text>Great Minquas Path City Connection and Luxury Dummy Building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TG_SUSQUEHANNOCK_UADUMMY">
+			<Text>Great Minquas Path Dummy Building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TG_SUSQUEHANNOCK_UADUMMY_HELP">
+			<Text>Dummy building for Susquehannock's UA. [NEWLINE]Grants +1% [ICON_GOLD] for each city connection and unique luxury resource.</Text>
+		</Row>
+
+		<!-- Unit -->
+		<Row Tag="TXT_KEY_UNIT_TG_ITAEAETSIN">
+			<Text>Iae'aetsin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TG_ITAEAETSIN_STRATEGY">
+			<Text>Being a slightly cheaper musketmen, this unit is meant to be mass produced to make it easier to expand across the map. It is meant to represent the firearm heavy fighting that the Susquehannock used in expanding their influence. Produce as many of these as you can and use them to help expand your empire during the Renaissance era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_TG_ITAEAETSIN">
+			<Text>The Iae'aetsin are not a real unit, but is meant to represent the access to firearms that the Susquehannock used to carve out their own territory. They largely used firearms in warfare and in hunting for trading with the English, Swedish, and Dutch colonies. While Europeans were hesitant to offer firearms to the first nations, they eventually would trade firearms and other weaponry for the luxury resourse of North America.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TG_ITAEAETSIN_HELP">
+			<Text>Cheaper than the musketman it replaces. Can pillage a tile without using up movement points. Has three movement points that do not remain on upgrade.</Text>
+		</Row>
+
+		<!--Improvements-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_TG_PALISADE">
+			<Text>Palisade Village</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_IMPROVEMENT_TG_PALISADE_HELP">
+			<Text>Grants +40% [ICON_STRENGTH] Defensiveness for friendly units, and +1 [ICON_PRODUCTION] Production. Village Palisades will gain +1 [ICON_FOOD] Food from being next to a river after Civil Service, and will gain another +1 [ICON_FOOD] Food at Fertilizer regardless of river placement.</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TG_PALISADE_PEDIA">
+			<Text>Imitating the the palisade villages of their semi-sedentary lifestyle, these act as a defensive improvement that additionally adds food and production. Unlocks at construction. As the game progresses, it is able to produce more food, acting as a defendable farm with some production. It works well for defensive positions, or when you are willing to trade food for production. Building these in places that production and defensiveness is key to a strong game.</Text>
+		</Row>
+		<!--Builds-->
+		<Row Tag="TXT_KEY_BUILD_TG_PALISADE">
+			<Text>Build Palisade Village</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TG_PALISADE_HELP">
+			<Text>Allows you to build the Palisade Village unique improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TG_PALISADE_REC">
+			<Text>Build a Palisade Village here!</Text>
+		</Row>
+		
+		<!-- Civilopedia -->
+		<Row Tag="TXT_KEY_CIV5_TG_SUSQUEHANNOCK_HEADING_1">
+			<Text>Pre-European Contact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TG_SUSQUEHANNOCK_TEXT_1">
+			<Text>
+				From the 1400s into the early 1500s, the Susquehannock resided in what is now the counties of Bradford NY and Tioga PA, but eventually moved further south, mostly likely from climate change due to the Little Ice Age, wanting to be closer to trade, and conflict with other Iroquoian peoples up north. The Susquehannock were called a variety of names, but we do not know what they called themselves. The English settlers in Virginia and Maryland called them the Susquehannock, but settlers in Pennsylvania called them the Conestoga (or Kanastoge), which was the name of their final village. Every name they are called comes from other peoples. The Dutch and Swedish colonies used the Delaware name of Minquas from the Lenape, which translates to stealthy or treacherous. The French called them the Andaste, coming from the Huron word of Andastoerrhonon. By the mid-16th century, the first villages attributed to the Susquehannock were found, where they would eventually win a conflict with the Mohawk, before engaging with other tribes, gaining a foothold on the Chesapeake Bay.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TG_SUSQUEHANNOCK_HEADING_2">
+			<Text>Initial Contact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TG_SUSQUEHANNOCK_TEXT_2">
+			<Text>
+				Captain John Smith would have a meeting in 1608 after exploring the northern chesapeake Bay. This meeting was made up of multiple colonists and Susquehannock chiefs establishing themselves. that would be attributed as being giant-like. Fairly quickly, the Europeans would find out what nearby Alqonquian-speaking peoples thought of the Susquehannock, which called them treacherous, and cannibalistic, leaving them terrified of the constant warring. The Susquehannock even attacked Patawomeck villages that were under the protection of English colonies. A Swedish missionary named Johannes Campanius would write in the 1640s the Vocabula Mahakuassica, a dictionary of Susquehannock words that would be the vast majority of our knowledge of their language. Their language is most likely part of the Iroquoian language family, but with a bit over 100 words and names left recorded, it's hard to truly know.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TG_SUSQUEHANNOCK_HEADING_3">
+			<Text>Rise to Power</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TG_SUSQUEHANNOCK_TEXT_3">
+			<Text>
+				During this time, the colonists had created a major trading power for the indigenous peoples living there, which would exacerbate conflict between them all. Between the Dutch, English, and Swedish, they would influence various peoples in the area to prioritize hunting to be able to trade with European powers, especially when the mid 17th century came around, when trading furs for firearms became commonplace. They also played different peoples against each other. In 1614, the Dutch colonies would arm the Mohawk to protect them against the Munsee and Susquehannock. The Susquehannock would cause issues in the British colonies from their warring against the southern tribes, leading to them being declared public enemies. As the English Catholics settled in Maryland, tensions continued to increase between them and the current people, the Susquehannock especially, were unhappy. Eventually, the Delaware became subject to the Susquehannock. The Susquehannock became a major trading partner with European powers: especially the Dutch and Swedish of what is now New York. In order to ensure the safe travel of their furs, they carved a small empire out of sheer commitment to their lands. This is the Great Trail, also called the Great Minquas Path. The mass amount of hunting and trapping likely depleted local sources, and led to conflict with other tribes in order to get it. The Susquehannock's tensions with Maryland led to Maryland declaring the Susquehannock enemies of the colony, and to be shot on sight. They both made peace where the Susquehannock ceded claims between the Choptank and Patuxent rivers, as Maryland prioritized crushing the Powhatan. Their trade was largely uninterrupted due to moving products to New Sweden and New Netherland. Their primary enemy, the Iroquois Confederation attacked Huron and Neutrals, which the Susquehannock attempted to assist both times. Both went poorly, and the war protecting the Neutrals led to the Mohawk attacking the Susquehannock, which pushed them to the eastern branch of the river. They attempted to strengthen ties with the Dutch to protect them, but it fell flat. They found themselves in conflict with the Puritans in Virginia, forcing them to cede land in the lower Susquehanna Valley.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TG_SUSQUEHANNOCK_HEADING_4">
+			<Text>Fall from Grace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TG_SUSQUEHANNOCK_TEXT_4">
+			<Text>
+				Smallpox decimated the Susquehannock peoples, and slowed down their war with the Mohawk. At the same time, the Dutch conquered New Sweden, crushing the Susquehannock trade routes, forcing them to make peace with the Mohawk and the Oneida. This doesn’t mean that peace lasted with the rest of the Iroquois confederation, as there would be continued tension between them all. At this point, they are badly outnumbered, and call on the Shawnee to help fight, and enlist the Eastern Algonquian and Siouan tribes. The Iroquoian strikes into the Delaware Valley forces them out of the war. After another devastating smallpox epidemic, they make peace with the Lenape and Maryland colony. With English help, they are able to prevent complete destruction of the Susquehannock. This doesn’t last long, as after the English takes the Iroquois Confederacy as allies, barring Maryland. After yet another outbreak of smallpox, and down to so few warriors that they have no ability to stop the Iroquois Confederacy anymore, as even their ambassador attempting to make peace is executed. They are defeated and many become refugees throughout the area. Some 300 warriors maintained a fort on the Potomac river that was besieged by Colonel John Washington. In return, the Susquehannock launch retaliatory raids on the colonies that go terribly. They capitulated to the Iroquois Confederacy after being worn down by plague and war, leaving them and the Delaware subjects to the Confederation. They signed a treaty with William Penn and the Iroquois Confederacy to create Conestoga Town, allowing Susquehannock people to decide to join the tribes of the Confederation, or live in Conestoga. Those who stayed in Conestoga Town largely remained reliant on the Pennsylvanian and Maryland colonies to remain sustainable, and requested food and clothing during rough times. Unfortunately, many of the colonists at the time resented them and other First Nations, which would lead to violent acts against the Susquehannock and others.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TG_SUSQUEHANNOCK_HEADING_5">
+			<Text>Paxton Boys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TG_SUSQUEHANNOCK_TEXT_5">
+			<Text>
+				The Paxton Boys Massacre was a pogrom against what remained of the Susquehannock living in Conestoga. While this was far from the only instance of violence against the First Nations by the Paxton Boys–a hate group that saw all First Nations peoples as being one group of Caananites that must be eradicated–the violent brutality of this genocide was abhorred in Philadelphia. It prompted Governor John Penn to offer a large reward for the capture of the leaders of the attack, but due to the sympathetic nature of many in the area of the attack, none were ever caught. This isn’t to say that it was popular; as even Benjamin Franklin would write about this attack's villainous nature. The massacre unfolded with two attacks taking place; firstly at Conestoga town and afterwards at a workhouse-turned-refugee-camp. At Conestoga Town, they murdered and scalped the six currently there, then ignited their former homes, leaving it to burn. They then found the remaining refugees in a workhouse, where they would kill many of the remaining. Two children’s heads were split open by a tomahawk, a man was shot in the chest with his hands and legs hacked off, brains spread across the wall. This event unfortunately made it acceptable to attack First Nations people throughout the English colonies. The Paxton Boys continued their hateful actions as a military militia until most of those who remained and joined the Revolutionary War would die at the hands of the Iroquois during the Wyoming Massacre. The people that lived in these communities were not faceless victims recorded in accounts, but real people who had entire worlds of a culture that has been tragically destroyed, but those from the Susquehannock still live on. While many of those living in Conestoga were lost, they are not forgotten. Sheehays and his son Ess-canesh, Wa-a-shen, Tee-Kau-ley, and Kannenquas all were murdered in Conestoga Town. Koweenasee and Kyunqueagoah, also known as Betty and Captain John, and their child Quaachow (Little John) were murdered. Ex-undas, also known as Little Sheehays and Old Sheehay’s son, was murdered. Kanianguas and Tenseedaagua, a married couple, were murdered. Chee-na-wan and Saquies-hat-tah, another married couple, were murdered in cold blood. Shae-e-kah, Tong-quas, Hy-ye-naes, Ko-qoa-e-un-quas, and Canu-kie-sung, all children, were murdered. Karen-do-uah, an infant, was killed by the Paxton Boys after being brought to a refugee camp. Despite both vicious attacks, two Susquehannock inhabitants, Michael and Mary, would both survive.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TG_SUSQUEHANNOCK_HEADING_6">
+			<Text>Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TG_SUSQUEHANNOCK_TEXT_6">
+			<Text>
+				Many of the Susquehannock had decided to leave their lands during the chaos that followed their rise, and they would join a variety of other tribes in order to survive. Many joined other Iroquoian tribes after their defeats, some ended up in some southern tribes, some would join the Mohicans and others to become part of the Stockbridge Indians, some would join British colonists. Nowadays, there are still people left with Susquehannock heritage. Many of them live in other tribes, but very few remain in Pennsylvania. There have been efforts in Pennsylvania to create a reservation for them, but none have succeeded. There is a tribal organization today advocating for the recognition under the name of "The Conestoga-Susquehannock Tribe".
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TG_SUSQUEHANNOCK_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TG_SUSQUEHANNOCK_FACTOID_TEXT">
+			<Text>
+				[ICON_BULLET] The origin of the name for the Susquehannock is unknown, and all of the names we have for them are from others talking about them. Generally these names relate to treachery, such as Minqua(s), or relating to poles, such as Andastoerrhonon, Andastes, and Gandastogues meaning "people of the blackened ridge pole”. Sasquesahanough comes from Algonquian-speaking tribes meaning “people of the muddy river".
+				[NEWLINE][NEWLINE][ICON_BULLET] Their religion was likely similar to other Iroquoian-speaking people, but there are very few remaining sources on the religion of the Susquehannocks.
+				[NEWLINE][NEWLINE][ICON_BULLET] Many location names throughout Pennsylvania are lifted off of various Susquehannock names, such as Loyalsock originating from Lawi-saquick, or the name of the river, the Susquehanna River.
+				[NEWLINE][NEWLINE][ICON_BULLET] John Skenedoah, also known as Shenedoah, is originally from a Susquehannock tribe, and is seen as a prominent figure for many Susquehannock people today.
+				[NEWLINE][NEWLINE][ICON_BULLET] During European contact with the Piscataway tribe, there was the claim of a great king that owned territory from the Susquehannock homelands, to Powhatan lands in Virginia. Validity for these claims are shaky.
+				[NEWLINE][NEWLINE][ICON_BULLET] From many of the sites of the Susquehannock, there is significant evidence of them being avid potters who have a distinct type of pot called Face Pots.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TG_SHEEHAYS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TG_SHEEHAYS_TEXT_1">
+			<Text>
+				The Susquehannock were not one tribe. They were more akin to a confederation: where multiple chiefs would make decisions collectively. Generally chiefs would run their local palisade village. Old Sheehays, the son of Connoodaghtoh, was the last chief, running the village of Conestoga. He was there for multiple treaties between Europeans and indigenous tribes, and negotiated aid to the remaining Susquehannock. He attempted to make the best of what remained of the Susquehannock, and was able to meet with William Penn to create Conestoga Town in 1701. Sheehays had known the English settlers for a long time, and when told the English one day may grow sick of him and kill him, he is quoted as saying: "It is impossible. The English will wrap me in their marchcoat and secure me from all danger." He was killed in the Paxton Boys Massacre, in Conestoga Town, before the murderers moved on to killing others who remained. He lies in Nissley Cemetery in Lancaster, Lancaster County.
+			</Text>
+		</Row>
+
+		<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_TG_SHEEHAYS_FIRSTGREETING">
+			<Text>Welcome to our great river, may I interest you in some of our land's greatest furs?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TG_SHEEHAYS_DEFEATED">
+			<Text>Your wickedness cannot be covered, your guilt will lie on the whole land, till justice is done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TG_SHEEHAYS_GREETING_POLITE_HELLO">
+			<Text>Welcome traveller, what brings you hither?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TG_SHEEHAYS_GREETING_NEUTRAL_HELLO">
+			<Text>Well hurry it up, what do you wish to speak about? I have much to do to protect my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TG_SHEEHAYS_GREETING_HOSTILE_HELLO">
+			<Text>What do you treasonous vermin wish to speak about?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TG_SHEEHAYS_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>I demand for you to put down your arms before I must put you down myself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TG_SHEEHAYS_EXPANSION_SERIOUS_WARNING">
+			<Text>You dare advance into our great lands? Halt your expansion at once!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TG_SHEEHAYS_REQUEST">
+			<Text>While it shames me greatly to ask for assistance, our people request your charity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TG_SHEEHAYS_DECLAREWAR">
+			<Text>You've stood in my way for too long, now it is time for you to learn where the name Minquas comes from!</Text>
+		</Row>
+
+		<!-- City Names -->
+		<!-- These are not all villages, the semisedentary lifestyle of the Susquehannock leaves very little record of most, so some are real locations, some are tribe names, some are archelogical sites, & some are places cities would be build after losing their land. -->
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_0">
+			<Text>Conestoga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_1">
+			<Text>Attaock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_2">
+			<Text>Cepowig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_3">
+			<Text>Oscalui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_4">
+			<Text>Sasquesahanough</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_5">
+			<Text>Lawi-Saquick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_6">
+			<Text>Quadroque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_7">
+			<Text>Tesinigh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_8">
+			<Text>Utochwig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_9">
+			<Text>Wysox</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_10">
+			<Text>Kaiquariegahaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_11">
+			<Text>Ohongeoquena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_12">
+			<Text>Usququhaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_13">
+			<Text>Sconondihago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_14">
+			<Text>Atquanachuke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_15">
+			<Text>Carantouan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_16">
+			<Text>Onojutta-Haga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_17">
+			<Text>Scahentoarrhonon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_18">
+			<Text>Seosquacke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_19">
+			<Text>Takoulguehronon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_20">
+			<Text>Unquehiett</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_21">
+			<Text>Tehaque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_22">
+			<Text>Akwinoshioni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_23">
+			<Text>Tehotitachsae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_24">
+			<Text>Codorus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_25">
+			<Text>Swatara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_26">
+			<Text>Conewago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_27">
+			<Text>Diahoga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_28">
+			<Text>Conococheague</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_29">
+			<Text>Mos’hanna’unk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_30">
+			<Text>Saginaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_31">
+			<Text>Conejohela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_32">
+			<Text>Conowingo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_33">
+			<Text>Chiquesalunga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_34">
+			<Text>Pequea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_35">
+			<Text>Tucquan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TG_SUSQUEHANNOCK_36">
+			<Text>Conodoguinet</Text>
+		</Row>
+		
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_TG_SUSQUEHANNOCK_0">
+			<Text>Sawahegeh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TG_SUSQUEHANNOCK_1">
+			<Text>Aurotaurogh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TG_SUSQUEHANNOCK_2">
+			<Text>Tenseedaagua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TG_SUSQUEHANNOCK_3">
+			<Text>Scarhuhadih</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TG_SUSQUEHANNOCK_4">
+			<Text>Ruthcuhogah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TG_SUSQUEHANNOCK_5">
+			<Text>Wathetdianeh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TG_SUSQUEHANNOCK_6">
+			<Text>Doxtater</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TG_SUSQUEHANNOCK_7">
+			<Text>Kannenquas</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TG_SUSQUEHANNOCK_8">
+			<Text>Skenandoah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TG_SUSQUEHANNOCK_9">
+			<Text>Connuausshay</Text>
+		</Row>
+
+		<!-- Great Minquas Path Promotions, AKA the main way to make dynamic unit strength changes. Check GameDefines for how. -->
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_1">
+			<Text>Trade Route Combat Bonus 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_1_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_NEGATIVE_TEXT]+1%[ENDCOLOR] [ICON_STRENGTH] [COLOR_NEGATIVE_TEXT]bonus combat strength.[ENDCOLOR] This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_2">
+			<Text>Trade Route Combat Bonus 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_2_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_NEGATIVE_TEXT]+2%[ENDCOLOR] [ICON_STRENGTH] [COLOR_NEGATIVE_TEXT]bonus combat strength.[ENDCOLOR] This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_3">
+			<Text>Trade Route Combat Bonus 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_3_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_NEGATIVE_TEXT]+3%[ENDCOLOR] [ICON_STRENGTH] [COLOR_NEGATIVE_TEXT]bonus combat strength.[ENDCOLOR] This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_4">
+			<Text>Trade Route Combat Bonus 4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_4_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_YIELD_FOOD]+4%[ENDCOLOR] [ICON_STRENGTH] [COLOR_YIELD_FOOD]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_5">
+			<Text>Trade Route Combat Bonus 5</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_5_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_YIELD_FOOD]+5%[ENDCOLOR] [ICON_STRENGTH] [COLOR_YIELD_FOOD]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_6">
+			<Text>Trade Route Combat Bonus 6</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_6_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_YIELD_FOOD]+6%[ENDCOLOR] [ICON_STRENGTH] [COLOR_YIELD_FOOD]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_7">
+			<Text>Trade Route Combat Bonus 7</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_7_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_FONT_GREEN]+7%[ENDCOLOR] [ICON_STRENGTH] [COLOR_FONT_GREEN]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_8">
+			<Text>Trade Route Combat Bonus 8</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_8_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_FONT_GREEN]+8%[ENDCOLOR] [ICON_STRENGTH] [COLOR_FONT_GREEN]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_9">
+			<Text>Trade Route Combat Bonus 9</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_9_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_FONT_GREEN]+9%[ENDCOLOR] [ICON_STRENGTH] [COLOR_FONT_GREEN]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_10">
+			<Text>Trade Route Combat Bonus 10</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_10_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_CYAN]+10%[ENDCOLOR] [ICON_STRENGTH] [COLOR_CYAN]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_11">
+			<Text>Trade Route Combat Bonus 11</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_11_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_CYAN]+11%[ENDCOLOR] [ICON_STRENGTH] [COLOR_CYAN]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_12">
+			<Text>Trade Route Combat Bonus 12</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_12_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_CYAN]+12%[ENDCOLOR] [ICON_STRENGTH] [COLOR_CYAN]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_13">
+			<Text>Trade Route Combat Bonus 13</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_13_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_MAGENTA]+13%[ENDCOLOR] [ICON_STRENGTH] [COLOR_MAGENTA]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_14">
+			<Text>Trade Route Combat Bonus 14</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_14_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_MAGENTA]+14%[ENDCOLOR] [ICON_STRENGTH] [COLOR_MAGENTA]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_15">
+			<Text>Trade Route Combat Bonus 15</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_15_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_MAGENTA]+15%[ENDCOLOR] [ICON_STRENGTH] [COLOR_MAGENTA]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_16">
+			<Text>Trade Route Combat Bonus 16</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_16_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_CYAN]+16%[ENDCOLOR] [ICON_STRENGTH] [COLOR_CYAN]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_17">
+			<Text>Trade Route Combat Bonus 17</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_17_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_CYAN]+17%[ENDCOLOR] [ICON_STRENGTH] [COLOR_CYAN]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_18">
+			<Text>Trade Route Combat Bonus 18</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_18_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_CYAN]+18%[ENDCOLOR] [ICON_STRENGTH] [COLOR_CYAN]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_19">
+			<Text>Trade Route Combat Bonus 19</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_19_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_CYAN]+19%[ENDCOLOR] [ICON_STRENGTH] [COLOR_CYAN]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_20">
+			<Text>Trade Route Combat Bonus 20</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_20_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 20%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_CYAN]+20%[ENDCOLOR] [ICON_STRENGTH] [COLOR_CYAN]bonus combat strength[ENDCOLOR]. This will update every turn.  Good work!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_21">
+			<Text>Trade Route Combat Bonus 21</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_21_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to whatever was set). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_MAGENTA]+21%[ENDCOLOR] [ICON_STRENGTH] [COLOR_MAGENTA]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_22">
+			<Text>Trade Route Combat Bonus 22</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_22_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to whatever was set). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_MAGENTA]+22%[ENDCOLOR] [ICON_STRENGTH] [COLOR_MAGENTA]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_23">
+			<Text>Trade Route Combat Bonus 23</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_23_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to whatever was set). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_MAGENTA]+23%[ENDCOLOR] [ICON_STRENGTH] [COLOR_MAGENTA]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_24">
+			<Text>Trade Route Combat Bonus 24</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_24_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to whatever was set). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_MAGENTA]+24%[ENDCOLOR] [ICON_STRENGTH] [COLOR_MAGENTA]bonus combat strength[ENDCOLOR]. This will update every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_25">
+			<Text>Trade Route Combat Bonus 25</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TG_TRADE_ROUTE_PROMOTION_25_HELP">
+			<Text>As the Susquehannock, you gain +1% [ICON_STRENGTH] combat strength for every trade route coming in or out of your empire (up to 25%). You gain an additional +1% [ICON_STRENGTH] combat strength for every three international trade routes. [NEWLINE][NEWLINE]Currently, you wield [COLOR_MAGENTA]+25%[ENDCOLOR] [ICON_STRENGTH] [COLOR_MAGENTA]bonus combat strength[ENDCOLOR]. This will update every turn. Good job! :3</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="fa0a37be-dfd8-4bbd-9b9b-d339058d2d09" version="1">
+  <Properties>
+    <Name>Australian Religions</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds various Australian based religions</Teaser>
+    <Description>Adds various types of Aboriginal Dreamings corresponding to existing mods, as well as a some modern Australian Christian denominations.
+Existing Mods Supported: CL's Murri, Gedemo's Eora, TopHat's Ngarrindjeri, LS's Australia/SSS's Wiradjuri Rework of it, CL's Kulin, CL's Kimberley, CL's Australia (Parkes).
+Note: TopHat's Anangu and all other Commonwealth of Australia mods have their religious preferences unchanged</Description>
+    <Authors>SeroSedSerio</Authors>
+    <SpecialThanks>Tomatekh, Homusubi, and Grant</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="HR Complete" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="HR Original" />
+    <Mod id="6c52be67-b7da-4768-9873-1a9ce5011e8e" minversion="0" maxversion="999" title="HR Christian Denominations" />
+    <Mod id="d60c32bd-6826-4ca3-8161-2e37ebab5883" minversion="0" maxversion="999" title="HR Protestant Denominations" />
+    <Mod id="926eb953-9b50-495b-bcd4-49983788032b" minversion="0" maxversion="999" title="LStralia" />
+    <Mod id="b3b3c21c-b119-49dd-81e3-82c2bed17d6a" minversion="0" maxversion="999" title="Kimberley" />
+    <Mod id="03934433-eafb-4ec5-a481-ed72a16b1990" minversion="0" maxversion="999" title="Australia Parkes" />
+    <Mod id="1c6756f5-6172-4015-9e41-be81f054fe2d" minversion="0" maxversion="999" title="Kulin" />
+    <Mod id="da8df993-1a8a-4696-88fb-f5414013275e" minversion="0" maxversion="999" title="Murri" />
+    <Mod id="abe8d0dd-7c7c-441e-9c39-e26f2d41d5ec" minversion="0" maxversion="999" title="Ngarrindjeri" />
+    <Mod id="64cd288b-6c0d-40f8-86b2-53f058602c6f" minversion="0" maxversion="999" title="Eora" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="0DB94C77B7AF27351B339D57001264AF" import="1">Art/AusRelAtlas128.dds</File>
+    <File md5="2F5FF4DCC09AF0A0C35565795F2BACBF" import="1">Art/AusRelAtlas16.dds</File>
+    <File md5="B062FAF9CA1A43E0466F4F8B99060ABC" import="1">Art/AusRelAtlas214.dds</File>
+    <File md5="F402EA385991D7C84165F1A9D69D9300" import="1">Art/AusRelAtlas24.dds</File>
+    <File md5="C3044B2A4A0C63298324F84ABA5882AA" import="1">Art/AusRelAtlas256.dds</File>
+    <File md5="CDAE81E2DAB31DDA3E62D4A5979DD258" import="1">Art/AusRelAtlas32.dds</File>
+    <File md5="25876A2712B788692E966326C5CECCED" import="1">Art/AusRelAtlas45.dds</File>
+    <File md5="9CB67997AF0DC9719C49331A917AFE07" import="1">Art/AusRelAtlas48.dds</File>
+    <File md5="7DAEBDF5F6E997F3AB9D58E7581D29FD" import="1">Art/AusRelAtlas64.dds</File>
+    <File md5="04ACB6FDECD91ED41F46BB8A25CF1B51" import="1">Art/AusRelAtlas80.dds</File>
+    <File md5="C537F2FC8777E627F2C745A4945CC786" import="1">Art/AusRelFont.dds</File>
+    <File md5="2E84CF0EAAD3139A5D5F5EFC74E4625E" import="1">Art/AusRelFont.ggxml</File>
+    <File md5="B42D2A6D89008DD237BF51371CD37A42" import="0">Core/AusRelCore.sql</File>
+    <File md5="7FDC6A67533B74C930A1E56F7C5D3496" import="0">Core/AusRelText.xml</File>
+    <File md5="8FA9E0E04D4C2AEB7BC345888F43CFBE" import="0">Core/HRIDRemapper.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/AusRelCore.sql</UpdateDatabase>
+      <UpdateDatabase>Core/AusRelText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/HRIDRemapper.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

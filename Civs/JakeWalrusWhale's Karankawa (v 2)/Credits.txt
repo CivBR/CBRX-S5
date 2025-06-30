@@ -1,0 +1,51 @@
+===========================================================================
+== Credits
+===========================================================================
+-- JakeWalrusWhale
+----------------
+Art (Map, Unit Icon, Leader Icon, Building Icon, Resource Icons, Unit Alpha, DoM)
+Code (Database)
+Text (Pedias, Misc)
+Design
+Research
+
+----------------
+-- NopeCopter
+----------------
+Code (Lua)
+
+----------------
+-- RawSasquatch
+----------------
+Art (Leaderscene)
+
+----------------
+-- Zharques
+----------------
+Text (DoM, Diplomacy Responses)
+
+----------------
+-- Arilasqueto
+----------------
+Art (Civ Icon)
+
+----------------
+-- Sukritact
+----------------
+Art (Unit Model)
+
+----------------
+-- Hoop_Thrower
+----------------
+Music Research
+
+----------------
+-- https://karankawas.com, Wikipedia, TSHA
+----------------
+Research + Pedias
+
+----------------
+-- "Karankawa" by Kerry Turner, Darius Wisniewski, Sinfonia Iuventus, and the American Horn Quartet
+----------------
+Audio (Peace Theme)
+Audio (War Theme)

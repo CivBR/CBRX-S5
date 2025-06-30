@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e3da5350-9641-426f-8d72-383a11dd7164" version="1">
+  <Properties>
+    <Name>Rhoze's Chono</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Chono people of southern Chile to the game, under the wily chieftain Martin Olleta.</Teaser>
+    <Description>Adds the Chono people of southern Chile to the game, under the wily chieftain Martin Olleta.</Description>
+    <Authors>Rhoze</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="FDDF7BF2E695C85D9DFC3F047EB7F044" import="1">Art/chonoAlpha24.dds</File>
+    <File md5="A97F1D8CD9C02E631B507AA326BEDE99" import="1">Art/chonoAlpha32.dds</File>
+    <File md5="DEAF6F992E95679341BD1F025F4578FF" import="1">Art/chonoAlpha48.dds</File>
+    <File md5="1ACFD0E21FD4FBBA73BA83DBC9D23FCC" import="1">Art/chonoAlpha64.dds</File>
+    <File md5="5FFAD21688CBBC4B638A7A44402BC6C4" import="1">Art/ChonoAtlas_128.dds</File>
+    <File md5="CEA4EBDE01AAA371143A18C0A4D0FFC0" import="1">Art/ChonoAtlas_256.dds</File>
+    <File md5="877634DB9929FDA440ACED26972E1DDD" import="1">Art/ChonoAtlas_32.dds</File>
+    <File md5="73C6FB031C813CEBE8B5AE428661BB79" import="1">Art/ChonoAtlas_45.dds</File>
+    <File md5="07B5F55F54DC72BF19BDFFAD766473A8" import="1">Art/ChonoAtlas_64.dds</File>
+    <File md5="020A89D9A9C0F604E57C1F837CAE6DEA" import="1">Art/ChonoAtlas_80.dds</File>
+    <File md5="EA88555AC237F49D5149697DD0DF57C2" import="1">Art/ChonoDOM.dds</File>
+    <File md5="2651662E03E87A95190897EEB8935E44" import="1">Art/ChonoMap.dds</File>
+    <File md5="DF73D81A8DFF0E7C6D3A2B6CD6AE5F6C" import="1">Art/Chono_LS.xml</File>
+    <File md5="9312BFD326AF8DD4813CDB3B30D0422D" import="1">Art/DalcaUnitflag32.dds</File>
+    <File md5="8A45FC1AC5F6D54CDF4742126872A68B" import="1">Art/Olleta.dds</File>
+    <File md5="F3C2C4CC98709E55B94C6C78AED7A587" import="1">Art/svDalca.dds</File>
+    <File md5="7A3CFD8A5F7759B61B5AF4A7722B0C14" import="1">Art/svWalt.dds</File>
+    <File md5="37DD72367380D2D205776F3067ECA51F" import="1">Art/WaltUnitflag32.dds</File>
+    <File md5="3C484EA64D2EC96A81C38161C4D04361" import="0">Core/ArtDefines.sql</File>
+    <File md5="06FED6FBBCB008B586B2188854692D3F" import="0">Core/ChonoCore.sql</File>
+    <File md5="0CDDDD9F824346A165F0D65477A4BC68" import="0">Core/GameText.xml</File>
+    <File md5="B6D36C53B880CB938175503D2BAC6718" import="0">Core/ModSupport.sql</File>
+    <File md5="A3C798B1E52DE9CDCDD08431B2DE5B54" import="0">Lua/ChonoFunc.lua</File>
+    <File md5="530C0915BC50AF2CD0A61117533374F0" import="1">Lua/PlotIterators.lua</File>
+    <File md5="B99FB171D1A2478C5DE1DCCAB13B4005" import="1">Sound/ChonoWar.mp3</File>
+    <File md5="305DBD073732AC201E3441875D62BFC0" import="1">Sound/ChonoPeace.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/ChonoCore.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ArtDefines.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/ChonoFunc.lua">
+      <Name>ChonoFunc</Name>
+      <Description>ChonoFunc</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

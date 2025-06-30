@@ -1,0 +1,90 @@
+<GameData>
+<Language_en_US>
+<!-- First Greeting -->
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_FIRSTGREETING_1">
+    <Text>Salutations! You stand in the presence of the Emperor Taizong. Men call me the Son of Heaven; it's something of a meaningless title, but I like it nonetheless.</Text>
+</Row>
+
+<!-- Defeated -->
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_DEFEATED_1">
+    <Text>Pig! You will never be able to replicate that which you have destroyed.</Text>
+</Row>
+
+<!-- Diplomacy: Wars, Denunciatios, and DoF -->
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_ATTACKED_GENERIC_1">
+    <Text>You must be some sort of fool... any learned man can see that you stand no chance against me.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_DEC_FRIENDSHIP_1">
+    <Text>I am willing to make enemies, but I am also willing to forge alliances. What do you say to a public Declaration of Friendship?</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_DENOUNCE_1">
+    <Text>With good men as a mirror, a man can see whether he is right or wrong. It is clear, however, that you have no such men.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_DOW_GENERIC_1">
+    <Text>All barbarians must be subdued. For your own good, I advise you not to resist.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_EXPANSION_SERIOUS_WARNING_1">
+    <Text>A superstitious man would tell you that your expansion would anger Heaven; I think it's sufficient to warn you that it's angering me.</Text>
+</Row>
+
+<!-- Greetings -->
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_GREETING_AT_WAR_HOSTILE_1">
+    <Text>Begone with you! There's a war on, you know, and I won't have you eavesdropping on my chancellors.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_GREETING_POLITE_HELLO_1">
+    <Text>It is always valuable to hear from a trusted friend. What have you come to speak to me about?</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_GREETING_NEUTRAL_HELLO_1">
+    <Text>Right then, let's do business.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_GREETING_HOSTILE_HELLO_1">
+    <Text>Well, this is an unpleasant sight. Let's get this over with.</Text>
+</Row>
+
+<!-- Misc -->
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+    <Text>I have showed admirable restraint about your military posturing thus far, but my patience will only carry me so far. I advise you not to test it further.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_LETS_HEAR_IT_1">
+    <Text>So, show me what goods they produce in your lands! I will take only the finest.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_LOSEWAR_1">
+    <Text>If Wei Zheng were still alive, he would never have let me make such mistakes...</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_LUXURY_TRADE_1">
+    <Text>You bring with you intriguing wares. What might I do to persuade you to part with them?</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_NO_PEACE_1">
+    <Text>I killed my own brothers for this position. You think I'll be more merciful toward you?</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_OPEN_BORDERS_EXCHANGE">
+    <Text>My people long to travel all the world over; I hope you will be gracious enough to grant them that freedom.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_REPEAT_NO_1">
+    <Text>Don't insult me.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_RESPONSE_REQUEST_1">
+    <Text>A righteous emperor can acknowledge when he needs help, and now is one of those times.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_RESPONSE_TO_BEING_DENOUNCED_1">
+    <Text>Well, it's clear that you understand nothing about governance. At least I know I can disregard your words going forward.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_TOO_SOON_NO_PEACE_1">
+    <Text>Wars do not end as easily as you presume. My work is not yet done.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_WINWAR_1">
+    <Text>Well, that's done with. Do not grieve too much - your lands will be wealthy and pacified under my rulership.</Text>
+</Row>
+
+<!--Unique Diplomacy-->
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_TIBET_GREETING_1">
+    <Text>Our people have traded for so long, and yet it's only now I meet you! They tell me you are wise, even for a man of superstition.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_TIBET_DEFEATED_1">
+    <Text>So this is what you think of our alliance! Enjoy your victory while it lasts, scoundrel.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_TAIZONG_TIBET_ATTACKED_1">
+    <Text>...This is because I wouldn't let you marry my daughter, isn't it.</Text>
+</Row>
+</Language_en_US>
+</GameData>

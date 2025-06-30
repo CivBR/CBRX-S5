@@ -27,28 +27,28 @@
   <Files>
     <File md5="373D6E725DE2DDA7763CB3D32D7AA217" import="0">ai.sql</File>
     <File md5="9FEC5A0F2561E5DE14198B013FCC8118" import="0">cities.sql</File>
-    <File md5="3B43715F49890FABB4569E7B7D1A968E" import="0">policies.sql</File>
-    <File md5="129E64F41E85D6E6C28DE7D2F848A9F7" import="0">techs.sql</File>
     <File md5="C3611DC9EE0795075C41728139249915" import="0">gamespeeds.sql</File>
+    <File md5="F0B1BA044988AEF6BB7F178A93FB167E" import="0">improvements.sql</File>
+    <File md5="3B43715F49890FABB4569E7B7D1A968E" import="0">policies.sql</File>
+    <File md5="F3E8937B7A2F2DC590F4499765A4712E" import="1">InGame.lua</File>
     <File md5="B1E92C1DD073C2CF1DA7E55B6837016F" import="0">religion.sql</File>
-    <File md5="F0B1BA044988AEF6BB7F178A93FB167E" import="0">settling.sql</File>
-    <File md5="762228B91EE7AA642A8CB3D03B39D153" import="0">units.sql</File>
     <File md5="628db6b05eea3cdc7ec68e26b92b856c" import="0">scripts.lua</File>
+    <File md5="129E64F41E85D6E6C28DE7D2F848A9F7" import="0">techs.sql</File>
     <File md5="DFD8EAD98AA9775DAB333AAEC551F8F1" import="0">text.xml</File>
     <File md5="F3E8937B7A2F2DC590F4499765A4710D" import="0">totalwar.lua</File>
-    <File md5="F3E8937B7A2F2DC590F4499765A4712E" import="1">InGame.lua</File>
+    <File md5="762228B91EE7AA642A8CB3D03B39D153" import="0">units.sql</File>
   </Files>
   <Actions>
     <OnModActivated>
-      <UpdateDatabase>units.sql</UpdateDatabase>
       <UpdateDatabase>ai.sql</UpdateDatabase>
       <UpdateDatabase>cities.sql</UpdateDatabase>
-      <UpdateDatabase>policies.sql</UpdateDatabase>
-      <UpdateDatabase>techs.sql</UpdateDatabase>
       <UpdateDatabase>gamespeeds.sql</UpdateDatabase>
+      <UpdateDatabase>policies.sql</UpdateDatabase>
+      <UpdateDatabase>improvements.sql</UpdateDatabase>
       <UpdateDatabase>religion.sql</UpdateDatabase>
-      <UpdateDatabase>settling.sql</UpdateDatabase>
+      <UpdateDatabase>techs.sql</UpdateDatabase>
       <UpdateDatabase>text.xml</UpdateDatabase>
+      <UpdateDatabase>units.sql</UpdateDatabase>
     </OnModActivated>
   </Actions>
   <EntryPoints>

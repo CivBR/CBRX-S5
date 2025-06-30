@@ -5,10 +5,10 @@ WHERE
 	Type IN ('POLICY_BRANCH_HONOR', 'POLICY_BRANCH_PIETY');
 
 -- HONOR POLICY CHANGES
---Almost no Barbs in AI Games, just from Revolts
+--Almost no Barbs in AI Games, just from Revoltsa
 UPDATE Policies
 SET
-	BarbarianCombatBonus = 50 -- Increased from 25%
+	BarbarianCombatBonus = 50, -- Increased from 25%
 	CultureFromBarbarianKills = CultureFromBarbarianKills + 50 -- Extra culture per Barbarian kill
 WHERE
 	Type = 'POLICY_HONOR';
@@ -20,14 +20,7 @@ WHERE
 	PolicyType = 'POLICY_WARRIOR_CODE';
 
 INSERT INTO
-	UnitPromotions (
-		Type,
-		Sound,
-		CannotBeChosen,
-		AdjacentMod,
-		PortraitIndex,
-		IconAtlas
-	)
+	UnitPromotions (Type, Sound, CannotBeChosen, AdjacentMod, PortraitIndex, IconAtlas)
 VALUES
 	(
 		'PROMOTION_ADJACENT_BONUS_DISCIPLINE',
@@ -46,10 +39,7 @@ WHERE
 INSERT INTO
 	Policy_FreePromotions (PolicyType, PromotionType)
 VALUES
-	(
-		'POLICY_DISCIPLINE',
-		'PROMOTION_ADJACENT_BONUS_DISCIPLINE'
-	);
+	('POLICY_DISCIPLINE', 'PROMOTION_ADJACENT_BONUS_DISCIPLINE');
 
 UPDATE Policies
 SET

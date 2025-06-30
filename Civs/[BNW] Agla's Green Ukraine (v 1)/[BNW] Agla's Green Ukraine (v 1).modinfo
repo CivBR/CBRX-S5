@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="155dd12c-0c74-49e4-ac73-dd7a9d35e4e7" version="1">
+  <Properties>
+    <Name>[BNW] Agla's Green Ukraine</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds Green Ukraine to the game.</Teaser>
+    <Description>Adds Green Ukraine to the game.</Description>
+    <Authors>Agl</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="0C759F1CED95795CCFBE40C6BD9A963C" import="1">Art/Graphics/Imperial Grenadier/no_gloss.dds</File>
+    <File md5="7E568AA87603F4D47F0FC40966CA1067" import="1">Art/Graphics/Imperial Grenadier/rusgw1.dds</File>
+    <File md5="87F79323FE8B5CEAC88F5F520A91E866" import="1">Art/Graphics/Imperial Grenadier/rusgw1.fxsxml</File>
+    <File md5="F4953C7A0D97EA96AFF641FCC9B78641" import="1">Art/Graphics/Imperial Grenadier/rusgw1.gr2</File>
+    <File md5="FB249433BA3D27E0A2F8B91862BA4A57" import="1">Art/Graphics/Imperial Grenadier/Rus_GWIUpdate.dds</File>
+    <File md5="2B15EB7AE0C3958282D15B661B9D48EF" import="1">Art/Icons/Agla_GreenUa_AlphaAtlas_128.dds</File>
+    <File md5="04D7E12F34532CB9E6C67C7F7344DB78" import="1">Art/Icons/Agla_GreenUa_AlphaAtlas_16.dds</File>
+    <File md5="F4127DEA295471B0AECFFF0AEFAA56CE" import="1">Art/Icons/Agla_GreenUa_AlphaAtlas_22.dds</File>
+    <File md5="0374041DA91575C88029651278D77B2C" import="1">Art/Icons/Agla_GreenUa_AlphaAtlas_24.dds</File>
+    <File md5="8897A16D5510ADEAB01FB897F16BB538" import="1">Art/Icons/Agla_GreenUa_AlphaAtlas_32.dds</File>
+    <File md5="25ED9FA4E39FDA6B0F1C20C5FB927E44" import="1">Art/Icons/Agla_GreenUa_AlphaAtlas_45.dds</File>
+    <File md5="262B35AFE21F2AEDD9CDCE64D7C074D8" import="1">Art/Icons/Agla_GreenUa_AlphaAtlas_48.dds</File>
+    <File md5="674131F8738F6C6FDC9C559706E9F609" import="1">Art/Icons/Agla_GreenUa_AlphaAtlas_64.dds</File>
+    <File md5="0CFAD680497CFEB3F5E3B6ABC4F58C64" import="1">Art/Icons/Agla_GreenUa_AlphaAtlas_80.dds</File>
+    <File md5="AF8B5FDDC3370855C0151D7FE431FF42" import="1">Art/Icons/Agla_GreenUa_IconAtlas_128.dds</File>
+    <File md5="D0A123CC6EEE2289404B2ECC779BCECF" import="1">Art/Icons/Agla_GreenUa_IconAtlas_256.dds</File>
+    <File md5="6ACAB805D6C32E687AB6BEA104BBBF1C" import="1">Art/Icons/Agla_GreenUa_IconAtlas_32.dds</File>
+    <File md5="85A0365BE974A332F3A55EDC6FCE610D" import="1">Art/Icons/Agla_GreenUa_IconAtlas_45.dds</File>
+    <File md5="F2D60BA2FFD4C28AC305EEB0BDACAA03" import="1">Art/Icons/Agla_GreenUa_IconAtlas_64.dds</File>
+    <File md5="0A500EB78C3FF9F8E6997CB5FB078701" import="1">Art/Icons/Agla_GreenUa_IconAtlas_80.dds</File>
+    <File md5="990D201ED3760D23EEB2107EE702DB88" import="1">Art/Icons/Agla_Yesaul_UnitFlagAtlas_32.dds</File>
+    <File md5="990D201ED3760D23EEB2107EE702DB88" import="1">Art/Icons/YesaulSV.dds</File>
+    <File md5="466A6AED2A0C7519DC4A78DED5B2BBD8" import="1">Art/Leaderscene/Agla_Green_Diplo.dds</File>
+    <File md5="B51447BCFE9D54AFF8ED4D398D166B7E" import="1">Art/Leaderscene/Agla_Green_Scene.xml</File>
+    <File md5="AD22B5BB2FDA9DBAF9066F39B81731EF" import="1">Art/Maps/Agla_DOMGreen.dds</File>
+    <File md5="CAD8B470FB5FFA7BC86B9863C49D8828" import="1">Art/Maps/Agla_MapGreen512.dds</File>
+    <File md5="778A942A13B07AE182B84E43471B466A" import="1">Audio/GreenUkraineP.mp3</File>
+    <File md5="89B4F64C93F1105FAF14169FAA0E8751" import="1">Audio/GreenUkraineW.mp3</File>
+    <File md5="CA2ADA4401129BFDA4E854D05ED79885" import="0">Core/Green_GameDefines.sql</File>
+    <File md5="07D00F87C7B2CC42E8BAE9BD7CFE7C74" import="0">Core/GreenUa_ArtDefines.sql</File>
+    <File md5="065686FE796F5A1186CBE0D2A9EE2C44" import="0">Core/GreenUa_GameText.xml</File>
+    <File md5="ECCA48A718BE25799CF51D82E2D0ED4F" import="0">Lua/FriendsintheDistant.lua</File>
+    <File md5="94165B9375FBC373E87FEF72595D9B6C" import="0">Lua/GeneralsreadBookstoo_Functions.lua</File>
+    <File md5="E2A40C168528528BC6F34680C851CC9F" import="0">Lua/UBRemote.lua</File>
+    <File md5="C45F9385B6A162861E47F04C0E026CDC" import="0">Lua/Ukrainiansknowtofarm.lua</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/Utilities/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/Utilities/CultureOverview.xml</File>
+    <File md5="7BD2FBE46D0E789BDFF45CAC065DB4E4" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Green_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GreenUa_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GreenUa_GameText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/UBRemote.lua">
+      <Name>ZB</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Ukrainiansknowtofarm.lua">
+      <Name>a</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/GeneralsreadBookstoo_Functions.lua">
+      <Name>b</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/FriendsintheDistant.lua">
+      <Name>c</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

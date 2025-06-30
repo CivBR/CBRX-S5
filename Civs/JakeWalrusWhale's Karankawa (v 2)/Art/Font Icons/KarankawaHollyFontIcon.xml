@@ -1,0 +1,15 @@
+<GameData>
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_JWW_HOLLY</IconFontTexture>
+			<IconFontTextureFile>KarankawaHollyFontIcon</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
+	<IconFontMapping>
+		<Row>
+			<IconName>ICON_RES_JWW_HOLLY</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_JWW_HOLLY</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+	</IconFontMapping>
+</GameData>

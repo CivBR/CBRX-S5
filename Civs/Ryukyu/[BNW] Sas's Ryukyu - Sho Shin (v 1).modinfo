@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e75924da-068d-4c18-84c8-82148a1f2cf6" version="1">
+  <Properties>
+    <Name>[BNW] Sas's Ryukyu - Sho Shin</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>This mod adds the Ryukyu Kingdom to the game under the leadership of Sho Shin!</Teaser>
+    <Description>This mod adds the Ryukyu Kingdom to the game under the leadership of Sho Shin!</Description>
+    <Authors>Sasquatch (AKA Kramer), PorkBean</Authors>
+    <SpecialThanks>Zharques, DarthKyofu</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="1423200e-b8ce-4eb6-9814-9ed92fb81336" minversion="0" maxversion="999" title="Homusubi's Japanese Religions" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="C7C5E3B341BA7403CA9EA7D78C8A928E" import="1">Art/Atlases/Alpha/SasRyukyuAlpha_128.dds</File>
+    <File md5="29AB29D2A7B3E95EEC69DCEE75A7412F" import="1">Art/Atlases/Alpha/SasRyukyuAlpha_16.dds</File>
+    <File md5="14F09D2EA87C3652E9A1AE2623984AF3" import="1">Art/Atlases/Alpha/SasRyukyuAlpha_24.dds</File>
+    <File md5="8399D17F2EA4EE6FE5E277FC890F7DC0" import="1">Art/Atlases/Alpha/SasRyukyuAlpha_32.dds</File>
+    <File md5="58BE967FEA7DB4E829E0E5DA1AA913D2" import="1">Art/Atlases/Alpha/SasRyukyuAlpha_45.dds</File>
+    <File md5="CEDA686A26521ADFBF5DBFD876FD13AF" import="1">Art/Atlases/Alpha/SasRyukyuAlpha_48.dds</File>
+    <File md5="68D7FE367ED2559FA28E4F87E667767E" import="1">Art/Atlases/Alpha/SasRyukyuAlpha_64.dds</File>
+    <File md5="B835EBAFF5647A4EDF14A23632122B51" import="1">Art/Atlases/Alpha/SasRyukyuAlpha_80.dds</File>
+    <File md5="8CC33141C061B9E14D0F0677BE3BA4ED" import="1">Art/Atlases/SasRyukyuIcons128.dds</File>
+    <File md5="73BCBF858D881426DA584C4DD5179059" import="1">Art/Atlases/SasRyukyuIcons256.dds</File>
+    <File md5="C8EBB0608ACA7473FAD8F127F33A793D" import="1">Art/Atlases/SasRyukyuIcons32.dds</File>
+    <File md5="20D8ED16190BF3E81FD8D2E6C8E6CE03" import="1">Art/Atlases/SasRyukyuIcons45.dds</File>
+    <File md5="A6956BCE2D20EFCD386AFDFC8A69D73A" import="1">Art/Atlases/SasRyukyuIcons64.dds</File>
+    <File md5="B4CB9844959BE6284839020184EB1BCA" import="1">Art/Atlases/SasRyukyuIcons80.dds</File>
+    <File md5="86F19AFDE42330FE82696552163CFC6E" import="1">Art/Models/Chinkunshin.fxsxml</File>
+    <File md5="E91510668480FCED13188FB3489907D2" import="1">Art/Models/Chinkunshin.gr2</File>
+    <File md5="A37426BEADFF27A43754BE32FBBD4C1C" import="1">Art/Models/Chinkunshin_diff.dds</File>
+    <File md5="ED89CD07D76F15A931B90693BA8143B2" import="1">Art/Models/Chinkunshin_sref.dds</File>
+    <File md5="D1259DD392057725D3C5985E9221A75F" import="1">Art/Models/Gusuku/Gusuku.dds</File>
+    <File md5="2C10A9F672C9525B3958E8F92DA0B275" import="1">Art/Models/Gusuku/Gusuku.fxsxml</File>
+    <File md5="F4BA18FA43A9752F67D510B136481458" import="1">Art/Models/Gusuku/Gusuku.gr2</File>
+    <File md5="2C10A9F672C9525B3958E8F92DA0B275" import="1">Art/Models/Gusuku/Gusuku_hb.fxsxml</File>
+    <File md5="EAE06CC222118E6CC0F0242713F2CDB5" import="1">Art/Models/Gusuku/Gusuku_pl.fxsxml</File>
+    <File md5="80CF1BB66D7B6282E4143258FC8134F3" import="1">Art/Models/Gusuku/Gusuku_SREF.dds</File>
+    <File md5="2B045FFC8672039C75FF746D71D095D3" import="1">Art/Models/Gusuku/Gusuku_Flag45.dds</File>
+    <File md5="4C13F3BABE0D6A68A96951F42423C8E5" import="1">Art/Models/Gusuku/Gusuku_Flag64.dds</File>
+    <File md5="B583AD6A5498F192565B6BBC3E1EBEDB" import="1">Art/Models/Sas_Yukatchu.dds</File>
+    <File md5="0BB83604ADB8FF9AFFE74ACA8D5ABF17" import="1">Art/Models/Sas_Yukatchu.fxsxml</File>
+    <File md5="7069059B101C170918BE8D4FBE21F432" import="1">Art/Models/Sas_Yukatchu.gr2</File>
+    <File md5="9A3085FDE93DF3AA1014A37EC6A11ED1" import="1">Art/Models/Sas_Yukatchu_gloss.dds</File>
+    <File md5="525E15BA600865A9A686B6A3076AD2C9" import="1">Art/SasChinkunshinFlag.dds</File>
+    <File md5="F8FD4E7455216584C0B2BBEB16F48C5B" import="1">Art/SasRyukyu412.dds</File>
+    <File md5="35D899F1DF83370D78C0AEB47E196882" import="1">Art/SasYukatchuFlag.dds</File>
+    <File md5="FF776BBB703CD502F33B0B85E1EB545E" import="1">Art/Sas_ShoShin_DOM.dds</File>
+    <File md5="A29487135F0C7F3E7F9E31C3442C61B5" import="1">Art/Sas_ShoShin_Scene.dds</File>
+    <File md5="E30FD4A7031E5729AE99A35EE0372789" import="1">Art/SV_SasGusuku.dds</File>
+    <File md5="19E460B45D7360E069D25F0F33F08D3B" import="1">Art/SV_SasChinkunshin.dds</File>
+    <File md5="4E648058BE4C7ED74FAC223CC477926F" import="1">Art/SV_SasYukatchu.dds</File>
+    <File md5="D957400EFE50A6A5F08BA5D0E2C5779B" import="0">Core/SasRyukyuArtDefs.sql</File>
+    <File md5="84C44B1F28B790DD72FE4E32C048D097" import="0">Core/SasRyukyuCore.sql</File>
+    <File md5="1C228A4560905229C81F81CCAC0F5CD6" import="0">Core/SasRyukyuModSupport.sql</File>
+    <File md5="1F508E53FD11AE44A6F51EE8B5785A4E" import="0">Core/SasRyukyuText.xml</File>
+    <File md5="BB4D6E6294A6AB64E9E2E71A996BC254" import="1">Core/Sas_ShoShin_Scene.xml</File>
+    <File md5="73F699A3FFF220A3704F9490089C45B1" import="1">Lua/C15_IteratorPack_v4.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/PlotIterators.lua</File>
+    <File md5="0E1AEE1FFD0764434BCBEE9B32774403" import="1">Lua/RyukyuFunctions.xml</File>
+    <File md5="E51BF4469E4483634998CFEE54CA20EF" import="0">Lua/RyukyuFunctions.lua</File>
+    <File md5="31743BC0A1CBAF996320F7490F4C0A85" import="1">Sound/Sas_ShoShin_Peace.mp3</File>
+    <File md5="EF69C8C836D60057D1E151DEF4B3523B" import="1">Sound/Sas_ShoShin_War.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Sas_ShoShin_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Core/SasRyukyuArtDefs.sql</UpdateDatabase>
+      <UpdateDatabase>Core/SasRyukyuCore.sql</UpdateDatabase>
+      <UpdateDatabase>Core/SasRyukyuModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/SasRyukyuText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/RyukyuFunctions.lua">
+      <Name>RyukyuFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

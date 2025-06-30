@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="9f81f36e-622f-4308-b6fe-7ddaa928889e" version="1">
+  <Properties>
+    <Name>Zharques' Teotihuacan</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds Teotihuacan under Spearthrower Owl to the game! Replaces Brave New World.</Teaser>
+    <Description>Adds Teotihuacan under Spearthrower Owl to the game! Replaces Brave New World.</Description>
+    <Authors>Zharques</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Rise to Power" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="9C40F2EA78898A56F59FE4E23C0B1F6E" import="1">Art/DogFlag32.dds</File>
+    <File md5="900484C10B1F870F0E88FD841A79DBD8" import="1">Art/DogFlagSV.dds</File>
+    <File md5="9759AAF43C5581625EE266A6CEA58458" import="1">Art/TeotihuacanMap.dds</File>
+    <File md5="83D6E7E3F8CCE385B8922DA8BB8AF362" import="1">Art/ZRQ_ObsidianFontIcon_22.dds</File>
+    <File md5="8DAA519039C6EFB71952E9A80589DFAB" import="1">Art/SpearthrowerOwl.dds</File>
+    <File md5="1157373AF3C2F4ECB0C968D1B76C295B" import="1">Art/TeoDoM.dds</File>
+    <File md5="E12A695BE6FF4584C840306293C2559F" import="1">Art/TeotihuacanAlpha_128.dds</File>
+    <File md5="79ECA506894981E0AF7796450CCF7B9C" import="1">Art/TeotihuacanAlpha_24.dds</File>
+    <File md5="9788590305FF7CA9B6F538EE139FF20D" import="1">Art/TeotihuacanAlpha_256.dds</File>
+    <File md5="AFDDE535E267C2BF81C754B69B39716F" import="1">Art/TeotihuacanAlpha_32.dds</File>
+    <File md5="A6C81177E0ABDFF420E8946ACA2291F1" import="1">Art/TeotihuacanAlpha_48.dds</File>
+    <File md5="3D78A3B777266212A9B972E20CB0F4B6" import="1">Art/TeotihuacanAlpha_64.dds</File>
+    <File md5="53E9D097939B2326C1E29BBB1781AFB9" import="1">Art/TeotihuacanAtlas_128.dds</File>
+    <File md5="841CA82416469075313571260D7C4322" import="1">Art/TeotihuacanAtlas_256.dds</File>
+    <File md5="B42FB11064FDA5DCC51AFB0CFA9155AC" import="1">Art/TeotihuacanAtlas_32.dds</File>
+    <File md5="2ABEE8CD911C3BB0D28CB149C96670F1" import="1">Art/TeotihuacanAtlas_45.dds</File>
+    <File md5="1752C639B9EFA8C8AB7B48FA502596C5" import="1">Art/TeotihuacanAtlas_64.dds</File>
+    <File md5="F8955F2208572312307B93BA5A586BFE" import="1">Art/TeotihuacanAtlas_80.dds</File>
+    <File md5="DE7174A2C2FAC4D5AF7965F28D852813" import="1">Art/ZRQ_ObsidianFontIcon_22.ggxml</File>
+    <File md5="725F3F439482E98976918E41D652E4F6" import="1">Audio/Teotihuacan_Peace.mp3</File>
+    <File md5="F891C782CE1DF19DF91E1C408F088D2E" import="1">Audio/Teotihuacan_War.mp3</File>
+    <File md5="FC000756D1B7F0E6D9876407741B01F1" import="0">Core/ArtDefs.sql</File>
+    <File md5="9D95D4D409ED6C1EB2A48933A5A2A90B" import="0">Core/DiploText.xml</File>
+    <File md5="92721159055878EC7AF5E3C30CDC27C4" import="0">Core/GameDefs.sql</File>
+    <File md5="903C7C3F25A4007A1AFCC1A614D48350" import="0">Core/GameText.xml</File>
+    <File md5="2501A80027605F467D87A05296053EB2" import="1">Core/Leaderhead_SpearOwl.xml</File>
+    <File md5="9032AB1F3985693E84ED986BDE01E4B5" import="0">Core/ModSupport.sql</File>
+    <File md5="21FDCD4D8DB7D2C085886C10513B0844" import="0">Credits.txt</File>
+    <File md5="66EDB889020F36E6D5517ED7F3BFBBB0" import="0">Lua/TeotihuacanFunctions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/GameDefs.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ArtDefs.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DiploText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/TeotihuacanFunctions.lua">
+      <Name>TeotihuacanFunctions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

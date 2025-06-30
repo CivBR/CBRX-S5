@@ -1,6 +1,7 @@
 -- Released under GPL v3
 --------------------------------------------------------------
 include("IGE_API_All");
+include("JFD_IGE_Utils.lua");
 print("IGE_Window");
 
 IGE = nil;
@@ -39,7 +40,6 @@ function OnInitialize()
 		Controls.AutoSave:SetHide(true);
 	end
 end
-
 LuaEvents.IGE_Initialize.Add(OnInitialize);
 
 -------------------------------------------------------------------------------------------------
@@ -50,7 +50,7 @@ end
 -------------------------------------------------------------------------------------------------
 local function SetBusy(flag, loading)
 	busy = flag;
-	UI.SetBusy(flag); --[[
+	UI.SetBusy(flag);--[[
 	Controls.MainButton:SetDisabled(busy);
 	UIManager:SetUICursor(busy and 1 or 0);]]
 end
@@ -83,7 +83,7 @@ local function OpenCore()
 	ClosePopups();
 	UI.SetInterfaceMode(InterfaceModeTypes.INTERFACEMODE_SELECTION);
 	print("OpenCore - step1");
-	Events.SystemUpdateUI.CallImmediate(SystemUpdateUIType.BulkHideUI);
+    Events.SystemUpdateUI.CallImmediate(SystemUpdateUIType.BulkHideUI);
 	Events.SerialEventMouseOverHex.Add(OnMouseMoveOverHex);
 	print("OpenCore - step2");
 	Events.CameraViewChanged.Add(UpdateMouse);
@@ -101,9 +101,8 @@ local function OnInitializationError(err)
 	err = FormatError(err, 1);
 
 	-- Show popup to user
-	local str = L("TXT_KEY_IGE_LOADING_ERROR") .. "[NEWLINE][ICON_PIRATE] " .. err;
-	Events.SerialEventGameMessagePopup({ Type = ButtonPopupTypes.BUTTONPOPUP_TEXT, Data1 = 800, Option1 = true, Text =
-	str });
+	local str = L("TXT_KEY_IGE_LOADING_ERROR").."[NEWLINE][ICON_PIRATE] "..err;
+	Events.SerialEventGameMessagePopup( { Type = ButtonPopupTypes.BUTTONPOPUP_TEXT, Data1 = 800, Option1 = true, Text = str } );
 
 	-- Restore things up
 	Events.SystemUpdateUI.CallImmediate(SystemUpdateUIType.BulkShowUI);
@@ -122,8 +121,7 @@ local function Open()
 		LuaEvents.IGE_PingAllVersions(pingData);
 		if (pingData.count > 1) then
 			local str = L("TXT_KEY_IGE_MORE_THAN_ONE_VERSION_ERROR");
-			Events.SerialEventGameMessagePopup({ Type = ButtonPopupTypes.BUTTONPOPUP_TEXT, Data1 = 800, Option1 = true, Text =
-			str });
+			Events.SerialEventGameMessagePopup( { Type = ButtonPopupTypes.BUTTONPOPUP_TEXT, Data1 = 800, Option1 = true, Text = str } );
 			SetBusy(false);
 			return;
 		end
@@ -202,6 +200,38 @@ Events.SearchForPediaEntry.Add(CloseAndKeepUIHidden);
 Events.GoToPediaHomePage.Add(CloseAndKeepUIHidden);
 
 
+-------------------------------------------------------------------------------------------------
+--JFD
+-------------------------------------------------------------------------------------------------
+local function OnShowHideMainButton()
+	print("OnShowHideMainButton()", OnShowHideMainButton())
+	if Controls.MainButton:IsHidden() then
+		Controls.MainButton:SetHide(false)
+	else
+		Controls.MainButton:SetHide(true)
+	end	
+end
+LuaEvents.IGE_ShowHideMainButton.Add(OnShowHideMainButton);
+if Game.IsAIObserverActive() then
+	Controls.MainButton:SetHide(true)
+end
+
+local function OnGetOffsetXYForMainButton()
+	print(Controls.MainButton:GetOffsetVal())
+end
+LuaEvents.IGE_GetOffsetXYForMainButton.Add(OnGetOffsetXYForMainButton);
+
+local function OnSetOffsetXYForMainButton(numX, numY)
+	if numX and numY then
+		Controls.MainButton:SetOffsetVal(numX, numY)
+	elseif numX then
+		Controls.MainButton:SetOffsetX(numX)
+	elseif numY then
+		Controls.MainButton:SetOffsetY(numY)
+	end
+end
+LuaEvents.IGE_SetOffsetXYForMainButton.Add(OnSetOffsetXYForMainButton);
+
 --===============================================================================================
 -- MOUSE HOVER
 --===============================================================================================
@@ -214,7 +244,6 @@ function SetCurrentPlot(plot)
 	LuaEvents.IGE_SelectedPlot(plot);
 	LuaEvents.IGE_Update();
 end
-
 LuaEvents.IGE_SetCurrentPlot.Add(SetCurrentPlot)
 
 -------------------------------------------------------------------------------------------------
@@ -252,17 +281,20 @@ function UpdateMouse(mouseOver, gridX, gridY)
 				LuaEvents.IGE_PaintPlot(2, plot, shift);
 			end
 		end
+
 	elseif mouseMode == IGE_MODE_PLOP then
 		if plot then
 			local color = rightButtonDown and Vector4(1, 0, 0, 1) or Vector4(0, 1, 0, 1);
 			HighlightPlot(plot, color);
 		end
+
 	elseif mouseMode == IGE_MODE_EDIT_AND_PLOP then
 		if currentPlot then
 			local rightClickCurrentPlot = (rightButtonDown and plot == currentPlot);
 			local color = rightClickCurrentPlot and Vector4(0, 1, 0, 1) or Vector4(1, 0, 0, 1);
 			HighlightPlot(currentPlot, color);
 		end
+
 	elseif mouseMode == IGE_MODE_EDIT then
 		if currentPlot then
 			HighlightPlot(currentPlot, Vector4(1, 0, 0, 1));
@@ -291,7 +323,6 @@ function OnBackgroundMouseEnter()
 		UpdateMouse(true);
 	end
 end
-
 Controls.Background:RegisterCallback(Mouse.eMouseEnter, OnBackgroundMouseEnter);
 
 -------------------------------------------------------------------------------------------------
@@ -303,7 +334,6 @@ function OnBackgroundMouseExit()
 		UpdateMouse(false);
 	end
 end
-
 Controls.Background:RegisterCallback(Mouse.eMouseExit, OnBackgroundMouseExit);
 
 -------------------------------------------------------------------------------------------------
@@ -328,7 +358,6 @@ function SetMouseMode(mode)
 	UpdateCursor();
 	UpdateMouse();
 end
-
 LuaEvents.IGE_SetMouseMode.Add(SetMouseMode);
 
 -------------------------------------------------------------------------------------------------
@@ -341,7 +370,6 @@ function OnFlashPlot(plot)
 		UpdateMouse();
 	end);
 end
-
 LuaEvents.IGE_FlashPlot.Add(OnFlashPlot);
 
 
@@ -430,7 +458,7 @@ function InputHandler(uiMsg, wParam, lParam)
 				return true;
 			end
 
-			-- Shortcuts
+		-- Shortcuts
 		elseif uiMsg == KeyEvents.KeyDown then
 			if ProcessShortcuts(wParam) then
 				UpdateMouse();
@@ -449,7 +477,6 @@ function InputHandler(uiMsg, wParam, lParam)
 
 	return false;
 end
-
 ContextPtr:SetInputHandler(InputHandler);
 
 -------------------------------------------------------------------------------------------------
@@ -517,6 +544,7 @@ function ProcessShortcuts(key)
 	end
 end
 
+
 --===============================================================================================
 -- OPTIONS AND CONTROLS
 --===============================================================================================
@@ -528,8 +556,8 @@ function OnUpdatedOptions(IGE)
 	Controls.CleanUpFiles:SetCheck(IGE.cleanUpFiles);
 	Controls.ShowYields:SetCheck(IGE.showYields);
 	Controls.SafeMode:SetCheck(IGE.safeMode);
-end
 
+end
 LuaEvents.IGE_UpdatedOptions.Add(OnUpdatedOptions);
 
 -------------------------------------------------------------------------------------------------
@@ -561,25 +589,50 @@ Controls.ToggleTotalWarCheckbox:RegisterCheckHandler(OnOptionControlChanged);
 
 -------------------------------------------------------------------------------------------------
 local totalWarEnabled = false
+function InitTotalWarStatus()
+	for teamID, team in pairs(Teams) do
+		if team:IsAlive() then
+			for otherTeamID, otherTeam in pairs(Teams) do
+				if team:IsPermanentWarPeace(otherTeam) then
+					totalWarEnabled = true
+					break
+				end
+			end
+		end
+	end
+	if totalWarEnabled then
+		Controls.ToggleTotalWarButton:SetTextureOffsetVal(200,40)
+		Controls.ToggleTotalWarButtonMO:SetTextureOffsetVal(200,0)
+		Controls.ToggleTotalWarButton:SetToolTipString("Toggle Total War Scripts [COLOR_NEGATIVE_TEXT]([ICON_WAR] ACTIVE)[ENDCOLOR]")
+	else
+		Controls.ToggleTotalWarButton:SetTextureOffsetVal(200,0)
+		Controls.ToggleTotalWarButtonMO:SetTextureOffsetVal(200,40)
+		Controls.ToggleTotalWarButton:SetToolTipString("Toggle Total War Scripts [COLOR_POSITIVE_TEXT]([ICON_FLOWER] INACTIVE)[ENDCOLOR]")
+	end
+end
+Events.SequenceGameInitComplete.Add(InitTotalWarStatus)
 
 function ToggleTotalWarScripts()
 	totalWarEnabled = not totalWarEnabled
 	if totalWarEnabled then
 		LuaEvents.EnableTotalWarScripts()
 		print("Total War scripts enabled")
+		Controls.ToggleTotalWarButton:SetTextureOffsetVal(200,40)
+		Controls.ToggleTotalWarButtonMO:SetTextureOffsetVal(200,0)
+		Controls.ToggleTotalWarButton:SetToolTipString("Toggle Total War Scripts [COLOR_NEGATIVE_TEXT]([ICON_WAR] ACTIVE)[ENDCOLOR]")
 	else
 		LuaEvents.DisableTotalWarScripts()
 		print("Total War scripts disabled")
+		Controls.ToggleTotalWarButton:SetTextureOffsetVal(200,0)
+		Controls.ToggleTotalWarButtonMO:SetTextureOffsetVal(200,40)
+		Controls.ToggleTotalWarButton:SetToolTipString("Toggle Total War Scripts [COLOR_POSITIVE_TEXT]([ICON_FLOWER] INACTIVE)[ENDCOLOR]")
 	end
 end
-
 Controls.ToggleTotalWarButton:RegisterCallback(Mouse.eLClick, ToggleTotalWarScripts)
-
 -------------------------------------------------------------------------------------------------
 function OnSaveButtonClick()
 	SaveFile(IGE.cleanUpFiles);
 end
-
 Controls.SaveButton:RegisterCallback(Mouse.eLClick, OnSaveButtonClick);
 
 -------------------------------------------------------------------------------------------------
@@ -593,7 +646,6 @@ function OnReloadButtonClick()
 		LoadFile(fileName);
 	end);
 end
-
 Controls.ReloadButton:RegisterCallback(Mouse.eLClick, OnReloadButtonClick);
 
 -------------------------------------------------------------------------------------------------
@@ -617,7 +669,6 @@ function OnUpdateUI()
 	Controls.RevealMapButton:SetHide(notHuman or IGE.revealMap);
 	Controls.IGECameraButton:SetHide(notHuman)
 end
-
 LuaEvents.IGE_Update.Add(OnUpdateUI)
 LuaEvents.IGE_ToggleRevealMap.Add(OnUpdateUI);
 
@@ -646,12 +697,8 @@ function Toggle()
 		Open();
 	end
 end
-
 Controls.MainButton:RegisterCallback(Mouse.eLClick, Toggle);
-
-LuaEvents.IGE_Toggle.Add(function()
-	Toggle()
-end)
+LuaEvents.IGE_Toggle.Add(Toggle)
 
 -------------------------------------------------------------------------------------------------
 local TOP    = 0;
@@ -660,43 +707,44 @@ local LEFT   = 2;
 local RIGHT  = 3;
 
 local function ScrollMouseEnter(which)
-	if which == TOP then
+    if which == TOP then
 		Events.SerialEventCameraStartMovingForward();
-	elseif which == BOTTOM then
+    elseif which == BOTTOM then
 		Events.SerialEventCameraStartMovingBack();
-	elseif which == LEFT then
+    elseif which == LEFT then
 		Events.SerialEventCameraStartMovingLeft();
-	else
+    else
 		Events.SerialEventCameraStartMovingRight();
-	end
+    end
 end
 
 local function ScrollMouseExit(which)
-	if which == TOP then
+    if which == TOP then
 		Events.SerialEventCameraStopMovingForward();
-	elseif which == BOTTOM then
+    elseif which == BOTTOM then
 		Events.SerialEventCameraStopMovingBack();
-	elseif which == LEFT then
+    elseif which == LEFT then
 		Events.SerialEventCameraStopMovingLeft();
-	else
+    else
 		Events.SerialEventCameraStopMovingRight();
-	end
+    end
 end
-Controls.ScrollTop:RegisterCallback(Mouse.eMouseEnter, ScrollMouseEnter);
-Controls.ScrollTop:RegisterCallback(Mouse.eMouseExit, ScrollMouseExit);
+Controls.ScrollTop:RegisterCallback( Mouse.eMouseEnter, ScrollMouseEnter);
+Controls.ScrollTop:RegisterCallback( Mouse.eMouseExit, ScrollMouseExit);
 Controls.ScrollTop:SetVoid1(TOP);
 
-Controls.ScrollBottom:RegisterCallback(Mouse.eMouseEnter, ScrollMouseEnter);
-Controls.ScrollBottom:RegisterCallback(Mouse.eMouseExit, ScrollMouseExit);
+Controls.ScrollBottom:RegisterCallback( Mouse.eMouseEnter, ScrollMouseEnter);
+Controls.ScrollBottom:RegisterCallback( Mouse.eMouseExit, ScrollMouseExit);
 Controls.ScrollBottom:SetVoid1(BOTTOM);
 
-Controls.ScrollLeft:RegisterCallback(Mouse.eMouseEnter, ScrollMouseEnter);
-Controls.ScrollLeft:RegisterCallback(Mouse.eMouseExit, ScrollMouseExit);
+Controls.ScrollLeft:RegisterCallback( Mouse.eMouseEnter, ScrollMouseEnter);
+Controls.ScrollLeft:RegisterCallback( Mouse.eMouseExit, ScrollMouseExit);
 Controls.ScrollLeft:SetVoid1(LEFT);
 
-Controls.ScrollRight:RegisterCallback(Mouse.eMouseEnter, ScrollMouseEnter);
-Controls.ScrollRight:RegisterCallback(Mouse.eMouseExit, ScrollMouseExit);
+Controls.ScrollRight:RegisterCallback( Mouse.eMouseEnter, ScrollMouseEnter);
+Controls.ScrollRight:RegisterCallback( Mouse.eMouseExit, ScrollMouseExit);
 Controls.ScrollRight:SetVoid1(RIGHT);
 
 LuaEvents.IGE_ShareGlobalAndOptions();
 print("IGE loaded");
+

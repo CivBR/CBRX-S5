@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="89db5c29-cb70-4919-b6a9-ea84077d557f" version="1">
+  <Properties>
+    <Name>[BNW] Agla's The Hanseatic League</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Hanseatic League to your game.</Teaser>
+    <Description>Adds the Hanseatic League to your game.</Description>
+    <Authors>Old Spice</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="58CFEA66EE0E62762C1A7885052DE9B6" import="1">Art/Graphics/Carabinier Guard/euro_galleon.fxsxml</File>
+    <File md5="F2984B0F0671E53DBF84E966A4943DA1" import="1">Art/Graphics/Carabinier Guard/euro_galleon.gr2</File>
+    <File md5="5DB61FFD7FBDDF2B2B061C763A2BE494" import="1">Art/Graphics/Carabinier Guard/euro_galleon_diff.dds</File>
+    <File md5="D3534A8081B6D84CA6FEF44CBBE53351" import="1">Art/Graphics/Carabinier Guard/galleon_sref.dds</File>
+    <File md5="0441394E13FD1C89942A6554A2E3058E" import="1">Art/Icons/AGLA_HANSE_IconAtlas_128.dds</File>
+    <File md5="8A2FEE3D0E905805A196AA91CF255077" import="1">Art/Icons/AGLA_HANSE_IconAtlas_256.dds</File>
+    <File md5="FB3083C352DCA1CF76A2506F0D0A08DA" import="1">Art/Icons/AGLA_HANSE_IconAtlas_32.dds</File>
+    <File md5="61E65024135532927C88B812FB468BA4" import="1">Art/Icons/AGLA_HANSE_IconAtlas_45.dds</File>
+    <File md5="80B882E8B37218A6317DA0940067E147" import="1">Art/Icons/AGLA_HANSE_IconAtlas_64.dds</File>
+    <File md5="CB8DD5DD93C3E825B54B29B223814B1C" import="1">Art/Icons/AGLA_HANSE_IconAtlas_80.dds</File>
+    <File md5="C0543A887513BE05CCD77B1C35C5C56A" import="1">Art/Icons/Hanse_AlphaAtlas_128.dds</File>
+    <File md5="8EA9DFC7E572620F96C1034EA8D88E02" import="1">Art/Icons/Hanse_AlphaAtlas_16.dds</File>
+    <File md5="B3931AD13C9CCA5C78C7451529C1652E" import="1">Art/Icons/Hanse_AlphaAtlas_22.dds</File>
+    <File md5="BCF4FBA1E5C8927FAEED3A9088CBCD66" import="1">Art/Icons/Hanse_AlphaAtlas_24.dds</File>
+    <File md5="EC06DFF69731205381D3DD3145215957" import="1">Art/Icons/Hanse_AlphaAtlas_32.dds</File>
+    <File md5="C00AF745750DF07EABECFD68B8359CD2" import="1">Art/Icons/Hanse_AlphaAtlas_45.dds</File>
+    <File md5="4355AFB63BDD8DF60B2EBBAA9DB0BB39" import="1">Art/Icons/Hanse_AlphaAtlas_48.dds</File>
+    <File md5="052AFA48975A010E3B645C4ED1D8C60A" import="1">Art/Icons/Hanse_AlphaAtlas_64.dds</File>
+    <File md5="D941184F9DF18C05B5160451E8495F19" import="1">Art/Icons/Hanse_AlphaAtlas_80.dds</File>
+    <File md5="55CD51BB96CA97D2947D544077EC71D9" import="1">Art/Icons/Cog_UnitFlagAtlas_32.dds</File>
+    <File md5="4E730EDB42A46E83B870E70EE1DBA0AB" import="1">Art/Leaderscene/AGLA_HANSE_Scene.xml</File>
+    <File md5="16833D5E910A38DA76343A135546DAA2" import="1">Art/Leaderscene/HANSE_LS.dds</File>
+    <File md5="554068E59D30BF0812A4DE42171E63D9" import="1">Art/Maps/AGLA_HANSEMap.dds</File>
+    <File md5="47C036393B3E9CF48E354CB7973B5B32" import="1">Art/Maps/AGLA_HANSE_DOM.dds</File>
+    <File md5="B4673B745C78CD80A289E994D13F9D41" import="1">Audio/HanseWar.mp3</File>
+    <File md5="86049FFEB1003C09483AEB8400F21196" import="1">Audio/HansePeace.mp3</File>
+    <File md5="5E5784C403D58EC2DEA8E5181A9471E9" import="1">Audio/TrueBismarck_Peace.mp3</File>
+    <File md5="4689ED03B6CBF741FECCD2D85C88113B" import="1">Audio/TrueBismarck_War.mp3</File>
+    <File md5="C5485486EA0B8BD962C34837771B4438" import="0">Core/Hanse_GameDefines.sql</File>
+    <File md5="749B5176A834C04CF8A775E6E28780BD" import="0">Core/Hanse_GameText.xml</File>
+    <File md5="63908E49142FFD2EE13E998BD4677667" import="0">Core/Lua/AlgaHanse (1).lua</File>
+    <File md5="F876E719D884470AD7FE3AC979A3E033" import="0">Core/Lua/NoOceanForCog_Functions.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Core/Lua/Tools/PlotIterators.lua</File>
+    <File md5="86CF2CD60C6D7FCD81833EF8C86C4BB9" import="0">Core/Lua/Transfer_Functions.lua</File>
+    <File md5="22E62F1A1512FF100F4FB3A53C382BE5" import="0">Core/Lua/UAPerTurn_Functions.lua</File>
+    <File md5="87890F25DB744A88F95DD6E1B9F20A43" import="1">Core/Lua/Tools/C15_IteratorPack_v3.lua</File>
+    <File md5="24FF3A02C8DC357BB571D74C1F4818B1" import="0">Core/Hanse_ArtDefines.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Hanse_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Hanse_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Hanse_GameDefines.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/Lua/AlgaHanse (1).lua">
+      <Name>UA2</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/Lua/UAPerTurn_Functions.lua">
+      <Name>UA1</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/Lua/Transfer_Functions.lua">
+      <Name>UU</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/Lua/NoOceanForCog_Functions.lua">
+      <Name>UU2</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

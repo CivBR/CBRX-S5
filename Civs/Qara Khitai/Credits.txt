@@ -1,0 +1,35 @@
+===========================================================================
+== Credits
+===========================================================================
+-- JakeWalrusWhale
+----------------
+Art (Map; UU, UGP Icons; Unit Alphas)
+Code
+Text (Diplomacy Responses; City List; Spy Names; Shaojian Pedia)
+Design
+Research
+
+----------------
+-- Arilasqueto
+----------------
+Art (Leaderscene; Leader Icon)
+
+----------------
+-- EmeraldRange
+----------------
+Art (Civ Icon; Unit Models)
+
+----------------
+-- Zharques
+----------------
+Text (DoM; Ordo Calvaryman, Civ, and Leader Pedias)
+
+----------------
+-- Age of Empires 4 - Mongols Theme
+----------------
+Music (Peace Theme)
+
+----------------
+-- Age of Empires 4 - Feudal Age Combat
+----------------
+Music (War Theme)

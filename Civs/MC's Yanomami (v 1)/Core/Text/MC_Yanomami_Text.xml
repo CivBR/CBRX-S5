@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!--=============================================================-->
+		<!-- Unique Unit 1 - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_UNIT_MC_YANOMAMI_DARTBLOWER">
+			<Text>Curare Dartblower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_YANOMAMI_DARTBLOWER_HELP">
+			<Text>Chariot Archer replacement unique to the Yanomami. Foot unit which does not require horses. -1 range, but units attacked by a Curare Dartblower lose defensive bonuses for the next two turns. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_YANOMAMI_DARTBLOWER_STRATEGY">
+			<Text>The Curare Dartblower is a unique early game ranged unit only available to the Yanomami. Although it has less range and movement than the Chariot Archer which it replaces, the Curare Dartblower comes with the woodsman promotion and causes units it attacks to lose all defensive bonuses for the next two turns. Use them alongside your other units - particularly in your forests and jungles - to allow your other units to quickly cut through enemy defensive lines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_YANOMAMI_DARTBLOWER_PEDIA">
+			<Text>The Yanomami used Curare-tipped blow guns for a variety of hunting and defence purposes. The poison curare causes weakness of the skeletal muscles and, when administered in a sufficient dose, eventual death by asphyxiation due to paralysis of the diaphragm. However, it must first contaminate a wound. When hunting monkeys and birds, hunters would blow the dart into the air, often having to take cover or risk the dart falling on and poisoning them. Blowguns were handcrafted, usually from palm stems, and usually measured between one and two feet long.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Promotions  - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_PROMOTION_MC_YANOMAMI_LISTENER">
+			<Text>Poison Darts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_YANOMAMI_LISTENER_HELP">
+			<Text>Units attacked by this unit lose defensive bonuses for two turns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_YANOMAMI_LISTENER_2_HELP">
+			<Text>Units attacked by this unit lose defensive bonuses for two turns[NEWLINE][NEWLINE]This unit has already poisoned an enemy unit this turn. Any further attacks this turn will not cause the enemy unit to lose defensive bonuses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_DARTBLOWER_MARKED">
+			<Text>Curare Poisoning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_DARTBLOWER_MARKED_HELP">
+			<Text>This unit has been poisoned by a Curare Dartblower, and will not have any defensive bonuses for two turns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_COUNT_1_HELP">
+			<Text>This unit has been poisoned by a Curare Dartblower, and will not have any defensive bonuses for two turns ([COLOR_WARNING_TEXT]2 turns remaining[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_COUNT_2_HELP">
+			<Text>This unit has been poisoned by a Curare Dartblower, and will not have any defensive bonuses for two turns ([COLOR_WARNING_TEXT]1 turn remaining[ENDCOLOR])</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Unique Building - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_SHABONO">
+			<Text>Shabono</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_SHABONO_HELP">
+			<Text>Replaces the Granary. Instead of providing food to resources, provides +1 [ICON_CULTURE] Culture to Jungle tiles worked by the city. +4 [ICON_FOOD] Food when the city owns a Natural Wonder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_SHABONO_STRATEGY">
+			<Text>The Shabono is the Yanomami replacement for the Granary. While it does not provide any additional food on nearby resources, the Shabono causes Jungle tiles worked by the city to yield additional [ICON_CULTURE] Culture, as well as providing a large amount of additional [ICON_FOOD] Food when near to a Natural Wonder. Use these bonuses to quickly get the edge on your opponents' culturally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_SHABONO_PEDIA">
+			<Text>The Shabono is a temporary house built by the Yanomami. Typically constructed mainly of thatched palm leaves and wood, shabonos are built in clearings in the jungle, using the wood cleared to build a palisade with a thatched roof that has a hole in the middle. They house the entire village maloca in one hut. The circular shape allows for an open and common space in its centre, visible to all inhabitants and protected from the outside by the palisade structure. This common space is intended for games and parties and reinforces the community aspect of such a shared structure. In the peripheral part covered with palm leaves, each family has its own hearth and sleeps in hammocks placed by the fire. The shabono are designed for a village of about 50-100 people, although some structures can accommodate up to 400 people.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Dummy Buildings - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_WONDER_CULTURE_DUMMY_1">
+			<Text>MC: Yanomami Natural Wonder culture 50%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_WONDER_CULTURE_DUMMY_2">
+			<Text>MC: Yanomami Natural Wonder culture 40%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_WONDER_CULTURE_DUMMY_3">
+			<Text>MC: Yanomami Natural Wonder culture 30%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_WONDER_CULTURE_DUMMY_4">
+			<Text>MC: Yanomami Natural Wonder culture 20%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_WONDER_CULTURE_DUMMY_5">
+			<Text>MC: Yanomami Natural Wonder culture 10%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_FAITH_DUMMY">
+			<Text>MC: Yanomami Faith from jungle tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_FOOD_DUMMY">
+			<Text>MC: Yanomami UB food from natural wonder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_TOURISM_DUMMY_1">
+			<Text>MC: Yanomami tourism binary dummy 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_TOURISM_DUMMY_2">
+			<Text>MC: Yanomami tourism binary dummy 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_TOURISM_DUMMY_4">
+			<Text>MC: Yanomami tourism binary dummy 4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_TOURISM_DUMMY_8">
+			<Text>MC: Yanomami tourism binary dummy 8</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_TOURISM_DUMMY_16">
+			<Text>MC: Yanomami tourism binary dummy 16</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_TOURISM_DUMMY_32">
+			<Text>MC: Yanomami tourism binary dummy 32</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_TOURISM_DUMMY_64">
+			<Text>MC: Yanomami tourism binary dummy 64</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_YANOMAMI_TOURISM_DUMMY_128">
+			<Text>MC: Yanomami tourism binary dummy 128</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Unique Ability  - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_TRAIT_MC_THE_FALLING_SKY_SHORT">
+			<Text>The Falling Sky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_THE_FALLING_SKY">
+			<Text>Jungle tiles yield +1 [ICON_PEACE] Faith in cities with a Pantheon or Religion, with 50% of the faith yield of tiles being added as [ICON_TOURISM] Tourism after the Modern era. Cities within 5 tiles of a natural wonder yield increased [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Mod Support - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_MC_YANOMAMI_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now painting their faces and taking your yakoana. I worry the rest of the world will succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_MC_YANOMAMI_INFLUENTIAL_ON_HUMAN_1">
+			<Text>I see that your people are now painting their faces and taking our yakoana. This is most excellent!</Text>
+		</Row>
+		<!--Additional Achievements-->
+		<!--<Row Tag="TXT_KEY_MOD_MC_YANOMAMI_NAME">
+			<Text>MC's Yanomami (Davi Kopenawa)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_MC_YANOMAMI_ID_STEAM">
+			<Text>beaadc80-b861-473c-b137-f6f7c90981d3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_MC_YANOMAMI_AUTHORS">
+			<Text>More Civs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_MC_YANOMAMI_VICTORY_HEADER">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_MC_YANOMAMI_VICTORY_TEXT">
+			<Text>Beat the game on any difficulty setting as Davi Kopenawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_MC_YANOMAMI_SPECIAL_HEADER">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_MC_YANOMAMI_SPECIAL_TEXT">
+			<Text>As the Yanomami, settle adjacent to a natural wonder</Text>
+		</Row>-->
+		<!--=============================================================-->
+		<!-- Misc Civ Text - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_MC_YANOMAMI">
+			<Text>The Yanomami</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MC_YANOMAMI_DESC">
+			<Text>Yanomami Empire</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_MC_YANOMAMI_SHORT_DESC">
+			<Text>Yanomami</Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_MC_YANOMAMI_ADJECTIVE">
+			<Text>Yanomami</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Dawn of Man - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_YANOMAMI_TEXT">
+			<Text>You must play the role of Atlas of your people, oh shaman Davi Kopenawa, hornet of the Yanomami. You have long been a spokesperson for your tribe, from helping aid organisations understand your plight to bringing your message to the world directly, through spoken and written word. And have no doubt, the plight of your people is a dire one. From contaminated water to infringing gold miners, from diseases which you have low immunity to a former government which did not care, your people have endured. You have worked to restore your own people to their land and resources, safe from the gold miners and rubber tappers, establishing organisations such as Hutukara to build institutions that burn with the same passion as you. You have been proactive in building for the future, setting up educational foundations to teach Yanomami children skills such as literacy.[NEWLINE][NEWLINE]Oh passionate Davi Kopenawa, the fight is not over. Tides in Brazil might be shifting, but the greedy colonisers will not give up their privileges an cede your rightful land to you without a fight.You must prepare your people and continue to speak for them wherever and whenever you can. Can you spread the message of your people far and wide? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Diplomacy Lines - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_FIRSTGREETING_1">
+			<Text>Welcome to the lands of the Yanomami. I am Davi Kopenawa, it's steward, and I will protect it with all my strength</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_DEFEATED_1">
+			<Text>My people are wiped out. You must destroy all photographs of us, because future generations will look at our photographs and be too ashamed at such a crime against humanity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_DOW_GENERIC_1">
+			<Text>Enough is enough. I cannot abide by your flagrant destruction of the world around you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_ATTACKED_HOSTILE">
+			<Text>Your are full of ignorance. Leave us in peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_DEC_FRIENDSHIP_1">
+			<Text>I believe that you too listen to the cry of the earth and wish to do something about it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_DENOUNCE_1">
+			<Text>You are not one with nature or your people.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_DENOUNCE_FRIEND_1">
+			<Text>One’s mind has become dark and entangled, one can no longer think straight.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Your thoughts are filled with forgetfulness. Your civilization will fall apart in discord, whether tomorrow or in the future.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Spy Names - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_YANOMAMI_0">
+			<Text>Henaowe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_YANOMAMI_1">
+			<Text>Akiwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_YANOMAMI_2">
+			<Text>Oporawe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_YANOMAMI_3">
+			<Text>Irokawe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_YANOMAMI_4">
+			<Text>Shatakewe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_YANOMAMI_5">
+			<Text>Kreosimi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_YANOMAMI_6">
+			<Text>Yarimowe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_YANOMAMI_7">
+			<Text>Yarima</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_YANOMAMI_8">
+			<Text>Abami</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_YANOMAMI_9">
+			<Text>Shiroi</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Civilopedias  - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!--Civilisation Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_TITLE">
+			<Text>The Yanomami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_TEXT_1">
+			<Text>The Yanomami are a group of approximately 35,000 indigenous people who live in some 200–250 villages in the Amazon rainforest on the border between Venezuela and Brazil. Yanomaman languages comprise four main varieties: Ninam, Sanumá, Waiká, and Yanomamö. Gold was found in Yanomami territory in the early 1970s and the resulting influx of miners brought disease, alcoholism, and violence. Yanomami culture was severely endangered. From 1987 to 1990, the Yanomami population was severely affected by malaria, mercury poisoning, malnutrition, and violence due to an influx of garimpeiros searching for gold in their territory. In 2023, President Luiz Inácio Lula da Silva accused the government of his predecessor Jair Bolsonaro of having committed genocide against the Yanomami, citing widespread starvation and contamination of water supplies by miners, whose illegal activities were unrestricted under Bolsonaro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_HEADING_2">
+			<Text>The Spoken Word</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_TEXT_2">
+			<Text>Many linguists consider the Yanomaman family to be a language isolate, unrelated to other South American indigenous languages, and as such, it is one of the world's primary language families. The origins of the language are obscure. The Yanomaman languages are currently spoken by about 20,000 Yanomami people in southern Venezuela and northwestern Brazil. Under one definition, Yanomaman languages comprise four main varieties: Ninam, Sanumá, Waiká, and Yanomamö. Many local variations and dialects also exist, such that people from different villages cannot always understand each other. Ferreira et al. divide the Yanomaman family into two branches, with six languages in total, with Jawari and Yãnoma being the additional languages, but each with under 500 speakers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_HEADING_3">
+			<Text>Traditional Organisation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_TEXT_3">
+			<Text>The Yanomami do not recognize themselves as a united group, but rather as individuals associated with their politically autonomous villages. Yanomami communities are grouped together because they have similar ages and kinship, and militaristic coalitions interweave communities together. The Yanomami have common historical ties to Carib speakers who resided near the Orinoco river and moved to the highlands of Brazil and Venezuela, the location the Yanomami currently occupy. Mature men hold most political and religious authority. A tuxawa acts as the leader of each village, but no single leader presides over the whole of those classified as Yanomami. Headmen gain political power by demonstrating skill in settling disputes both within the village and with neighboring communities. Violence is one of the leading causes of Yanomami death. Up to half of all Yanomami males die violent deaths in the constant conflict between neighboring communities over local resources. Often these confrontations lead to Yanomami leaving their villages in search of new ones.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_HEADING_4">
+			<Text>Villages and the Yano-yummies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_TEXT_4">
+			<Text>Groups of Yanomami live in villages usually consisting of their children and extended families. Villages vary in size, but usually contain between 50 and 400 people. In this largely communal system, the entire village lives under a common roof called the shabono. The Yanomami can be classified as foraging horticulturalists, depending heavily on rainforest resources; they use slash-and-burn horticulture, grow bananas, gather fruit, and hunt animals and fish. Crops compose up to 75% of the calories in the Yanomami diet. Protein is supplied by wild resources obtained through gathering, hunting, and fishing. When the soil becomes exhausted, Yanomami frequently move to avoid areas that have become overused, a practice known as shifting cultivation. The women cultivate cooking plantains and cassava in gardens as their main crops. Men do the heavy work of clearing areas of forest for the gardens. Another food source for the Yanomami is grubs. Often the Yanomami will cut down palms in order to facilitate the growth of grubs. The traditional Yanomami diet is very low in edible salt. Their blood pressure is characteristically among the lowest of any demographic group. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_HEADING_5">
+			<Text>A Polyandric Society</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_TEXT_5">
+			<Text>Children stay close to their mothers when young; most of the childrearing is done by women. Yanomami groups are a famous example of the approximately fifty documented societies that openly accept polyandry. Many unions are monogamous. Polygamous families consist of a large patrifocal family unit based on one man, and smaller matrifocal subfamilies: each woman's family unit, composed of the woman and her children. Life in the village is centred around the small, matrilocal family unit, whereas the larger patrilocal unit has more political importance beyond the village. Hallucinogens or entheogens, known as yakoana or ebene, are used by Yanomami shamans as part of healing rituals for members of the community who are ill.  The Yanomami people practice ritual endocannibalism, in which they consume the bones of deceased kinsmen. The body is wrapped in leaves and placed in the forest some distance from the shabono; then after insects have consumed the soft tissue, the bones are collected and cremated. The ashes are then mixed with a kind of soup made from bananas, which is consumed by the entire community.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_HEADING_6">
+			<Text>The Outside World Comes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_TEXT_6">
+			<Text>The first report of the Yanomami to the Northern world is from 1654, when a Spanish expedition under Apolinar Diez de la Fuente visited some Ye'kuana people living on the Padamo River. From approximately 1630 to 1720, the other river-based indigenous societies who lived in the same region were wiped out or reduced as a result of slave-hunting expeditions by the conquistadors and bandeirantes. How this affected the Yanomami is unknown. However, contact with the outside world was extremely limited until the 1950s, where sustained contact began with the arrival of members of the New Tribes Mission as well as Catholic missionaries from the Society of Jesus and Salesians of Don Bosco.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_HEADING_7">
+			<Text>Groaning under Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_TEXT_7">
+			<Text>In Roraima, the 1970s saw the implementation of development projects within the framework of the "National Integration Plan" launched by the Brazilian military governments of the time. This meant the opening of a stretch of perimeter road from 1973 to 1976, and various colonization programs, on land traditionally occupied by the Yanomami. During the same period, the Amazonian resources survey project RADAM detected important mineral deposits in the region. This triggered a progressive movement of gold prospectors, which after 1987 took the form of a real gold rush. Hundreds of clandestine runways were opened by gold miners in the major tributaries of the Branco River between 1987 and 1990. The number of gold miners in the Yanomami area of Roraima was then estimated at 30 to 40 thousand, about five times the indigenous population resident there. Although the intensity of this gold rush has subsided greatly since 1990, gold prospecting continues today in the Yanomami land, spreading violence and serious health and social problems.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_HEADING_8">
+			<Text>Turning the Tide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_TEXT_8">
+			<Text>Increasing pressure from farmers, cattle ranchers, and gold miners, as well as those interested in securing the Brazilian border by constructing roads and military bases near Yanomami communities, led to a campaign to defend the rights of the Yanomami to live in a protected area. In 1978 the Pro-Yanomami Commission was established. Originally named the Commission for the Creation of a Yanomami Park, it is a Brazilian non-governmental nonprofit organization dedicated to the defense of the territorial, cultural, and civil and political rights of the Yanomami. CCPY devoted itself to a long national and international campaign to inform and sensitize public opinion and put pressure on the Brazilian government to demarcate an area suited to the needs of the Yanomami. After 13 years the Yanomami indigenous land was officially demarcated in 1991 and approved and registered in 1992, thus ensuring that indigenous people had the constitutional right to the exclusive use of almost 96,650 square kilometres located in the States of Roraima and Amazonas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_HEADING_9">
+			<Text>Modern Struggles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_TEXT_9">
+			<Text>The Alto Orinoco-Casiquiare Biosphere Reserve was created in 1993 with the objective of preserving the traditional territory and lifestyle of the Yanomami and Ye'kuana peoples. However, while the constitution of Venezuela recognizes indigenous peoples’ rights to their ancestral domains, few have received official title to their territories and the government has announced it will open up large parts of the Amazon rainforest to legal mining. The Haximu massacre, also known as the Yanomami massacre, was an armed conflict in 1993, just outside Haximu, Brazil, close to the border with Venezuela. A group of garimpeiros killed approximately 16 Yanomami. In turn, Yanomami warriors killed at least two garimpeiros and wounded two more. In July 2012 the government of Venezuela investigated another alleged massacre. According to Yanomami organizations, a village of eighty people was attacked by a helicopter and the only known survivors of the village were three men who happened to be out hunting while the attack occurred. However, in September 2012 Survival International, who had been supporting the Yanomami in this allegation, retracted their support, concluding the report was false after journalists taken to the area by the government found that the area was undisturbed and the local Yanomami had not heard of the alleged massacre.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_HEADING_10">
+			<Text>Jair did a Really Naughty Thing so now He Has to Sit in the Bin Where He Belongs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_YANOMAMI_TEXT_10">
+			<Text>Following the increase in threats and attacks against the uncontacted Yanomami, member of parliament Joenia Wapichana, Dario Kopenawa Yanomami and some other Brazilian indigenous leaders met with Michelle Bachelet, United Nations High Commissioner for Human Rights, to assess the inability of the government to protect their constitutional rights. On September 13, 2021, in her report to the United Nations Human Rights Council, Michelle Bachelet declared that she was "alarmed by recent attacks against members of the Yanomami and Munduruku," in Brazil, "by illegal miners in the Amazon." In 2023, President Luiz Inácio Lula da Silva accused the government of his predecessor Jair Bolsonaro of having committed genocide against the Yanomami, citing widespread starvation and contamination of water supplies by miners, whose illegal activities were unrestricted under Bolsonaro. The Brazilian Ministry of Health declared a national emergency following reports of deaths among Yanomami children due to malnutrition and disease exposure. In January 2023, Indigenous health secretary Weibe Tapeba compared the conditions of Yanomami to that of a "concentration camp". Tapeba stated that 20,000 illegal gold miners contaminated the local water supply and fish within and were responsible for causing mercury poisoning.</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_CIVLOPEDIA_MC_YANOMAMI_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_YANOMAMI_FACTOID_TEXT">
+			<Text>The Yanomami have </Text>
+		</Row>-->
+		<!--Leader Civilopedia-->
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_DESC">
+			<Text>Davi Kopenawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_LIVED">
+			<Text>c. 1956 - </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_NAME">
+			<Text>Davi Kopenawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_SUBTITLE">
+			<Text>Shaman of the Yanomami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_TITLES_1">
+			<Text>Kobenawä</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_TITLES_2">
+			<Text>Toototobi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_TEXT_1">
+			<Text>Davi Kopenawa Yanomami, born Toototobi, is a Yanomami shaman and spokesperson who is known for his advocacy regarding tribal issues and Amazon rainforest conservation. His most notable work is the book The Falling Sky. His nickname ‘Kopenawa’, meaning hornet, was given to him in recognition of his ability to fight for his people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_HEADING_2">
+			<Text>The New Tribes Mission</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_TEXT_2">
+			<Text>Davi Kopenawa was born near the Rio Toototobi near the border of Venezuela. Kopenawa is the son-in-law of another traditional tribal leader with whom he apprenticed to be a shaman. He learned Portuguese from a Christian mission run by New Tribes Mission, an American evangelical organization specializing in the proselytization of isolated peoples. The acquisition of Portuguese language proficiency, which was at that time rare among the Yanomami, enabled Kopenawa to interact with Brazil's Lusophone majority both directly and through the mass media, thus spreading his message. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_HEADING_3">
+			<Text>The Orphan Intermediary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_TEXT_3">
+			<Text>Kopenawa’s wife lost much of her family to measles and other diseases brought to the area in the 1970s by road construction crews and garimpeiros, and Kopenawa has noted that this was a large part of his personal motivation to speak out on his people's behalf. Kopenawa himself was orphaned as a child when his parents died from diseases transmitted by outsiders. Despite this devastating interaction with the Western world, in the 1980s he began working for the Brazilian government organization Fundação Nacional do Índio, also known as FUNAI, at a post in Demini in the center of Yanomami territory as an intermediary between the government and indigenous peoples with whom outsiders had little or no contact. He also accompanied health workers to Yanomami villages and has worked closely with organizations such as Comissão Pró-Yanomami and Survival International in the fight for the integrity of Yanomami lands in Brazil.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_HEADING_4">
+			<Text>The Land Rights Fight and Hutukara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_TEXT_4">
+			<Text>Since the invasion of Yanomami territory began in 1987 by illegal rubber tappers, Kopenawa has worked for their removal from the area and for the creation of a parkland therein. His action resulted in death threats from the tappers. After a major international campaign led by Kopenawa, Survival International and CCPY, the Brazilian government finally recognized Yanomami land rights in 1992 just before the UN's Earth Summit. Kopenawa has advocated for over 20 years and visited many countries with his message about the importance of respecting indigenous people’s rights and their fundamental and unique role in conserving the rainforest for the benefit of humanity. In 2004, Kopenawa and other Yanomami in Brazil set up an organization called Hutukara to defend their rights. As well as advocating for Yanomami rights, it runs educational projects where Yanomami teachers work in the communities teaching literacy, maths, geography and human rights. However, Kopenawa's unique role among his people has been commented on skeptically even by those sympathetic to him and his cause.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_HEADING_5">
+			<Text>The Falling Sky and the Machine Man</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_TEXT_5">
+			<Text>In 2013, Kopenawa, along with Bruce Albert, a professor of anthropology, released the book The Falling Sky: Words of a Yanomami Shaman. The book recounted the cultural repression, environmental devastation, and deaths resulting from epidemics and violence bought by contact with outsiders. The book provided a critique of Western industrial society, whose capitalist values contrasted with the cultural values of the Yanomami. In a CNN interview published in February 2023, Yanomami criticized Jair Bolsonaro, who served as the president of Brazil from 2019 to 2022, for encouraging mining in the Amazon Rainforest. He also expressed hope for improvement of the situation with the crackdown starting in 2023 on illegal mining by the administration of Luiz Inácio Lula da Silva and the appointment of the first Brazilian Minister of Indigenous People, Sônia Guajajara.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_DAVI_KOPENAWA_FACTOID_TEXT">
+			<Text>Owing to Yanomami naming traditions, Kopenawa (translating as "Hornet") is more of a nickname than anything - with mining companies in the area likely agreeing that the nickname is apt.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- City List - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_TAYARITERI">
+			<Text>Watoriki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_SHUIMUITERI">
+			<Text>Shuimuiteri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_PATAHAMATERI">
+			<Text>Patahamateri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_HASUPUWETERI">
+			<Text>Hasupuweteri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_HIOMISITERI">
+			<Text>Hiomisiteri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_MOKARITATERI">
+			<Text>Mokaritateri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_HAWAROWETERI">
+			<Text>Hawaroweteri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_YEHIOPATERI">
+			<Text>Yehiopateri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_NANIMAPUWETERI">
+			<Text>Nanimapuweteri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_PRARARAITERI">
+			<Text>Prararaiteri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_KASHARAWETERI">
+			<Text>Kasharaweteri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_ASHITOWETERI">
+			<Text>Ashitoweteri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_BISHAASHITERI">
+			<Text>Bishaashiteri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_KONOPOREPIWETERI">
+			<Text>Konoporepiweteri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_PATANOWETERI">
+			<Text>Patanoweteri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_POREWETERI">
+			<Text>Poreweteri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_WAROKOAWETERI">
+			<Text>Warokoaweteri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_TOKANAWETERI">
+			<Text>Tokanaweteri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_IROKAI">
+			<Text>Irokai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_HASUBOWA">
+			<Text>Hasubowa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_MAVAKA">
+			<Text>Mavaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_OKIYAMOPE">
+			<Text>Okiyamope</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_HOREAPE">
+			<Text>Horeape</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_MAICOTO">
+			<Text>Maicoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_MATOWE">
+			<Text>Matowe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_WAIKA">
+			<Text>Waika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_GUAICA">
+			<Text>Guaica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_XIRIANA">
+			<Text>Xiriana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_SANEMA">
+			<Text>Sanema</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_GUAHARIBO">
+			<Text>Guaharibo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_CATRIMANI">
+			<Text>Catrimani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_TACLAUDUB">
+			<Text>Taclaudub</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_KARIME">
+			<Text>Karime</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_MUCAJAI">
+			<Text>Mucajai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_PAKIDAI">
+			<Text>Pakidai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_CASAPARE">
+			<Text>Casapare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_MACUXI">
+			<Text>Macuxi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_SHIRIANA">
+			<Text>Shiriana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_SURARA">
+			<Text>Surara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_YANOMAMI_AICA">
+			<Text>Aica</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

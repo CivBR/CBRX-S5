@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--City List: CIVILIZATION_MC_PHOENICIA-->
+		<Row Tag="TXT_KEY_COLONY_NAME_CIVILIZATION_MC_PHOENICIA_1">
+			<Text>Carthage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_CIVILIZATION_MC_PHOENICIA_2">
+			<Text>Ibshim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_CIVILIZATION_MC_PHOENICIA_3">
+			<Text>Tipaza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_CIVILIZATION_MC_PHOENICIA_4">
+			<Text>Utica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_CIVILIZATION_MC_PHOENICIA_5">
+			<Text>Thapsus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_CIVILIZATION_MC_PHOENICIA_6">
+			<Text>Hadrametum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_CIVILIZATION_MC_PHOENICIA_7">
+			<Text>Magador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_CIVILIZATION_MC_PHOENICIA_8">
+			<Text>Oia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_CIVILIZATION_MC_PHOENICIA_9">
+			<Text>Phoenicus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_CIVILIZATION_MC_PHOENICIA_10">
+			<Text>Acre</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

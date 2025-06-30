@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1423200e-b8ce-4eb6-9814-9ed92fb81336" version="1">
+  <Properties>
+    <Name>Homusubi's Japanese Religions</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Fourteen new religions, sects, and denominations of all kinds from the Japanese archipelago.</Teaser>
+    <Description>Fourteen new religions, sects, and denominations of all kinds from the Japanese archipelago.</Description>
+    <Authors>Homusubi</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="HR Complete" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="HR Classic" />
+    <Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" minversion="0" maxversion="999" title="HR Edit" />
+    <Mod id="59a97415-76c7-47e8-8f69-d268dccd9535" minversion="0" maxversion="999" title="HR Buddhist" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="AD44851FBB6497952EA3CF972B78FC2F" import="1">Art/JaRFontIcons.ggxml</File>
+    <File md5="23B195DF6492605562A0FA8A19E382B0" import="1">Art/SM_JaR_Icons_128.dds</File>
+    <File md5="F39FDC03D34BC9B74DD888A7F82F5ABA" import="1">Art/SM_JaR_Icons_16.dds</File>
+    <File md5="9986A9F5AE8052EB437AF55AB7A83BF6" import="1">Art/SM_JaR_Icons_214.dds</File>
+    <File md5="E8803C76729A397EEFAEAC8259EED6E9" import="1">Art/SM_JaR_Icons_24.dds</File>
+    <File md5="601318A4FD37EA0D91BCC5687CEDAA57" import="1">Art/SM_JaR_Icons_256.dds</File>
+    <File md5="CC379B3AFDFC6CF3051C242AA22BE450" import="1">Art/SM_JaR_Icons_32.dds</File>
+    <File md5="65EF915FD2BAA767F0DF892432AC312A" import="1">Art/SM_JaR_Icons_45.dds</File>
+    <File md5="82D61BE21C9399BECB314B978C2D6563" import="1">Art/SM_JaR_Icons_48.dds</File>
+    <File md5="7CA9FB8B48F4096B56E659AA346B7798" import="1">Art/SM_JaR_Icons_64.dds</File>
+    <File md5="FADCFE3110E89D736420457133316AC1" import="1">Art/SM_JaR_Icons_80.dds</File>
+    <File md5="3C8FDA986F3E9B5C5F9591724234D1E7" import="1">Art/SM_JaR_Icons_FONT.dds</File>
+    <File md5="F1F0C9264B2B701F3D51829E2B3835A2" import="1">Art/SM_JaR_Icons_FONT2.dds</File>
+    <File md5="8FA9E0E04D4C2AEB7BC345888F43CFBE" import="1">Sql/HRIDRemapper.sql</File>
+    <File md5="722EC74778D7A39B34BF95C852FAD543" import="1">Sql/SM_JaR_Art.sql</File>
+    <File md5="7C0767E040349AE920CEDDB716AA7660" import="1">Sql/SM_JaR_Preference.sql</File>
+    <File md5="AE2D850A2D514BE36BB1706F8BB6A666" import="1">Sql/SM_JaR_Religion.sql</File>
+    <File md5="79B75010A4B11C9AD7643E8B016A521D" import="1">Xml/SM_JaR_Text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Sql/HRIDRemapper.sql</UpdateDatabase>
+      <UpdateDatabase>Sql/SM_JaR_Art.sql</UpdateDatabase>
+      <UpdateDatabase>Sql/SM_JaR_Preference.sql</UpdateDatabase>
+      <UpdateDatabase>Sql/SM_JaR_Religion.sql</UpdateDatabase>
+      <UpdateDatabase>Xml/SM_JaR_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

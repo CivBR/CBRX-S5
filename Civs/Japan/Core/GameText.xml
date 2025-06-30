@@ -1,0 +1,281 @@
+﻿<GameData>
+	<Language_en_US>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_HIDEYOSHI_DUMMY">
+			<Text>Kyoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_01">
+			<Text>Kyoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_02">
+			<Text>Osaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_03">
+			<Text>Momoyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_04">
+			<Text>Odawara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_05">
+			<Text>Hiroshima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_06">
+			<Text>Yonezawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_07">
+			<Text>Okayama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_08">
+			<Text>Kanazawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_09">
+			<Text>Najima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_10">
+			<Text>Himeji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_11">
+			<Text>Gifu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_12">
+			<Text>Nagoya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_13">
+			<Text>Kumamoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_14">
+			<Text>Kiyosu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_15">
+			<Text>Kofu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_16">
+			<Text>Ueno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_17">
+			<Text>Kagoshima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_18">
+			<Text>Ota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_19">
+			<Text>Toyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_20">
+			<Text>Nagasaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_21">
+			<Text>Izaku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_22">
+			<Text>Oko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_23">
+			<Text>Tottori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_24">
+			<Text>Kunohe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_25">
+			<Text>Katsumoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_26">
+			<Text>Koriyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_27">
+			<Text>Ishigakiyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_28">
+			<Text>Sawayama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_29">
+			<Text>Sunomata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_30">
+			<Text>Hachimanyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HIDEYOSHI_31">
+			<Text>Busan</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HIDEYOSHI_0">
+			<Text>Mitsunari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HIDEYOSHI_1">
+			<Text>Hideie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HIDEYOSHI_2">
+			<Text>Nagamasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HIDEYOSHI_3">
+			<Text>Gen'i</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HIDEYOSHI_4">
+			<Text>Nagamori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HIDEYOSHI_5">
+			<Text>Masaie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HIDEYOSHI_6">
+			<Text>Toshiie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HIDEYOSHI_7">
+			<Text>Kagekatsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HIDEYOSHI_8">
+			<Text>Terumoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HIDEYOSHI_9">
+			<Text>Takakage</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_SENSHI_HIDEYOSHI_ADJECTIVE">
+			<Text>Japanese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_HIDEYOSHI_DESC">
+			<Text>Japanese Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_HIDEYOSHI_SHORT_DESC">
+			<Text>Japan</Text>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_SENSHI_HIDEYOSHI_TEXT">
+			<Text>May fortune continue to smile down upon you, great Toyotomi Hideyoshi, ruler and unifier of Japan! Rising from truly humble origins as a simple peasant soldier, through your many merits you became one of the most distinguished generals of the great warlord and First Great Unifier, Oda Nobunaga. When your great lord was betrayed and struck down, you quickly avenged his death and rose to become the undisputed ruler of Japan, gaining the prestigious titles of Kampaku and Daijo Daijin. You continued the unification efforts of your predecessor, succeeding in uniting Japan from Kagoshima to Kunohe, and introduced reforms to restore order and stability to the fractured island. While your invasion of Korea and China did not go as successfully, such was the strength of your armies that for a time they were able to withstand the combined forces of the Ming and Joseon Empires. Truly, you earned the title of the Second Great Unifier![NEWLINE][NEWLINE]Great Hideyoshi, your supporters' power quickly waned after your death, and like the Oda Clan before it, the Toyotomi Clan was unable to stop the ambitions of its subordinates. But now the people of Japan call upon you once more! Will you once more bring unity and stability to your lands, and show the world the power of your armies? Will you build a civilization to stand the test of time?</Text>
+		</Row>
+
+		<!--Pedia-->
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_LIVED">
+			<Text>1536 - 1598 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_NAME">
+			<Text>Toyotomi Hideyoshi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_SUBTITLE">
+			<Text>Leader of Japan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_HIDEYOSHI">
+			<Text>Toyotomi Hideyoshi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_TITLES_1">
+			<Text>Kampaku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_TITLES_2">
+			<Text>Regent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_TITLES_3">
+			<Text>Daijo Daijin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_TITLES_4">
+			<Text>Chancellor of the Realm</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_TEXT_1">
+			<Text>Toyotomi Hideyoshi, considered the second "Great Unifier" of Japan was a Japanese samurai and daimyo of the late Sengoku period. Rising from a peasant background as a retainer of the prominent lord Oda Nobunaga, Hideyoshi succeeded Nobunaga after the Honno-ji Incident in 1582 and continued Nobunaga's campaign to unite Japan that led to the closing of the Sengoku period. Hideyoshi became the de facto leader of Japan and acquired the prestigious positions of Chancellor of the Realm and Imperial Regent by the mid-1580s. Hideyoshi's rule covers most of the Azuchi–Momoyama period of Japan, partially named after his castle, Momoyama Castle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_HEADING_2">
+			<Text>Ashigaru Lineage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_TEXT_2">
+			<Text>Very little is known for certain about Toyotomi Hideyoshi before 1570, when he begins to appear in surviving documents and letters. His autobiography starts in 1577, but in it, Hideyoshi spoke very little about his past. According to tradition, Hideyoshi was born on 17 March 1538 in Nakamura, Owari Province, in the middle of the chaotic Sengoku period under the collapsed Ashikaga Shogunate. Hideyoshi had no traceable samurai lineage, and his father Kinoshita Yaemon was an ashigaru. Hideyoshi had no surname. Under the name Kinoshita Tokichiro he first joined the Imagawa clan as a servant to a local ruler named Matsushita Yukitsuna.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_HEADING_3">
+			<Text>Under the Oda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_TEXT_3">
+			<Text>In 1558, Hideyoshi became an ashigaru for the powerful Oda clan, the rulers of his home province of Owari, now headed by the ambitious Oda Nobunaga. Hideyoshi soon became one of Nobunaga's sandal-bearers, a position of relatively high status, and was present at the Battle of Okehazama in 1560 when Nobunaga defeated Imagawa Yoshimoto to become one of the most powerful warlords in the Sengoku period. In 1561, Hideyoshi married One, the adopted daughter of Asano Nagakatsu, a descendant of Minamoto no Yorimitsu. Hideyoshi carried out repairs on Sunomata Castle. Hideyoshi's efforts were well-received because Sunomata was in enemy territory, and according to legend Hideyoshi constructed a fort in Sunomata overnight and discovered a secret route into Mount Inaba, after which much of the local garrison surrendered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_HEADING_4">
+			<Text>The Siege of Inabayama Castle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_TEXT_4">
+			<Text>Nobunaga's easy victory at the siege of Inabayama Castle in 1567 was largely due to Hideyoshi's efforts, and, despite his peasant origins, in 1568 Hideyoshi became one of Nobunaga's most distinguished generals, eventually taking the name Hashiba Hideyoshi. The new surname included two characters, one each from Oda's right-hand men, Niwa Nagahi, Shibata Katsuie and Akechi Mitsuhide, Mori Yoshinari. In 1570, Hideyoshi protected Nobunaga's retreat from Azai-Asakura forces at Kanegasaki. Hideyoshi's rear-guard defense of his lord's escape is one of his fabled accomplishments under Nobunaga. Later in June 1570, at the Battle of Anegawa, Hideyoshi was assigned to lead Oda troops into open battle for the first time in which Oda Nobunaga allied with Tokugawa Ieyasu to lay siege to two fortresses of the Azai and Asakura clans. In 1573, after victorious campaigns against the Azai and Asakura, Nobunaga appointed Hideyoshi daimyo of three districts in the northern part of aOmi Province. In 1575, Hideyoshi fought in the Battle of Nagashino against the Takeda clan. In 1576, Nobunaga sent Hideyoshi to Himeji Castle to conquer the Chugoku region from the Mori clan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_HEADING_5">
+			<Text>Leaving the Shadow of his Lord</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_TEXT_5">
+			<Text>On June 21, 1582, Oda Nobunaga and his eldest son Nobutada were killed in the Honno-ji incident by the forces of the traitorous Akechi Mitsuhide. Their assassination in Honno-ji temple in Kyoto ended Nobunaga's quest to consolidate centralised power in Japan under his authority. Hideyoshi, seeking vengeance for the death of his lord, made peace with the Mori clan and thirteen days later met Mitsuhide and defeated him at the Battle of Yamazaki, avenging his lord and taking Nobunaga's authority and power for himself. In 1582, Hideyoshi began construction of Osaka Castle. Built on the site of the temple Ishiyama Hongan-ji, who destroyed by Nobunaga, the castle would become the last stronghold of the Toyotomi clan after Hideyoshi's death. In 1583 Hideyoshi was in a very strong position. He summoned the powerful daimyos to Kiyosu Castle so that they could determine Nobunaga's heir. Oda Nobukatsu and Oda Nobutaka quarreled, causing Hideyoshi to instead choose Nobunaga's grandson Samboshi, whose other name was Hidenobu. Having won the support of the other two Oda clan elders, Niwa Nagahide and Ikeda Tsuneoki, Hideyoshi established Hidenobu's position, as well as his own influence in the Oda clan. He distributed Nobunaga's provinces among the generals and formed a council of four generals to help him govern.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_HEADING_6">
+			<Text>Issues Against Oda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_TEXT_6">
+			<Text>In 1584, Nobunaga's other son, Oda Nobukatsu, remained hostile to Hideyoshi. Nobukatsu allied himself with Tokugawa Ieyasu, and the two sides fought at the inconclusive Battle of Komaki and Nagakute. It ultimately resulted in a stalemate, although Hideyoshi's forces were delivered a heavy blow. Ieyasu and Hideyoshi never actually fought against each other themselves but the former managed to check the advance of the latter's allies. Finally, Hideyoshi made peace with Nobukatsu, ending the pretext for war between the Tokugawa and Hashiba clans. Hideyoshi sent Tokugawa Ieyasu his younger sister Asahi no kata and mother Omandokoro as hostages. Like Oda Nobunaga before him, Hideyoshi never achieved the title of shogun. Instead, he arranged to have himself adopted by Konoe Sakihisa, one of the noblest men belonging to the Fujiwara clan and secured a succession of high court titles Chancellor. He built a lavish palace, the Jurakudai, in 1587, and entertained the reigning Emperor, Emperor Go-Yozei, the following year.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_HEADING_7">
+			<Text>The Campaign for Unification Continues</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_TEXT_7">
+			<Text>Afterwards in 1585, Hideyoshi launched the siege of Negoro-ji and subjugated Kii Province. In the 1585 invasion of Shikoku, Toyotomi forces seized and conquered Shikoku island, the smallest of Japan's four main islands, from Chosokabe Motochika. Despite the overwhelming size of Hideyoshi's army, and the suggestions of his advisors, Motochika chose to fight to defend his territories. The battles culminated in the siege of Ichinomiya Castle, which lasted for 26 days. Chosokabe made a half-hearted attempt to relieve his castle from the siege, but surrendered in the end. He was allowed to keep Tosa Province, while the rest of Shikoku was divided among Hideyoshi's generals. During the late summer of August 1585, Hideyoshi launched an attack on Etchu Province. Toyotomi Hideyoshi carried out the siege of Toyama Castle. However, the Toyama Castle garrison was led by Sassa Narimasa, one of his former allies many years back. In 1586 Toyotomi Hideyoshi conquered Kyushu, wresting control from the Shimazu clan. Toyotomi Hidenaga, half-brother to Hideyoshi, landed to the south of Bungo on Kyūshū's eastern coast. Meanwhile, Hideyoshi took his own forces down a more westerly route, in Chikuzen Province. In 1587, Hideyoshi banished Christian missionaries from Kyushu, to exert greater control over the Kirishitan daimyos. However, since he did much trade with Europeans, individual Christians were overlooked unofficially. In 1588, Hideyoshi forbade ordinary peasants from owning weapons and started a sword hunt to confiscate arms. The swords were melted down to create a statue of the Buddha. This measure effectively stopped peasant revolts, and ensured greater stability at the expense of freedom of the individual daimyos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_HEADING_8">
+			<Text>Further Campaigns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_TEXT_8">
+			<Text>In 1590, Hideyoshi carried out the siege of Odawara against the Hojo clan in the Kanto region. With 220,000 men, the massive army of Toyotomi Hideyoshi surrounded Odawara Castle and its 82,000-strong Hojo garrison, in what has been called the most unconventional siege lines in samurai history. The samurai were entertained by everything from concubines, prostitutes, and musicians to acrobats, fire-eaters, and jugglers. The defenders slept on the ramparts with their arquebuses and armor; despite their smaller numbers, they discouraged Hideyoshi from attacking. After three months the Hojo surrendered, losing the will to fight after the sudden appearance of Ishigakiyama Ichiya Castle. This eliminated the last resistance to Hideyoshi's authority. During the siege, Hideyoshi offered Ieyasu the eight Hojo-ruled provinces in the Kanto region, in exchange for the submission of Ieyasu's five provinces. Ieyasu accepted this proposal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_HEADING_9">
+			<Text>Attention Turned Outside</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_TEXT_9">
+			<Text>The future stability of the Toyotomi dynasty after Hideyoshi's eventual death was put in doubt with the death of his son Tsurumatsu in September 1591. The three-year-old was his only child. When his half-brother Hidenaga died shortly after, Hideyoshi named his nephew Hidetsugu his heir, adopting him in January 1592. Hideyoshi resigned as kampaku to take the title of taiko, or retired regent. With Hideyoshi's health beginning to falter, but still yearning for some accomplishment to solidify his legacy, he adopted Oda Nobunaga's dream of a Japanese conquest of China and launched the conquest of the Ming dynasty by way of Joseon, or Korea. Hideyoshi had been communicating with the Koreans since 1587 requesting unmolested passage into China. As an ally of Ming China, the Joseon government of the time at first refused talks entirely, and in April and July 1591 also refused demands that Japanese troops be allowed to march through Korea. The government of Joseon was concerned that allowing Japanese troops to march through Joseon would mean that masses of Ming Chinese troops would battle Hideyoshi's troops on Korean soil before they could reach China, putting Korean security at risk. In August 1591, Hideyoshi ordered preparations for an invasion of Korea to begin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_HEADING_10">
+			<Text>First Campaigns and Succession Desputes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_TEXT_10">
+			<Text>In the first campaign, Hideyoshi appointed Ukita Hideie as field marshal, and had him go to the Korean peninsula in April 1592. Konishi Yukinaga occupied Seoul, which was the capital of the Joseon dynasty of Korea, on June 19. After Seoul fell easily, Japanese commanders held a war council in June in Seoul and determined targets of subjugation called Hachidokuniwari, literally, dividing the country into eight routes. Each targeted province was attacked by one of the army's eight divisions. In only four months, Hideyoshi's forces had a route into Manchuria and occupied much of Korea. The Korean king Seonjo of Joseon escaped to Uiju and requested military intervention from China. In 1593, the Wanli Emperor of Ming China sent an army under general Li Rusong to block the planned Japanese invasion of China and recapture the Korean peninsula. At the end of the first campaign, Japan's entire navy was destroyed by Admiral Yi Sun-sin of Korea whose base was located in a part of Korea the Japanese could not control. This, in effect, put an end to Japan's dream of conquering China as the Koreans simply destroyed Japan's ability to resupply their troops who were bogged down in Seoul. The birth of Hideyoshi's second son in 1593, Hideyori, created a potential succession problem. To avoid it, Hideyoshi exiled his nephew and heir Hidetsugu to Mount Koya and then ordered him to commit suicide in August 1595. During this time, Toyotomi Hideyoshi had twenty-six Christians arrested as an example to Japanese who wanted to convert to Christianity. They are known as the Twenty-six Martyrs of Japan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_HEADING_11">
+			<Text>Last Attempts and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HIDEYOSHI_TEXT_11">
+			<Text>After several years of negotiations, Hideyoshi appointed Kobayakawa Hideaki to lead a renewed invasion of Korea, but their efforts on the peninsula met with less success than the first invasion. apanese troops remained pinned down in Gyeongsang Province. In June 1598, the Japanese forces turned back several Chinese offensives in Suncheon and Sacheon, but they were unable to make further progress as the Ming army prepared for a final assault. While Hideyoshi's battle at Sacheon was a major Japanese victory, all three parties to the war were exhausted. Toyotomi Hideyoshi died on September 18, 1598. He was delirious, with Sansom asserting that he was babbling of the distribution of fiefs. His last words, delivered to his closest daimyos and generals, were "I depend upon you for everything. I have no other thoughts to leave behind. It is sad to part from you." His death was kept secret by the Council of Five Elders to preserve morale, and they ordered the Japanese forces in Korea to withdraw back to Japan. Because of his failure to capture Korea, Hideyoshi's forces were unable to invade China. Rather than strengthen his position, the military expeditions left his clan's coffers and fighting strength depleted, his vassals at odds over responsibility for the failure, and the clans that were loyal to the Toyotomi name weakened. After his death, the other members of the Council of Five Elders were unable to keep the ambitions of Tokugawa Ieyasu in check.</Text>
+		</Row>
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_HIDEYOSHI_SHORT">
+			<Text>Gekokujo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_HIDEYOSHI">
+			<Text>Upon capturing an enemy City, the Unit who captured it receives the Leadership Promotion. Great Generals and Combat Units with the Leadership Promotion act as Courthouses when stationed in Occupied Cities.</Text>
+		</Row>
+
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_SENSHI_ASHIGARU">
+			<Text>Ashigaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_ASHIGARU_STRATEGY">
+			<Text>The Ashigaru is a cheap and reliable infantry unit that works best when mass-produced. Though they are efficient and effective in most combat scenarios, their lack of bonuses against Mounted Units leaves your armies vulnerable to Knights! </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_ASHIGARU_HELP">
+			<Text>Unique Japanese replacement for the Pikeman under Hideyoshi. Slightly cheaper to produce than the Pikeman, it receives no Combat Bonus against Mounted Units but gains +1 Combat Strength for each adjacent Ashigaru. In addition, it upgrades to the Musketman instead of the Lancer, and will instantly upgrade to a Musketman if it personally captures a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_ASHIGARU_TEXT">
+			<Text>Ashigaru, meaning light foot, were infantry employed by the samurai class of feudal Japan. The first known reference to ashigaru was in the 14th century, but the use of ashigaru became prevalent during the Ashikaga shogunate. Ashigaru were commonly armed with naginata, yari, yumi and swords. Ashigaru armour varied depending on the period, from no armour to heavily armored and could consist of conical hats called jingasa made from iron, copper, wood, paper, bamboo, or leather. Those who were given control of ashigaru were called ashigarugashira. One of the most famous ashigarugashira was Toyotomi Hideyoshi, who also raised many of his warrior followers to samurai status.</Text>
+		</Row>
+
+		<!--Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_WAJO">
+			<Text>Wajo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_WAJO_STRATEGY">
+			<Text>The Wajo is a great building in both offensive and defensive wars. Its low production cost and lack of prerequisites allows you to build up strong defensive cities with very little investment, and when built in a captured city it is an effective method of whittling down the former owner's remaining land. One strategy with the Wajo is to capture Cities from a large opponent in one war, then rush to build Wajos in these cities at the beginning of a later war, quickly draining health from your enemy's remaining Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_WAJO_HELP">
+			<Text>Unique Japanese replacement for the Castle under Hideyoshi. The Wajo costs only half the Production of the Castle, and does not require Walls to be built. When constructed in a captured City, it damages every City owned by its original owner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_SENSHI_WAJO_TEXT">
+			<Text>The Wajo were hastily built castles, primarily used as outposts and garrisons along the southern coast of Korea during the Japanese invasion of Korea, known as the Imjin War. The military typically built artificial hills or plateaus upon which they placed wooden walls, towers and internal structures that closely matched the characteristic style of traditional Japanese castles, which were known as shiro. These often were semi-temporary, and were also used for psychological warfare purposes. A classic example, although used in the Azuchi–Momoyama period unification wars, was Ishigakiyama Ichiya Castle, which was constructed in secret in a wooded area over an 80 day period, so that when the trees were cut one night, the castle suddenly appeared.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_WAJO_NOTIFICATION">
+			<Text>All our Cities have suffered damage by the Wajo constructed in {1_CityName}!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

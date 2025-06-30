@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="37f03821-37bc-4f60-b089-c280dc3218aa" version="1">
+  <Properties>
+    <Name>[BNW] Colonialist Legacies - The Tlingit</Name>
+    <Teaser>A re-upload of the old CL Tlingit mod</Teaser>
+    <Description>A re-upload of the old CL Tlingit mod with some fixes to the code/city list/icon</Description>
+    <Authors>CL + Firebug</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact's Events &amp; Decisions" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD's Sovereignty" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's and Pouakai's Mercenaries" />
+    <Mod id="fe245559-0525-41bb-9e1c-b281e018b5fc" minversion="0" maxversion="999" title="Civilization Appropriate Great General and Admiral Names" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Cities in Development" />
+    <Mod id="34c6919a-fcb5-44cf-8a76-78380dbc39ab" minversion="0" maxversion="999" title="JFD's Chartered Ventures" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="F13912F02A99A0C544FBE5B0F08B8DDE" import="1">Art/CL_Shakes_Scene.dds</File>
+    <File md5="5BF9AB653FBFDFAE25686E4E2CC3248A" import="1">Art/CL_Tlingit_Flag.dds</File>
+    <File md5="7E8C3CA93A752755465A695916A13415" import="1">Art/NoowIcon45.dds</File>
+    <File md5="BEFE7F80A16F261F214BB6AA35588D3F" import="1">Art/NoowIcon64.dds</File>
+    <File md5="9D14F6BF8D4E11ABB3A3A46F8B739FE2" import="1">Art/sv_CL_Xaa.dds</File>
+    <File md5="6B8340F2A86C4CCD1C9332B437956824" import="1">Art/TlingitAlpha128.dds</File>
+    <File md5="69876D981B1F4C1E00AF9F0B599C7835" import="1">Art/TlingitAlpha16.dds</File>
+    <File md5="17B5FF9F8C4DB7C4BE99060DC256558A" import="1">Art/TlingitAlpha24.dds</File>
+    <File md5="9D2FFCC13ADC536BE774C764956EFE43" import="1">Art/TlingitAlpha256.dds</File>
+    <File md5="BE7D78153EEAAF7AAB7EED37BA040CF6" import="1">Art/TlingitAlpha32.dds</File>
+    <File md5="4B3A369091FAED99CE31E39725FC54BE" import="1">Art/TlingitAlpha45.dds</File>
+    <File md5="CA6338A9FF5024CC75E8B937F718C9C6" import="1">Art/TlingitAlpha48.dds</File>
+    <File md5="94CD555D8502C50C0F9FC81508B5CCCD" import="1">Art/TlingitAlpha64.dds</File>
+    <File md5="43284669D121786B20322CB02A0861E9" import="1">Art/TlingitAlpha80.dds</File>
+    <File md5="1132B632F1C7BF25BAA7726F4D68D789" import="1">Art/TlingitAtlases.xml</File>
+    <File md5="3E8F91AE0DA4A47AB24631B2F106CDE5" import="1">Art/TlingitDOM.dds</File>
+    <File md5="D5324B5D08B0C5AE0089BAC2B796E373" import="1">Art/TlingitIconAtlas128.dds</File>
+    <File md5="A583B6D08786EDB8E9B6344844D7E24B" import="1">Art/TlingitIconAtlas16.dds</File>
+    <File md5="CBEACB226F0DCD5645617D6F9680EFE7" import="1">Art/TlingitIconAtlas24.dds</File>
+    <File md5="B4B4551F209357B9F4627DED5B5E8242" import="1">Art/TlingitIconAtlas256.dds</File>
+    <File md5="EAD220A0E9DA65755519EF900FF3DB00" import="1">Art/TlingitIconAtlas32.dds</File>
+    <File md5="231505F2395669D58D949DBBC0DE7918" import="1">Art/TlingitIconAtlas45.dds</File>
+    <File md5="6A087143B76BAFEC474872E1CBF63DA9" import="1">Art/TlingitIconAtlas48.dds</File>
+    <File md5="9C772F8EE149DC4737198B9D29B02C7B" import="1">Art/TlingitIconAtlas64.dds</File>
+    <File md5="31EAD26F4FBF23CF061E82C9E4D64E92" import="1">Art/TlingitIconAtlas80.dds</File>
+    <File md5="3B0E23D7D369FB441FC5CA3E0986D321" import="1">Art/TlingitMap.dds</File>
+    <File md5="42D0D93246844585B2395190AD2D95AF" import="0">Core/Civilization.xml</File>
+    <File md5="91DEC3A4E58A0726BCCDAA6411A6D00C" import="1">Core/CL_Shakes_Scene.xml</File>
+    <File md5="0D022019378CE02CFF6B5E5CB2F147D3" import="0">Core/DiplomacyResponses.xml</File>
+    <File md5="9235074C4564D07C26D739B813258B45" import="0">Core/GameText.xml</File>
+    <File md5="4F40154E8AF5311B5133246A817E1296" import="0">Core/Improvement.xml</File>
+    <File md5="219C7E95E5FBB01759B31317E898FBD6" import="0">Core/Leader.xml</File>
+    <File md5="6D18B6B40EF7E72B1A71E4DB00C038F3" import="0">Core/Promotions.xml</File>
+    <File md5="3B8EF703371C5426F54B3C360CCAB18F" import="0">Core/Trait.xml</File>
+    <File md5="1B6231446E0B5E0EAB033093B3BF6A18" import="0">Core/Unit.xml</File>
+    <File md5="5E00665166D13CDBFEAFFD20B08BD662" import="1">Improvement Graphic/ArtDefines.sql</File>
+    <File md5="C7D85AF0C1AA90F45AD75CB908A937C9" import="1">Improvement Graphic/fx_triggers_tlingitsettlement.ftsxml</File>
+    <File md5="D3CB178C76E0361D4CCD6749B70A10F5" import="1">Improvement Graphic/iroqueseWall_cm.dds</File>
+    <File md5="A0BE6F31EAC6E4CB21EF756AB97F539C" import="1">Improvement Graphic/irouqeseTemple_cm.dds</File>
+    <File md5="F0358BE768E5A8B72731FC8418AD4DE5" import="1">Improvement Graphic/Tlingit Settlement.png</File>
+    <File md5="8EA26BCFA341F2E7A29FC907E6162C82" import="1">Improvement Graphic/TlingitSettlement Ground H.dds</File>
+    <File md5="2EDBB0B5BEE7EE6FE9EA0654A7CE87ED" import="1">Improvement Graphic/TlingitSettlement Ground.dds</File>
+    <File md5="68C6F8B93E1A69C6116618144984B63C" import="1">Improvement Graphic/TlingitSettlement Icon.png</File>
+    <File md5="4F168C088FFB346A3DF4EFE27CB1F6C6" import="1">Improvement Graphic/TlingitSettlement2 HB.gr2</File>
+    <File md5="D2D28B30214B73BCA7C92B3ACD1A0A95" import="1">Improvement Graphic/TlingitSettlement2 PL.gr2</File>
+    <File md5="1E121432457965AC1D1F8435CE455425" import="1">Improvement Graphic/TlingitSettlement2.gr2</File>
+    <File md5="ED0AC22CA0F0B1DC311813EC15B4402E" import="1">Improvement Graphic/WTI_B.fxsxml</File>
+    <File md5="14D1736F5A9CA2E519268A1E38450277" import="1">Improvement Graphic/WTI_HB.fxsxml</File>
+    <File md5="FA923BED0FE25622382A5679073CA12E" import="1">Improvement Graphic/WTI_PL.fxsxml</File>
+    <File md5="20A4190F634178EE105929816B1B8872" import="0">Lua/TlingitFunctions.lua</File>
+    <File md5="114798BB20D4D0B44C46F345E7CDA21B" import="0">Mod Support/ModText.xml</File>
+    <File md5="630100CBBF13472D2A5F99F9D17B0CCF" import="0">Mod Support/Tlingit YNAEMP.sql</File>
+    <File md5="F310F1D0256AD219B0D5BDA3A4B7874B" import="0">Mod Support/TlingitDecisions.lua</File>
+    <File md5="A9D0B945E952E6228B3D263F694BE951" import="0">Mod Support/TlingitDecisions.sql</File>
+    <File md5="C4B0BD54E61A9B940259FA5B12054E98" import="0">Mod Support/TlingitSupport.sql</File>
+    <File md5="176769218B0D5FB7871606A616093DAB" import="0">Mod Support/YNAEMP Resources.sql</File>
+    <File md5="E4F7AE1560BDB59485516EA7BE87FC33" import="0">Sounds/Music.xml</File>
+    <File md5="5487AA8883ED890AF8F7611C698790BD" import="1">Sounds/Tlingit Peace.mp3</File>
+    <File md5="254209AF5FA45F64A8FFCDAA66B94CC6" import="1">Sounds/Tlingit War.mp3</File>
+    <File md5="27FF4CE561B3AF28795F5E2A7A0DA6F0" import="1">Unit Art/TlingitUnitArt.xml</File>
+    <File md5="853006138DBD6511C536DC6C3D43F346" import="1">Unit Art/tlingit_rifleman.fxsxml</File>
+    <File md5="095EC13B1355E129400242B21E77A605" import="1">Unit Art/tlingit_rifleman.gr2</File>
+    <File md5="21EFFEFF34A057B09AA13B504DCD9D04" import="1">Unit Art/tlingit_rifleman2.fxsxml</File>
+    <File md5="8BC9155F0609014FAA9AF6CE6E89A674" import="1">Unit Art/tlingit_rifleman2.gr2</File>
+    <File md5="8891A0B0C2BE488E670510BD3AA0E0B1" import="1">Unit Art/tl_body.dds</File>
+    <File md5="8B1248AA672B5C75B541AD87F2BE159F" import="1">Unit Art/tl_hair_rifle.dds</File>
+    <File md5="626485677591639913E49FF8651E4BAC" import="1">Unit Art/tl_helmet_combo.dds</File>
+    <File md5="19BF32382D4D733DEDEE1319A8B8713B" import="1">Unit Art/tl_vest.dds</File>
+    <File md5="45FB723D9FE5E69175FE9D63117084B6" import="1">Unit Art/tl_vest2.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/TlingitAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Unit.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Improvement.xml</UpdateDatabase>
+      <UpdateDatabase>Unit Art/TlingitUnitArt.xml</UpdateDatabase>
+      <UpdateDatabase>Improvement Graphic/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/TlingitSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Sounds/Music.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/ModText.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/Tlingit YNAEMP.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/TlingitFunctions.lua">
+      <Name>TlingitLua</Name>
+      <Description>Tlingit Lua</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

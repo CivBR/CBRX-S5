@@ -1,0 +1,15 @@
+<Context>
+	<GridButton Anchor="R,T" ID="UnitActionButton_Small" Size="36,36" Offset="0,0"  Style="SmallButton2"  Hidden="1" ToolTipType="TypeUnitAction_MC_Mysore_RocketResupply">
+        <Image Anchor="C,C" Offset="0,0" Size="45,45" Texture="" ID="UnitActionIcon_Small" />
+    </GridButton>
+    <GridButton Anchor="R,T" ID="UnitActionButton" Size="50,50" Offset="0,0"  Style="SmallButton2"  Hidden="1" ToolTipType="TypeUnitAction_MC_Mysore_RocketResupply">
+        <Image Anchor="C,C" Offset="0,0" Size="64,64" Texture="" ID="UnitActionIcon" />
+    </GridButton>
+	<ToolTipType Name="TypeUnitAction_MC_Mysore_RocketResupply" >
+		<Grid Size="530,90" Offset="8.0" Padding="8,8" Style="GridBlack8"  ID="UnitActionMouseover" NoClip="1" >
+			<Label   Anchor="R,T"  Offset="8,8" ColorSet="Beige_Black" Font="TwCenMT20" FontStyle="Shadow" String="(M)" ID="UnitActionHotKey" />
+			<Label   Offset="12,10" ColorSet="Beige_Black" Font="TwCenMT20" FontStyle="Shadow" String="Button Name" ID="UnitActionText" />
+			<Label   Offset="12,28" ColorSet="Beige_Black" Font="TwCenMT16" ID="UnitActionHelp" String="description" LeadingOffset="-5" WrapWidth="450" />
+		</Grid>
+	</ToolTipType>
+</Context>

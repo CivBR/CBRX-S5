@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="beaadc80-b861-473c-b137-f6f7c90981d3" version="1">
+  <Properties>
+    <Name>MC's Yanomami</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]Yanomami[ENDCOLOR] under [COLOR_POSITIVE_TEXT]Davi Kopenawa[ENDCOLOR] to the game as a playable c</Teaser>
+    <Description>Adds the [COLOR_POSITIVE_TEXT]Yanomami[ENDCOLOR] under [COLOR_POSITIVE_TEXT]Davi Kopenawa[ENDCOLOR] to the game as a playable civilisation.</Description>
+    <Authors>More Civs</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="0" maxversion="999" title="Additional Achievements" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="4481BB8E149E7BDB71CCB77990D44009" import="1">Art/Atlases/MC_Yanomami_128.dds</File>
+    <File md5="0DFD651C96B15107EBC791724CABC104" import="1">Art/Atlases/MC_Yanomami_24.dds</File>
+    <File md5="9468D5708F66019A04647E3FDD559012" import="1">Art/Atlases/MC_Yanomami_256.dds</File>
+    <File md5="49FE0887C2C2A34DC4B6AF5064EFFF2B" import="1">Art/Atlases/MC_Yanomami_32.dds</File>
+    <File md5="E06E27151D99C5F0E1CE50CB735F6681" import="1">Art/Atlases/MC_Yanomami_45.dds</File>
+    <File md5="4DF13E59A8EA65CD7C10C2BD20FF6C36" import="1">Art/Atlases/MC_Yanomami_48.dds</File>
+    <File md5="CC95D6AB78F8CCD79D33E58854204703" import="1">Art/Atlases/MC_Yanomami_64.dds</File>
+    <File md5="F15055F025FDF0614B52319F70FDA7D5" import="1">Art/Atlases/MC_Yanomami_80.dds</File>
+    <File md5="0907488D02E6C2AF00E2EE723D650609" import="1">Art/Atlases/MC_Yanomami_Alpha_128.dds</File>
+    <File md5="1A39751E6158AF59865AF8DFBCFCAD28" import="1">Art/Atlases/MC_Yanomami_Alpha_16.dds</File>
+    <File md5="A993CA6EEB19A1A91FBA093CCACFD374" import="1">Art/Atlases/MC_Yanomami_Alpha_24.dds</File>
+    <File md5="7F37742D9070CD676DF76AAC9620BAB0" import="1">Art/Atlases/MC_Yanomami_Alpha_256.dds</File>
+    <File md5="D4B943E90B7BA1A419E5EFAF7FDA036D" import="1">Art/Atlases/MC_Yanomami_Alpha_32.dds</File>
+    <File md5="F8FA37B4C093D08597A30C72613D0533" import="1">Art/Atlases/MC_Yanomami_Alpha_48.dds</File>
+    <File md5="B95D8D0253F5AF3246291A3B0C63D6E0" import="1">Art/Atlases/MC_Yanomami_Alpha_64.dds</File>
+    <File md5="5289C34F97C9E95DF93A8FA9ABB23137" import="1">Art/Models/MC_CurareDartblowerUnitFlag_32.dds</File>
+    <File md5="4004F6CCDC53EA1782A1F2412C9FF629" import="1">Art/Models/sv_CurareDartblower.dds</File>
+    <File md5="A012F5B05C3D748B08E3BAA147741D91" import="1">Art/Models/Curare Dartblower/er_mc_dartblower.fxsxml</File>
+    <File md5="7E4462C1BEADCEE722031593E434B590" import="1">Art/Models/Curare Dartblower/er_mc_dartblower.gr2</File>
+    <File md5="9408E196430EB40C6610B76FFA2BDE43" import="1">Art/Models/Curare Dartblower/er_mc_dartblower_diff.dds</File>
+    <File md5="AE7298B033421B05EDD53ECE47E97F13" import="1">Art/Models/Curare Dartblower/fx_triggers_er_mc_dartblower.ftsxml</File>
+    <File md5="6E79240DD7A9BE6AB018F48ED65456FB" import="1">Art/Models/Curare Dartblower/no_gloss_4x4.dds</File>
+    <File md5="ED92E26B90040ABCF3DF4E3CBB2E7B9E" import="1">Art/Scenes/MC_Yanomami_DoM.dds</File>
+    <File md5="207DA7311990EDCEF08203EEAC3DE446" import="1">Art/Scenes/MC_Yanomami_Leaderscene.dds</File>
+    <File md5="6404DB10260E8507CECCB2F2C7EB3443" import="1">Art/Scenes/MC_Yanomami_Map.dds</File>
+    <File md5="11B699961E6BF65233C872682E387986" import="1">Core/Art/MC_Yanomami_Leaderscene.xml</File>
+    <File md5="55C8B5120677506EE35928C2EA286497" import="0">Core/Art/MC_DartblowerArtDef.sql</File>
+    <File md5="359B406EA8A150F4D5100C2FCCFA063C" import="0">Core/Buildings/MC_Yanomami_Buildings.sql</File>
+    <File md5="4E5DD7DF21C07A77F8D26663223C0D89" import="0">Core/Civilizations/MC_Yanomami_Civilizations.sql</File>
+    <File md5="10A33B97CD5536085EA1056E4E7C2E77" import="0">Core/GameInfo/MC_Yanomami_IconTextureAtlases.sql</File>
+    <File md5="FCB895EFB236ED133CA3048CBC4A0A6F" import="0">Core/GameInfo/MC_Yanomami_Sounds.xml</File>
+    <File md5="1E3ABE68F9BF773D270D1CCA5EE02F16" import="0">Core/Leaders/MC_Yanomami_Leader.sql</File>
+    <File md5="5ECC8A26B81B1F0B1ABE1EB3F77E09C2" import="0">Core/Text/MC_Yanomami_Text.xml</File>
+    <File md5="40E7780BB2406785C832C1571DC2C793" import="0">Core/Units/MC_Yanomami_UnitPromotions.sql</File>
+    <File md5="E3C508443486FD8E61381A7E9634F685" import="0">Core/Units/MC_Yanomami_Units.sql</File>
+    <File md5="78E29FF36B34B2124C0DF8BF4B8C9EC2" import="0">Lua/PlotIterators.lua</File>
+    <File md5="F9AC3952C0815DAA55D6B165DC446472" import="0">Lua/MC_Yanomami_Functions.lua</File>
+    <File md5="F4F4E782DBBA6062A860AEFDE5724837" import="0">Mod Support/MC_Yanomami_ModSupport.sql</File>
+    <File md5="BB6A7FC898B5AE99192BCBC6A652C7A4" import="1">Sounds/MC_Yanomami_Peace.mp3</File>
+    <File md5="C77EAB9BFD889DBE91C898F3894E8023" import="1">Sounds/MC_Yanomami_War.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Art/MC_DartblowerArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Art/MC_Yanomami_Leaderscene.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings/MC_Yanomami_Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations/MC_Yanomami_Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Yanomami_IconTextureAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Yanomami_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaders/MC_Yanomami_Leader.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Text/MC_Yanomami_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_Yanomami_UnitPromotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_Yanomami_Units.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support/MC_Yanomami_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/MC_Yanomami_Functions.lua">
+      <Name>MC Yanomami Functions</Name>
+      <Description>Functions for MC's Yanomami</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

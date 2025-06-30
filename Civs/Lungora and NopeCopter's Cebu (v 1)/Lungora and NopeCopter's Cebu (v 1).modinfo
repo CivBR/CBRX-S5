@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="5d1622b3-3592-4a0b-aa62-c54c14018b8e" version="1">
+  <Properties>
+    <Name>Lungora and NopeCopter's Cebu</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Rajahnate of Cebu under Humabon to Civilization V.</Teaser>
+    <Description>Adds the Rajahnate of Cebu under Humabon to Civilization V.</Description>
+    <Authors>Lungora, NopeCopter</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="90610ABB61DEE694BD310FA69510AE53" import="1">Art/Graphics/Barangay/Coracle_256.dds</File>
+    <File md5="FC57BB14E0E85FFF1745668A61CAA7EA" import="1">Art/Graphics/Barangay/southpacific.dds</File>
+    <File md5="C1E942858990B65B29879599F417FE1D" import="1">Art/Graphics/Barangay/sv_Kampung.dds</File>
+    <File md5="B19F71F371126E70F51778820660DD2D" import="1">Art/Graphics/Barangay/Water Village B.fxsxml</File>
+    <File md5="AA3EC33C6E724DC6841189C7E901DC1B" import="1">Art/Graphics/Barangay/Water Village HB.fxsxml</File>
+    <File md5="EA5CCBB5CAA3F53B6E381C255339111C" import="1">Art/Graphics/Barangay/Water Village HB.gr2</File>
+    <File md5="8DB95EFDBC3429051D9012C7D1C5EF51" import="1">Art/Graphics/Barangay/Water Village PL.fxsxml</File>
+    <File md5="BEE717E832CD426DBEBCD6DC4731B867" import="1">Art/Graphics/Barangay/Water Village PL.gr2</File>
+    <File md5="613A6736D630F09D0B9E9CD820D8C095" import="1">Art/Graphics/Barangay/Water Village.gr2</File>
+    <File md5="A15DCEF7A2D600774C7D2CB923158DCB" import="1">Art/Graphics/Timawa/sv_BatallonCivico.dds</File>
+    <File md5="08D83B04F9B2BFC3EE0CA71C32C90971" import="1">Art/Graphics/Timawa/sv_timawa.dds</File>
+    <File md5="D6F413A99BD9BAF6AC7B526AE07DDF7C" import="1">Art/Graphics/Timawa/timawa_unitflag.dds</File>
+    <File md5="256EF065379CE187B500BA31F05662EE" import="1">Art/Graphics/Timawa/u_malaysian_silat.fxsxml</File>
+    <File md5="C6DB2A4F67407F30360417C5A4474E83" import="1">Art/Graphics/Timawa/u_malaysian_silat.gr2</File>
+    <File md5="4651F804CFAC247D1FDB2F2CC9FF519A" import="1">Art/Graphics/Timawa/u_malaysian_silat_diff.dds</File>
+    <File md5="AB1247F2D35D3B358BF79F631DF30FCD" import="1">Art/Graphics/Timawa/u_malaysian_silat_sref.dds</File>
+    <File md5="4DD576BEC33FA9183F20B784D4812FE4" import="1">Art/Icons/cebuAlpha_128.dds</File>
+    <File md5="5F2F10FD947FCB57B2239F5E2CCA9DF2" import="1">Art/Icons/cebuAlpha_16.dds</File>
+    <File md5="78FDBAF26BB3030A92F5D29198944550" import="1">Art/Icons/cebuAlpha_24.dds</File>
+    <File md5="56A69C6BCCDB9975E7AB55F6AB4EF023" import="1">Art/Icons/cebuAlpha_32.dds</File>
+    <File md5="62DE087FB3F323226D147332DF7FFF0E" import="1">Art/Icons/cebuAlpha_45.dds</File>
+    <File md5="A36FDA150883DAFC9EBE424CB072EF3A" import="1">Art/Icons/cebuAlpha_48.dds</File>
+    <File md5="BC5A5355499D16291B19FB6202C11E50" import="1">Art/Icons/cebuAlpha_64.dds</File>
+    <File md5="A19B4561FE4703D41260AD6749385DD0" import="1">Art/Icons/cebuAlpha_80.dds</File>
+    <File md5="DBE7A14A6271F205E9FFAD491D490FCB" import="1">Art/Icons/NC_Cebu_AlphaAtlas_128.dds</File>
+    <File md5="380DDB28ACF6201CD3AA78B28C45649E" import="1">Art/Icons/NC_Cebu_AlphaAtlas_16.dds</File>
+    <File md5="AEF42296D0BF54DBA4A610869C862BE9" import="1">Art/Icons/NC_Cebu_AlphaAtlas_24.dds</File>
+    <File md5="B49EE7CA2E93C514BD6C5DD92623DA8C" import="1">Art/Icons/NC_Cebu_AlphaAtlas_32.dds</File>
+    <File md5="B1FD10D140907E67C40C8E4942F59C5D" import="1">Art/Icons/NC_Cebu_AlphaAtlas_45.dds</File>
+    <File md5="BB854B23191A905D6A9C39F7D38A4108" import="1">Art/Icons/NC_Cebu_AlphaAtlas_48.dds</File>
+    <File md5="3F9967F79737A5861D45A1811772BD3B" import="1">Art/Icons/NC_Cebu_AlphaAtlas_64.dds</File>
+    <File md5="33C604E6376297E42983BC38E41F85DE" import="1">Art/Icons/NC_Cebu_AlphaAtlas_80.dds</File>
+    <File md5="D9AA7377623234AEBE743E40888CBA82" import="1">Art/Icons/NC_Cebu_IconAtlas_128.dds</File>
+    <File md5="6C8B00AFD36E148C5B38529323209EED" import="1">Art/Icons/NC_Cebu_IconAtlas_256.dds</File>
+    <File md5="21C9F71B712AD95E5C88CEC4943BA30A" import="1">Art/Icons/NC_Cebu_IconAtlas_32.dds</File>
+    <File md5="8AD19D114606639824B6CB44F319DC7D" import="1">Art/Icons/NC_Cebu_IconAtlas_45.dds</File>
+    <File md5="6F8B3406B20FB21B602CDE12220587D3" import="1">Art/Icons/NC_Cebu_IconAtlas_64.dds</File>
+    <File md5="3913C9583F6E9534779DEAB5CDCE2842" import="1">Art/Icons/NC_Cebu_IconAtlas_80.dds</File>
+    <File md5="6BEE2AFEF0FE1E617EA4BD0D380C4F4F" import="1">Art/Icons/NC_Cebu_UnitFlagAtlas_32.dds</File>
+    <File md5="8A9784E5429B01F5152EAEBC05956262" import="1">Art/Leaderscene/NC_Cebu_Diplo.dds</File>
+    <File md5="5D0EEA0558A2900ADF3B10ED2AF36A12" import="1">Art/Leaderscene/NC_Cebu_Scene.xml</File>
+    <File md5="B06106A0AEAAF152D2DCEB5DDDA9B4FB" import="1">Art/Maps/NC_DOM_Cebu.dds</File>
+    <File md5="135E5D401755486E744C851E17341576" import="1">Art/Maps/NC_MapCebu512.dds</File>
+    <File md5="0947A122222CF930782DB4FC3CB6A5E5" import="0">Core/NC_Cebu_ArtDefines.sql</File>
+    <File md5="522B6747EDC5BDC699ABCA775EE0FB0F" import="0">Core/NC_Cebu_GameDefines.sql</File>
+    <File md5="7D42A567E3DA3829CD3BF12F795D893D" import="1">Core/NC_Cebu_GameText.xml</File>
+    <File md5="B1256DD7236688F11620A28A8826CC8B" import="0">Core/NC_Cebu_ModSupport.sql</File>
+    <File md5="2BCB05388B467D5FE8CB23ED94432EEA" import="0">Lua/Cebu_Functions.xml</File>
+    <File md5="793BBF6FAE7191ED2D69FC13A2836B31" import="0">Lua/Cebu_Functions.lua</File>
+    <File md5="BD04B79EEA028E2D8FBD88B262474F5B" import="1">Lua/TSL/Cebu_GlobalDefines.lua</File>
+    <File md5="0B8ECBCF556CE490E5D494E61077557C" import="1">Lua/TSL/Cebu_TSLSerializerV3.lua</File>
+    <File md5="CD3E8C278CE1FD36806AA4CF6BE3BF88" import="1">Lua/TSL/TableSaverLoader016.lua</File>
+    <File md5="69FCADF0D2AE7C0C2CEC9D821AD41883" import="1">Lua/TSL/TSLSerializerCoreV3.lua</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/NC_Cebu_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/NC_Cebu_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/NC_Cebu_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/NC_Cebu_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Cebu_Functions.lua">
+      <Name>Lua Functions</Name>
+      <Description>function deez nuts</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

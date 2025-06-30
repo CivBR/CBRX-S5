@@ -1,0 +1,32 @@
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_SENSHI_JINNAH_PEACE</SoundID>
+			<Filename>PakistanPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_SENSHI_JINNAH_WAR</SoundID>
+			<Filename>PakistanWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_SENSHI_JINNAH_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_SENSHI_JINNAH_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>75</MinVolume>
+			<MaxVolume>75</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_SENSHI_JINNAH_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_SENSHI_JINNAH_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>75</MinVolume>
+			<MaxVolume>75</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

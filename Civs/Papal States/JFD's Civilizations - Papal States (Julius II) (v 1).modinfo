@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="32168172-0f86-4ccf-9fc5-a97b471eb7e4" version="1">
+  <Properties>
+    <Name>JFD's Civilizations - Papal States (Julius II)</Name>
+    <Teaser>Adds [COLOR_CYAN]Papal States under Julius II[ENDCOLOR]. Click for details.</Teaser>
+    <Description>THE PAPAL STATES (JULIUS II)[NEWLINE][NEWLINE]UNIQUE TRAIT: THE WARRIOR POPE[NEWLINE]Capturing a city with followers of your main Religion reduces its [ICON_RESISTANCE] Resistance and grants [ICON_GREAT_PEOPLE] Cultural Great People Points in the [ICON_CAPITAL] Capital. Religious Units provide different effects to nearby friendly or enemy Units.[NEWLINE][NEWLINE]UNIQUE BUILDING: CHAPEL (TEMPLE)[NEWLINE]The Chapel is the unique Temple replacement for the Papal States under Julius II. This building may be constructed three times in any city, each possessing either a Great Work of Art, Music, or Literature slot. The second Chapel requires the city to have at least 7 followers of your main Religion in order to be built, whilst the third requires at least 14 followers.[NEWLINE][NEWLINE]UNIQUE UNIT: SWISS GUARD (LANDSKNECHT)[NEWLINE]The Swiss Guard is a unique unit of the Papal States under Julius II, replacing the Landsknecht. The Swiss Guard does not gain the same bonuses as the Landsknecht except its combat bonus vs Mounted Units. It also can only be purchased (with either [ICON_GOLD] Gold or [ICON_PEACE} Faith) and can move after purchase, although it can only be purchased in the [ICON_CAPITAL] Capital. It does not require a Social Policy to unlock, however. The Swiss Guard receives the [ICON_STRENGTH] Combat Strength of the strongest available unit along the Pikeman line when trained or promoted. In addition, the Swiss Guard heals 50 damage every time it defeats an enemy unit in the borders of the [ICON_CAPITAL] Capital. This unit does not obsolete.</Description>
+    <Authors>JFD, DarthKyofu, Arilasqueto, Janboruta, Zharques</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="F7F6A7C7832E8130B2311A6DC641251C" import="1">Art/Graphics/Swiss Guard/DBaro2nClay_gloss.dds</File>
+    <File md5="9A5E69D7340765F000790541CC6755AD" import="1">Art/Graphics/Swiss Guard/DBaronClay.dds</File>
+    <File md5="7E757C5335C8A3FBF442B564101B6062" import="1">Art/Graphics/Swiss Guard/hal_diff.dds</File>
+    <File md5="1DC029A536B20446BC3CDB287B49D729" import="1">Art/Graphics/Swiss Guard/hal_sref.dds</File>
+    <File md5="A6CCDE935AFD654B6803717FFF4773C6" import="1">Art/Graphics/Swiss Guard/reislaufer.fxsxml</File>
+    <File md5="3D36419D064FA3CBC66CF56B55D00C41" import="1">Art/Graphics/Swiss Guard/reislaufer.gr2</File>
+    <File md5="C7B29545045C165420D4458713A66093" import="1">Art/Graphics/Swiss Guard/reislaufer_diff.dds</File>
+    <File md5="C4EF6BC224F8A95D1DC3DDD0EEE009B2" import="1">Art/Graphics/Swiss Guard/reislaufer_sref.dds</File>
+    <File md5="5632FD033DFBC01D596860C64D09DAA7" import="1">Art/Graphics/Swiss Guard/SV_SwissGuard.dds</File>
+    <File md5="0C933A72ECFCF51610C12739F4DE4B6E" import="1">Art/Graphics/Swiss Guard/swiss_sword.fxsxml</File>
+    <File md5="D7D5EB343C58F54C94F796CC311D01F7" import="1">Art/Graphics/Swiss Guard/swiss_sword.gr2</File>
+    <File md5="87D64547BC179A5B6FCD86E3E6717C02" import="1">Art/Icons/JFD_PapalStatesJuliusII_AlphaAtlas_128.dds</File>
+    <File md5="9786CA2BE68DAB8FF82F56EBFBF2DEC4" import="1">Art/Icons/JFD_PapalStatesJuliusII_AlphaAtlas_16.dds</File>
+    <File md5="37C1944071CCA6ABD63E4F169DAB8370" import="0">Art/Icons/JFD_PapalStatesJuliusII_AlphaAtlas_22.dds</File>
+    <File md5="47F8F81A14B08FC063B9B8FD3FE9DB61" import="1">Art/Icons/JFD_PapalStatesJuliusII_AlphaAtlas_24.dds</File>
+    <File md5="DC46BEFD7779DC03324DA3963276E86B" import="0">Art/Icons/JFD_PapalStatesJuliusII_AlphaAtlas_256.dds</File>
+    <File md5="5DFBC2A91A77D612224CDD1C29658C8B" import="1">Art/Icons/JFD_PapalStatesJuliusII_AlphaAtlas_32.dds</File>
+    <File md5="EC5F324E69303430490D2B62BF62EFFF" import="1">Art/Icons/JFD_PapalStatesJuliusII_AlphaAtlas_45.dds</File>
+    <File md5="3E8362E7D21B1B28963E31A7322AB29E" import="1">Art/Icons/JFD_PapalStatesJuliusII_AlphaAtlas_48.dds</File>
+    <File md5="BBA62B27DE131865912A36AEBB5E08D4" import="1">Art/Icons/JFD_PapalStatesJuliusII_AlphaAtlas_64.dds</File>
+    <File md5="F6FB7D82B7286FBA6205302A9876B296" import="1">Art/Icons/JFD_PapalStatesJuliusII_AlphaAtlas_80.dds</File>
+    <File md5="5A3D535C4673F4465AE174FD5A5E1972" import="1">Art/Icons/JFD_PapalStatesJuliusII_IconAtlas_128.dds</File>
+    <File md5="CE263AA577C54D0CF7CF1953A0D2BFB2" import="1">Art/Icons/JFD_PapalStatesJuliusII_IconAtlas_256.dds</File>
+    <File md5="7C21BD08CD1EC4D582E030BC7E6C0652" import="1">Art/Icons/JFD_PapalStatesJuliusII_IconAtlas_32.dds</File>
+    <File md5="ADE566076C0C5CC789276385062CC727" import="1">Art/Icons/JFD_PapalStatesJuliusII_IconAtlas_45.dds</File>
+    <File md5="A0DB11EBD26B9AFA295F15265142EAA1" import="1">Art/Icons/JFD_PapalStatesJuliusII_IconAtlas_64.dds</File>
+    <File md5="28D3A187D9A288ED5498BD8E44D0819E" import="1">Art/Icons/JFD_PapalStatesJuliusII_IconAtlas_80.dds</File>
+    <File md5="C1D745CF91073EECDB731752F9F6DD92" import="1">Art/Icons/JFD_PapalStatesJuliusII_UnitFlagAtlas_32.dds</File>
+    <File md5="6E7C04F182B668EC2728A213326D906E" import="1">Art/Leaderscene/JFD_PapalStatesJuliusII_Diplo.dds</File>
+    <File md5="D235E13DC942F9AA60A1E803DD228282" import="1">Art/Leaderscene/JFD_PapalStatesJuliusII_Scene.xml</File>
+    <File md5="34570C4FD508F74E4F91D77AF9722523" import="1">Art/Maps/JFD_DOM_PapalStatesJuliusII.dds</File>
+    <File md5="AE521DF100F4D1BAC79E49A36A84628B" import="1">Art/Maps/JFD_MapPapalStatesJuliusII512.dds</File>
+    <File md5="4AEF89E053D79FCA935C20A622AA8B47" import="1">Audio/JFD_PapalStatesJuliusII_Peace.mp3</File>
+    <File md5="D3933364F4080E7243B5847B2DF3658F" import="1">Audio/JFD_PapalStatesJuliusII_War.mp3</File>
+    <File md5="4049885A689AA4B53633E5830BA2160D" import="0">Core/PapalStatesJuliusII_ArtDefines.sql</File>
+    <File md5="9BED1F985C08A7CFD4FE71B3957E22D8" import="0">Core/PapalStatesJuliusII_GameDefines.sql</File>
+    <File md5="B96A3CCC8DAD3F457E39EC2F88E9EFB8" import="0">Core/PapalStatesJuliusII_GameText.xml</File>
+    <File md5="0B184CA5EF117D2DD3812BDE3EFBE389" import="0">Core/PapalStatesJuliusII_ModSupport.sql</File>
+    <File md5="5190FA3939851048526B4FCFC79F143F" import="0">Credits.txt</File>
+    <File md5="5BBC0F68219ABB822303E9DF0D24C560" import="0">Lua/JFD_Civs_PapalStatesJuliusII_Functions.lua</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/PapalStatesJuliusII_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PapalStatesJuliusII_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PapalStatesJuliusII_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/PapalStatesJuliusII_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_PapalStatesJuliusII_Functions.lua">
+      <Name>JFD_Civs_PapalStatesJuliusII_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

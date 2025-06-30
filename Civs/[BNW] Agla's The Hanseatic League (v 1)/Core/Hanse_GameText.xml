@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_AGLA_HANSE_WULLENWEVER_ADJECTIVE">
+			<Text>Hanseatic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AGLA_HANSE_WULLENWEVER_DESC">
+			<Text>Hanseatic League</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AGLA_HANSE_WULLENWEVER_SHORT_DESC">
+			<Text>The Hansa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AGLA_KRUPPWERK_TEXT">
+			<Text>The Hansa</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_JFD_TAL_SAXONY">
+			<Text>The Hansa</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV_AGLA_HANSE_WULLENWEVER_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AGLA_HANSE_WULLENWEVER_TEXT_1">
+			<Text>
+				The Hanseatic League[a] was a medieval commercial and defensive confederation of merchant guilds and market towns in Central and Northern Europe. Growing from a few North German towns in the late 12th century, the League expanded between the 13th and 15th centuries and ultimately encompassed nearly 200 settlements across seven modern-day countries, ranging from Estonia in the north and east, to King's Lynn, England in the west,[4][5] and Kraków, Poland, in the south.[6]
+
+				The League originated from various loose associations of German traders and towns formed to advance mutual commercial interests, such as protection against robbers. These arrangements gradually coalesced into the Hanseatic League, whose traders enjoyed toll privileges and protection in affiliated communities and their trade routes. Economic interdependence and kinship ties between merchant families, who held important positions in towns, led to deeper political integration and the removal of obstacles to trade.[7] Hanseatic Cities gradually developed common trade regulations.
+			</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_1">
+			<Text>Lübeck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_2">
+			<Text>Hamburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_3">
+			<Text>Bremen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_4">
+			<Text>Rostock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_5">
+			<Text>Kiel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_6">
+			<Text>Stralsund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_7">
+			<Text>Schwerin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_8">
+			<Text>Wisbü</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_9">
+			<Text>Wismar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_10">
+			<Text>Greifswald</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_11">
+			<Text>Anklam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_12">
+			<Text>Köln</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_13">
+			<Text>Lüneburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_14">
+			<Text>Stade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_15">
+			<Text>Zwolle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_16">
+			<Text>Kampen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_17">
+			<Text>Hasselt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_18">
+			<Text>Brügge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_19">
+			<Text>Novgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_HANSE_WULLENWEVER_20">
+			<Text>London</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_HANSE_WULLENWEVER_0">
+			<Text>Hermann</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_HANSE_WULLENWEVER_1">
+			<Text>Johann</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_HANSE_WULLENWEVER_2">
+			<Text>Friederike</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_HANSE_WULLENWEVER_3">
+			<Text>Henriette</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_HANSE_WULLENWEVER_4">
+			<Text>Wilhelmine</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_HANSE_WULLENWEVER_5">
+			<Text>Störtebeker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_HANSE_WULLENWEVER_6">
+			<Text>Anna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_HANSE_WULLENWEVER_7">
+			<Text>Fredericka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_HANSE_WULLENWEVER_8">
+			<Text>Augusta</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_HANSE_WULLENWEVER_9">
+			<Text>Maria Anna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER">
+			<Text>Jürgen Wullenwever</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_HANSE_WULLENWEVER_NAME">
+			<Text>Jürgen Wullenwever</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_HANSE_WULLENWEVER_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_HANSE_WULLENWEVER_TEXT_1">
+			<Text>
+				Wullenwever was probably born at Hamburg in 1492. Settling in Lübeck as a merchant he took some part in the risings of the inhabitants in 1530 and 1531, being strongly in sympathy with the democratic ideas in religion and politics which inspired them. Having joined the governing council of the city and become leader of the democratic party, he was appointed burgomaster early in 1533 and threw himself into the movement for restoring Lübeck to her former position of influence.
+
+				Preparations were made to attack the Dutch towns, the principal trading rivals of Lübeck, when the death of Frederick I, king of Denmark, in April 1533 changed the position of affairs. The Lübeckers objected to the bestowal of the Danish crown upon any prince favorable to the Empire or the Roman Catholic religion, and Wullenwever went to Copenhagen to discuss the matter. At length an alliance was concluded with Henry VIII of England; considerable support was obtained in North Germany; and in 1534 an attack was made on Christian, Duke of Holstein, afterwards King Christian III, who claimed the throne - involving Lübeck in the Danish civil war known as the Count's Feud.
+
+				At first the Lübeckers gained several successes, but Christian of Holstein appeared before Lübeck; the efforts of Wullenwever to secure allies failed; and the citizens were compelled to make peace. The imperial court of justice at Speyer restored the old constitution, and in August 1535 the aristocratic party returned to power. Soon afterwards Wullenwever was seized by Christopher of Brunswick-Lüneburg, archbishop of Bremen, and handed over to his brother Henry II, Duke of Brunswick-Wolfenbüttel. Having been tortured and sentenced to death as a traitor and an Anabaptist, he was beheaded at Wolfenbüttel.
+			</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_HANSE_WULLENWEVER_LIVED">
+			<Text>1492 – 29 September 1537</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_HANSE_WULLENWEVER_SUBTITLE">
+			<Text>Leader of The Hanseatic League</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_HANSE_WULLENWEVER_TITLES_1">
+			<Text>Mayor of Lübeck</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_AGLA_HANSE_WULLENWEVER_TEXT">
+			<Text> Honour and Credibility, Jürgen Wullenwever, Mayor of Lübeck and Leader of the mighty Hanseatic League. When you rose to power to secure the rights of the rising bourgeois class in the free northern cities in Germany, during the Age of Reformation, the Golden Age of Trade within the Baltics are already on its downfall. But It were you trying to rekindle the wind in the sails of the hanseatic cogs to remember the olden days when it dominated not only the Baltics, but also the North Sea in trade from London to Novgorod, from Oslo to Venice. In the end you lost the initiated Counts Feud, but your name still lives on in the rank of a folk hero.[NEWLINE][NEWLINE]Brave Jürgen Wullenwever, the folk is electing you again as the Mayor of Lübeck to bring back once held glory. Will you seek out best trade agreements and lucrative opportunities once again? Will you build a civilization that can stand the test of time?	</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_FIRSTGREETING_1">
+			<Text>Greetings and welcome, I am Mayor Jürgen Wullenwever. Care to share some beer while discussing future trade deals? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_DEFEATED_1">
+			<Text>At least I tried to keep the winds in our sails.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_ATTACKED_HOSTILE_1">
+			<Text>Once I have repelled your forces, I shall come to your palace and personally toss you from the window.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_DEC_FRIENDSHIP_1">
+			<Text>You are a worthy friend. What say you to a competition of beer drinking? And then, thereafter, we can discuss the terms of our new public Declaration of Friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_DENOUNCE_1">
+			<Text>You and your uncultured people are an eyesore.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_DENOUNCE_FRIEND_1">
+			<Text>You have wounded me. I will tell the world that you are not to be trusted.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_DOW_GENERIC_1">
+			<Text>It is plain to see that you have no appreciation for the arts. Perhaps you will have an appreciation for war instead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You insult Saxony with your expansion efforts. Stop this at once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_GREETING_HOSTILE_HELLO_1">
+			<Text>You are such a bore...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_GREETING_NEUTRAL_HELLO_1">
+			<Text>Hm?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_GREETING_POLITE_HELLO_1">
+			<Text>Always a pleasure to see you, my friend!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I see what you're trying to do and I will not have it. Remove your soldiers from my borders or face the consequences.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_LUXURY_TRADE_1">
+			<Text>Hm. I would like to negotiate terms over this luxury of yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I have need for you to open your borders to me. Do so, and I shall open all Leagues doors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_REQUEST_1">
+			<Text>I come to you with grave need. Fulfill this request, and do your part in preserving the beauty of this world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_TOO_SOON_NO_PEACE_1">
+			<Text>You ask too much.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_HANSE_WULLENWEVER_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>I will not stand here and be insulted by the likes of you.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_AGLA_HANSE_WULLENWEVER_SHORT">
+			<Text>Ere und Gelove</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_AGLA_HANSE_WULLENWEVER">
+			<Text>50% of Trade Routes going to City State do not fill a Trade Route Slot. Your Capital gets [ICON_GOLDEN_AGE] Golden Age and [ICON_GREAT_PEOPLE] Great Merchant Points for every friendly or allied City State.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_UNIT_AGLA_HANSE_COG">
+			<Text>Cog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AGLA_HANSE_COG_HELP">
+			<Text> Unique Caravel that unlocks earlier at Compass, but cannot enter ocean tiles. Shares its Movement Rate with stacked civilian units. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AGLA_HANSE_COG_STRATEGY">
+			<Text>Unique Caravel that unlocks earlier at Compass, but cannot enter ocean tiles. Shares its Movement Rate with stacked civilian units. </Text>
+		</Row>
+		<!-- C15 -->
+		<!-- I mean if you're just gonna have the texts be the same you could just make them the same TXT_KEY rather than writing it out twice... -->
+		<Row Tag="TXT_KEY_UNIT_AGLA_HANSE_COG_HELP_EE">
+			<Text>Unique Carrack replacement for The Hansa. Shares its Movement Rate with stacked civilian units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AGLA_HANSE_COG_STRATEGY_EE">
+			<Text>Unique Carrack replacement for The Hansa. Shares its Movement Rate with stacked civilian units.</Text>
+		</Row>
+		<!-- /C15 -->
+		<Row Tag="TXT_KEY_UNIT_AGLA_HANSE_COG_TEXT">
+			<Text>
+				A cog was a type of ship that was used during the Middle Ages, mostly for trade and transport but also in war. It first appeared in the 10th century, and was widely used from around the 12th century on. Cogs were clinker-built, generally of oak. Cogs were fitted with a single mast and a single square sail. They were used primarily for trade in north-west medieval Europe, especially by the Hanseatic League. Typical seagoing cogs were from 15 to 25 meters (49 to 82 ft) long, 5 to 8 meters (16 to 26 ft) wide, and were of 30–200 tons burthen. Cogs were rarely as large as 300 tons although a few were considerably larger, over 1,000 tons.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_HANSE_NO_ASTRONOMY">
+			<Text>Flat Water Rump</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HANSE_NO_ASTRONOMY_HELP">
+			<Text>Cannot enter Ocean tiles till researching Astronomy.</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_BUILDING_HANSE">
+			<Text>Kontor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGLA_KRUPPWERK">
+			<Text>Kruppwerk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGLA_KRUPPWERK_HELP">
+			<Text>This unique factory has a split production multiplier in +10% Production and +15% towards Unit Production. +1 [ICON_PRODUCTION] on [ICON_RES_IRON] Iron and [ICON_RES_COAL] Coal ressources. Still requires Coal to get build. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGLA_KRUPPWERK_STRATEGY">
+			<Text>This unique factory has a split production multiplier in +10% Production and +15% towards Unit Production. +1 [ICON_PRODUCTION] on [ICON_RES_IRON] Iron and [ICON_RES_COAL] Coal ressources. Still requires Coal to get build. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGLA_KRUPPWERK_TEXT">
+			<Text>
+				The Krupp steelworks, or Krupp foundry, or Krupp cast steel factory (German: Krupp-Gussstahlfabrik [Guss+stahl+fabrik]) in Essen is a historic industrial site of the Ruhr area of North Rhine-Westphalia in western Germany that was known as the "weapons forge of the German Reich" (Waffenschmiede des Deutschen Reiches).</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_AGLA_HANSE_WULLENWEVER_DESCRIPTION">
+			<Text>SAXONY (FREDERICK AUGUSTUS I)[NEWLINE][NEWLINE]UNIQUE TRAIT: JEWEL OF EUROPE[NEWLINE]50% of [ICON_TOURISM] Tourism contributes directly to the construction of National and World Wonders. Free [ICON_GREAT_PEOPLE] Great Artist with each National Wonder constructed.[NEWLINE][NEWLINE]UNIQUE BUILDING: KUNSTHAUS (MUSEUM)[NEWLINE]The Kunsthaus is a mid-game building that increases a city's [ICON_CULTURE] Culture output. Unlike the Museum that it replaces, it contains 3 slots for Great Works of Art. It is also available slighty earlier.[NEWLINE][NEWLINE]UNIQUE UNIT: CARABINIER GUARD (CAVALRY)[NEWLINE]This Mounted Unit replaces the Cavalry for Saxony. It serves best when garrisoned in a city containing a National Wonder, gaining additional [ICON_STRENGTH] Combat Strength for each one present in the city. Unlike the Cavalry, it may also benefit from defensive terrain bonuses. Station Carabinier Guards in your most nationally advanced cities to ensure they are well defended in case of attack.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

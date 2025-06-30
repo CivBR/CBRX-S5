@@ -1,0 +1,79 @@
+<GameData>
+<Language_en_US>
+<!-- First Greeting -->
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_FIRSTGREETING_1">
+    <Text>What are you doing all the way out here? My name's Olgit. Let me get you to safety.</Text>
+</Row>
+
+<!-- Defeated -->
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_DEFEATED_1">
+    <Text>This is Hosedam's doing, isn't it? I should have seen this coming.</Text>
+</Row>
+
+<!-- Diplomacy: Wars, Denunciatios, and DoF -->
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_ATTACKED_GENERIC_1">
+    <Text>Well, we're both about to have a miserable time, I guess.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_DEC_FRIENDSHIP_1">
+    <Text>When good things happen to me, I'm not going to let them slip away. Shall we make a public Declaration of Friendship?</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_DENOUNCE_1">
+    <Text>It was foolish of me not to poison you when we first met.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_DOW_GENERIC_1">
+    <Text>Sometimes, when things are rough, I need to take matters into my own hands.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_EXPANSION_SERIOUS_WARNING_1">
+    <Text>Is all this really necessary? My people use that land you've been gobbling up.</Text>
+</Row>
+
+<!-- Greetings -->
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_GREETING_AT_WAR_HOSTILE_1">
+    <Text>Well, if it isn't you. I hope you're suffering.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_GREETING_POLITE_HELLO_1">
+    <Text>You know, I don't say this kind of thing often, but I'm glad to see you.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_GREETING_NEUTRAL_HELLO_1">
+    <Text>You must be dedicated to come all the way out here. What did you want to talk about?</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_GREETING_HOSTILE_HELLO_1">
+    <Text>I left my campfire for this?</Text>
+</Row>
+
+<!-- Misc -->
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+    <Text>I can see what you're trying to do. Let me tell you - you may be able to conquer me, but I'll make it very unpleasant if you try.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_LETS_HEAR_IT_1">
+    <Text>I'm not sure I have a lot to offer, but I'll gladly negotiate.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_LOSEWAR_1">
+    <Text>Can't say I'm terribly surprised. Oh well, time to rebuild.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_LUXURY_TRADE_1">
+    <Text>Your goods are finer than anything I've seen in years. Things would really start looking up for my people if we could get some of them.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_NO_PEACE_1">
+    <Text>Nice try, but I do stand up for myself occasionally. It's not happening.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_OPEN_BORDERS_EXCHANGE">
+    <Text>My citizens are begging to go somewhere warmer... could they perhaps visit you?</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_REPEAT_NO_1">
+    <Text>I've been pushed around before. Don't think I can't recognize it.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_RESPONSE_REQUEST_1">
+    <Text>Things aren't great out here... but if you helped out, you could probably prevent some of us from starving.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_RESPONSE_TO_BEING_DENOUNCED_1">
+    <Text>Yeah, yeah, I've heard it all before.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_TOO_SOON_NO_PEACE_1">
+    <Text>Come on, the least you could do is give it some effort.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_OLGIT_WINWAR_1">
+    <Text>I guess good things do happen occasionally![NEWLINE][NEWLINE]Uh, sorry... didn't mean to gloat.</Text>
+</Row>
+</Language_en_US>
+</GameData>

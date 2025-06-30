@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="cc996ccb-36b7-44f2-a750-3042dd6571a5" version="1">
+  <Properties>
+    <Name>TarcisioCM - Portugal (Joao II)</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Portugal[ENDCOLOR] under Joao II. Requires BNW</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]Portugal[ENDCOLOR] under Joao II. Requires BNW</Description>
+    <Authors>TarcisioCM, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="1" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's CiD" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Rise to Power " />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="4AD29DF1ED49E918E8803AC7A7B0DDBE" import="1">Art/Icons/Event_tcm_Camoes.dds</File>
+    <File md5="604C1CF8B01B22B8454A384824F06A91" import="1">Art/Icons/Event_tcm_Vasco.dds</File>
+    <File md5="6593E7E5679AE90CB05D4D9B0BD6C372" import="1">Art/Icons/Event_tcm_Zacuto.dds</File>
+    <File md5="0D351C31D972217F7E073CF41F8595F6" import="1">Art/Icons/TCM_PortugalJoaoAlphaAtlas_128.dds</File>
+    <File md5="D3C7D829511EDA9466D0439F622ECE8E" import="1">Art/Icons/TCM_PortugalJoaoAlphaAtlas_16.dds</File>
+    <File md5="143F9AE7BC9923112C4B35954C683655" import="1">Art/Icons/TCM_PortugalJoaoAlphaAtlas_24.dds</File>
+    <File md5="E5CD64F66BA209B42636972BAB650975" import="1">Art/Icons/TCM_PortugalJoaoAlphaAtlas_32.dds</File>
+    <File md5="ECFEE4815191E0F5570A2736F3F114E4" import="1">Art/Icons/TCM_PortugalJoaoAlphaAtlas_48.dds</File>
+    <File md5="862AB5BC6F4E834254EC3B13043E81A8" import="1">Art/Icons/TCM_PortugalJoaoAlphaAtlas_64.dds</File>
+    <File md5="227BE8F04FA98086E4B14F2BEEA5400E" import="1">Art/Icons/TCM_PortugalJoaoAlphaAtlas_80.dds</File>
+    <File md5="8D498152424E4805EDE57651C9EF0D27" import="1">Art/Icons/TCM_PortugalJoaoIIAtlas_128.dds</File>
+    <File md5="99BCAC762193C55B0CDF28A8323C7750" import="1">Art/Icons/TCM_PortugalJoaoIIAtlas_256.dds</File>
+    <File md5="593C9B312764EB0CB642CD6B81B55901" import="1">Art/Icons/TCM_PortugalJoaoIIAtlas_32.dds</File>
+    <File md5="22D911B2B707A04E1D1A6D943971D98B" import="1">Art/Icons/TCM_PortugalJoaoIIAtlas_45.dds</File>
+    <File md5="72A1A70BD5985FE2F799CC79D700C81F" import="1">Art/Icons/TCM_PortugalJoaoIIAtlas_64.dds</File>
+    <File md5="0E6C2FCEB475F995430059D729CD44EC" import="1">Art/Icons/TCM_PortugalJoaoIIAtlas_80.dds</File>
+    <File md5="92BAEE899BF1A3A03597E3E037891956" import="1">Art/Icons/TCM_PortugalMariaAlphaAtlas_128.dds</File>
+    <File md5="9161A46333E25CE41039781D71E415EE" import="1">Art/Icons/TCM_PortugalMariaAlphaAtlas_16.dds</File>
+    <File md5="BF13F2653A09BA6DB0EC1226BAC172C5" import="1">Art/Icons/TCM_PortugalMariaAlphaAtlas_22.dds</File>
+    <File md5="3239A3CBDCB438E099014FB301B229C5" import="1">Art/Icons/TCM_PortugalMariaAlphaAtlas_24.dds</File>
+    <File md5="B5863C8C98BC96303C0ECE183A9AEF1A" import="1">Art/Icons/TCM_PortugalMariaAlphaAtlas_256.dds</File>
+    <File md5="8231DDC88E40B130F049523ECB1F4FD9" import="1">Art/Icons/TCM_PortugalMariaAlphaAtlas_32.dds</File>
+    <File md5="65D45120FE6AB306BBF15DFD106EDE86" import="1">Art/Icons/TCM_PortugalMariaAlphaAtlas_45.dds</File>
+    <File md5="6DE594C1ADB2558C7877A84AC0E51F9E" import="1">Art/Icons/TCM_PortugalMariaAlphaAtlas_48.dds</File>
+    <File md5="641E532D278B964DB41D37E530CCDCA5" import="1">Art/Icons/TCM_PortugalMariaAlphaAtlas_64.dds</File>
+    <File md5="3A13C2EA4C1C40A62431511E367F9DEF" import="1">Art/Icons/TCM_PortugalMariaAlphaAtlas_80.dds</File>
+    <File md5="F19E88DEDC76414444A1074DA7A5554F" import="1">Art/Icons/TCM_PortugalMariaAtlas_128.dds</File>
+    <File md5="9938268454A667C5D07FD9AD19206A5D" import="1">Art/Icons/TCM_PortugalMariaAtlas_256.dds</File>
+    <File md5="5A0282482B0B4D54B66E755C3C84B660" import="1">Art/Icons/TCM_PortugalMariaAtlas_32.dds</File>
+    <File md5="A492C70D3FDB7B758B6A9D7EDCD2EE8B" import="1">Art/Icons/TCM_PortugalMariaAtlas_45.dds</File>
+    <File md5="04D13877A264E429409FA079C4FFDD88" import="1">Art/Icons/TCM_PortugalMariaAtlas_64.dds</File>
+    <File md5="C27C472E06000B9251F4E59F7CFC7476" import="1">Art/Icons/TCM_PortugalMariaAtlas_80.dds</File>
+    <File md5="E9EE59DAA915780F1153E7FB1F52B47E" import="1">Art/Models/PortugueseCacador.dds</File>
+    <File md5="60D973847277C27FEB1C768335F3FA81" import="1">Art/Models/PortugueseCacador.fxsxml</File>
+    <File md5="58F1A105506E915BC6D1C2AB2BAC369A" import="1">Art/Models/PortugueseCacador.gr2</File>
+    <File md5="24F1953146486F1E3CE0D81429E14EE6" import="1">Art/Models/PortugueseCacador_sref.dds</File>
+    <File md5="33FF070A332E9CA205C5E710F2054712" import="1">Art/Models/sv_Cacador.dds</File>
+    <File md5="9F76D8E16C7067DAEC73EC210D7FC1AE" import="1">Art/Models/tcm_PortugalCacadorFlag_32.dds</File>
+    <File md5="3D4ACEF16CBE79AEF23EEFC614D26CDC" import="1">Art/Music/TCM_AVIS_PORTUGAL_PEACE.mp3</File>
+    <File md5="2F6AF6EC511E82B6B2961F8689785F2F" import="1">Art/Music/TCM_AVIS_PORTUGAL_WAR.mp3</File>
+    <File md5="918E142CCBC4A7ED2D60D08F08FF2FF8" import="1">Art/Other/tcmJoaoIIScene.xml</File>
+    <File md5="57A582A93F895BAABDAE7249391E24C8" import="1">Art/Other/TCM_JoaoII_Diplo.dds</File>
+    <File md5="2A81C08F21CCF94416141687E61E43FF" import="1">Art/Other/TCM_JoaoII_DOM.dds</File>
+    <File md5="2173704D96BD351CD90DF3C712AB1613" import="1">Art/Other/TCM_JoaoII_Map.dds</File>
+    <File md5="353EC554179EC57B03102F795BAF2332" import="1">Art/Other/TCM_MariaI_Map.dds</File>
+    <File md5="70FA72F3BA5AAD208FEEEFE97F050F09" import="0">Code/ArtDef.sql</File>
+    <File md5="AA5EBFCC7B3D65A835E23A5CE905D3C7" import="0">Code/CodeCore.sql</File>
+    <File md5="B8A415A7556EC1C61205146C3B1E9445" import="0">Code/Functions.xml</File>
+    <File md5="1150FF7904E175459BCF68CD146EF609" import="0">Code/GameText.xml</File>
+    <File md5="C3FF99A988C715B3FF78C3F723105468" import="0">Code/Functions.lua</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">Code/PlotIterators.lua</File>
+    <File md5="38641E1F19A4D51FC66A1B25B3A62D75" import="0">Code/ModSupport.sql</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Code/SaveUtils.lua</File>
+    <File md5="31AB8A902F8B5B262170977A3001C312" import="1">Code/tcm_Portugal_Decisions.lua</File>
+    <File md5="39D82181E256FB69FB43B873323195B9" import="1">Code/tcm_Portugal_Events.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/CodeCore.sql</UpdateDatabase>
+      <UpdateDatabase>Code/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Code/ArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Code/ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Functions.lua">
+      <Name>Portugal Functions</Name>
+      <Description>Portugal Functions</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e9817882-1118-4f2c-9968-e531cdf2b78a" version="1">
+  <Properties>
+    <Name>Rhoze's Vyatka</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Vyatka republic of European Russia's vast east to the game, under fierce pirate and valiant resistor of Moscow Ioann A</Teaser>
+    <Description>Adds the Vyatka republic of European Russia's vast east to the game, under fierce pirate and valiant resistor of Moscow Ioann Anikiev Myshkin.</Description>
+    <Authors>Rhoze</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="4ADDA3F8FC17C75EDCC5E09662B3FE63" import="1">Art/vyata_LS.xml</File>
+    <File md5="BE91A374FB394E57D3977CE812977828" import="1">Art/svUskuynik.dds</File>
+    <File md5="B2BA5ADBC6573D9EF36D9CEA089AB882" import="1">Art/UshkuynikUnitflag32.dds</File>
+    <File md5="8C560DBCC6C0A93D512BD80CAB47810C" import="1">Art/VyatkaAlpha_24.dds</File>
+    <File md5="730F04C8A5D9BD6F24F4783DACDC0D7F" import="1">Art/VyatkaAlpha_32.dds</File>
+    <File md5="57919875FB77919DE6C5296B81FF5B40" import="1">Art/VyatkaAlpha_48.dds</File>
+    <File md5="D10F86E5CB5B1F43F754F3D68F884E55" import="1">Art/VyatkaAlpha_64.dds</File>
+    <File md5="41BDCA7B424CD2E29AE583C913413062" import="1">Art/VyatkaIcon_128.dds</File>
+    <File md5="A8B531F50EE23F8C9366C46859538E9F" import="1">Art/VyatkaIcon_256.dds</File>
+    <File md5="F43FB2989C465844B54901E8F5544916" import="1">Art/VyatkaIcon_32.dds</File>
+    <File md5="D7D98124F2044EA9FEB02A2C27A60BAA" import="1">Art/VyatkaIcon_45.dds</File>
+    <File md5="6E8120D27875AA7ADB97135F7C43B980" import="1">Art/VyatkaIcon_64.dds</File>
+    <File md5="E5A8A20B8794501E568D91D77F87097B" import="1">Art/VyatkaIcon_80.dds</File>
+    <File md5="DED29C5655165C7600CD8C15DB3DDD8D" import="1">Art/vyatka_dom.dds</File>
+    <File md5="7956722A1DF2574A026F789410545CF5" import="1">Art/vyatka_ls.dds</File>
+    <File md5="C97FC0FF99DF7004D36A3EA2FE09A994" import="1">Art/vyatka_map_small.dds</File>
+    <File md5="C306788C5BB5FAE1C07D804710C7B130" import="0">Core/VyatkaArtDef.sql</File>
+    <File md5="B30E0C91C15F43B27FF4BD3F498C7504" import="0">Core/VyatkaCore.sql</File>
+    <File md5="DC03C53454B741A5284593FF73A806D2" import="0">Core/VyatkaSupport.sql</File>
+    <File md5="4A6F2EC8EE6B065FF7BB247F63876EAE" import="0">Core/VyatkaText.xml</File>
+    <File md5="04558ADCEBB38D54BD7D80340FA4F30C" import="0">Lua/VyatkaFunc.lua</File>
+    <File md5="3E9AFDA7915D507F431EA14B4FDEB094" import="1">Sound/VyatkaPeace.mp3</File>
+    <File md5="4AE1645480C7A16F1729FBD71F37A6AE" import="1">Sound/VyatkaWar.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/VyatkaArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/VyatkaCore.sql</UpdateDatabase>
+      <UpdateDatabase>Core/VyatkaSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/VyatkaText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/VyatkaFunc.lua">
+      <Name>VyatkaFunc</Name>
+      <Description>VyatkaFunc</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

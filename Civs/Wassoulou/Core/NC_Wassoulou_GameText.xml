@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_NC_WASSOULOU_ADJECTIVE">
+			<Text>Wassoulou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NC_WASSOULOU_DESC">
+			<Text>Wassoulou Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NC_WASSOULOU_SHORT_DESC">
+			<Text>Wassoulou</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_CIV_TAL_NC_WASSOULOU_DESC">
+			<Text>Wassoulou</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_TEXT_1">
+			<Text>In ancient times, what probably began as a Ligurian village on the Sarzano Hill overlooking the natural port (today Molo Vecchio) prospered through contacts with the Etruscans and the Greeks. As a flourishing Roman municipium it became a road junction, a military port, and a market of the Ligurians. After the fall of the Roman Empire, followed by invasions of Ostrogoths and Lombards, Genoa long existed in comparative obscurity as a fishing and agrarian centre with little trade. By the 10th century, however, the general demographic and economic upswing of Europe brought fresh opportunity and enabled the Genoese to answer the challenge of Muslim raids vigorously. A Fatimid fleet stormed and sacked the town (934 or 935), but the Genoese raised their walls anew and counterattacked under the leadership of their bishop and of the local viscounts. Soon, Genoese merchant ships were trading briskly in the western Mediterranean and calling at Palestinian seaports.[NEWLINE][NEWLINE]Before 1100 a voluntary association (compagna) of all citizens who would contribute arms, capital, or labour to the life of the community generated the independent commune of Genoa; executive power was vested in a number of “consuls” yearly elected by a popular assembly. The ruling class consisted chiefly of petty noblemen and affluent bourgeois. Maritime commerce was the dominant activity. During the 12th and 13th centuries Genoa played a leading role in the commercial revolution that Europe was undergoing. It became a town of about 100,000 inhabitants, a naval power dealing on equal terms with the greatest monarchies, and a commercial centre rivaled only by Venice in the Levant trade and competing with other Italian towns in trade with western Europe. Eastern spices, dyestuffs and medicaments, western cloth and metals, African wool, skins, coral, and gold were the main articles of a very diversified international commerce. Banking and shipbuilding flourished, and the local textile industry made a good start.[NEWLINE][NEWLINE]At the same time, the Genoese brought all of Liguria, most of Corsica, and northern Sardinia under their direct or indirect control and founded self-governing commercial colonies all around the Mediterranean coast. Many of these colonies were the result of Genoese participation in the Crusades and of shorter campaigns by the Genoese alone in Spain, Africa, and the Levant, but some were set up by peaceful penetration and diplomatic bargaining. They ranged in size from individual buildings to walled suburbs of towns and, eventually, entire islands or districts of coastal land.[NEWLINE][NEWLINE]The collapse of the Crusaders’ states, with their Genoese enclaves, in the late 13th century was amply compensated by Genoa’s alliance with the Byzantine Empire under the Treaty of Ninfeo (1261), which paved the way for a great expansion in the Black Sea. Pera (modern Beyoglu), the Genoese independent suburb of Constantinople, gradually outstripped the Byzantine capital in economic development, and Kaffa (modern Feodosiya) became the capital of a broad stretch of the Crimean coast ruled by the Genoese. Many Aegean islands became independent Genoese principalities.[NEWLINE][NEWLINE]Throughout this period internal political strife in Genoa was almost incessant, but it did not seriously hamper the progress of the community. The state was managed as a business affair, to the common profit of the ruling families—such as the Spinola, Fieschi, Grimaldi, and Doria—and generally to the advantage of the whole population. The form of government changed and evolved, so that by the second half of the 13th century “captains of the people” were governing with unlimited tenure and with the support of the guilds. (In 1257 Guglielmo Boccanegra was made captain and became virtually a dictator.) The living standard of the entire population, including fresh immigrants, constantly improved. Municipal and family pride led to the construction of splendid buildings, wharves, bridges, and churches.[NEWLINE][NEWLINE]Genoa’s political zenith was marked by a crushing naval victory over the Pisans at Meloria (1284) and a less decisive one over the Venetians at Curzola (Korc̆ula, 1298), followed by other successful encounters. In the same period, maritime trade reached its peak. During the 14th and 15th centuries, however, the whole of Europe was in a profound material and moral crisis. In Genoa class and party struggles kept the government in perpetual turmoil, and public finances were ruined by war. The election of native doges after the Venetian model, beginning with that of Simone Boccanegra in 1339, was a vain attempt to solve the political problem.[NEWLINE][NEWLINE]After emerging from periods of French domination (1394–1409) and Milanese overlordship (1421–35), Genoa was no longer a great power. Corsica was in perennial revolt; Sardinia was overrun by the Aragonese; the Levant colonies, which had become virtually independent of the motherland, were conquered by the Egyptians or the Turks. Only the mainland domain (that is, Liguria proper) was successfully held.[NEWLINE][NEWLINE]After a period of successive Milanese, French, and Spanish intrusions, Andrea Doria, scion of an old noble Genoese family, forced through a new constitution (1528) and restored his city to orderly government under biennial doges and an oligarchy of the old and new noble merchants; he also made Genoa politically a satellite of Spain, trying to ensure that Genoa would be a privileged exploiter of the new and vast Spanish empire in the New World. The result was a partial economic recovery in the 16th and 17th centuries.[NEWLINE][NEWLINE]As the fortunes of Spain and the Italian states declined, Genoa’s did so likewise. By the mid-18th century, trade had sunk to its lowest level. In 1768, by the Treaty of Versailles, the republic ceded to France its last overseas possession, Corsica.[NEWLINE][NEWLINE]In the French Revolutionary and Napoleonic Wars, the republic saw its neutrality violated by both sides. In 1797, under Napoleon Bonaparte’s pressure, it was transformed into the Ligurian Republic, under a French protectorate. In 1805 Genoa was annexed by the French Empire. In November 1814 the Congress of Vienna awarded Genoa to the house of Savoy. Thereafter in the 19th century the merchant marine rapidly revived, and Genoese trade blossomed anew, not only in its traditional haunts of the Mediterranean and the Black Sea but also in the Far East and the Americas.[NEWLINE][NEWLINE]The unification of Italy in 1861 further broadened the scope of Genoese activity. Genoa, then Italy’s greatest commercial port, vied with Marseille for supremacy in the Mediterranean and competed with the ports of the North Sea for the trade of Switzerland and central Europe. When Genoa’s share in the latter declined somewhat in the 20th century, the difference was counterbalanced by the ever-increasing trade flowing to and from northern Italy. The university, into which preexisting institutions of higher learning had been merged in 1803, became especially distinguished for teaching on economic and maritime subjects. Pop. (2011) 586,180; (2022 est.) 560,688.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_01">
+			<Text>Bissandugu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_02">
+			<Text>Kankan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_03">
+			<Text>Kérouane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_04">
+			<Text>Kabadougou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_05">
+			<Text>Odienné</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_06">
+			<Text>Madina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_07">
+			<Text>Sanankoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_08">
+			<Text>Boussédou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_09">
+			<Text>Kouroussa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_10">
+			<Text>Norassoba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_11">
+			<Text>Baro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_12">
+			<Text>Siguiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_13">
+			<Text>Dinguiraye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_14">
+			<Text>Tintioule</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_15">
+			<Text>Kenieba Koura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_16">
+			<Text>Kissidougou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_17">
+			<Text>Faranah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_18">
+			<Text>Bougouni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_19">
+			<Text>Bafagha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_20">
+			<Text>Kiniéran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_21">
+			<Text>Damisa-Koro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_22">
+			<Text>Beyla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_23">
+			<Text>Macenta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_24">
+			<Text>Niagassola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_25">
+			<Text>Siondougou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_26">
+			<Text>Fulala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_27">
+			<Text>Niako</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_28">
+			<Text>Kong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_29">
+			<Text>Korhogo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_30">
+			<Text>Seguela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_31">
+			<Text>Dabakala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_32">
+			<Text>Bouna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_33">
+			<Text>Bonduku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_34">
+			<Text>Bori-Bana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_35">
+			<Text>Wa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_36">
+			<Text>Guelemou</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_0">
+			<Text>Kaba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_1">
+			<Text>Karamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_2">
+			<Text>Mori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_3">
+			<Text>Kebe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_4">
+			<Text>Konate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_5">
+			<Text>Babatu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_6">
+			<Text>Fanyinama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_7">
+			<Text>Ahmed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_8">
+			<Text>Karamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_9">
+			<Text>Siaka</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU">
+			<Text>Samori Ture</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_NAME">
+			<Text>Samori Ture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_1">
+			<Text>Simone Boccanegra was the first Doge of Genoa. He became doge in 1339, but was ousted from power six years later. He regained the position in 1356, retaining it until his death in 1363.[NEWLINE][NEWLINE]His story was popularized by Antonio García Gutiérrez's 1843 play Simón Bocanegra and Giuseppe Verdi's 1857 opera Simon Boccanegra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_2">
+			<Text>Family Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_2">
+			<Text>Simone Boccanegra belonged to the wealthy Genoese Boccanegra family of merchants, a family that had among its members Guglielmo Boccanegra, who in 1257 became a virtual dictator of the Republic of Genoa when an insurrection against the government of the old aristocracy made him gain the control of the republic. Guglielmo Boccanegra was also the commissioner, in 1260, of the building of Palazzo San Giorgio, the future seat of republican power in the republic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_3">
+			<Text>Life as Doge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_3">
+			<Text>Boccanegra was elected doge for life on 23 December 1339. Boccanegra was opposed by the aristocratic faction, representing the old mercantile patriciate, which his first actions excluded from public life. With the old patriciate excluded from power, a new class of mercantile houses arose: Adorno, Guarco, Fregoso, and Montaldo. During Boccanegra's dogate, Genoese control was extended the length of both the French and Italian Rivieras, with the exception of the Grimaldi holdings in Monaco and Ventimiglia.[NEWLINE][NEWLINE]Simone's brother, Egidio, was a grand admiral in the service of Alfonso XI of Castile, and inflicted a memorable defeat on a Moroccan fleet off Algeciras in 1344.[NEWLINE][NEWLINE]There were constant conspiracies and even attempts against Boccanegra's life from the start. (The first conspirator's head rolled on 20 December 1339.) This led to the establishment of a bodyguard of 103 mounted soldiers. For Boccanegra's security, these were drawn from Pisa, the inveterate enemy of Genoa, where, however, Simone's brother Niccolò was "Capitano del popolo", their mother having been a Pisan aristocrat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_4">
+			<Text>Resignation and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_4">
+			<Text>Boccanegra was forced to resign his office at a public meeting he had called on 23 December 1345. He was succeeded by Giovanni I di Murta, who died in early January 1350 and then by Giovanni II Valente, who ruled as chief magistrate, until Boccanegra regained power in 1356.[NEWLINE][NEWLINE]Boccanegra died in 1363, possibly having been poisoned by agents of his enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_5">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_5">
+			<Text>The humanist poet Petrarch wrote letters to the people of Genoa and to the doge of Venice appealing to them to end their fratricidal wars and find a common aim. These letters were among Verdi's inspirations for the revision of the opera in 1881.[NEWLINE][NEWLINE]Simone Boccanegra's tomb in the no longer extant church of San Francesco in Castelletto was decorated with a remarkable funeral sculpture, depicting him as if lying in state with extraordinary realism in his features. This sculpture is now in the Museum of Sant'Agostino.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_LIVED">
+			<Text>1828 - 1900 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_SUBTITLE">
+			<Text>Leader of Wassoulou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TITLES_1">
+			<Text>Faama</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_NC_WASSOULOU_TEXT">
+			<Text>Glory and wealth be upon you, Simone Boccanegra, first Doge of Genoa. A city of humble origins, over the course of nearly a millenium Genoa would rise to become one of the wealthiest and far-reaching of Italy's merchant republics. As Doge, you would oversee these beginnings, ushering in the rise of the republic's great merchant families. Though Napoleon would ultimately see to the end of the republic in 1805, the legacy of her indomitable control over the Mediterranean would ensure its lasting legacy.[NEWLINE][NEWLINE]Noble leader, the elites of rival wealth have risen up once more to challenge your position at their head. You must take your own wealth and spread your power once more across the rich seas. Can you align yourself with the great merchant families of old? Can you take their wealth and fashion it into a prospering empire? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_FIRSTGREETING_1">
+			<Text>Well, I've seen worse for wear. Greetings. I am Simone Boccanegra, ruler of Genoa. I hope you have gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_DEFEATED_1">
+			<Text>A shame. I was starting to enjoy my fineries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_ATTACKED_HOSTILE_1">
+			<Text>So I take it you don't want gold, then? More for me then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_DEC_FRIENDSHIP_1">
+			<Text>Things would go a lot weathier if we told the world of our good natured allience. Public declaration of friendship, then?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_DENOUNCE_1">
+			<Text>I simply think you have no idea what you're doing and how much it will cost you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_DENOUNCE_FRIEND_1">
+			<Text>A friend of nothing more than meagre gold plate.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_DOW_GENERIC_1">
+			<Text>Your poverty is an offense to me. I'll see it snuffed out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Be careful where you're expanding to. You might bring down the value.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_GREETING_HOSTILE_HELLO_1">
+			<Text>Goodness, you reek. You certainly must enjoy hanging around the poors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_GREETING_NEUTRAL_HELLO_1">
+			<Text>Oh its you. Pity. I was hoping for someone richer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_GREETING_POLITE_HELLO_1">
+			<Text>Hm? Something interesting to offer me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Do you know what soldiers are made of? Gold. I can buy every last one of them if you don't remove them from my borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_LUXURY_TRADE_1">
+			<Text>I could sell these goods for ten times what you could. Why don't we come to some arrangement?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I have goods to move. I'm sure we can come to some arrangement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>If you don't want to see that plot of land go to ruin, I suggest you leave it to the experts in trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_REQUEST_1">
+			<Text>Let us both grow wealthier with this deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>And I suppose you and all your gold is going to try and outspend me, is it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_TOO_SOON_FOR_DOF_1">
+			<Text>You won't buy me that easily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_TOO_SOON_NO_PEACE_1">
+			<Text>How can we have peace when you continue to threaten my trade?</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_NC_WASSOULOU_SHORT">
+			<Text>The African Telegraph</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NC_WASSOULOU">
+			<Text>Merchant Specialists yield their base [ICON_GOLD] Gold and [ICON_GREAT_PEOPLE] Great People Points without being worked. When worked, they contribute toward [ICON_GREAT_PEOPLE] Great Admirals and the starting [ICON_MOVES] Movement of new Settlers and Naval Units.</Text>
+		</Row>
+		<!--Notifications-->
+		<Row Tag="TXT_KEY_TRAIT_NC_WASSOULOU_NOTIFICATION_SHORT_DESC">
+			<Text>Compagna Communis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NC_WASSOULOU_NOTIFICATION_DESC">
+			<Text>Merchants in the city of {1_Desc} have contributed funding toward a [COLOR_POSITIVE_TEXT]new {2_Desc}![ENDCOLOR]</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASSOULOU_BOLO">
+			<Text>Bolo Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASSOULOU_BOLO_HELP">
+			<Text>Marks a Bolo or former Bolo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASSOULOU_SPY_ADJACENCY">
+			<Text>Wassoulou Spy Adjacency Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASSOULOU_SPY_ADJACENCY_ACTIVE">
+			<Text>Wassoulou ACTIVE Spy Adjacency Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASSOULOU_SPY_ADJACENCY_HELP">
+			<Text>Bonus XP while near a city with a Wassoulou Spy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASSOULOU_MOVEMENT">
+			<Text>Bolo Bonus Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASSOULOU_MOVEMENT_HELP">
+			<Text>+1 Movement.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_NC_DYULA_GUNSMITH">
+			<Text>Dyula Gunsmith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_DYULA_GUNSMITH_HELP">
+			<Text>Each worked Merchant Specialist in this city increases [ICON_INTERNATIONAL_TRADE] Sea Trade Route range by +10% and each unworked Merchant increases it by +5%.[NEWLINE][NEWLINE]Allows [ICON_PRODUCTION] Production to be moved from this city along trade routes inside your civilization.[NEWLINE][NEWLINE]City must have a Market.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_DYULA_GUNSMITH_STRATEGY">
+			<Text>The Fondaco Tower is the unique Workshop replacement for Genoa under Simone Boccanegra. While still boosting the [ICON_PRODUCTION] Production output of the city in which it is built, the Fondaco Tower has a Merchant Specialist slot instead of an Engineer slot. In addition, for each Merchant Specialist worked and unworked in the city with a Fondaco Tower, the range of [ICON_INTERNATIONAL_TRADE] Sea Trade Routes departing from the city is increased by +5% and +10%, respectively (up to +30%). It is also unlocked at Guilds and requires a Market, unlike the Workshop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_DYULA_GUNSMITH_TEXT">
+			<Text>In the thirteenth century, the Genoese staying in Alexandria were housed by Mamluk authorities in afondaco; a system developed to lodge foreign merchants and store their goods. Establishing circumscribed areas reserved to Latin traders and pilgrims was a convenient practice for the Mamluk sultanate as it helped to better monitor foreigners’ activities, inspect goods imported and exported and tax them accordingly. The fondaco system was beneficial to the Genoese too as it provided them with facilities and services to carry out their business and assist them during their stay in Alexandria.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_NC_WASSOULOU_TRADE_ROUTE_DUMMY">
+			<Text>Wassoulou Trade Route Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_WASSOULOU_TRADE_ROUTE_DUMMY_HELP">
+			<Text>1 Free Trade Route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_WASSOULOU_XP_DUMMY">
+			<Text>Wassoulou XP Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_WASSOULOU_XP_DUMMY_HELP">
+			<Text>Bonus XP for each International Trade Route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_WASSOULOU_SPY_MARKER">
+			<Text>Wassoulou Spy Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_WASSOULOU_SPY_MARKER_HELP">
+			<Text>Marks a city with a Wassoulou Spy.</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_UNIT_NC_BOLO">
+			<Text>Bolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_BOLO_HELP">
+			<Text>Unique Crossbowman that begins with bonus [ICON_STRENGTH] Defensive Strength based on the number of Merchant Specialists in the city. Only Genoa under Simone Boccanegra can train it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_BOLO_STRATEGY">
+			<Text>The Pavise Crossbowman is the unique replacement for the Crossbowman for Simone Boccanegra's Genoa. Unlike the Crossbowman, this unit begins with bonus [ICON_STRENGTH] Defensive Strength based on the number of Merchant Specialists either being unworked (+1 [ICON_STRENGTH] Strength each) or worked (+1 [ICON_STRENGTH] Strength per their [ICON_GOLD] Gold output) in the city, making it more resistant to attacks. Train Pavise Crossbowmen in your most lucrative trade ports to ensure maximize their ability to defend your territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_BOLO_TEXT">
+			<Text>A pavise was an oblong shield used during the mid-14th to early 16th centuries. Often large enough to cover the entire body, it was used by archers, crossbowmen, and other infantry soldiers on the battlefield. The Genoese crossbowmen, an internationally-recognized elite corps, made use of the pavise, utilizing pavesarii (shield bearers). Having over three crossbowmen per pavise suggests that they took turns using the pavise as cover and were used primarily in static or defensive formations.</Text>
+		</Row>
+		<!--Notifications-->
+		<Row Tag="TXT_KEY_UNIT_NC_BOLO_NOTIFICATION_DESC">
+			<Text>Pavise Crossbowman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_BOLO_NOTIFICATION_SHORT_DESC">
+			<Text>Merchants in the city of {1_Desc} have contributed funding toward the [ICON_STRENGTH] Defensive Strength of your [COLOR_POSITIVE_TEXT]new {2_Desc}![ENDCOLOR]</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

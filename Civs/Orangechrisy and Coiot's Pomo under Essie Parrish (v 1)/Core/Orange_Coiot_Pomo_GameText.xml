@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Pomo -->
+		<Row Tag="TXT_KEY_CIV_ORG_COIOT_POMO_ADJECTIVE">
+			<Text>Pomo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORG_COIOT_POMO_DESC">
+			<Text>The Pomo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORG_COIOT_POMO_SHORT_DESC">
+			<Text>The Pomo</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_ORG_COIOT_POMO_TEXT">
+			<Text>Essie Parrish, you led your people through both the physical and spiritual turmoil of the 20th century. Your people had suffered greatly under the heel of the American Empire, so in 1943, when you became the spiritual leader of the Pomo, the path forward was harsh. But you rejected the potential destruction of your people and instead pushed back, bringing your community together and ensuring a lasting cultural legacy. Your leadership, basketry, and ethnographic films helped to give the Pomo safety and protection, and your teachings allowed future generations to continue the traditions.[NEWLINE][NEWLINE]Essie, your people come to you once more. They need a Dreamer to guide them safely forward through another treacherous time. Will you be able to ensure the legacy of the Pomo once again? Can you secure your culture and your people from the threats around them? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		
+		<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_ORG_COIOT_POMO_SHORT">
+			<Text>Spirits of the Four Directions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ORG_COIOT_POMO">
+			<Text>Gain a bonus based on the direction of the last city your religion converted. S: Units get +10 HP when healing. E: +20% Great Person Generation. N: Religious units grant +1 movement to nearby units. W: Trade routes give +5% growth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_EAST">
+			<Text>Spirit of the East</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_EAST_HELP">
+			<Text>+20% [ICON_GREAT_PEOPLE] Great People generation in all cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_WEST">
+			<Text>Spirit of the West</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_WEST_HELP">
+			<Text>+5% [ICON_FOOD] growth in the city for each trade route. [NEWLINE]Counts originating city for trade routes you create and destination city for trade routes sent to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ORG_COIOT_NORTH">
+			<Text>Spirit of the North</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ORG_COIOT_NORTH_HELP">
+			<Text>+1 Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ORG_COIOT_SOUTH">
+			<Text>Spirit of the South</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ORG_COIOT_SOUTH_HELP">
+			<Text>+10 HP when healing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POMO_CONVERT_MARKER_DUMMY">
+			<Text>Marker Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POMO_CONVERT_MARKER_DUMMY_HELP">
+			<Text>Marker for checking that this city was converted to the Pomo religion.</Text>
+		</Row>
+		
+		<!-- Essie Parrish -->
+		<Row Tag="TXT_KEY_LEADER_ORG_COIOT_ESSIE">
+			<Text>Essie Parrish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORG_COIOT_ESSIE_LIVED">
+			<Text>1902 - 1979</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORG_COIOT_ESSIE_NAME">
+			<Text>Essie Parrish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORG_COIOT_ESSIE_SUBTITLE">
+			<Text>Dreamer of The Pomo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORG_COIOT_ESSIE_TITLES_1">
+			<Text>Yomta</Text>
+		</Row>
+		
+		
+		<!-- Basket Weaver -->
+		<Row Tag="TXT_KEY_UNIT_ORG_COIOT_BASKET_WEAVER">
+			<Text>Basket Weaver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ORG_COIOT_BASKET_WEAVER_HELP">
+			<Text>Replaces Great Artist. [NEWLINE]The Basket Weaver creates unique Great Works, Baskets, that provide a different bonus to the capital depending on the direction of the city the Great Work is in. [NEWLINE]South: +4 [ICON_PEACE] Faith [NEWLINE]East: +4 [ICON_CULTURE] Culture [NEWLINE]North: +4 [ICON_FOOD] Food [NEWLINE]West: +4 [ICON_GOLD] Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ORG_COIOT_BASKET_WEAVER_STRATEGY">
+			<Text>The unique Basket great works provide the Pomo with a different bonus to the capital depending on the direction of the city they are housed in from the Pomo capital, including when housed in non-Pomo cities. Move the Baskets around your empire, or trade them with civs in certain directions, in order to specialize your bonuses. For your instance, if you need gold, send the Baskets west!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ORG_COIOT_BASKET_WEAVER_TEXT">
+			<Text>Pomo basketry has produced some of the most celebrated baskets on Earth due to their technique, designs, appearance, and other attributes. Traditionally, women did most of the basket weaving, but some men also participated. Some of the most intricate and skillful baskets were made as gifts and could take more than a year to make. Some of the traditional techniques were the use of plaiting, coiling, and twining, as well as incorporating beads and feathers into baskets. Pomo baskets could even be coiled tight enough to carry water.[NEWLINE][NEWLINE]During the early era of American occupation, some Pomo individuals were able to make a living through their basketry, which also led to Pomo baskets being brought into historical and personal collections. Around the turn of the century and into the early 1900s, the Arts and Crafts movement brought further fame to Pomo baskets. However, many of the buyers of Pomo baskets did not keep note of who they bought from, either for lack of care or to keep secret from others, leading to a lack of identification for the artists of baskets in museums and collections, stripping many of the acknowledgement they deserve.[NEWLINE][NEWLINE]Pomo basketry continues into the modern day, with many using it as a means to connect with their history and continue traditions. Pomo baskets can still go for a high dollar, letting some still make a living through their art.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_BW_SOUTH">
+			<Text>Basket in the South</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_BW_SOUTH_HELP">
+			<Text>+4 [ICON_PEACE] Faith for each Basket in the south</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_BW_EAST">
+			<Text>Basket in the East</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_BW_EAST_HELP">
+			<Text>+4 [ICON_CULTURE] Culture for each Basket in the east</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_BW_NORTH">
+			<Text>Basket in the North</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_BW_NORTH_HELP">
+			<Text>+4 [ICON_FOOD] Food for each Basket in the north</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_BW_WEST">
+			<Text>Basket in the North</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_BW_WEST_HELP">
+			<Text>+4 [ICON_GOLD] Gold for each Basket in the west</Text>
+		</Row>
+		
+		<!-- Roundhouse -->
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_ROUNDHOUSE">
+			<Text>Roundhouse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_ROUNDHOUSE_HELP">
+			<Text>Replaces the Temple. [NEWLINE]+1 [ICON_PEACE] Faith for every 4 [ICON_CITIZEN] Citizens in the city. Has a Great Work of Art slot. This city gains +10% religious pressure per great work in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_ROUNDHOUSE_STRATEGY">
+			<Text>The Roundhouse is a strong religious building for the Pomo, becoming more powerful the more citizens and great works in the city. Gain lots of faith and spread your religion far with it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ORG_COIOT_ROUNDHOUSE_TEXT">
+			<Text>The Roundhouse, as it is most commonly referred to, is a ceremonial Pomo building meant for dances and rituals. It was also used for community and leadership purposes, as generally the largest building and where important announcements would be made. During the adoption of the Bole Maru version of the 1970 Ghost Dance, the Roundhouse was incorporated into the new rituals and practices, and new ones were built. These Roundhouses became hubs for the Bole Maru practitioners.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_RH_FAITH">
+			<Text>Roundhouse Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_RH_FAITH_HELP">
+			<Text>+1 [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_RH_PRESSURE">
+			<Text>Roundhouse Religious Pressure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORG_COIOT_RH_PRESSURE_HELP">
+			<Text>+10% Religious Pressure for each Great Work in this city</Text>
+		</Row>
+
+		<!-- Civilopedia -->
+		<Row Tag="TXT_KEY_CIV_ORG_COIOT_POMO_HEADING_1">
+			<Text>Pre-Contact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORG_COIOT_POMO_TEXT_1">
+			<Text>The Pomo have been living Northern California for thousands of years, estimates suggesting they moved into the area around 4000-7000 BCE. Though another theory suggests a Pomo group pushed out the existing people in the region between 500 BCE and 1300 CE, when the lands became more settled and developed. Trade grew and would reach across California, with materials from the Channel Islands in Southern California being found in the region, and the thousands of charmstones at Tolay Lake including some that came from as far away as Mexico. At some point the shamanistic Kuksu religion developed and spread across the region. Kuksu is most noted among the Pomo and their neighboring Patwin, and utilized elaborate dances, regalia, and subterranean dance rooms. Kuksu spread from the Pomo and Patwin across much of Northern and Central California.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORG_COIOT_POMO_HEADING_2">
+			<Text>Fort Ross</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORG_COIOT_POMO_TEXT_2">
+			<Text>The first contact with Europeans that the Pomo had was when Russian traders established Fort Ross in 1812 at the Kashaya Pomo seasonal village of Metini. Fort Ross employed a variety of Russian subjects, including Aleuts, as well as the surrounding Pomo, and while the people there fared better than missions, it was still rife with abuse. Spanish missionaries founded Mission San Fransisco Solano in 1823 in order to prevent Russian encroachment and expand Mexican control. The mission utilized slavery and other abusive conditions to ensure there was a workforce. The Russian and Spanish settlements brought death through disease, causing epidemics across the Pomo lands. Pomo villages became more centralized in response to this as well, seeking protection and support against the Europeans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORG_COIOT_POMO_HEADING_3">
+			<Text>California Genocide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORG_COIOT_POMO_TEXT_3">
+			<Text>In 1848, the United States annexed California, and the Russian River Valley began to be settled by Americans. The government forced many people onto reservations, while others would end up working on new American ranches. Two settlers, Andrew Kelsey and Charles Stone had been granted land near Clear Lake by the Mexican government and settled it starting in 1847. The men forced hundreds of indigenous laborers to build their ranch on little rations and then enslaved them for work where they were given hardly any food and were unable to leave or hunt for their own food. Women and young girls were sexually abused by the men, even forcing the fathers to bring them their daughters. At one point Kelsey's brother took 50 men on a gold mining venture, where only 1-3 came back alive after being left starving and dealing with malaria. In late 1849, the Pomo laborers rose up and killed Kelsey and Stone, led by Chief Augustine. In response, Kelsey's brother Ben called upon the First Dragoons Regiment of the United States Cavalry to help get revenge. Along the way they killed Indians and those who were questioned but tried to flee, Ben organized his own posse that terrorized the Napa and Sonoma Valleys, killing people and burning rancherias, they were arrested but made bail and never tried. In may of 1850, the First Dragoons attacked Indians around Clear Lake and what is now known as Bloody Island. It's reported that they killed 60-400 Pomo, likely around 200 with the other 200 drowning when trying to flee, and another 400 women and children who died drowning, 800 in total. In the following days they killed at least 75 more in Co'kadjal and Shanel. Four reservations were establised in the two years after the Bloody Island Massacre, and the Pomo became part of the Marches to Round Valley forced relocation effort in 1856, which white settlers in the region pushed for to protect "their culture". The first years of American occupation resulted in the deaths of at least 80% of Pomo population.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORG_COIOT_POMO_HEADING_4">
+			<Text>Ghost Dance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORG_COIOT_POMO_TEXT_4">
+			<Text>In a response to American colonialism, Northern Paiute prophet Wodziwob spoke of a Ghost Dance that would bring the dead back and get rid of the Europeans. This 1870 Ghost Dance didn't see as much widespread adoption as the later 1890 one led by Wovoka, but unlike the 1890 one, it quickly spread through Northern California. As it spread it synthesized with existing rituals and beliefs, first with the Earth Lodge Cult, and then, just outside Pomo lands, Bole Maru. Bole Maru is a Ghost Dance derivation started by a Patwin dreamer which made home among the Pomo before spreading back north with the Big Head Cult (which came from a mix of Bole Maru and a specific Kuksu ceremony). Large ceremonies were held and dreamers became very influential, especially as the pre-existing structure based around chiefs was breaking down. While the Ghost Dance died down after not too long due to a lack of results, Bole Maru stayed significant and continued to be practiced by the Pomo throughout the 20th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORG_COIOT_POMO_HEADING_5">
+			<Text>Cultural Preservation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORG_COIOT_POMO_TEXT_5">
+			<Text>As the population dwindled and European-American culture took over the region, the Pomo had to adapt to keep their culture alive. One product of this was the selling and gifting of baskets to museums and collectors. The early 1900s saw a "basket craze" and Pomo baskets were considered some of the most beautiful and well made, so many Pomo women, and some men, began weaving baskets to sell rather than for day to day activities. Along with this, some people stopped having their baskets be buried with them when they died so that their descendents wouldn't lose their culture or skills. Some weavers, like Elsie Allen, even made their own collections and started clubs in order to help keep the tradition of weaving alive. Others, like Essie Parrish, worked with Ethnographers and linguists to document what they could. Parrish's work resulted in a Kashaya Pomo dictionary and over 20 anthropological films, one of which, Chishkale, even won the 1966 Western Heritage Award. They worked hard to ensure that their culture was recorded and not forgotten by future generations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORG_COIOT_POMO_HEADING_6">
+			<Text>Present Day</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ORG_COIOT_POMO_TEXT_6">
+			<Text>Basket weaving has remained a celebrated tradition among the Pomo. Many bands advocate for their land to be returned to varying success, in 2015 the Kashia Band were able to regain land that gave their reservation access once again to the Pacific Ocean. Some bands operate casinos to make money, though this can lead to issues of disenrollment. Pomo languages and culture are being taught to the newer generations to keep them alive and grow the community's connection to its past.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ORG_COIOT_POMO_FACTOID_TEXT">
+			<Text>
+				[ICON_BULLET] The word Pomo comes from the name of a village in Pottery Valley called Pomo, meaning "those who live at red earth hole", referring to the red magnesite or reddish soil of the area. In the northern dialect -pomo or -poma is used as a suffix to indicate the people of a place, so it could've also come from that. George Gibbs and J. W. Powell originally used Kulanapo and Kulanapan, after a group of people living near Clear Lake, but it didn't stick.
+				[NEWLINE][NEWLINE][ICON_BULLET] The roundhouse can go by many names, such as a dance cave, or ceremonial house, or subterranian house, but roundhouse is generally the most common. In Pomo languages, it is referred to as xwan (or noi xwan (under house) or xe xwan (dance house)) in the southeast and marak among the eastern pomo, as well as ma'ca or shane for the Kashaya and northern. There being like 7 Pomo languages and then just a bunch of anthropologists all calling it different things because there wasn't a consensus makes for a lot of variations. But roundhouse remains the most common.
+				[NEWLINE][NEWLINE][ICON_BULLET] In my research, generally it is accepted that traditionally four was a very important and spiritual number because those were the cardinal directions and there was a spirit each way. But this could be raised to 6 if you count above and below, which also had spirits but was less common as the big important number. I also found one book which suggests 8 is even more sacred, but also lists different spirits for the directions and lists 8 spirits, refers to a nameless great spirit, and also weirdly suggests that there is a taboo against killing animals related to the sun and that this is a belief inherited from the Sumerians to the Chaldeans and then somehow undescribed to the Pomo.
+				[NEWLINE][NEWLINE][ICON_BULLET] The spiritual leader of a tribe seems to at least sometimes be called yomta. One source I read refers to someone as Kiou or Yomta (chief) of the secret religious Kuksu cult, another said "all those in the Kuksu cult were called 'yomta', whereas only the leading member of the ghost dance religion was given the name', yet another with a dictionary says its a Wintun word for doctor, and yet another says Essie Parrish called herself YOMTHA. Who knows what is really the case, not me. I did fix the Wikipedia page though which somehow mispelled the word even from the source it got it from (the YOMTHA) one, spelling it as YOTHMA.
+				[NEWLINE][NEWLINE][ICON_BULLET] The Kashaya Pomo called the Russians Under Sea People because it looked like their ships came up out of the sea.
+				[NEWLINE][NEWLINE][ICON_BULLET] All of the city list comes from the publication "The Ethno-Geography of the Pomo and Neighboring Indians" by S. A. Barrett, and it has a map included at the end of the pdf (which I got from the Berkeley page), and this map has slightly off splicing in some places. Wikipedia also has this map somewhere and it uses that same image. Berkeley also has a page that just has the map, where it doesn't have the wonky splicing, but it's less saturated and slightly lower quality. Why is all of this the way it is? I have no idea. But it's kind of annoying. Please Berkeley upload a full proper scan of the map, maybe update the pdf while you're at it, and let those of us with too much time on our hands have a better time. I know this isn't like an actual Pomo factoid I just want to get it out there.
+				[NEWLINE][NEWLINE][ICON_BULLET] From 1891 to 1935, artist Grace Hudson painted more than 600 portraits of Pomo people, making the Pomo one of the most depicted Indigenous Californian groups.
+				[NEWLINE][NEWLINE][ICON_BULLET] There are a bit over 10,000 people who are Pomo today, over twice as many as there were only 30 years ago, and about 10x as many as the low point around 1900. 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORG_COIOT_ESSIE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ORG_COIOT_ESSIE_TEXT_1">
+			<Text>Essie Pinola Parrish was a Kashaya Pomo Dreamer, basket weaver, teacher, and activist. Born in 1902, Parrish was raised by her grandmother Rosie Jarvis who was also a great tribal historian. At an early age she was recognized as a shaman, and was soon considered a prophet and Dreamer. In 1943, the previous religious leader of the Kashaya Pomo died and Parrish became the official leader, she would also go on to teach the last Pomo Dreamer, Mabel McKay how to lead. She would lead religious dances and the community as a Dreamer, helping to teach the younger generation in the Kashaya Pomo language and push people away from losing their Indian blood. She also raised 16 children with her husband Sidney Parrish. Throughout the mid 1900s she also engaged in activism, advocating in testimonies to the government for her community. She also would work with ethnographers and linguists to preserve the Kashaya Pomo language and traditions, helping to create over 20 films one of which one the 1866 Western Heritage Award. Essie Parrish has been remembered in a few books such as The Roots of Our Culture/Stories of Essie Parrish, and in Mabel McKay: Weaving the Dream.</Text>
+		</Row>
+
+		<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_ORG_COIOT_ESSIE_FIRSTGREETING">
+			<Text>Camay, I knew you were coming. Now come this way, I have a basket saved for you. Then we discuss other matters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORG_COIOT_ESSIE_DEFEATED">
+			<Text>I've done what I could to preserve our culture, so we will not be gone forever. Our ghosts will return as your plague is cleansed from these lands. The Dream never lies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORG_COIOT_ESSIE_GREETING_POLITE_HELLO">
+			<Text>It is good to see you again. Come, stay, let me tell you a story.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORG_COIOT_ESSIE_GREETING_NEUTRAL_HELLO">
+			<Text>I do have time for a small talk if that is what you wish, but I am doing a dance later so I'd rather this not take long.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORG_COIOT_ESSIE_GREETING_HOSTILE_HELLO">
+			<Text>Fine houses and much machinery do not cause men to become kind, nor does it make them civilized.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORG_COIOT_ESSIE_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>I have had Dreams of... your empire crumbling. I do not think it would be wise of you to continue.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORG_COIOT_ESSIE_EXPANSION_SERIOUS_WARNING">
+			<Text>We've lived on this land for thousands of years, your encroachment is unwanted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORG_COIOT_ESSIE_REQUEST">
+			<Text>It has been a rough year, please, can you spare just a basket full?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORG_COIOT_ESSIE_DECLAREWAR">
+			<Text>You have disrespected my people enough, for that you will pay the price. I have seen only victory in my Dreams.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ORG_COIOT_ESSIE_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now dancing to your Dreams and carrying your beautifully woven baskets. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		
+		<!-- Cities -->
+		<!-- Hi Lacs so these are from "The Ethno-Geography of the Pomo and Neighboring Indians" by S. A. Barrett, there's a copy of the included map on Wikipedia to see easier, though not like on the main Pomo languages page you can google for it. Annoyingly the version in the berkeley pdf (which is also the one on wikipedia) has some bad image merging, but Berkeley does have the map in its full glory separately but I can't figure out how to actually copy the whole entire image it's fuckin weird (also it's lower quality and a bit desaturated compared to the one in the pdf). -->
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_01">
+			<Text>Co'kadjal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_02">
+			<Text>Kaci'badon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_03">
+			<Text>Catca'mkau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_04">
+			<Text>Behe'pal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_05">
+			<Text>Po'tol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_06">
+			<Text>Ta'tem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_07">
+			<Text>E'lem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_08">
+			<Text>Maka'hmo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_09">
+			<Text>Bida'miwina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_10">
+			<Text>Kadi'u</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_11">
+			<Text>Ka'tuuli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_12">
+			<Text>Shanel</Text>
+			<!-- Also known as Cane'l or Sanel, this is the one near Hopland, not Centerville -->
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_13">
+			<Text>Kula'napo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_14">
+			<Text>Kabe'napo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_15">
+			<Text>Koi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_16">
+			<Text>Ka'hwalau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_17">
+			<Text>Bati'kletcawi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_18">
+			<Text>Kowi'cal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_19">
+			<Text>Baka'mtati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_20">
+			<Text>Le'ma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_21">
+			<Text>Maiyi'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_22">
+			<Text>Kabemato'lil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_23">
+			<Text>Xa'dalam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_24">
+			<Text>Dana'ga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_25">
+			<Text>Ko'dalau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_26">
+			<Text>Co'samak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_27">
+			<Text>Yo'butui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_28">
+			<Text>Cane'l</Text>
+			<!-- Pottery Valley Cane'l (near Centerville)-->
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_29">
+			<Text>No'napoti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_30">
+			<Text>Tsaka'mo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_31">
+			<Text>Se'dam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_32">
+			<Text>Tcatam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_33">
+			<Text>Ka'tili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_34">
+			<Text>Mama'mamau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_35">
+			<Text>La'tcupda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_36">
+			<Text>Yo'kaia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_37">
+			<Text>Kabe'l</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_38">
+			<Text>Hma'ragimowina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_39">
+			<Text>Xuna'dai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_40">
+			<Text>Ka'towi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_41">
+			<Text>Kabete'yo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_42">
+			<Text>Mete'ni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_43">
+			<Text>Mutca'wi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_44">
+			<Text>Tcee'tido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_45">
+			<Text>Ko'mli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_46">
+			<Text>Cane'kai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_47">
+			<Text>Caba'kana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_48">
+			<Text>Pda'hau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_49">
+			<Text>Cie'go</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORG_COIOT_POMO_50">
+			<Text>Hu'kdja</Text>
+		</Row>
+
+		<!-- Spies -->
+		<Row Tag="TXT_KEY_SPY_NAME_ORG_COIOT_POMO_0">
+			<Text>Shuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ORG_COIOT_POMO_1">
+			<Text>Xasis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ORG_COIOT_POMO_2">
+			<Text>Modun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ORG_COIOT_POMO_3">
+			<Text>Katana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ORG_COIOT_POMO_4">
+			<Text>Elwah Tupi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ORG_COIOT_POMO_5">
+			<Text>Hu'lyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ORG_COIOT_POMO_6">
+			<Text>Susie Shoemake</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ORG_COIOT_POMO_7">
+			<Text>Maria Meyers</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ORG_COIOT_POMO_8">
+			<Text>Charles Bowen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ORG_COIOT_POMO_9">
+			<Text>Kalpela</Text>
+		</Row>
+		
+		<!-- Basket Weaver Names and stuff -->
+		<Row Tag="TXT_KEY_GREAT_WORK_ORG_COIOT_BASKET">
+			<Text>Pomo Basket</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ORG_COIOT_BASKET_S">
+			<Text>Pomo Baskets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ORG_COIOT_BASKET_FEATHER">
+			<Text>Pomo Feather Basket</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ORG_COIOT_BASKET_MINI">
+			<Text>Pomo Miniature Basket</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ORG_COIOT_BASKET_MINI_S">
+			<Text>Pomo Miniature Baskets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ORG_COIOT_BASKET_CRADLE">
+			<Text>Pomo Basket Cradle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ORG_COIOT_BASKET_UNKNOWN">
+			<Text>Pomo Basket (Weaver Unknown)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_1">
+			<Text>Essie Parrish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_2">
+			<Text>Susan Billy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_3">
+			<Text>Mabel McKay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_4">
+			<Text>Julia F. Parker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_5">
+			<Text>Elsie Allen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_6">
+			<Text>William Benson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_7">
+			<Text>Mary Knight Benson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_8">
+			<Text>Luwana Quitiquit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_9">
+			<Text>Laura Somersal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_10">
+			<Text>Annie Burke Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_11">
+			<Text>Mary Arnold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_12">
+			<Text>Gunsissie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_13">
+			<Text>Susie Santiago Billy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_14">
+			<Text>Nellie Burke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_15">
+			<Text>Clint McKay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_16">
+			<Text>Corine Pearce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_17">
+			<Text>Lorraine Lockhart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_18">
+			<Text>Myrtle McCoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_19">
+			<Text>Belle Viriol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_20">
+			<Text>Mary Smith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_21">
+			<Text>Agnes Santana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_22">
+			<Text>Laura Wilbell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_23">
+			<Text>Mow-sha Edwards</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_24">
+			<Text>Rhoda Knight</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_25">
+			<Text>Ethel Burke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_26">
+			<Text>Gladys Lockhart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_27">
+			<Text>Myrtle McKay Chavez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_28">
+			<Text>Mollie Jackson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_29">
+			<Text>Alice Elliott</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_30">
+			<Text>Suzanne Holder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_31">
+			<Text>Lydia Faught</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_32">
+			<Text>Annie Boone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_33">
+			<Text>Nora Cooper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_34">
+			<Text>Wala-Wala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_35">
+			<Text>Salome Alcantra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_36">
+			<Text>Maude Scott</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_37">
+			<Text>Annie Burke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_38">
+			<Text>Mrs. Kyman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_39">
+			<Text>Evelyn Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORG_COIOT_BASKET_WEAVER_40">
+			<Text>Sarah Knight</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

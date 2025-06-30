@@ -1,0 +1,247 @@
+﻿<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_01">
+			<Text>Junjuwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_02">
+			<Text>Darlngunaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_03">
+			<Text>Bandilngan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_04">
+			<Text>Dimalurru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_05">
+			<Text>Yaranggi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_06">
+			<Text>Baraa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_07">
+			<Text>Jijidu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_08">
+			<Text>Yuwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_09">
+			<Text>Miluwindi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_10">
+			<Text>Mindi Rardi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_11">
+			<Text>Gurang.ngadja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_12">
+			<Text>Dawadiya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_13">
+			<Text>Danggu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_14">
+			<Text>Biridu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_15">
+			<Text>Balili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_16">
+			<Text>Kurnangki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_17">
+			<Text>Bungardi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_18">
+			<Text>Galamunda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_19">
+			<Text>Malarabah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_20">
+			<Text>Yirimalay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_21">
+			<Text>Buruwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_BUNUBA_22">
+			<Text>Jimbalakudunj</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BUNUBA_0">
+			<Text>Yilimarra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BUNUBA_1">
+			<Text>Ilaji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BUNUBA_2">
+			<Text>Jini</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BUNUBA_3">
+			<Text>Dibinarra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BUNUBA_4">
+			<Text>Marralam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BUNUBA_5">
+			<Text>Wiyala</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BUNUBA_6">
+			<Text>Darrudi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BUNUBA_7">
+			<Text>Wangamarra</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BUNUBA_8">
+			<Text>Mayanni</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_BUNUBA_9">
+			<Text>Yilimbirri</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_SENSHI_BUNUBA_ADJECTIVE">
+			<Text>Bunuba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_BUNUBA_DESC">
+			<Text>The Bunuba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_BUNUBA_SHORT_DESC">
+			<Text>The Bunuba</Text>
+			<Plurality>2</Plurality>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_SENSHI_JANDAMARRA_TEXT">
+			<Text>Greetings, oh bold Jandamarra, hero of the Bunuba! Your people are a proud and reslient one, custodians of the land around what is now known as Fitzroy Crossing for tens of thousands of years. Though you had earned a position of privilege within the British colonial system, you sacrificed it all to fulfil your obligations to your people. Spurred on by settlers encroaching on your traditional lands and authorities committing atrocities against your people, you rose up in rebellion to colonial rule! For three years you waged effective guerrilla war in your traditional lands, attacking and escaping British forces so successfully you gained a reputation as an almost supernatural being. Unfortunately your rebellion was tragically cut short by your death at the hands of an enlisted Aboriginal tracker, but the legacy of your resistance will forever remain![NEWLINE][NEWLINE]Brave Jandamarra, the Bunuba once more call upon your obligations to your people! They need a heroic figure to lead them into this hostile new world. Will you once again stand up in protection of your people and your lands? Will you build a civilization to stand the test of time?</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BUNUBA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BUNUBA_TEXT_1">
+			<Text>The Bunuba, also known as the Bunaba, Punapa, or Punuba, are a group of Indigenous Australians and are one of the traditional owners of the southern West Kimberley, in Western Australia. Many now live in and around the town of Fitzroy Crossing. They speak the Bunuba language, which is one of only two members of the Bunuban language family, and was one of at least 44 languages that were spoken in the Kimberley.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BUNUBA_HEADING_2">
+			<Text>Country</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BUNUBA_TEXT_2">
+			<Text>The Bunuba's traditional territory extended over 6,500 square kilometres. The northern frontier ran along the Lady Forrest Range. To the west, it reached as far as Mount Broome, and ran along the Richenda River as far as the Granite Range and Mount Percy. Its southeastern boundary lay along the Oscar Range as far as Brooking Springs. It also encompassed the Geikie Gorge and Stony Creek's headwaters in the northeast. The Bunuba were also masters of the eastern part of the Wunaamin Miliwundi Ranges, at least until the Ngarinjin managed to expel them from that territory, sometime before the advent of white settlement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BUNUBA_HEADING_3">
+			<Text>History of Contact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BUNUBA_TEXT_3">
+			<Text>As white penetration and appropriation of their lands advanced, the pastoralists began to press the government to take strong measures against the presence of indigenous people on their property, some of whom they would nonetheless employ during the dry season. A resistance movement eventually emerged, in the mid-1890s, when the Bunuba leader Jandamarra, nicknamed Pigeon by the white settlers, from a base in Tunnel Creek in the Oscar Ranges, organized guerilla warfare forays against the intruding cattlemen and sheepmen. Jandamarra himself had formerly been enlisted by white authorities to hunt down an earlier Bunuba resistance leader Ellemarra. A crackdown under Inspector Lawrence led to killings among, and the dispersion of, many communities, some of the victims being also Gooniyandi. Jandamarra was killed in 1897, but sporadic attacks continued on livestock, and massacres of the indigenous population persisted, one being said to have taken place as late as the 1930s.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BUNUBA_HEADING_4">
+			<Text>Native Title and Modern Times</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_BUNUBA_TEXT_4">
+			<Text>The Bunuba acquired Leopold Downs and Fairfield Downs stations in 1991. Together the properties occupy an area of 5,700 square kilometres. In 2012, after the collapse of their Indonesian market, the Bunuba entered into an agreement with the Australian Agricultural Company where AACo would manage the operations and the Bunuba would receive an annual rent and training opportunities and have complete access to their lands. However, it was also during this year that, fourteen years after it was lodged, the Bunuba #1 Native Title Claim was determined in a hearing of the Federal Court held at Geike Gorge. This meant that Bunuba hold traditional ownership over a substantial part of their country, and that the Leopold Downs and Fairfield pastoral leases were recognised in Australian law. The #2 and #3 claims were continuing through the negotiation process as of 2014.</Text>
+		</Row>
+		
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_LIVED">
+			<Text>c. 1873 - 1897</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_NAME">
+			<Text>Jandamarra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_SUBTITLE">
+			<Text>Leader of the Bunuba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_JANDAMARRA">
+			<Text>Jandamarra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_TITLES_1">
+			<Text>Rebel Leader</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_TITLES_2">
+			<Text>'Jalgangurru'</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_TEXT_1">
+			<Text>Jandamarra, known also as Tjandamurra, or by his name given by European settlers, Pidgeon, was an Aboriginal Australian man of the Bunuba people who led one of many organised armed insurrections against the European colonisation of Australia. Initially utilised as a tracker for the police, he became a fugitive when he was forced to capture his own people. He led a three-year campaign against police and European settlers. He was renowned for his hit-and-run tactics and his abilities to hide and disappear. Jandamarra was eventually killed by another tracker at Tunnel Creek on 1 April 1897. His body was buried by his family at the Napier Range, where it was placed inside a boab tree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_HEADING_2">
+			<Text>Young Jandamarra the Stockman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_TEXT_2">
+			<Text>From a young age, Jandamarra learned to ride horses, speak English fluently, shear sheep and use guns on William Lukin's station at Lennard River, and was regarded as the area's best Aboriginal stockman. Lukin dubbed him Pigeon because he was small and ran fast. In his teens, he was initiated into the law of the Bunuba. At the age of 15 he returned to his traditional land for initiation and learnt to hunt. In 1889 he and a man called Ellemarra were captured by police, chained together and made to walk to Derby, where they were charged with killing sheep. Jandamarra won his freedom by agreeing look after the police horses and became popular. About a year later he returned to Lennard River to work as a stockman, and then to his traditional land, where he was said to have violated Bunuba law, after which he moved to Lillimooloora station to escape punishment according to tribal law.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_HEADING_3">
+			<Text>The Tracker Team and Tragedy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_TEXT_3">
+			<Text>When Jandamarra’s close friend, an English stockman named Bill Richardson, joined the police force in the 1894, Jandamarra was employed as his native tracker at the police outpost in the abandoned Lillimooloora homestead. Unusually for the time, Jandamarra was treated as an equal and the pair gained a reputation as the "most outstanding" team in the police force at that time. Aboriginal people were spearing the settlers’ stock, an effective form of resistance. Eventually, Jandamarra was ordered to track down and take captive a group of Bunuba men at Lillimooloora Station. There, his uncle, chief Ellemarra, and the other men said that he had obligations to his people, having escaped traditional punishment, and they also told him about a new policeman who had been killing Aboriginal people, and encroaching European settlers. Jandamarra chose the path of loyalty to his people, tragically shooting his friend Richardson in his first act of resistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_HEADING_4">
+			<Text>A Guerrilla Leader</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_TEXT_4">
+			<Text>On 10 November 1894, Jandamarra and some followers, who by now had formed an armed gang, attacked five white men who were driving cattle to set up a large station in the heart of Bunuba land. Two of the men were killed, with their guns and ammunition captured. On 16 November 1894, the police and Jandamarra’s band of 50 warriors faced each other in an eight-hour standoff at Windjana Gorge, a sacred location in Bunuba culture. Ellemarra died in the conflict, but Jandamarra escaped with non-lethal wounds. Consequently, Western Australia’s first Premier, John Forrest, ordered the rebellion crushed. Police attacked camps around Fitzroy Crossing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_HEADING_5">
+			<Text>A Guerrilla Legend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_TEXT_5">
+			<Text>For the next three years, Jandamarra led a guerrilla war against police and European settlers. His hit and run tactics and his vanishing tricks became almost mythical, leading to some calling him a Jalgangurru. In one famous incident, a police patrol followed him to his hideout at the entrance to Tunnel Creek in the Napier Range, only for Jandamarra to mysteriously disappear, through the system of tunnels in the mountains. Police chasing Jandamarra were also in awe at his ability to cross the rugged ranges with no effect on his bare feet, despite their boots being cut to shreds by the sharp rocks. In the next couple of years, the gang raided the police and a white homestead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_HEADING_6">
+			<Text>Death in the Gorge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JANDAMARRA_TEXT_6">
+			<Text>Micki, or Minko Mick, who was another skilled Aboriginal tracker also reputed to possess magical powers, was not a Bunuba tribesman, and did not fear Jandamarra. He tracked Jandamarra down and shot him dead at Tunnel Creek on 1 April 1897. The white troopers cut off Jandamarra's head as proof that he was dead and it was preserved and sent to a firearms company in England where it was used as an example of the effectiveness of the company's firearms. The head of another Bunuba man was labelled as Jandamarra and put on public display in Perth. His body was buried by his family at the Napier Range where it was placed inside a boab tree.</Text>
+		</Row>
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_BUNUBA_SHORT">
+			<Text>Windjana Resistance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_BUNUBA">
+			<Text>Units earn Experience and provide [ICON_PEACE] Faith for each adjacent enemy Unit. Expending Religious units damages all rival Combat Units and Cities within two tiles, while healing your own.</Text>
+		</Row>
+
+		<!--Unique Units-->
+		<Row Tag="TXT_KEY_UNIT_SENSHI_JILAMANA">
+			<Text>Jilamana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_JILAMANA_STRATEGY">
+			<Text>Unique Bunuba replacement for the Rifleman. Weaker than the Rifleman it replaces, the Jilamana begins with the Scouting I and Survivalism I promotions, and may move after attacking. In addition, its movement is replenished whenever an adjacent enemy unit is defeated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_JILAMANA_HELP">
+			<Text>Unique Bunuba replacement for the Rifleman. Weaker than the Rifleman it replaces, the Jilamana begins with the Scouting I and Survivalism I promotions, and may move after attacking. In addition, its movement is replenished whenever an adjacent enemy unit is defeated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_JILAMANA_TEXT">
+			<Text>Jialamana is the Bunuba word for rifle. During Jandamarra’s War, the Bunuba used rifles in their battles with police. One of these battles was in Windjana Gorge between the Bunuba and 30 police officers.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_SENSHI_JALGANGURRU">
+			<Text>Jalgangurru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_JALGANGURRU_STRATEGY">
+			<Text>Unique Bunuba replacement for the Great Prophet. Enemy units within two tiles of a Jalgangurru are Frightened, decreasing their Combat Strength, and receive no combat bonus from flanking. In addition, units may freely Airdrop between your Capital and Cities with a stationed Jalgangurru.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_JALGANGURRU_HELP">
+			<Text>Unique Bunuba replacement for the Great Prophet. Enemy units within two tiles of a Jalgangurru are Frightened, decreasing their Combat Strength, and receive no combat bonus from flanking. In addition, units may freely Airdrop between your Capital and Cities with a stationed Jalgangurru.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_JALGANGURRU_TEXT">
+			<Text>A jalgangurru was a man believed to be bestowed with spiritual powers, which flowed from the timeless law of Aboriginal country. A wandering spirit, a jalgangurru is said to be able to fly like a bird and disappear like a ghost. Jandamarra himself was said to a jalgangurru, only able to be killed by another jalgangurru. This idea was central to Jandamarra’s resistance to the European colonisation of his homeland, and cemented him as a folk hero in Australian history.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_BUNUBA_FRIGHTENED">
+			<Text>Frightened!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_BUNUBA_FRIGHTENED_HELP">
+			<Text>This unit has been Frightened by a nearby Jalgangurru, giving it a malus to Combat Strength and making it lose its Flanking Bonus.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

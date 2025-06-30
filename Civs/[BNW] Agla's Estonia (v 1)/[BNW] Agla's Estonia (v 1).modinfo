@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d9f6f8fa-2668-465e-94d0-62270f714aee" version="1">
+  <Properties>
+    <Name>[BNW] Agla's Estonia</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds Estonia to the game.</Teaser>
+    <Description>Adds Estonia to the game.</Description>
+    <Authors>Aglaa</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="5B8FBDD532486EB60ECB727286CA7706" import="1">Art/Graphics/Imperial Grenadier/Animations/fx_triggers_modernmarine.ftsxml</File>
+    <File md5="10FBE81A38F4D40FBB262AA7848681E8" import="1">Art/Graphics/Imperial Grenadier/Animations/ModernMarine_Attack.gr2</File>
+    <File md5="82C1973B3CED9ACEFFFE2C2003A603D4" import="1">Art/Graphics/Imperial Grenadier/Animations/ModernMarine_Bombard_Defense.gr2</File>
+    <File md5="4E5C1205401B54CBE76140F440D3200D" import="1">Art/Graphics/Imperial Grenadier/Animations/ModernMarine_DeathA.gr2</File>
+    <File md5="5D434BEDA164FA4674D624BBD5D5D2A1" import="1">Art/Graphics/Imperial Grenadier/Animations/ModernMarine_DeathA_Idle.gr2</File>
+    <File md5="90EEA8E512E8E0B848BD323FE8A99780" import="1">Art/Graphics/Imperial Grenadier/Animations/ModernMarine_DeathB.gr2</File>
+    <File md5="0208C41187615F90A266AB8AF44EFF0A" import="1">Art/Graphics/Imperial Grenadier/Animations/ModernMarine_DeathB_Idle.gr2</File>
+    <File md5="17FA15D5AF19204D2FBDDBDF0BCD6313" import="1">Art/Graphics/Imperial Grenadier/Animations/ModernMarine_Fidget.gr2</File>
+    <File md5="B63A001D59F2A07B413BB02898D2E656" import="1">Art/Graphics/Imperial Grenadier/Animations/ModernMarine_Fortify.gr2</File>
+    <File md5="4DB8C1D2B17255833878519BA8CF4568" import="1">Art/Graphics/Imperial Grenadier/Animations/ModernMarine_Fortify_Idle.gr2</File>
+    <File md5="A6DDF301AB9DFC99838E77EC71416A0C" import="1">Art/Graphics/Imperial Grenadier/Animations/ModernMarine_Idle.gr2</File>
+    <File md5="DCB52786F02DF0FE8C8C64A68733041A" import="1">Art/Graphics/Imperial Grenadier/Animations/ModernMarine_Run.gr2</File>
+    <File md5="A1CEF4326EDDAED1935D096C1DEAC86C" import="1">Art/Graphics/Imperial Grenadier/TzahalCommando.png</File>
+    <File md5="A0FE45ABCE70719AFB8E3E7AB2E1983D" import="1">Art/Graphics/Imperial Grenadier/Tzahal_Commando.fxsxml</File>
+    <File md5="A1CA7C274191370CA18B8947BEF3068A" import="1">Art/Graphics/Imperial Grenadier/Tzahal_Commando.gr2</File>
+    <File md5="DCC58AB3E5FCA15BBF65E45F6BFD04C1" import="1">Art/Graphics/Imperial Grenadier/Tzahal_Commando_diff.dds</File>
+    <File md5="2061E175E91F1B83F11081FF48BF40A2" import="1">Art/Graphics/Imperial Grenadier/Tzahal_Commando_sref.dds</File>
+    <File md5="774AC2CB39108EEA7E8297DF5AB5A652" import="1">Art/Icons/Agla_Estonia_AlphaAtlas_128.dds</File>
+    <File md5="4C0A46E2D274920D2CA1DB2C764448D8" import="1">Art/Icons/Agla_Estonia_AlphaAtlas_16.dds</File>
+    <File md5="7800146F0E0F735FE01ED42BF5F327EC" import="1">Art/Icons/Agla_Estonia_AlphaAtlas_22.dds</File>
+    <File md5="EBCC8C127CFAC6F0514043EDE09F6855" import="1">Art/Icons/Agla_Estonia_AlphaAtlas_24.dds</File>
+    <File md5="882CE1C23FACC337EB4C93D391802A00" import="1">Art/Icons/Agla_Estonia_AlphaAtlas_32.dds</File>
+    <File md5="9A2CB93AFC9A93C29324F1C9493A251A" import="1">Art/Icons/Agla_Estonia_AlphaAtlas_45.dds</File>
+    <File md5="0B245BED48555956FC6AAC8674B43772" import="1">Art/Icons/Agla_Estonia_AlphaAtlas_48.dds</File>
+    <File md5="8E87D7E39230FEA15CBA691323634B07" import="1">Art/Icons/Agla_Estonia_AlphaAtlas_64.dds</File>
+    <File md5="E2B899CE4D91F578102EDA39E9CC0241" import="1">Art/Icons/Agla_Estonia_AlphaAtlas_80.dds</File>
+    <File md5="673BCB317C67A320AAE36C9A21309579" import="1">Art/Icons/Agla_Estonia_IconAtlas_128.dds</File>
+    <File md5="32C2B068E19BF63795E63138CB3513E9" import="1">Art/Icons/Agla_Estonia_IconAtlas_256.dds</File>
+    <File md5="33D21E05AB12D1C5C037B3FA24109464" import="1">Art/Icons/Agla_Estonia_IconAtlas_32.dds</File>
+    <File md5="3AB4A39E61AC6EEC6536CE7D94EC183C" import="1">Art/Icons/Agla_Estonia_IconAtlas_45.dds</File>
+    <File md5="C51164D7FE34C84D3FE772A973D163B8" import="1">Art/Icons/Agla_Estonia_IconAtlas_64.dds</File>
+    <File md5="9A5EA8AAD56B5BDAE74182E318281E56" import="1">Art/Icons/Agla_Estonia_IconAtlas_80.dds</File>
+    <File md5="4FFF8479FBA7A82D7B36E42971F4C3C9" import="1">Art/Icons/Agla_FrBro_UnitFlagAtlas_32.dds</File>
+    <File md5="A86D19F08C457EAD003A6D4F7D73CEB1" import="1">Art/Leaderscene/Agla_Estonia_Diplo.dds</File>
+    <File md5="34C80928038AC36294E65D73BABE1869" import="1">Art/Leaderscene/Agla_Estonia_Scene.xml</File>
+    <File md5="E30FFA2F7012D2FAD3A44337E6C25618" import="1">Art/Maps/Agla_DOMEstonia.dds</File>
+    <File md5="268328195D2D4163CD7640EBD13E2AB7" import="1">Art/Maps/Agla_MapEstonia512.dds</File>
+    <File md5="FEF5DC6F02C87627D69B014C213D0C60" import="1">Audio/EstoniaP.mp3</File>
+    <File md5="2ECFBB4A4F01E61DFE947CC601506BAB" import="1">Audio/EstoniaW.mp3</File>
+    <File md5="7F24C7327252F9D6226644EE7DB16C5D" import="0">Core/Est_ArtDefines.sql</File>
+    <File md5="BF8E9BFDED0B5F51EC53C6285D0C6D3A" import="0">Core/Est_GameDefines.sql</File>
+    <File md5="749F71D9F75BB3A074C636E934CAE53B" import="0">Core/Est_GameText.xml</File>
+    <File md5="97871A716A1EEA594C6BEA4353339487" import="0">Lua/UA2_Functions.lua</File>
+    <File md5="B72C4B5B21DACA962CA0178BA0D324A8" import="0">Lua/UA1_Functions.lua</File>
+    <File md5="529EAD03F136E86EA3840C2F57CC5968" import="0">Lua/UB_Functions.lua</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/Utilities/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/Utilities/CultureOverview.xml</File>
+    <File md5="7BD2FBE46D0E789BDFF45CAC065DB4E4" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Est_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Est_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Est_GameText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/UA1_Functions.lua">
+      <Name>UAPolicies</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/UA2_Functions.lua">
+      <Name>MusicUA</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/UB_Functions.lua">
+      <Name>UBPols</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

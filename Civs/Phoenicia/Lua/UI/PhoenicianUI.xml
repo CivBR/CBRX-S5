@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Context>
+	<Box ID="PhoenicianUIBG" Style="BGBlock_ClearTopBar"/>
+	<Grid ID="PhoenicianUI"  Size="600,300" Anchor="C,C" Style="Grid9DetailFive140" ConsumeMouse="1">
+	
+	<Image Anchor="C,T" AnchorSide="I.O" Size="256,64" Offset="0,-14"  Texture="assets\UI\Art\Icons\Top512IconTrim.dds" >
+		<Image ID="CivIconBG" Size="64.64" Anchor="C,C" Offset="-1,-1" TextureOffset="77,0" Texture="CivIconBGSizes.dds" />
+		<Image ID="CivIconShadow" Size="48.48" Anchor="C,C" Offset="0,0" Texture="CivSymbolAtlas48.dds" Color="Black.128"/>
+		<Image ID="Icon" Size="48,48" Offset="-1,-1"  Anchor="C,C" Texture="CivSymbolsColor512.dds" />
+    </Image>
+	
+	<Label ID="Message" Offset="0,-20" WrapWidth="500" Anchor="C,C" Font="TwCenMT22" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" String="TXT_KEY_PHOENICIAN_DIALOG"/>
+
+	
+	<Box Anchor="C,B" AnchorSide="I.I" Offset="0,54" Size="450,56" Color="255,255,255,0">
+		<!-- YES BUTTON  -->
+		<GridButton Anchor="C,B" Style="SmallButton" Size="150,32" Offset="-160,0" StateOffsetIncrement="0,0" ID="Yes" ToolTip="TXT_KEY_PHOENICIAN_YES_TOOLTIP">
+			<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_PHOENICIAN_YES" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+		</GridButton>
+		<!-- NO BUTTON  -->
+		<GridButton Anchor="C,B" Style="SmallButton" Size="150,32" Offset="0,0" StateOffsetIncrement="0,0" ID="No" ToolTip="TXT_KEY_PHOENICIAN_NO_TOOLTIP">
+			<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_PHOENICIAN_NO" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+		</GridButton>
+		<!-- NEVER BUTTON  -->
+		<GridButton Anchor="C,B" Style="SmallButton" Size="150,32" Offset="160,0" StateOffsetIncrement="0,0" ID="Never" ToolTip="TXT_KEY_PHOENICIAN_NEVER_TOOLTIP">
+			<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_PHOENICIAN_NEVER" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+		</GridButton>
+	</Box>
+		
+	</Grid>
+</Context>
+

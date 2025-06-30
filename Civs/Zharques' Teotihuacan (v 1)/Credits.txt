@@ -1,0 +1,11 @@
+-- Credits
+-- Author: Zharques
+-- DateCreated: 7/13/2024 5:05:17 PM
+--------------------------------------------------------------
+
+Design + Text: Zharques, Lime
+Art: Civ Icon (Lime, DarthKyofu); Leaderscene, Unit Flag (DarthKyofu); Map (Lime); UU Icon (Agla); UB Icon (Arilasqueto), Resource Icon (Sukritact).
+Audio: War - https://www.youtube.com/watch?v=RzlfiZmq33c
+	   Peace - https://www.youtube.com/watch?v=RyDjktJe6Oc
+Core: Zharques
+Lua: PorkBean

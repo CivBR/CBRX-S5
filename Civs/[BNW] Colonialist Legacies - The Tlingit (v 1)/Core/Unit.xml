@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Units>
+		<Row>
+			<Type>UNIT_CL_XAA</Type>
+			<Description>TXT_KEY_UNIT_CL_XAA</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_CL_XAA_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_CL_XAA_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_CL_XAA</Help>
+			<Combat>24</Combat>
+			<Cost>150</Cost>
+			<FaithCost>300</FaithCost>
+			<RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<BaseSightRange>2</BaseSightRange>
+			<Class>UNITCLASS_MUSKETMAN</Class>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<MilitarySupport>1</MilitarySupport>
+			<MilitaryProduction>1</MilitaryProduction>
+			<Pillage>1</Pillage>
+			<IgnoreBuildingDefense>1</IgnoreBuildingDefense>
+			<PrereqTech>TECH_GUNPOWDER</PrereqTech>
+			<ObsoleteTech>TECH_RIFLING</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_RIFLEMAN</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>25</AdvancedStartCost>
+			<MinAreaSize>-1</MinAreaSize>
+			<NukeDamageLevel>-1</NukeDamageLevel>
+			<CombatLimit>100</CombatLimit>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>4</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_TLINGIT_RIFLEMAN</UnitArtInfo>
+			<ShowInPedia>1</ShowInPedia>
+			<MoveRate>BIPED</MoveRate>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>CL_TLINGIT_ATLAS</IconAtlas>
+			<UnitFlagAtlas>CL_XAA_FLAG</UnitFlagAtlas>
+		</Row>
+	</Units>
+
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_CL_XAA</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CL_XAA</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CL_XAA</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<!-- Unit_Buildings -->
+	<!-- Unit_BuildingClassRequireds -->
+	<!-- Unit_ProductionModifierBuildings -->
+	<!-- Unit_Builds -->
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_CL_XAA</UnitType>
+			<UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_CL_XAA</UnitType>
+			<PromotionType>PROMOTION_CLFBYAA</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CL_XAA</UnitType>
+			<PromotionType>PROMOTION_CLFBYAAMOVE</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_CL_XAA</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CL_XAA</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<!-- Unit_GreatPersons -->
+	<!-- Unit_ResourceQuantityRequirements -->
+	<!-- Unit_UniqueNames -->
+	<!-- Unit_YieldFromKills -->
+	<!-- Unit_NotAITypes -->
+	<!-- Unit_ProductionTraits -->
+	<!-- Unit_TechTypes -->
+	<!-- UnitPromotions_CivilianUnitType -->
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_CL_XAA</UnitType>
+			<SelectionSound>AS2D_SELECT_MUSKETMAN</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_MUSKETMAN</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_CL_XAA">
+			<Text>Xaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_CL_XAA_TEXT">
+			<Text>
+				Xaa was the Tlingit name for a war party, or an attacking force of warriors and soldiers. Throughout the world the intricate, and beautifully decorated nature of the Tlingit armor and helmets have become synonymous with the term "Pacific North West". The armors and helmets used by the Tlingit were utterly unique, wherein warriors wore expertly constructed bulky armor made of wooden rods lashed together to protect from enemy archers.  One such piece of armor inadvertently represented the convergence of three cultures; It was covered in Chinese coins the Tlingit received in trade from Boston sea merchants in exchange for sea otter pelts. Essentially, each design was unique and imposing and their expressive artistry shone through with many of the designs being personalised.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CL_XAA_STRATEGY">
+			<Text>Tlingit unique Musketman, whenever the Xaa defeats an enemy unit it provides Culture towards Border Expansion in the nearest Coastal City. When starting it's turn on a Coastal Tile, gains an extra Movement point (ability carries over with upgrade).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CL_XAA">
+			<Text>Tlingit unique Musketman, whenever the Xaa defeats an enemy unit it provides Culture towards Border Expansion in the nearest Coastal City. When starting it's turn on a Coastal Tile, gains an extra Movement point (ability carries over with upgrade).</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

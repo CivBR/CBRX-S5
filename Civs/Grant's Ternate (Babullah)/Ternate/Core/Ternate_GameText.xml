@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- City names -->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_1">
+			<Text>Ternate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_2">
+			<Text>Sidangoli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_3">
+			<Text>Soahsio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_4">
+			<Text>Dodinga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_5">
+			<Text>Galela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_6">
+			<Text>Jailolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_7">
+			<Text>Sampalu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_8">
+			<Text>Foramadiahi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_9">
+			<Text>Kau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_10">
+			<Text>Takome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_11">
+			<Text>Gotowasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_12">
+			<Text>Ngofakiaha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_13">
+			<Text>Toniko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_14">
+			<Text>Manado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_15">
+			<Text>Gorontalo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_16">
+			<Text>Kasiruta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_17">
+			<Text>Sanana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_18">
+			<Text>Weda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_19">
+			<Text>Labuha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_20">
+			<Text>Baubau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_21">
+			<Text>Wowoni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_22">
+			<Text>Ambelau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_23">
+			<Text>Banggai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_24">
+			<Text>Amasingkota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_25">
+			<Text>Lolodah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_26">
+			<Text>Ngofabobawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_27">
+			<Text>Tafasoho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_28">
+			<Text>Wajaboela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_29">
+			<Text>Soahkonorah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_30">
+			<Text>Lontor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_31">
+			<Text>Bobaneigo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_32">
+			<Text>Ngofagita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_33">
+			<Text>Pandanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_34">
+			<Text>Gamlenge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_35">
+			<Text>Manganitu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_36">
+			<Text>Balantak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_37">
+			<Text>Bobawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_38">
+			<Text>Todahe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_39">
+			<Text>Dehepodo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_TERNATE_40">
+			<Text>Dowonggila</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_GT_TERNATE_9">
+			<Text>Hidayatullah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_TERNATE_8">
+			<Text>Nukila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_TERNATE_7">
+			<Text>Nycili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_TERNATE_6">
+			<Text>Tanjung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_TERNATE_5">
+			<Text>Rubuhongi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_TERNATE_4">
+			<Text>Momole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_TERNATE_3">
+			<Text>Mandarsyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_TERNATE_2">
+			<Text>Taruwese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_TERNATE_1">
+			<Text>Nukila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_TERNATE_0">
+			<Text>Tabariji</Text>
+		</Row>
+		<!-- Ternate -->
+		<Row Tag="TXT_KEY_CIVILIZATION_GT_TERNATE">
+			<Text>Ternate Sultanate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GT_TERNATE_SHORT">
+			<Text>Ternate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GT_TERNATE_ADJECTIVE">
+			<Text>Ternaten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_GT_TERNATE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_GT_TERNATE_TEXT_1">
+			<Text>The Sultanate of Ternate, previously also known as The Kingdom of Gapi is one of the oldest Muslim kingdoms in Indonesia besides Tidore, Jailolo, and Bacan. The Sultanate of Ternate was established by Momole Ciko, the first leader of Ternate, with the title Baab Mashur Malamo, in 1257. It reached its Golden Age during the reign of Sultan Baabullah (1570–1583) and encompassed most of the eastern part of Indonesia and a part of southern Philippines. Ternate was a major producer of cloves and a regional power from the 15th to 17th centuries. ernate and neighbouring Tidore were the world's single major producer of cloves, upon which their rulers became among the wealthiest and most powerful sultans in the Indonesian region.Much of their wealth, however, was wasted fighting each other. Up until the Dutch completed the colonisation of Maluku in the 19th century, the Sultans of Ternate ruled empires that claimed at least nominal influence as far as Ambon, Sulawesi and Papua. In part as a result of its trade-dependent culture, Ternate was one of the earliest places in the region to which Islam spread, probably coming from Java in the late 15th century. Initially, the faith was restricted to Ternate's small ruling family, and spread only slowly to the rest of the population. The royal family of Ternate converted to Islam during the reign of Marhum (1465–1486), making him the first King of Ternate that embraced Islam; his son and successor, Zainal Abidin (1486–1500) enacted Islamic Law and transformed the kingdom into an Islamic Sultanate; the title Kolano (king) was then replaced with Sultan.[NEWLINE][NEWLINE]The peak of Ternate's power came near the end of the 16th century, under Sultan Baabullah (1570–1583), when it had influence over most of the eastern part of Sulawesi, the Ambon and Seram area, Timor island, parts of southern Mindanao and as well as parts of Papua. It frequently engaged in fierce competition for control of its periphery with the nearby Sultanate of Tidore.[NEWLINE][NEWLINE]The first Europeans to stay on Ternate were part of the Portuguese expedition of Francisco Serrão out of Malacca, which was shipwrecked near Seram and rescued by local residents. Sultan Bayanullah of Ternate (1500–1522) heard of their stranding and, seeing a chance to ally himself with a powerful foreign nation, he brought them to Ternate in 1512. The Portuguese were permitted to build a fort on the island, today known as Kastella, construction of which began in 1522, but relations between the Ternateans and Portuguese were strained from the start. Following the murder of Sultan Hairun at the hands of the Portuguese, the Ternateans expelled the Portuguese in 1575 after a five-year siege. Ambon became the new centre for Portuguese activities in Maluku. European power in the region was weak and Ternate became an expanding, fiercely Islamic and anti-Portuguese state under the rule of Sultan Baab Ullah (r. 1570–1583) and his son Sultan Said. Spanish forces captured the former Portuguese fort from the Ternatese in 1606, deporting the Ternate Sultan and his entourage to Manila. In 1607 the Dutch came back to Ternate, where with the help of Ternateans they built a fort in Malayo. The island was divided between the two powers: the Spaniards were allied with Tidore and the Dutch with their Ternaten allies. For the Ternaten rulers, the Dutch were a useful, if not particularly welcome, presence that gave them military advantages against Tidore and the Spanish. Particularly under Sultan Hamzah (1627–1648), Ternate expanded its territory and strengthened its control over the periphery. Dutch influence over the kingdom was limited, though Hamzah and his grandnephew and successor, Sultan Mandar Syah (1648–1675) did concede some regions to the Dutch East India Company (VOC) in exchange for help controlling rebellions there. The Spaniards abandoned Maluku in 1663.[NEWLINE][NEWLINE]Desiring to restore Ternate to its former glory and expel the western power, Sultan Sibori Amsterdam (1675–1691) declared war to the Dutch, but the power of Ternate had greatly reduced over the years, he lost and was forced to concede more of his lands to the Dutch by a treaty in 1683. By this treaty, Ternate had lost its equal position with the Dutch and became a vassal. However, the Sultans of Ternate and its people were never fully under Dutch control until its annexation in 1914.[NEWLINE][NEWLINE]In the 18th century Ternate was the site of a VOC governorship, which attempted to control all trade in the northern Moluccas. By the 19th century, the spice trade had declined substantially. Hence the region was less central to the Netherlands colonial state, but the Dutch maintained a presence in the region to prevent another colonial power from occupying it. After the VOC was nationalised by the Dutch government in 1800, Ternate became part of the Government of the Moluccas (Gouvernement der Molukken). Ternate was seized and occupied by British forces in 1810 before being returned to Dutch control in 1817. In 1824 it became the capital of a residency (administrative region) covering Halmahera, the entire west coast of New Guinea, and the central east coast of Sulawesi. By 1867 all of Dutch-occupied New Guinea had been added to the residency, but then its region was gradually transferred to Ambon (Amboina) before being dissolved into that residency in 1922. Sultan Haji Muhammad Usman (1896–1914) made a last attempt to drive out the Dutch by instigating revolts in the region; he failed and was dethroned, his wealth being confiscated, and he was exiled to Bandung, where he lived his remaining years until 1927. The throne of Ternate was left vacant from 1914 to 1927, until the board of ministers under the blessing of the Dutch created Crown Prince Iskandar Muhammad Jabir the next Sultan. Sultan Mudaffar Sjah II died in 2015. The male members of his wife's family, the Dutch Van Gelders, were named Prince of Ternate in 2012, and rule the island since Mudaffar's death.</Text>
+		</Row>
+		<!-- Babullah -->
+		<Row Tag="TXT_KEY_LEADER_GT_BABULLAH">
+			<Text>Babullah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_BABULLAH_HEADING_1">
+			<Text>History</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_BABULLAH_TEXT_1">
+			<Text>Sultan Babullah, also known as Sultan Baabullah was the 7th Sultan and 24th ruler of the Sultanate of Ternate in Maluku who ruled between 1570 and 1583. He is known as the greatest Sultan in Ternatan and Malukan history, who defeated the Portuguese occupants in Ternate and led the Sultanate to a golden age at the end of the 16th century. Sultan Babullah was commonly known as the 'Ruler of 72 Islands' in eastern Indonesia, including most of the Maluku Islands, Sangihe and parts of Sulawesi, with influences as far as Solor, East Sumbawa, Mindanao, and the Papuan Islands. His reign inaugurated a period of free trade in the spices and forest products that gave Maluku a significant role in Asian commerce.[NEWLINE][NEWLINE]Little is known about his childhood, except that his father fostered his religious training; he was taught to "preach to the people", meaning that he received a thorough knowledge of the Qur'an.[NEWLINE][NEWLINE]Prince Baab and his brothers were apparently trained by a mubaligh (Islamic scholar) and a military expert in which they gained an understanding of the sciences of religion as well as warfare. According to the later chronicle of Naïdah, he was the foster son of the Sultan of Bacan. Since boyhood he also accompanied his father, following him in his temporary exile to Goa in 1545-1546.[NEWLINE][NEWLINE]Sultan Hairun lived in an uneasy relationship with the Portuguese captains who nevertheless assisted him in defeating the other sultantes in North Maluku, Tidore and Jailolo. A Ternatan-Portuguese conflict broke out in the 1560s, since Muslims in Ambon appealed for assistance from the Sultan against the Europeans, who at this time were bent on Christianizing the island. Sultan Hairun sent a war fleet under Prince Baab who appeared before the Christian village Nusaniwi in 1563 and demanded its surrender. However, the siege had to be lifted as three Portuguese ships appeared. For a time after 1564, the Portuguese were forced to leave Ambon altogether, although they came back and established a stronghold in 1569. Moreover, Baab undertook an expedition to the northern parts of Sulawesi in 1563 in order to bring these lands under his father's realm. In spite of all these conflicts, the Ternate-Portuguese relationship was not entirely broken. The officer Gonçalo Pereira led an expedition to the Philippines in 1569, where the rulers of Tidore, Bacan and Ternate were summoned to participate. Prince Baab showed up with fifteen korakoras. However, since Ternate had little interest in this venture, Baab diverted on the way and brought his fleet to the Melaka Straits where he performed acts of piracy. He nevertheless lost 300 men in the enterprise. The Portuguese enterprise in the Philippines likewise turned out to be a failure, to the ill-concealed satisfaction of Hairun. Still, Baab was discontent with his father being too indulgent towards the Europeans.[NEWLINE][NEWLINE]In 1570 Captain Diogo Lopes de Mesquita (1566-1570) undertook an official reconciliation with the sultan, but the atmosphere was still tense. Lopes de Mesquita invited Hairun to the fortress of São Paulo on 25 February 1570 for a meal. The sultan complied with the invitation and entered unattended, since his bodyguards were not allowed in. A nephew of the captain, Martim Afonso Pimentel, was posted just inside the gate. As the sultan was about to depart, Pimentel pierced him with his dagger and the victim fell down dying. Mesquita assumed that by removing Hairun, Maluku would lose its only prominent leader and resistance be scattered. Here, however, he underestimated the anti-Portuguese resentment which had built up during the last decades, in particular canalized through Prince Baab.[NEWLINE][NEWLINE]The tragic death of Sultan Hairun triggered the anger of the Ternatans as well as the various kings of Maluku. The royal council, with the support of various Kaicilis (princes) and Sangajis (sub-rulers) convened at the small Hiri island and brought forth Kaicili Baab as the next Sultan of Ternate with the title Sultan Babullah Datu Syah. The new Sultan aimed to fight for reestablishing the banner of Islam in Maluku and make Ternate Sultanate into a powerful kingdom, and to force the Portuguese out of his realm. Sultan Babullah did not waste any time after his inauguration. A solemn vow of irreconcilable enmity to the Portuguese was proclaimed throughout the Sultan's domains. No less than his father he emerged as a capable coordinator of different ethnic and cultural groups in the eastern archipelago. Some of the other Malukan Kings temporarily forgot their rivalries and joined forces under Sultan Babullah and the banner of Ternate, as did several rulers and chiefs in the larger region. Sultan Babullah's cause was helped by a number of capable commanders, such as the King of Jailolo, the governor of Sula Kapita Kapalaya, the Ambon-Ternatan sea lord Kapita Rubohongi, and his son Kapita Kalasinka. According to Spanish sources, Sultan Babullah was able to mobilize 2,000 kora-kora and 133,300 soldiers under his banner, drawn from a vast area from Sulawesi to New Guinea.[NEWLINE][NEWLINE]By 1575 most of the Portuguese positions in Maluku had fallen, and the indigenous tribes or kingdoms that had supported them were badly corned. There remained the São Paulo fortress that was still under siege. For five years the Portuguese and their families suffered a hard life in the castle, cut off from the outside world. Sultan Babullah finally gave an ultimatum to leave Ternate within 24 hours. Those who were indigenous in Ternate were allowed to remain on condition that they become royal subjects. The current captain Nuno Pereira de Lacerda accepted the conditions. This was the first major victory scored by people in what is now Indonesia over a Western power. It has been described as a very important event since it delayed Western colonization in the East Indian archipelago for the better part of a century. Thus, on 15 July 1575, the Portuguese left Ternate in disgrace; however, Babullah stood by his word and no-one was hurt.[NEWLINE][NEWLINE]On 3 November 1579, Sultan Babullah received a visit of Francis Drake, the well-known English seafarer and adventurer. Drake and his crew, achieving the second circumnavigation of the globe, came across the Pacific with five ships, one of which was the legendary Golden Hind. Babullah received his guests with joy, going out with a fleet of boats to greet them. The ruler declared his eternal friendship with Queen Elizabeth, apparently with the aim to play out the English against the Portuguese. Between the Sultan and Francis Drake arose mutual respect. Francis Drake was impressed with Babullah, noting the enormous respect that he enjoyed from his subjects. He left Ternate in November with a small quantity of prime quality clove, proceeding to traverse the Indonesian islands via Sulawesi, Baratiue and Java.[NEWLINE][NEWLINE]With the departure of the Portuguese, Sultan Babullah converted São Paulo into his own fortress which also served as a palace. He renovated and strengthened the site and changed its name to Gammalamo. Under the aegis of Babullah the trading fleets from Melaka continued to arrive at Ternate from year to year, so that the flow of commerce with the European and wider world continued. No more granting of privileges were issued, thus Western merchants were treated similar to traders from other countries and they were kept under strict surveillance. Sultan Babullah even issued a regulation requiring every European arriving in Ternate to remove his hats and shoes, just to remind them not to forget themselves.[NEWLINE][NEWLINE]Sultan Babullah maintained or created a network of alliances with other rulers and places in the Indonesian Archipelago. The Javanese Muslims from the port kingdoms of the Pesisir (north coast) became the steady allies of Ternate.[42] Frequent visits were undertaken to the areas claimed by Ternate, where their loyalty to the Sultan's policy was requested. In 1580 Babullah is said to have led a grand naval expedition (hongi) that visited a number of places in Sulawesi. The ruler also paid a visit to Makassar and met with the king of Gowa, Tunijallo. The two rulers concluded an alliance, whereby Babullah invited Tunijallo to convert to Islam. The king politely declined to become a Muslim, but as a sign of the new bond Sultan Babullah built a fortress at the Gowan coast called Somba Opu. His fleet then proceeded to conquer the island of Selayar south of Sulawesi.[NEWLINE][NEWLINE]Under the leadership of Babullah, the Sultanate of Ternate reached its height of glory. A combination of Islamic socio-political influence, the after-effects of the Portuguese presence, and the rising clove sales, intensified royal control over territories and spices. Early in his reign, the Sultan dispatched fleets to subjugate Buru, Ceram, and parts of Ambon; and in 1580 the chiefdoms in North Sulawesi were subordinated. Local tradition says that Ternate used a combination of interference in internal power struggles and marriage politics to gain influence. King Humonggilu of Limboto called in Ternatan assistance to defeat his adversary Pongoliwu of Gorontalo, then marrying Babullah's sister Jou Mumin. The sister of the defeated king was in turn brought to Ternate and married to a grandee. Babullah himself supposedly married a princess from the Tomini Bay, Owutango, who had a pivotal role in spreading Islam in the region. During the 1580 expedition Banggai, Tobungku (both in eastern Sulawesi), Tiworo (south-eastern Sulawesi) and Buton likewise fell under the Sultan's sway. Ternatan influence was also felt in the Solor Islands close to Timor, with access to the Timorese sandalwood, and on the nutmeg-producing Banda Islands. At this stage the Ternate sultanate was by far the largest Islamic kingdom in eastern Indonesia. The Sultan continued his father's policy of establishing ties with faraway Muslim polities. The years around 1570 witnessed a coordinated onslaught on the Portuguese possessions by the Muslim states of South India and Aceh with Ottoman backing, which was probably linked with Babullah's efforts. All these attacks were defeated by the Portuguese - except in Maluku. Babullah's envoy Kaicili Naik was dispatched to Lisbon where he met Philip II of Spain and Portugal and demanded that Hairun's murderer should be punished. The negotiations were inconclusive; however, the main purpose of the embassy was to make alliances on the way with Islamic rulers in Brunei, Aceh and Sunda. When Kaicili Naik finally returned to Ternate after a successful mission, Babullah had passed away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_BABULLAH_NAME">
+			<Text>Babullah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_BABULLAH_SUBTITLE">
+			<Text>Sultan of Ternate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_BABULLAH_TITLES_1">
+			<Text>Prince Baab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_BABULLAH_LIVED">
+			<Text>1528 - 1583</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_GT_TERNATE_TEXT">
+			<Text>The world awaits your return, grand Sultan Babullah, overlord of Muslim Nusantara! You inherited a steadily growing kingdom attacked by the tentacles of the Dutch, the Spanish and the Portuguese. After the murder of your father Hairun, you rose to the throne and declared a holy war against all those who threatened Ternate. Out of little, you forged a vast empire stretching from the edges of Borneo to the Papuan coast, encompassing thousands of islands in your domain. Even the great explorers of the west bowed in your prescence; such was your prestige! You raised countless temples, palaces and citadels to strengthen your rule, uniting the disparate tribes under the banner of Islam. Your kingdom entered a golden age of trade and prosperity that rivaled even the union of Spain and Portugal. While your empire declined slowly after your death, you left an immesuarble legacy in your people as the greatest Sultan of Ternate.[NEWLINE][NEWLINE]Babullah! The time is ripe for you to restore the throne of Ternate to its rightful place. Will you become the overlord of Maluku once again? Can you summon your kora-kora and man your trade fleets to cower even the greatest of rivals? Can you build great fortresses to defend your sacred islands? Can you build a civilization that will stand the Test of Time?</Text>
+		</Row>
+		<!-- Overlord of Seventy-Two Islands -->
+		<Row Tag="TXT_KEY_TRAIT_GT_SEVENTY_TWO_ISLANDS_SHORT">
+			<Text>Overlord of Seventy-Two Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GT_SEVENTY_TWO_ISLANDS">
+			<Text>Followers gained from maritime Trade Routes generate [ICON_GOLDEN_AGE] Golden Age Points. Converting enemy coastal cities to your [ICON_PEACE] religion extends the length of sea trade routes.</Text>
+		</Row>
+		<!-- Arumbai -->
+		<Row Tag="TXT_KEY_UNIT_GT_ARUMBAI">
+			<Text>Arumbai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GT_ARUMBAI_TEXT">
+			<Text>An Orembai or Arumbai is a type of plank boat from the Maluku Islands of Eastern Indonesia. It is mainly used for fishing and transport. This vessel is used as far as Batavia, where in the 17th century it became popular to go out "orembaaien" on an evening rowing on the river or city canals. The orembai is very similar to the mon of the North Solomons. It also resembles the kora kora, but differs in that, like most large Austronesian ships, the orembai does not have outriggers. The name orembai is a contraction for orang baik ("good man") and comes from the era of the Hongi voyages, i.e. these boats is the opposite of Hongitocht kora kora, which is a war vessel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GT_ARUMBAI_HELP">
+			<Text>Replaces the Cargo Ship. Increases religious pressure from trade routes by 10% per allied city state. Produces the respective yield of the last great person expended when the trade route ends.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GT_ARUMBAI_STRATEGY">
+			<Text>Arumbai are essential for constructing a trade empire and for spreading your religion across continents and archipelagos. Its power increases with every allied city state you have.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_ARUMBAI">
+			<Text>Good Men of the Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_ARUMBAI_HELP">
+			<Text>Produces the respective yield of the last great person expended when the trade route ends.</Text>
+		</Row>
+		<!--Ngarah Lamo-->
+		<Row Tag="TXT_KEY_BUILDING_GT_NGARAH_LAMO">
+			<Text>Ngarah Lamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_NGARAH_LAMO_HELP">
+			<Text>Replaces the Constabulary. Cheaper to construct. Requires a Temple in the city to be built while not in a Golden Age. Gain local happiness based on religious pressure in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_NGARAH_LAMO_TOOLTIP">
+			<Text>Gain local happiness per the number of trade routes with religious pressure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GT_NGARAH_LAMO_TEXT">
+			<Text>The Sultan of Ternate constructed a number of palaces across his territory which were fronted by a Ngarah Lamo, literally a 'big gate', that served to impress foreign visitors, and also had side-chambers that acted as temporary jails, a guards' quarter, and councillor's chambers. It divides the fenced-in compound of the palace from the outbuildings, which are known as ngarah upas and ngarah ici.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_NGARAH_LAMO_STRATEGY">
+			<Text>Build Ngarah Lamos to keep your rowdy citizens in order and to boost happiness amongst your courtiers, increased with trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_SEVENTY_TWO_SLOTS">
+			<Text>Ternate: Overlord of 72 Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_SEVENTY_TWO_SLOTS_HELP">
+			<Text>Converting enemy coastal cities to your religion extends the length of sea trade routes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_SEVENTY_TWO_MOSQUES">
+			<Text>Ternate: Mosque Builder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_SEVENTY_TWO_MOSQUES_HELP">
+			<Text>Conversion dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_SEVENTY_TWO_ISLANDS">
+			<Text>Ternate: Followers of the Prophet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_SEVENTY_TWO_ISLANDS_HELP">
+			<Text>Prophet and missionary conversion tracker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ARUMBAI_PRESSURE">
+			<Text>Ternate: Winds of Islam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ARUMBAI_PRESSURE_HELP">
+			<Text>Arumbai religious pressure tracker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ARUMBAI_CULTURE">
+			<Text>Ternate: Court Artisans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ARUMBAI_CULTURE_HELP">
+			<Text>Arumbai cultural gp tracker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ARUMBAI_PRODUCTION">
+			<Text>Ternate: Empire Builders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ARUMBAI_PRODUCTION_HELP">
+			<Text>Arumbai production/military gp tracker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ARUMBAI_GOLD">
+			<Text>Ternate: Wealth of Halmahera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ARUMBAI_GOLD_HELP">
+			<Text>Arumbai mercantile gp tracker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ARUMBAI_SCIENCE">
+			<Text>Ternate: Knowledge of the East</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ARUMBAI_SCIENCE_HELP">
+			<Text>Arumbai scientific gp tracker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ARUMBAI_FAITH">
+			<Text>Ternate: Banners of the Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ARUMBAI_FAITH_HELP">
+			<Text>Arumbai belief gp tracker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_NGARAH_LAMO_HAPPINESS">
+			<Text>Ternate: Ceremonies of the Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_NGARAH_LAMO_HAPPINESS_HELP">
+			<Text>Gain local happiness per the number of trade routes with religious pressure.</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_GT_TERNATE_FIRSTGREETING_1">
+			<Text>Welcome! I am the the great overlord and Sultan of Ternate, Sultan Baabullah. Gaze upon my many fortresses!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_TERNATE_DEFEATED_1">
+			<Text>Despite all my efforts, my fleets were no match for your manpower. I advise you to keep me on as a ceremonial sultan, so that Ternate's legacy may continue.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_TERNATE_ATTACKED_HOSTILE_1">
+			<Text>An attack? Spoil my islands once more and your seas will run red with blood. You will pay for this!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_TERNATE_DEC_FRIENDSHIP_1">
+			<Text>It is in the interests of our two nations that we declare ourselves as friends, so to strike fear among colonial enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_TERNATE_DENOUNCE_1">
+			<Text>I want no more of you! You have violated our trust, because of what? Money? Fame? Begone![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_TERNATE_DENOUNCE_FRIEND_1">
+			<Text>I trusted you, and you behave like this? Ternate will have no more of you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_TERNATE_DOW_GENERIC_1">
+			<Text>You have violated our waters and lands for the last time. My fleets are ready.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_TERNATE_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You have insulted our people for the last time. We'll sink your ships to the seafloor!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

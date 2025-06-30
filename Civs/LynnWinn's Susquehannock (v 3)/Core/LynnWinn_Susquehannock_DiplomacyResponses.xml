@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_TG_SHEEHAYS">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_TG_SHEEHAYS_FIRSTGREETING</Response>
+		</Row>
+		<Row LeaderType="LEADER_TG_SHEEHAYS">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_TG_SHEEHAYS_DEFEATED</Response>
+		</Row>
+		<Row LeaderType="LEADER_TG_SHEEHAYS">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_TG_SHEEHAYS_GREETING_POLITE_HELLO</Response>
+		</Row>
+		<Row LeaderType="LEADER_TG_SHEEHAYS">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_TG_SHEEHAYS_GREETING_NEUTRAL_HELLO</Response>
+		</Row>
+		<Row LeaderType="LEADER_TG_SHEEHAYS">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_TG_SHEEHAYS_GREETING_HOSTILE_HELLO</Response>
+		</Row>
+		<Row LeaderType="LEADER_TG_SHEEHAYS">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_TG_SHEEHAYS_HOSTILE_AGGRESSIVE_MILITARY_WARNING</Response>
+		</Row>
+		<Row LeaderType="LEADER_TG_SHEEHAYS">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_TG_SHEEHAYS_EXPANSION_SERIOUS_WARNING</Response>
+		</Row>
+		<Row LeaderType="LEADER_TG_SHEEHAYS">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_TG_SHEEHAYS_REQUEST</Response>
+		</Row>
+		<Row LeaderType="LEADER_TG_SHEEHAYS">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_TG_SHEEHAYS_DECLAREWAR</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

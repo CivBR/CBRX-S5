@@ -1,0 +1,293 @@
+<GameData>
+    <Language_en_US>
+        <!--Cities-->
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_1">
+            <Text>Otjimbingwe</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_2">
+            <Text>Okahandja</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_3">
+            <Text>Okakarara</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_4">
+            <Text>Omaruru</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_5">
+            <Text>Otjikune</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_6">
+            <Text>Aminuis</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_7">
+            <Text>Ovitoto</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_8">
+            <Text>Otjandjomboimwe</Text> <!--Karibib-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_9">
+            <Text>Otjiwarongo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_10">
+            <Text>Otjewe</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_11">
+            <Text>Okahurimehi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_12">
+            <Text>Okandjira</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_13">
+            <Text>Omugulugwombashe</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_14">
+            <Text>Okangondo</Text> <!--Seeis-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_15">
+            <Text>Otjomuise</Text> <!--Windhoek-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_16">
+            <Text>Epako</Text> <!--Gobabis-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_17">
+            <Text>Otjikango</Text> <!--Gross Barmen-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_18">
+            <Text>Okanduu</Text> <!--Usakos-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_19">
+            <Text>Otjivanda</Text> <!--Grootfontein-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_20">
+            <Text>Ezorongondo</Text> <!--Walvis Bay-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_21">
+            <Text>Ombotozu</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_22">
+            <Text>Otjinene</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_23">
+            <Text>Okavisume</Text> <!--Tsumeb-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_24">
+            <Text>Otjitavi</Text> <!--Otavi-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_25">
+            <Text>Okaseta</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_26">
+            <Text>Okazapamba</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_27">
+            <Text>Omarasa</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_HERERO_28">
+            <Text>Ohamakari</Text> <!--site of the Battle of Waterberg-->
+        </Row>
+        
+        <!--Spies-->
+        <Row Tag="TXT_KEY_SPY_NAME_THP_HERERO_0">
+            <Text>Maharero</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_HERERO_1">
+            <Text>Tjamuaha</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_HERERO_2">
+            <Text>Kavezeri</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_HERERO_3">
+            <Text>Kuaima</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_HERERO_4">
+            <Text>Vipuira</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_HERERO_5">
+            <Text>Vekuii</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_HERERO_6">
+            <Text>Tjiponda</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_HERERO_7">
+            <Text>Mutjinde</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_HERERO_8">
+            <Text>Tjinaani</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_HERERO_9">
+            <Text>Tjorozumo</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_HERERO_10">
+            <Text>Enzian</Text>
+        </Row>
+        
+        <!--Basic Info-->
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA">
+            <Text>Jacob Morenga</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_HERERO_ADJECTIVE">
+            <Text>Herero</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_HERERO_DESC">
+            <Text>Herero Empire</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_HERERO_SHORT_DESC">
+            <Text>The Herero</Text>
+            <Plurality>2</Plurality>
+        </Row>
+        
+        <!--Civilopedia-->
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_TEXT_1">
+			<Text>The Herero are a Bantu ethnic group inhabiting parts of Southern Africa, primarily residing in Namibia. They speak Otjiherero, a Bantu language. There are also significant populations in Botswana and Angola, due to the 1904 to 1908 genocide of their people by the German Empire. Unlike most Bantu, who are primarily subsistence farmers, the Herero are traditionally pastoralists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_HEADING_2">
+			<Text>Cattle From the Cushitic Pastoralists</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_TEXT_2">
+			<Text>The Herero traditionally made a living tending livestock. Cattle terminology in use among many Bantu pastoralist groups testifies that Bantu herders originally acquired cattle from Cushitic pastoralists inhabiting Eastern Africa. They also subsisted on sheep and goats. Following European contact in the mid-19th century, several groups adopted horticulture as well. After the Bantu settled in Eastern Africa, some Bantu nations spread south. Linguistic evidence also suggests that the Bantu borrowed the custom of milking cattle from Cushitic peoples; either through direct contact with them or indirectly via Khoisan intermediaries who had acquired both domesticated animals and pastoral techniques from Cushitic migrants. The Herero comprise several sub-divisions, including the Himba, Tjimba Mbanderu, and Kwandu. Groups in Angola include the Mucubal OvaKuvale, Zemba, OvaHakawona, OvaTjavikwa, OvaTjimba and OvaHimba, who regularly cross the Namibia/Angola border when migrating with their herds. The leadership of the Ovaherero is distributed over several heads of clans of which some are more prominent and referred as royal houses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_HEADING_3">
+			<Text>Contact with the Nama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_TEXT_3">
+			<Text>In the 15th century, the Herero migrated to what is now Namibia from the east and established themselves as herdsmen. In the beginning of the 19th century, the Nama from South Africa, who already possessed some firearms, entered the land and were followed, in turn, by white merchants and German missionaries. At first, the Nama began displacing the Herero, leading to bitter warfare between the two groups, which lasted the greater part of the 19th century. Later the two peoples entered into a period of cultural exchange. Between 1893 and 1903, the Herero and Nama peoples' land and cattle were progressively being taken by German colonial settlers. The Herero and Nama resisted expropriation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_HEADING_4">
+			<Text>Imperial Expansion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_TEXT_4">
+			<Text>In the early 1880s, the German statesman Otto von Bismarck, reversing his previous rejection of colonial acquisitions, decided on a policy of imperial expansion. In 1882 Bismarck gave permission to Adolf Lüderitz to obtain lands which Germany would bring within its "protection", under the conditions that a port was established within the territories taken and that there was "clear title" to the land. Lüderitz bought the title to Angra Pequena from Joseph Fredericks, a chief of the Oorlam people, in exchange for 200 rifles, 2,500 German marks, and some lead toy soldiers, and established a port there. Clarification of Germany's title among the European powers took some time, as the British demurred in response to a German request to clarify the boundaries of their title, however in April 1884 Bismarck instructed the German consul in declare "Lüderitzland" as under the "protection" of the German Reich. Lüderitz steadily spread Germany's influence throughout the South West African territory until by 1885 only one tribe within it - the Witboois - had not concluded some kind of arrangement with Germany.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_HEADING_5">
+			<Text>The Herero Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_TEXT_5">
+			<Text>In 1903, some of the Khoi and Herero tribes rose in revolt and about 120-150 German settlers were killed, with many victims of the uprising tortured and mutilated before death. Troops were sent from Germany to re-establish order but only dispersed the rebels, led by Chief Samuel Maharero. In a famous letter to Hendrik Witbooi, the Nama chief, Maharero sought to organize his rebellion against the Germans while building alliances with the other tribes, exclaiming "Let us die fighting!" The Herero led a guerrilla campaign, conducting fast hit and run operations then melting back into the terrain they knew well, preventing the Germans from gaining an advantage with their modern artillery and machine-guns. However a conclusive battle was fought on 11 August 1904, at the Battle of Waterberg in the Waterberg Mountains. Chief Maharero believed his six to one advantage over the Germans would allow him to win in a final showdown. The Germans had time to bring forward their artillery and heavy weapons. Both sides took heavy losses, but the Herero were scattered and defeated. As exhausted Herero fell to the ground, unable to go on, German soldiers killed men, women, and children.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_HEADING_6">
+			<Text>The Herero and Nama genocide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_TEXT_6">
+			<Text>Those remaining were driven into the desert of Omaheke, where most of them died of dehydration. They were hoping to reach British Bechuanaland, but fewer than 1,000 Herero managed to reach Bechuanaland, where they were granted asylum by the British authorities. To prevent them from returning, Trotha ordered the desert to be sealed off. In October, the Nama people also rebelled against the Germans, only to suffer a similar fate. Between 24,000 and 100,000 Hereros and 10,000 Nama were killed in the genocide. General Lothar von Trotha gave orders that captured Herero males were to be executed, while women and children were to be driven into the desert where their death from starvation and thirst was to be certain; Trotha argued that there was no need to make exceptions for Herero women and children, since these would "infect German troops with their diseases", the insurrection Trotha explained "is and remains the beginning of a racial struggle". Upon the arrival of new orders at the end of 1904, prisoners were herded into labor camps, where they were given to private companies as slave labourers or exploited as human guinea pigs in medical experiments.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_HEADING_7">
+			<Text>Death Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_TEXT_7">
+			<Text>Survivors of the massacre, the majority of whom were women and children, were eventually put in places like Shark Island concentration camp, where the German authorities forced them to work as slave labour for German military and settlers. Shark Island or "Death Island" was one of five concentration camps in German South West Africa. It was located on Shark Island off Lüderitz. All prisoners were categorised into groups fit and unfit for work, and pre-printed death certificates indicating "death by exhaustion following privation" were issued. Many Herero and Nama died of disease, exhaustion, starvation and malnutrition, with 45 to 74 percent of the camp dying. Food in the camps was extremely scarce, consisting of rice with no additions. As the prisoners lacked pots and the rice they received was uncooked, it was indigestible; horses and oxen that died in the camp were later distributed to the inmates as food. Dysentery and lung diseases were common.  Despite those conditions, the prisoners were taken outside the camp every day for labour under harsh treatment by the German guards, while the sick were left without any medical assistance or nursing care. Shark Island was the most brutal of the German South West African camps. Prisoners were used for medical experiments and their illnesses or their recoveries from them were used for research. Experiments on live prisoners were performed by Dr. Bofinger, who injected Herero who were suffering from scurvy with various substances including arsenic and opium; afterwards he researched the effects of these substances via autopsy. An estimated 300 skulls were sent to Germany for experimentation, in part from concentration camp prisoners. A census conducted in 1905 revealed that 25,000 Herero remained in German South West Africa, reduced from 80,000.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_HEADING_8">
+			<Text>Labour and Apologies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_THP_HERERO_TEXT_8">
+			<Text>With the closure of concentration camps, all surviving Herero were distributed as labourers for settlers in the German colony. From that time on, all Herero over the age of seven were forced to wear a metal disc with their labour registration number, and banned from owning land or cattle, a necessity for pastoral society. In 1915, during World War I, the German colony was taken over and occupied by the Union of South Africa, which was victorious in the South West Africa campaign. South Africa received a League of Nations mandate over South West Africa on 17 December 1920. In 1985, the United Nations' Whitaker Report classified the massacres as an attempt to exterminate the Herero and Nama peoples of South West Africa, and therefore one of the earliest cases of genocide in the 20th century. In 1998, German President Roman Herzog visited Namibia and met Herero leaders. Chief Munjuku Nguvauva demanded a public apology and compensation. Herzog expressed regret but stopped short of an apology. He pointed out that international law requiring reparation did not exist in 1907, but he undertook to take the Herero petition back to the German government. On 16 August 2004, at the 100th anniversary of the start of the genocide, a member of the German government, Heidemarie Wieczorek-Zeul, Germany's Federal Minister for Economic Development and Cooperation, officially apologised and expressed grief about the genocide. The Herero filed a lawsuit in the United States in 2001 demanding reparations from the German government and Deutsche Bank, which financed the German government and companies in Southern Africa. On 28 May 2021, the German government announced that it was formally recognizing the atrocities committed as a genocide, following five years of negotiations. The declaration was made by foreign minister Heiko Maas, who also stated that Germany was asking Namibia and the descendants of the genocide victims for forgiveness. In addition to recognizing the events as a genocide, Germany agreed to give as a "gesture of recognition of the immeasurable suffering" €1.1 billion in aid to the communities impacted by the genocide.</Text>
+		</Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_PEDIA_NAME">
+            <Text>Jacob Morenga</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_PEDIA_SUBTITLE">
+            <Text>Leader of the Herero</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_PEDIA_TITLES_1">
+            <Text>Leader of Herero and Nama rebels</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_PEDIA_LIVED">
+            <Text>1875 - 1907 AD</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_PEDIA_HEADING_1">
+            <Text>Biography</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_PEDIA_TEXT_1">
+            <Text>Born to a Herero mother and a Nama father, Jacob Morenga is considered to be one of the national heroes of Namibia, a key figure of resistance to the regime of German Southwest Africa. The leaders of the rebellion in the Herero and Namaqua War had a hard time controlling the multi-ethnic armies they were leading to attempt to expel the Germans - Morenga excelled at it. Out of his hidden fortress at Khauxaǃnas, he utilized the different fighting styles of both the aggressive Herero and the guerilla Namaqua so effectively that the Germans he was fighting branded him the Black Napoleon. Morenga came so close to expelling the Germans that a vote was forced in the Reichstag to immediately reinforce the colony.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_PEDIA_HEADING_2">
+            <Text>Legacy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_PEDIA_TEXT_2">
+            <Text>Morenga was a visionary, one of the few to see past the narrow ethnic lines dividing the tribes. His vision of a broad African nationalism, rather than ethnic sectionalism, enabled him to unite his troops on the battlefield in a way unrivaled by any of his peers, and he very well may have been the first to envision a united and free Namibia, a goal for which he would eventually die fighting for.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV5_DAWN_THP_HERERO_TEXT">
+            <Text>Greetings, Jacob Morenga, revolutionary spirit of Namibia! You are truly a man ahead of your time. Thanks to your vision of broad African nationalism, which transcended the narrow ethnic loyalties that blinded your peers, you convinced the Herero and Namaqua peoples to put aside their differences and fight with you to protect your desert home from colonialism. Your expert use of guerrilla tactics, and your intense knowledge of the strengths and weaknesses of your multi-ethnic army, brought you tremendous success in battle against the settlers of German South West Africa. This strategic genius led for your allies and enemies alike to grant you great respect, your German adversaries even calling you "the Black Napoleon." Although you ultimately failed in liberating your homeland, and South West Africa would not see total independence until nearly a century after your insurrection ended, history remembers you fondly as the creator of the Namibian national identity, and as the inspiration for generations of freedom fighters to come.[NEWLINE][NEWLINE]Oh great Herero hero, your people call out for you once again! Will you unite them as you did before, against the enemies of your home? Will you build a civilization that shall stand the test of time?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_HERERO_SHORT">
+            <Text>Heroes of the Red Flag</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_HERERO">
+            <Text>Newly trained units gain starting experience per Pasture within three tiles of the city that trained them. Garrisoned Mounted units provide their cities with +1 [ICON_PEACE] Faith per turn.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_HERERO_OX_RIDER">
+            <Text>Ox Rider</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_HERERO_OX_RIDER_HELP">
+            <Text>Mounted Unit of the Industrial Era, capable of fighting toe-to-toe with contemporary infantry units. Only the Herero may build it. Does not require Horses. Once per unit, spawns a Cattle resource when promoted on resourceless Desert.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_HERERO_OX_RIDER_STRATEGY">
+            <Text>Since it does not require horses, the Ox Rider can be easily built en masse; this allows it to become a vital plank of an industrial Herero army, with the strength and mobility to cause some serious damage. Additionally, by being thoughtful about where you promote your Ox Riders, you can build more Pastures and thus benefit further from the Herero unique ability.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_HERERO_OX_RIDER_TEXT">
+            <Text>Oxen were the most popular riding animal in pre-colonial Namibia, since the presence of African horse sickness made horses a less desirable choice. The Herero have always placed an especially high cultural and economic value on cattle, and to this day the animal is one of Namibia's largest exports.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_OKURUUO">
+            <Text>Okuruuo Hearth</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_OKURUUO_HELP">
+            <Text>Unique replacement for the Shrine. Only the Herero may build it. In addition to the normal Shrine benefits, cities with an Okuruuo Hearth get +5% production towards Mounted and pre-gunpowder Melee units per point of Faith they generate.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_OKURUUO_STRATEGY">
+            <Text>The Okuruuo Hearth helps you convert Faith into an accelerated engine of unit production in the early and mid-game. If you have an Okuruuo Hearth in a city, try to get as many other Faith-producing buildings in that city as you can, and also consider garrisoning a mounted unit to benefit from the Herero unique ability. If you can pull it off, building Stonehenge will also be a huge help!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_OKURUUO_TEXT">
+            <Text>The maintenance of okuruuo, or holy fire, is a major cultural practice among the Herero. Hearths for okuruuo are kept at most Herero residences, typically between the main house and the cattle pen. Okuruuo is viewed as a medium by which living Herero can communicate with their ancestors and request that those ancestors speak to God on their behalf. Typically, okuruuo is kept either extinguished or at a low burn; the fire is only allowed to flame up during certain ceremonies.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_HERERO_OX_FRESH">
+            <Text>Cattle Economy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_HERERO_OX_FRESH_HELP">
+            <Text>The first time this unit is promoted on resourceless Desert, it will spawn a Cattle resource on its tile. This unit has [COLOR_POSITIVE_TEXT]not yet[ENDCOLOR] used this ability.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_HERERO_OX_USED">
+            <Text>Cattle Economy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_HERERO_OX_USED_HELP">
+            <Text>The first time this unit is promoted on resourceless Desert, it will spawn a Cattle resource on its tile. This unit has [COLOR_NEGATIVE_TEXT]already[ENDCOLOR] used this ability.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_HERERO_FAITH_DUMMY">
+            <Text>Herero Faith Dummy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_HERERO_PROD_DUMMY">
+            <Text>Herero Prod Dummy</Text>
+        </Row>
+        
+        <!--Mod Support-->
+        <Row Tag="TXT_KEY_GENERIC_THP_HERERO_INFLUENTIAL_ON_AI_1">
+            <Text>Our people are now raising your cattle and wearing your ekori headdresses. I worry that the rest of the world will also succumb to the influence of your culture.</Text>
+        </Row>
+        
+        <!--Additional Achievements-->
+        <Row Tag="TXT_KEY_MOD_THP_HERERO_NAME">
+            <Text>TopHat's Herero</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_HERERO_ID">
+            <Text>2cf01eea-0af0-4525-8e7d-f49c5af68226</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_HERERO_AUTHORS">
+            <Text>TopHatPaladin</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_HERERO_VICTORY_HEADER">
+            <Text>The Cow Jumps Over the Moon</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_HERERO_VICTORY_TEXT">
+            <Text>Win the game on any difficulty setting as the Herero.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_HERERO_SPECIAL_HEADER">
+            <Text>It Takes a Village... or a Herd</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_HERERO_SPECIAL_TEXT">
+            <Text>As the Herero, train a unit who gains XP from four or more nearby Pastures upon its birth.</Text>
+        </Row>
+    </Language_en_US>
+</GameData>

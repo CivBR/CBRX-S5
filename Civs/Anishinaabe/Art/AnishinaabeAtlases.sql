@@ -1,0 +1,21 @@
+--Atlas reference table for the Anishinaabe
+INSERT INTO IconTextureAtlases (Atlas, IconSize, Filename, IconsPerRow, IconsPerColumn) 
+  VALUES ('CLANISHINAABE_ATLAS', 256, 'AnishinaabeIcon_256.dds', 4, 1),
+         ('CLANISHINAABE_ATLAS', 128, 'AnishinaabeIcon_128.dds', 4, 1),
+		 ('CLANISHINAABE_ATLAS', 32,  'AnishinaabeIcon_32.dds',  4, 1),
+		 ('CLANISHINAABE_ATLAS', 24,  'AnishinaabeIcon_24.dds',  4, 1),
+		 ('CLANISHINAABE_ATLAS', 16,  'AnishinaabeIcon_16.dds',  4, 1),
+		 ('CLANISHINAABE_ATLAS', 48,  'AnishinaabeIcon_48.dds',  4, 1),
+		 ('CLANISHINAABE_ATLAS', 45,  'AnishinaabeIcon_45.dds',  4, 1),
+		 ('CLANISHINAABE_ATLAS', 64,  'AnishinaabeIcon_64.dds',  4, 1),
+		 ('CLANISHINAABE_ATLAS', 80,  'AnishinaabeIcon_80.dds',  4, 1),
+		 ('CLOGICHIDA_FLAG', 32, 'OgichiidaFlag.dds', 1, 1),
+		 ('CLMIDEW_FLAG', 32, 'MidewFlag.dds', 1, 1),
+		 ('CLANISHINAABE_ALPHA', 128, 'AnishinaabeAlpha_128.dds', 1, 1),
+		 ('CLANISHINAABE_ALPHA', 16, 'AnishinaabeAlpha_16.dds', 1, 1),
+		 ('CLANISHINAABE_ALPHA', 24, 'AnishinaabeAlpha_24.dds', 1, 1),
+		 ('CLANISHINAABE_ALPHA', 32, 'AnishinaabeAlpha_32.dds', 1, 1),
+		 ('CLANISHINAABE_ALPHA', 45, 'AnishinaabeAlpha_45.dds', 1, 1),
+		 ('CLANISHINAABE_ALPHA', 48, 'AnishinaabeAlpha_48.dds', 1, 1),
+		 ('CLANISHINAABE_ALPHA', 64, 'AnishinaabeAlpha_64.dds', 1, 1),
+		 ('CLANISHINAABE_ALPHA', 80, 'AnishinaabeAlpha_80.dds', 1, 1);

@@ -1,0 +1,378 @@
+<GameData>
+    <Language_en_US>
+        <!--Cities-->
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_1">
+            <Text>Chang'an</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_2">
+            <Text>Luoyang</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_3">
+            <Text>Yangzhou</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_4">
+            <Text>Taiyuan</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_5">
+            <Text>Chengdu</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_6">
+            <Text>Zhengzhou</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_7">
+            <Text>Baoji</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_8">
+            <Text>Kaifeng</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_9">
+            <Text>Guangzhou</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_10">
+            <Text>Jicheng</Text> <!--Modern Beijing-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_11">
+            <Text>Dunhuang</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_12">
+            <Text>Hangzhou</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_13">
+            <Text>Tongchuan</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_14">
+            <Text>Mayi</Text> <!--Modern Shuozhou-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_15">
+            <Text>Fuzhou</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_16">
+            <Text>Caozhou</Text> <!--Modern Heze-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_17">
+            <Text>Songzhou</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_18">
+            <Text>Huaiyuan</Text> <!--Modern Yinchuan-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_19">
+            <Text>Huanggang</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_20">
+            <Text>Guizhou</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_21">
+            <Text>Jinling</Text> <!--Modern Jiankang-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_22">
+            <Text>Shangluo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_23">
+            <Text>Xingzhou</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_24">
+            <Text>Suzhou</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_25">
+            <Text>Shiyan</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_26">
+            <Text>Handan</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_27">
+            <Text>Qixian</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_28">
+            <Text>Jingzhou</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_29">
+            <Text>Yanzhou</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_30">
+            <Text>Weihui</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_31">
+            <Text>Gannan</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_32">
+            <Text>Suiyang</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_33">
+            <Text>Qingzhou</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_34">
+            <Text>Xiangyang</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_35">
+            <Text>Weizhou</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_TANG_36">
+            <Text>Changsha</Text>
+        </Row>
+        
+        <!--Spies-->
+        <Row Tag="TXT_KEY_SPY_NAME_THP_TANG_0">
+            <Text>Xuanzang</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_TANG_1">
+            <Text>Wen Yanbo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_TANG_2">
+            <Text>Wei Zheng</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_TANG_3">
+            <Text>Fang Xuanling</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_TANG_4">
+            <Text>Gaozong</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_TANG_5">
+            <Text>Taimu</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_TANG_6">
+            <Text>Zhangsun</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_TANG_7">
+            <Text>Xincheng</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_TANG_8">
+            <Text>Chengyang</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_TANG_9">
+            <Text>Linchuan</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        
+        <!--Basic Info-->
+        <Row Tag="TXT_KEY_LEADER_THP_TAIZONG">
+            <Text>Taizong</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_TANG_ADJECTIVE">
+            <Text>Tang</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_TANG_DESC">
+            <Text>Tang Dynasty</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_TANG_SHORT_DESC">
+            <Text>Tang</Text>
+        </Row>
+        
+        <!--Civilopedia-->
+        <Row Tag="TXT_KEY_PEDIA_THP_TANG_HEADING_1">
+            <Text>Origins</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_TANG_TEXT_1">
+            <Text>The Tang Dynasty was an imperial dynasty that ruled over China from 618 to 907 AD. The dynasty's founder, Li Yuan, was the governor of Taiyuan and a prominent military leader; he also claimed descent from Laozi, the founder of Taoist school of thought. In 617, amid the collapse of the Sui Dynasty, Li Yuan raised his supporters in rebellion, and seized Chang'an before the end of the year. In June of 618, the last Sui emperor died, and Li Yuan subsequently had himself crowned as Emperor Gaozu of Tang.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_TANG_HEADING_2">
+            <Text>Seventh Century</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_TANG_TEXT_2">
+            <Text>In 626, Gaozu's second son, Li Shimin, had his brothers murdered in the Xuanwu Gate coup, and subsequently deposed Gaozu and crowned himself as Emperor Taizong. Taizong begun the first major period of Tang expansion, achieving a number of victories against the Eastern Turks and the oasis states of the Tarim Basin.[NEWLINE][NEWLINE]After the death of Emperor Gaozong in 683, a period of political intrigue begun between Gaozong's sons and his widow. Gaozong's sons, Zhongzong and Ruizong, each had brief reigns in the 680s, but Gaozong's widow - Wu Zetian - displaced both and took power in 690. Wu ruled as China's only empress regnant for 25 years, but in 705 she was deposed in a palace coup, and Zhongzong returned to power.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_TANG_HEADING_3">
+            <Text>Eighth Century</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_TANG_TEXT_3">
+            <Text>In the aftermath of the Wu period, there ensued some more years of turmoil, but stability was restored after the ascension of Emperor Xuanzong in 713. During his 43-year reign, Xuanzong oversaw economic prosperity and the expansion of the Tang Dynasty to its greatest territorial extent; however, his rule ended on a sour note, with the eruption of the devastating An Lushan rebellion in 755.[NEWLINE][NEWLINE]A half-Sogdian, half-Turk general, An Lushan begun his uprising with the capture of Luoyang, and with 100,000 men under his command he was able to seize control of large portions of China. In order to put down the rebellion, the Tang were forced to secure aid from the Uyghur Khaganate and even the Abbasid Caliphate. The Tang's troubles were not over when the An Lushan rebellion finally collapsed in 763; during that year, a Tibetan army marched into the heart of China and briefly occupied Chang'an itself. The economic and social destruction wrought by these events prevented the Tang Dynasty from being able to exert control over Central Asia during the remainder of its existence.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_TANG_HEADING_4">
+            <Text>Later Tang</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_TANG_TEXT_4">
+            <Text>During the recovery from the An Lushan uprising, the Tang government decreased its involvement in the economy, allowing international trade to flourish - especially in the port cities of the south. Trade in salt was especially profitable during this period. The last major ambitious Tang emperor, Emperor Xianzong, took power in 805; buoyed by this economic boom, he was able to fund a large and skilled army, and he retook most of the provinces that had broke away in rebellion in the later eighth century.[NEWLINE][NEWLINE]The jiedushi, military governors who began to be appointed in the eighth century, also accrued increasing power during this period. The growing strength of the jiedushi, as well as the rise of powerful court eunuchs, caused the central authority of the Tang Dynasty to degrade throughout the ninth century. Because of this decentralization, the Huang Chao rebellion that erupted in 874 went a full decade before being suppressed, further damaging the state. The general Zhu Wen was instrumental in the defeat of Huang Chao, leading him to rapidly receive a series of promotions; however, Zhu Wen subsequently used his political power to overthrow the Emperor Ai, bringing the Tang Dynasty to an end in 905.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TAIZONG_PEDIA_NAME">
+            <Text>Taizong</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TAIZONG_PEDIA_SUBTITLE">
+            <Text>Leader of Tang</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TAIZONG_PEDIA_TITLES_1">
+            <Text>Emperor of China</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TAIZONG_PEDIA_TITLES_2">
+            <Text>Son of Heaven</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TAIZONG_PEDIA_TITLES_3">
+            <Text>Tengeri Qaghan</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TAIZONG_PEDIA_LIVED">
+            <Text>598 - 649 AD</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TAIZONG_PEDIA_HEADING_1">
+            <Text>Early Life</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TAIZONG_PEDIA_TEXT_1">
+            <Text>Emperor Taizong, born Li Shimin in 598, was the second emperor of the Tang Dynasty. The second son of Li Yuan, Shimin showed administrative talent even in his adolescence, and he first distinguished himself militarily in 615. It was partly at Shimin's urging that Li Yuan begun his rebellion against the Sui Dynasty, and after Li Yuan crowned himself as Emperor Gaozu in 618, Li Shimin was made the Prince of Qin and a key general in the new dynasty.[NEWLINE][NEWLINE]During his father's reign, Li Shimin's career got off to an inauspicious start, as a bout of malaria prevented him from effectively commanding his troops against Xue Ju; however, this failure would prove to be an anomaly, and Li Shimin led a series of successful campaigns throughout China during the reign of Gaozu.[NEWLINE][NEWLINE]Despite his successes, Li Shimin was not the Crown Prince; instead, that title belonged to his older brother, Li Jiancheng. This was a source of great rivalry between the two, and by 626 both brothers had begun plotting to kill the other. Shimin executed his plot that summer: as Li Jiancheng and Li Yuanji (another brother) approached the Xuanwu Gate of Gaozu's palace, Shimin and his followers ambushed and killed them both. Subsequently, Shimin stormed the palace itself and forced Gaozu to acknowledge him crown prince. Li Shimin took a few months to consolidate his power, and once his control was secured, he took the final step of his plan: forcing Gaozu to abdicate the throne to him completely.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TAIZONG_PEDIA_HEADING_2">
+            <Text>Reign</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TAIZONG_PEDIA_TEXT_2">
+            <Text>Now enthroned, Li Shimin took the regnal name of Taizong. He immediately began surrounding himself with capable advisors, dismissing many of his father's chancellors and appointing his own. He made a point of welcoming and listening to criticism, seeking to differentiate himself from tyrants such as Yang of Sui.[NEWLINE][NEWLINE]During Gaozu's reign and the late Sui period, the Eastern Turks had been a persistent threat to China; once his control was solidified, Taizong opted to go on the offensive against them, beginning his campaign with a multi-pronged attack in 629. This was a great success, and by 630 the Eastern Turks had been subjugated. Taizong's next target was Tuyuhun; early attempts to conquer them were unsuccessful, so Taizong secured an alliance with Tibet and the two empires crushed Tuyuhun between them in 635.[NEWLINE][NEWLINE]However, after Taizong failed to send a Tang princess in marriage to Songtsan Gampo of Tibet, the Tibetans attacked the Song Prefecture of China in 638. This was only a short-lived conflict; after Taizong repelled the initial attack, he provided Songtsan with a Tang wife, and Songtsan agreed to withdraw. This freed up Taizong's resources to begin a campaign against the Western Turks, which occupied much of the remaining decade of his reign.[NEWLINE][NEWLINE]The first western state to fall to the Tang was Karakhoja, which fell in 640; Karasahr followed in 644, and then Kucha in 648. Simultaneously, Taizong waged war at the other end of his empire, against Goguryeo; this was less successful, with the initial campaign in 644-45 ending in an ignominous Tang withdrawal. A second war against Goguryeo was similarly inconclusive, after Taizong died in the midst of it; he had been seriously ill for much of 649, probably due to alchemical pills he was taking. Upon his death, Taizong left behind a large and prosperous China, and that status would last for a century afterward.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV5_DAWN_THP_TANG_TEXT">
+            <Text>Hail, Taizong of Tang, Emperor of China and Son of Heaven! Born as the second son of a regional official, you persuaded your father to rebel against the faltering Sui Dynasty, a rebellion that led to the birth of the Tang Empire. During your reign, the Tang consolidated their power, and also achieved success against many of their enemies: you subjugated Tuyuhun, the Turks, and the oasis states of the Tarim Basin, leading China to a position of great wealth and security. You also kept a firm guiding hand on the aristocracy, preventing rebellion and punishing nobles who acted dishonorably, while still taking on capable advisors and avoiding the tyrannical behavior that had beset some of your predecessors. Ultimately, you left behind a legacy of success and prosperity that would last for decades beyond your death.[NEWLINE][NEWLINE]Emperor Taizong, your people clamor for the strength and clarity that you brought to the throne, and long to see you reclaim the glory you once held. Can you conquer your enemies and become the center of a thriving cosmopolitan trade? Can you build a civilization that will stand the test of time?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_TANG_SHORT">
+            <Text>Four Garrisons of Anxi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_TANG">
+            <Text>Internal Trade Routes provide increased yields based on the [ICON_RESEARCH] Science output of their origin city. Courthouses generate +1 [ICON_RESEARCH] Science per turn.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_FORBIDDENGUARD">
+            <Text>Forbidden Guard</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_FORBIDDENGUARD_HELP">
+            <Text>Classical Erа ranged unit. Only Tang may build it. When garrisoned in an Occupied or Puppeted city, increases Growth in that city by 10%.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_FORBIDDENGUARD_STRATEGY">
+            <Text>The Forbidden Guard is a vital part of a Classical Era army, both during and after warfare. While the war is still ongoing, use the Forbidden Guard as any other Composite Bowman; however, as you conquer cities, the Forbidden Guard can pivot become garrisons for them. The Growth bonus allows your conquered cities to quickly regain their lost Population and become fully fledged contributors to your empire.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_FORBIDDENGUARD_TEXT">
+            <Text>The Forbidden Troops, or Forbidden Guard, were an honor guard of the emperor and the imperial capital during the Tang Dynasty. The earliest form of the Forbidden Guard was established by the dynasty's founder, Emperor Gaozu, and it comprised 30,000 soldiers who volunteered to stay in service after the demobilization of the greater army.[NEWLINE][NEWLINE]For much of Tang history, each successive emperor would introduce new divisions to the Forbidden Guard. Taizong introduced the Hundred Riders, a group of 100 skilled archers who guarded the palace and accompanied the emperor on hunting trips; Empress Wu would later expand that division to the Thousand Riders, and Zhongzong would raise it further to the Ten Thousand Riders. After Li Longji ascended the throne as Emperor Xuanzong, he renamed the Ten Thousand Riders to the Long Wu (literally Dragon Martial), a prestigious division that only included Tang aristocrats.[NEWLINE][NEWLINE]After the An Lushan rebellion, the Shen Ce Army became the foremost army division in the Tang Empire, but in the ninth century it fell into the control of palace eunuchs. In their hands, the imperial guards became mainly used to control the emperors, and the quality of the soldiers declined rapidly. For this reason, the Forbidden Troops were disestablished after the overthrow of the Tang by Zhu Wen.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_SHUYUAN">
+            <Text>Shuyuan Academy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_SHUYUAN_HELP">
+            <Text>Unique replacement for the University. Only Tang may build it. In addition to the normal University benefits, the Shuyuan Academy generates +2 Local Happiness if its city is the origin of a Trade Route. If you also own the Trade Route's destination, that city receives the same Happiness bonus.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_SHUYUAN_STRATEGY">
+            <Text>The Shuyuan Academy is not only a Science building - it also boosts Happiness for friendly cities at either end of its Trade Routes. This makes it an important building for your core cities; build Shuyuan Academies in your "hubs," and send trade routes to your newly settled or conquered cities that may have Happiness problems.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_SHUYUAN_TEXT">
+            <Text>The Shuyuan, or Academies of Classical Learning, were a set of schools that were prominent during the Tang and Song Dynasties of China. They were repositories of classic literature, and places where scholars could both study the books and teach students about them.[NEWLINE][NEWLINE]Four of the Shuyuan academies have been venerated as the Four Great Academies. There are several different sets of academies that have been identified as the Four Great Academies, but the commonest grouping is:[NEWLINE]
+            [NEWLINE][ICON_BULLET]Songyang Academy
+            [NEWLINE][ICON_BULLET]Yingtianfu Academy
+            [NEWLINE][ICON_BULLET]Yuelu Academy
+            [NEWLINE][ICON_BULLET]White Deer Grotto Academy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_FORBIDDEN">
+            <Text>Feathered Forest</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_FORBIDDEN_HELP">
+            <Text>When garrisoned in an Occupied or Puppeted city, increases Growth in that city by 10%.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_TANG_HAPPINESS">
+            <Text>Tang Happiness Dummy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_TANG_FORBIDDEN">
+            <Text>Forbidden Guard Growth Dummy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_POLICY_THP_TANG_TRAIT">
+            <Text>Science from Courthouses</Text>
+        </Row>
+        
+        <!--Mod Support-->
+        <Row Tag="TXT_KEY_GENERIC_THP_TANG_INFLUENTIAL_ON_AI_1">
+            <Text>Our people are now reading your woodblock prints and buying your porcelain. I worry that the rest of the world will also succumb to the influence of your culture.</Text>
+        </Row>
+        
+        <!--Additional Achievements-->
+        <Row Tag="TXT_KEY_MOD_THP_TANG_NAME">
+            <Text>TopHat's Tang</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_TANG_ID_CFC">
+            <Text>a6a46011-2019-0104-bf3e-7a767db79a54</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_TANG_ID_STEAM">
+            <Text>N/A (CFC version)</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_TANG_AUTHORS">
+            <Text>TopHatPaladin</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_TANG_VICTORY_HEADER">
+            <Text>Can't Tangle with the Tang</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_TANG_VICTORY_TEXT">
+            <Text>Win the game on any difficulty setting as Tang.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_TANG_SPECIAL_HEADER">
+            <Text>Four Garrisons... and Beyond</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_TANG_SPECIAL_TEXT">
+            <Text>As Tang, have at least five Forbidden Guards simultaneously garrisoned in Occupied or Puppeted cities.</Text>
+        </Row>
+        
+        <!--E&D Support-->
+        <Row Tag="TXT_KEY_DECISIONS_THP_TANG_PRINTING">
+             <Text>Develop Woodblock Printing</Text>
+        </Row>
+        <!--If I ever actually make the Late Antiquity mod, this will require the Manuscripts tech-->
+        <Row Tag="TXT_KEY_DECISIONS_THP_TANG_PRINTING_DESC">
+            <Text>People in our nation have long been using wood blocks to print patterns on cloth. Perhaps we could also use this technique to reproduce some of our classic literature? It would certainly make it easier to stock all of our great academies.
+                [NEWLINE]-------------------------
+                [NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+                [NEWLINE]-------------------------
+                [NEWLINE][ICON_BULLET]Player must be Tang
+                [NEWLINE][ICON_BULLET]Must have built at least two Shuyuan Academies
+                [NEWLINE][ICON_BULLET]May only be enacted once per game
+                [NEWLINE]-------------------------
+                [NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+                [NEWLINE]-------------------------
+                [NEWLINE][ICON_BULLET]300 [ICON_GOLD] Gold
+                [NEWLINE][ICON_BULLET]200 [ICON_CULTURE] Culture
+                [NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+                [NEWLINE]-------------------------
+                [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+                [NEWLINE]-------------------------
+                [NEWLINE][ICON_BULLET]Receive the Printing Press tech for free
+             </Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_TANG_PRINTING_ENACTED_DESC">
+            <Text>People in our nation have long been using wood blocks to print patterns on cloth. Perhaps we could also use this technique to reproduce some of our classic literature? It would certainly make it easier to stock all of our great academies.
+                [NEWLINE]-------------------------
+                [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+                [NEWLINE]-------------------------
+                [NEWLINE][ICON_BULLET]Receive the Printing Press tech for free
+             </Text>
+        </Row>
+        <Row Tag="TXT_KEY_WORLD_EVENT_THP_TANG_PRINTING">
+            <Text>{1_LeaderName} has developed woodblock printing in {2_CivName}!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_WORLD_EVENT_THP_TANG_PRINTING_REDUNDANT">
+            <Text>{1_LeaderName} has developed woodblock printing in {2_CivName}! However, because the mechanical printing press has already proliferated in {2_CivName}, woodblock printing only catches on among hipsters...</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_TANG_TEAHORSES">
+            <Text>Patronize the Tea Horse Road</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_TANG_TEAHORSES_DESC">
+            <Text>Our trade routes have brought us a lot of wealth, thanks in large part to our tea, salt, and other luxuries. Our merchants have been satisfied exchanging these goods for gold, but our neighbors have been breeding horses of excellent quality. Let us use this trade route to strengthen our military!
+                [NEWLINE]-------------------------
+                [NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+                [NEWLINE]-------------------------
+                [NEWLINE][ICON_BULLET]Player must be Tang
+                [NEWLINE][ICON_BULLET]Must have a trade route with another Major Civilization
+                [NEWLINE][ICON_BULLET]May only be enacted once per game
+                [NEWLINE]-------------------------
+                [NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+                [NEWLINE]-------------------------
+                [NEWLINE][ICON_BULLET]350 [ICON_GOLD] Gold
+                [NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+                [NEWLINE]-------------------------
+                [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+                [NEWLINE]-------------------------
+                [NEWLINE][ICON_BULLET]Gain +1 [ICON_GOLD] Gold from Pastures
+                [NEWLINE][ICON_BULLET]Receive a copy of Horses for each type of Luxury Resource you control
+            </Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_TANG_TEAHORSES_ENACTED_DESC">
+            <Text>Our trade routes have brought us a lot of wealth, thanks in large part to our tea, salt, and other luxuries. Our merchants have been satisfied exchanging these goods for gold, but our neighbors have been breeding horses of excellent quality. Let us use this trade route to strengthen our military!
+                [NEWLINE]-------------------------
+                [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+                [NEWLINE]-------------------------
+                [NEWLINE][ICON_BULLET]Gain +1 [ICON_GOLD] Gold from Pastures
+                [NEWLINE][ICON_BULLET]Receive a copy of Horses for each type of Luxury Resource you control
+            </Text>
+        </Row>
+        <Row Tag="TXT_KEY_WORLD_EVENT_THP_TANG_TEAHORSES">
+             <Text>{1_LeaderName} begun patronizing the Tea Horse Road, a major {3_CivAdj} trade route!</Text>
+        </Row>
+    </Language_en_US>
+</GameData>

@@ -1,0 +1,15 @@
+<GameData>
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_JWW_OYSTERS</IconFontTexture>
+			<IconFontTextureFile>KarankawaOysterFontIcon</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
+	<IconFontMapping>
+		<Row>
+			<IconName>ICON_RES_JWW_OYSTERS</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_JWW_OYSTERS</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+	</IconFontMapping>
+</GameData>

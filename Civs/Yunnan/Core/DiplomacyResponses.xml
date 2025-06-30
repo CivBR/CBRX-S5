@@ -1,0 +1,22 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SENSHI_LONG_YUN">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_LONG_YUN_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SENSHI_LONG_YUN">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_LONG_YUN_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_SENSHI_LONG_YUN_FIRSTGREETING_1">
+			<Text>You have reached this democratic fortress. I am Long Yun. Some men call me the King of Yunnan, but my allegiance is to a republic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_LONG_YUN_DEFEATED_1">
+			<Text>Your victory is short-lived. The hills and mountains will forever be your enemy.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

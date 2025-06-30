@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="182523df-604d-4d52-8f97-0bed797145f1" version="2">
+  <Properties>
+    <Name>MC's Mysore</Name>
+    <Teaser>Adds [COLOUR_POSITIVE_TEXT]Mysore[ENDCOLOR] under [COLOR_POSITIVE_TEXT]Tipu Sultan[ENDCOLOR] to the game.</Teaser>
+    <Description>Adds [COLOUR_POSITIVE_TEXT]Mysore[ENDCOLOR] under [COLOR_POSITIVE_TEXT]Tipu Sultan[ENDCOLOR] to the game.</Description>
+    <Authors>More Civs</Authors>
+    <SpecialThanks>Typhlomence</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="The Enlightenment Era" />
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="0" maxversion="999" title="Additional Achievements" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1816AB21431A8C213F9C67CBA1EBB3DB" import="1">Art/Atlases/MC_Mysore_Alpha_128.dds</File>
+    <File md5="4B0D09EF74D8CD1C3E994ADB73C16D29" import="1">Art/Atlases/MC_Mysore_Alpha_24.dds</File>
+    <File md5="61B69040A9E5114A3A16548F7E316255" import="1">Art/Atlases/MC_Mysore_Alpha_256.dds</File>
+    <File md5="829B4C234B64538EED4956AE291C6EFC" import="1">Art/Atlases/MC_Mysore_Alpha_32.dds</File>
+    <File md5="9F9897348C4473B3B16087FE1A0004D6" import="1">Art/Atlases/MC_Mysore_Alpha_48.dds</File>
+    <File md5="1E9771DACFA3C1FEF92780D45270E2DF" import="1">Art/Atlases/MC_Mysore_Alpha_64.dds</File>
+    <File md5="DF00B53DE584B30EC38A01039E2051F1" import="1">Art/Atlases/MC_Mysore_128.dds</File>
+    <File md5="2AD08319810CED9492D8EE4D1896D4C7" import="1">Art/Atlases/MC_Mysore_256.dds</File>
+    <File md5="6B767AC6774339DC7BDF0D97C228BA4F" import="1">Art/Atlases/MC_Mysore_32.dds</File>
+    <File md5="ED71C88664A7C794E474FCBA588061BD" import="1">Art/Atlases/MC_Mysore_45.dds</File>
+    <File md5="8E55D8087AFF9D85C61451878B5BF582" import="1">Art/Atlases/MC_Mysore_64.dds</File>
+    <File md5="00A9FDF7DD0D2F55B36FAA19D14F6384" import="1">Art/Atlases/MC_Mysore_80.dds</File>
+    <File md5="88278E54A1DB60962F15FE28382305C9" import="1">Art/Models/Cushoon Rocket/fx_triggers_MysoreRocket.ftsxml</File>
+    <File md5="B75323013E7279F76300666B540FF542" import="1">Art/Models/Cushoon Rocket/MysoreRocket.fxsxml</File>
+    <File md5="B4E126753F48D592600AA867A876F489" import="1">Art/Models/Cushoon Rocket/MysoreRocket.gr2</File>
+    <File md5="3B7F9F6596F686BAB28FFBCE51536175" import="1">Art/Models/Cushoon Rocket/MysoreRocket_diff.dds</File>
+    <File md5="2991B88F795C95ECAB0EDFA5BF297044" import="1">Art/Models/Cushoon Rocket/MysoreRocket_sref.dds</File>
+    <File md5="F818993855EB728978E2CF3E19EDA603" import="1">Art/Models/Cushoon/u_cushoon.fxsxml</File>
+    <File md5="8D00002AE789711D846A5DC141FA224A" import="1">Art/Models/Cushoon/u_cushoon.gr2</File>
+    <File md5="CBBA78B0024035257270532E5FB94D9D" import="1">Art/Models/Cushoon/u_cushoon_diff.dds</File>
+    <File md5="E0379CA7D5CF4C21B722759EE7508E7B" import="1">Art/Models/MC_CushoonRocketUnitFlag_32.dds</File>
+    <File md5="DB9EED8E18B3868159861F72FA074729" import="1">Art/Models/MC_CushoonUnitFlag_32.dds</File>
+    <File md5="40B8CA47175F4256A9550FE79900BB44" import="1">Art/Models/sv_CushoonRocket.dds</File>
+    <File md5="62AB53B25682DDE2DCD913084EC6BE7D" import="1">Art/Models/sv_Cushoon.dds</File>
+    <File md5="4624B534EFC6CF605330F8B2EADA1783" import="1">Art/Scenes/MC_Mysore_Map.dds</File>
+    <File md5="266940BA162C1F2A185F366048D82530" import="1">Art/Scenes/MC_Mysore_Leaderscene.dds</File>
+    <File md5="4DD4A9D4791355B0392F7D2F83E0E842" import="1">Art/Scenes/MC_Mysore_DoM.dds</File>
+    <File md5="A2E108529CD8053AD167040677035D1D" import="0">Core/Art/MC_CushoonArtDef.sql</File>
+    <File md5="DB27E0D71787C7BEBEF6A94A421AC325" import="1">Core/Art/MC_Mysore_Leaderscene.xml</File>
+    <File md5="C86FC7BA24C5173A877650761EE9EC00" import="0">Core/Art/MC_CushoonRocketArtDef.sql</File>
+    <File md5="5D693DE9C45ABB7CDB224F6E76A77FF0" import="0">Core/Buildings/MC_Mysore_Buildings.sql</File>
+    <File md5="31BC7C3F99C804BE579B69B5C3E6F445" import="0">Core/Civilizations/MC_Mysore_Civilizations.sql</File>
+    <File md5="0B13EDAED2DD596585FE65A18660BD57" import="0">Core/GameInfo/MC_Mysore_IconTextureAtlases.sql</File>
+    <File md5="44082E344C34677F471417E3766D8FF1" import="0">Core/GameInfo/MC_Mysore_Sounds.xml</File>
+    <File md5="3B78F142032EC04A0B3003680A24AF66" import="0">Core/Leaders/MC_Mysore_Leader.sql</File>
+    <File md5="DA5F612267BB5B90D9F5B41FDB074053" import="0">Core/Text/MC_Mysore_Text.xml</File>
+    <File md5="D2862E12A090AEBDA0F2F977903C53F6" import="0">Core/Units/MC_Mysore_UnitPromotions.sql</File>
+    <File md5="36E6C504F9F3D87A28B85542F5C20C3A" import="0">Core/Units/MC_Mysore_Units.sql</File>
+    <File md5="73F699A3FFF220A3704F9490089C45B1" import="1">Lua/C15_IteratorPack_v4.lua</File>
+    <File md5="7B5C7167515A183A4CE9BE8757A81D8D" import="0">Lua/MC_Mysore_Functions.lua</File>
+    <File md5="60C543493CC1628535DE00CFAEE946EA" import="0">Lua/MC_Mysore_Functions.xml</File>
+    <File md5="5B204276619D2B35C98002E79B442FBB" import="0">Mod Support/AdditionalAchievementsUtility.lua</File>
+    <File md5="DD498519AB539FE0D6374CEFEB0EFC7F" import="0">Mod Support/MC_Mysore_ModSupport.lua</File>
+    <File md5="83C4E80E4CF31CB9D2161DE015785A81" import="0">Mod Support/MC_Mysore_ModSupport.sql</File>
+    <File md5="E77E00FA965DBC265F0AC556E074E023" import="1">Sounds/MC_Mysore_War.mp3</File>
+    <File md5="1868C038DB637245B5E331014D170169" import="1">Sounds/MC_Mysore_Peace.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Art/MC_CushoonArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Art/MC_CushoonRocketArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Art/MC_Mysore_Leaderscene.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings/MC_Mysore_Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations/MC_Mysore_Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Mysore_IconTextureAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Mysore_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaders/MC_Mysore_Leader.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Text/MC_Mysore_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_Mysore_UnitPromotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_Mysore_Units.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support/MC_Mysore_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/MC_Mysore_Functions.lua">
+      <Name>MC Mysore Functions</Name>
+      <Description>Functions for MC's Mysore</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

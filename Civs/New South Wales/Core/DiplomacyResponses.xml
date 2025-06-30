@@ -1,0 +1,22 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SENSHI_MACARTHUR">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_MACARTHUR_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SENSHI_MACARTHUR">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_MACARTHUR_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_SENSHI_MACARTHUR_FIRSTGREETING_1">
+			<Text>Good day, and welcome to New South Wales! I'm John Macarthur, the one who's really in charge around here. Now, perhaps you're interested in some quality wool or some quality rum?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_MACARTHUR_DEFEATED_1">
+			<Text>You're a short-sighted fool and probably a terrible businessman. One day your tyranny will catch up to you.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

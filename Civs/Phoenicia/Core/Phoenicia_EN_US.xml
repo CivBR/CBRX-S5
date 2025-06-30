@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						Phoenician Empire
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_MC_PHOENICIA_DESC">
+			<Text>Phoenician Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_PHOENICIA_SHORT_DESC">
+			<Text>Phoenicia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_PHOENICIA_ADJ">
+			<Text>Phoenician</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_PHOENICIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_PHOENICIA_TEXT_1">
+			<Text>Phoenicia was an ancient Semitic civilization situated on the western, coastal part of the Fertile Crescent and centered on the coastline of modern Lebanon and Tartus Governorate in Syria. All major Phoenician cities were on the coastline of the Mediterranean, some colonies reaching the Western Mediterranean. It was an enterprising maritime trading culture that spread across the Mediterranean from 1550 BC to 300 BC. The Phoenicians used the galley, a man-powered sailing vessel, and are credited with the invention of the Bireme. They were famed in Classical Greece and Rome as 'traders in purple', referring to their monopoly on the precious purple dye of the Murex snail, used, among other things, for royal clothing, and for their spread of the alphabet (or abjad), from which almost all modern phonetic alphabets are derived.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_PHOENICIA_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_PHOENICIA_TEXT_2">
+			<Text>Phoenicia is an ancient region lying on the eastern coast of the Mediterranean Sea. The Empire peaked at around 1000 BCE, and developed until around 700 BCE. Phoenicia, now known as Lebanon, Syria, and Israel, was naturally isolated from other civilizations by the Lebanon Mountains in the east, and the great sea on the west. The small region stretched about 320 kilometers long and about 25 kilometers wide. This geographical isolation gave the Phoenicians enough protection to evolve into a strong nation, while giving it the freedom to trade and explore across the Mediterranean.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_PHOENICIA_HEADING_3">
+			<Text>The Purple People</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_PHOENICIA_TEXT_3">
+			<Text>The Phoenicians were among the greatest traders of their time and owed much of their prosperity to trade. At first, they traded mainly with the Greeks, trading wood, slaves, glass and powdered Tyrian purple. Tyrian purple was a violet-purple dye used by the Greek elite to color garments. In fact, the word Phoenician derives from the ancient Greek word 'phoínios' meaning 'purple'. As trading and colonizing spread over the Mediterranean, Phoenicians and Greeks seemed to have split that sea in two: the Phoenicians sailed along and eventually dominated the southern shore, while the Greeks were active along the northern shores. The two cultures rarely clashed, mainly in Sicily, which eventually settled into two spheres of influence, the Phoenician southwest and the Greek northeast.
+			[NEWLINE][NEWLINE]To Egypt, where grapevines would not grow, the 8th-century Phoenicians sold wine: the wine trade with Egypt is vividly documented by the shipwrecks in the open sea 30 miles west of Ascalon. Pottery kilns at Tyre and Sarepta produced the big terracotta jars used for transporting wine. From Egypt, the Phoenicians bought Nubian gold.
+			[NEWLINE][NEWLINE]From elsewhere, they obtained other materials, perhaps the most important being silver from the Iberian Peninsula and tin from Great Britain, the latter of which when smelted with copper from Cyprus created the durable metal alloy bronze. There was a highly lucrative Phoenician trade with Britain for tin. 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_PHOENICIA_HEADING_4">
+			<Text>The Phoenician Alphabet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_PHOENICIA_TEXT_4">
+			<Text>The Phoenicians were the first state-level society to make extensive use of the alphabet. The Phoenician phonetic alphabet is generally believed to be the ancestor of almost all modern alphabets, although it did not contain any vowels (these were added later by the Greeks). From a traditional linguistic perspective, they spoke Phoenician, a Canaanite dialect. However, due to the very slight differences in language, and the insufficient records of the time, whether Phoenician formed a separate and united dialect, or was merely a superficially defined part of a broader language continuum, is unclear. Through their maritime trade, the Phoenicians spread the use of the alphabet to North Africa and Europe, where it was adopted by the Greeks, who later passed it on to the Etruscans, who in turn transmitted it to the Romans. In addition to their many inscriptions, the Phoenicians are believed to have left numerous other types of written sources, but most have not survived.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_PHOENICIA_HEADING_5">
+			<Text>The Coming of Alexander the Great</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_PHOENICIA_TEXT_5">
+			<Text>
+				In 334 BCE Alexander the Great conquered Baalbek (re-naming it Heliopolis) and marched on to subdue the cities of Byblos and Sidon in 332 BCE. Upon his arrival at Tyre, the citizens followed the example set by Sidon and submitted peacefully to Alexander's demand for submission. Alexander then wished to offer a sacrifice in the holy temple of Melqart at Tyre and this the Tyrians could not allow. The religious beliefs of the Tyrians forbade foreigners from sacrificing, or even attending services, in the temple, and so they offered Alexander a compromise whereby he could offer sacrifice in the old city on the mainland but not in the temple on the island complex of Tyre. Alexander found this proposal unacceptable and sent envoys to Tyre demanding their surrender. The Tyrians killed the envoys and threw their bodies over the walls.
+				[NEWLINE][NEWLINE]At this point Alexander ordered the siege of Tyre and was so determined to take the city that he built a causeway from the ruins of the old city, debris, and felled trees, from the mainland to the island (which, owing to sediment deposits over the centuries is why Tyre is not an island today), and, after seven months, breached the walls and massacred most of the populace. It is estimated that over 30,000 citizens of Tyre were massacred or sold into slavery and only those wealthy enough to properly bribe Alexander were allowed to escape with their lives (besides those who found a way to escape by stealth).  After the fall of Tyre, the other city-states followed surrendered to Alexander's rule, thus ending the Phoenician Civilization and ushering in the Hellenistic Age. By 64 CE the disassembled parts of Phoenicia were annexed by Rome and, by 15 CE were colonies of the Roman Empire.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_PHOENICIA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_PHOENICIA_FACTOID_TEXT">
+			<Text>With Tyrian Dye, the darker the cloth dyed purple was, the more expensive the cloth was.[NEWLINE][NEWLINE]The word Bible probably comes from the name of the city of Byblos; which was known for exporting papyrus.[NEWLINE][NEWLINE]In making Tyrian Dye, the Phoenicians drove the Murex snail to local extinction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_PHOENICIA_TEXT">
+			<Text>Hiram I of Tyre! Truly, the gods have blessed Phoenicia with your wise leadership. Phoenicia was a prosperous land; situated on the coasts of the Fertile Crescent. Here your people founded a great civilization; one whose influence is striking. The Phoenicians invented the Bireme and profited and thrived on the trade of glass, cedars, and Tyrian Dye. They expanded their dominions, founding great cities such as Carthage on distant shores. They developed the Phoenician Alphabet, a writing system on which almost all modern scripts are based. Through these achievements Phoenicia has left a legacy yet unmatched by all the civilizations that followed.[NEWLINE][NEWLINE]King Hiram, the dawn of a new age approaches. Can your guidance return Phoenicia to prosperity? Will you share to the world the wealth and wisdom of Phoenicia? Will you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_TYRE">	
+			<Text>Tyre</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_SIDON">	
+			<Text>Sidon</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_BYBLOS">	
+			<Text>Byblos</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_SAREPTA">	
+			<Text>Sarepta</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_BERYTOS">	
+			<Text>Berytos</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_BAALBEK">	
+			<Text>Baalbek</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_AKKO">	
+			<Text>Akko</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_DOR">	
+			<Text>Dor</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_ARADOS">	
+			<Text>Arados</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_QART_HADASHT">	
+			<Text>Qart Hadasht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_LEPTIS">	
+			<Text>Leptis</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_UTICA">	
+			<Text>Utica</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_KARALIS">	
+			<Text>Karalis</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_HIPPO_REGIUS">	
+			<Text>Hippo Regius</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_OIA">	
+			<Text>Oia</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_SABRATHA">	
+			<Text>Sabratha</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_HADRUMENTUM">	
+			<Text>Hadrumentum</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_ICOSIUM">	
+			<Text>Icosium</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_IOL">	
+			<Text>Iol</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_EBUSOS">	
+			<Text>Ebusos</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_THAPSOS">	
+			<Text>Thapsos</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_MELITA">	
+			<Text>Melita</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_PANORMOS">	
+			<Text>Panormos</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_MOTZA">	
+			<Text>Motza</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_KOSSYRA">	
+			<Text>Kossyra</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_TARTESSOS">	
+			<Text>Tartessos</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_GADIR">	
+			<Text>Gadir</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_MALACA">	
+			<Text>Malaca</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_TINGIS">	
+			<Text>Tingis</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_ZILI">	
+			<Text>Zili</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_LIXOS">	
+			<Text>Lixos</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_CIRTA">	
+			<Text>Cirta</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_IGILGILI">	
+			<Text>Igilgili</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_MELILLA">	
+			<Text>Melilla</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_MAGADOR">	
+			<Text>Magador</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_PHOENICIA_THARROS">	
+			<Text>Tharros</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_PHOENICIA_0">
+			<Text>Philo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_PHOENICIA_1">
+			<Text>Sanchuniaton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_PHOENICIA_2">
+			<Text>Eshmun'azar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_PHOENICIA_3">
+			<Text>Ithobaal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_PHOENICIA_4">
+			<Text>Rib-Hadda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_PHOENICIA_5">
+			<Text>Pygmalion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_PHOENICIA_6">
+			<Text>Jezebel</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_PHOENICIA_7">
+			<Text>Tanis</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_PHOENICIA_8">
+			<Text>Elissa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_PHOENICIA_9">
+			<Text>Melita</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						CS Updates
+		------------------------------------------------------------------>
+		<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_TYRE"/>
+			<Set Text="Cyrene"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_TYRE_ADJ"/>
+			<Set Text="Cyrenian"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_TYRE_TEXT"/>
+			<Set Text="Cyrene, ancient Greek colony in Libya, founded c. 631 BC by a group of emigrants from the island of Thera in the Aegean. Their leader, Battus, became the first king, founding the dynasty of the Battiads, whose members, named alternately Battus and Arcesilaus, ruled Cyrene for eight generations (until c. 440 BC). Under their rule, the city prospered economically and expanded, establishing its port of Apollonia (Marsa Sūsah) and the towns of Barce (al-Marj) and Euhesperides, or Berenice.[NEWLINE][NEWLINE]After a further influx of Greek colonists c. 570 BC, Greek–Libyan relations broke down; the new constitution granted under Battus III failed to allay dissension among the rival domestic factions, and c. 525 Cyrene was subjected to a short-lived Persian invasion.[NEWLINE][NEWLINE]The republic that followed was politically undistinguished. Then, under the aegis of Ptolemaic Egypt (from 323 BC), Cyrene became one of the great intellectual centres of the classical world, boasting a medical school and such scholars as the geographer Eratosthenes and the philosopher Aristippus, founder of the Cyrenaics. In 96 BC Cyrenaica came under Roman rule and in 67 BC was united with Crete to form a senatorial province, with Cyrene as local capital. The two centuries of relative prosperity under the Romans—broken by a revolt of the Cyrenian Jews (AD 115)—were followed by steady decline. With the Arab conquest (AD 642), the city ceased to exist."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_SIDON"/>
+			<Set Text="Galatia"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_SIDON_ADJ"/>
+			<Set Text="Galatian"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_SIDON_TEXT"/>
+			<Set Text="Ancient Galatia is located in the central regions of modern-day Turkey, a poor land traditionally inhabited by the Phyrgians. Later this land was controlled and inhabited by Celtic tribes some time in the 270's B.C. Celtic tribes in Thrace and elsewhere were invited by Nicomedes I of Bithynia to come over into Anatolia to serve as warriors and mercenaries. The term 'Galatae' was used by the Greeks to denote these Celtic tribes. Once the Galatian tribes crossed over in Anatolia, they were soon the preeminent power in the region. Raids upon nearby regions were soon commonplace. Livy writes 'To the Trocmi the coast of the Hellespont as assigned (as raiding land); the Toistoboii received by the lot Aeolis and Ionia; the Tectosages the interior parts of Asia. And they enacted tribute from all of Asia on this side of the Halys. And so great was the terror of their name, their numbers being so enlarged by great natural increase, that in the end even the kings of Syria did not refuse to pay them tribute.'[NEWLINE][NEWLINE]All this came to an end during the 'elephant battle' against the Seleucids. The Galatians were defeated and settled down in central Asia Minor where they would continue to periodically launch raids and campaigns into he surrounding lands. The three main tribes of Galatia were the Trocmi, Tolistoboii, and the Tectosages. The Trocmi had as their capitol the town of Tavium, but also Mithridatum, Eccobriga, and Danala. The Tectosages ruled from Ankyra. They also had a settlement known as Pitobriga and they renamed the town of Gordium to Vindia, a place where they had a large market of trading goods. The Tolistoboii were centered around Blucium, later a fortress of King Deiotarus, and also Peium, an oppida where Deiotarus kept his massive treasury. Pessinus would later become the capitol of the Tolistoboii by 25 B.C. during Roman annexation. Though little is known of the Galatians through discoveries in archaeology, the government of Galatia is known. Each tribe was split into four clans, each ruled by a tetrarch (from the Greek word tetra- meaning 'four' and arkos meaning 'chief'). These rulers were in turn supported by a chief judge, a leading general, and two deputy generals. This system held for a long time in Galatia, yet later the tetrarchs seem to have became petty kings. 300 senators held a national assembly that is thought to have been held at Drunemeton ('sacred oak sanctuary'). Despite all this the Galatians often fought among themselves and established no unified kingdom, although Ortagion, by forging alliances in the region, certainly came close to doing so. There is no mention of major problems living among the local Phyrgians nor mention of uprisings while the Galatians were away on campaign. in fact classical writers allude to their intermarrying with them. The Galatians also adopted many aspects of Greek culture. These Celts were later known as Gallogracians, those who had Phyrgian, Greek, or other local influences in their blood and or lifestyle. Livy, quoting Manlius Vulso who defeated the Galatians in two battles in 189 B.C. mentioned 'that some of these Gauls (Galatians) are a mixed race, truly described by their name Gallogracians.' This evidence is further backed up by the inscriptions at Delphi mentioning that among the Galatians were freed slaves of areas that they had swept through. Despite this, the Galatians were known to deal in slaves."/>
+		</Update>
+			<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_BYBLOS"/>
+			<Set Text="Syracuse"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_BYBLOS_ADJ"/>
+			<Set Text="Syracusan"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_BYBLOS_TEXT"/>
+			<Set Text="The city of Syracuse is located on the east coast of Sicily and was originally a Greek colony founded by Corinth in 734 BCE. The city enjoyed a period of expansion and prosperity under the tyrant Gelon in the 5th century BCE, survived a two year siege by Athenian forces from 415 to 413 BCE, and again prospered under the tyrant Dionysius in the 4th century BCE when the city controlled much of Sicily and large portions of southern Italy.[NEWLINE][NEWLINE]Still important in Roman times, the city became the provincial capital, albeit also a civitas decumana and obliged to pay tax to Rome. In 21 BCE Augustus created a colonia and the city was also beautified with a new square and triumphal arch and benefitted from a new aqueduct and amphitheatre. The city continued as a significant settlement well into the 3rd century CE and impressive catacombs attest to its role as an important Christian centre up to the 7th century CE. In 878 CE the city was captured by Arabs, bringing to a close the city's long history as a bastion of Greek and Roman culture."/>
+		</Update>
+		<!----------------------------------------------------------------
+						Hiram
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM">
+			<Text>Hiram I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_NAME">
+			<Text>Hiram I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_LIVED">
+			<Text>c. 1000 BC - c. 946 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_SUBTITLE">
+			<Text>Leader of Phoenicia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_TITLES_1">
+			<Text>King of Tyre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_HEADING_2">
+			<Text>Tyre Before Hiram</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_HEADING_3">
+			<Text>The Reign of Hiram</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_HEADING_4">
+			<Text>From Tyre to Carthage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_HEADING_5">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_TEXT_1">
+			<Text>During his thirty-four year reign as the King of Tyre, Hiram presided over an era of unprecedented growth and prosperity for his kingdom. While neighboring Sidon—Tyre's chief rival among the Phoenicians—waned, Hiram expanded his kingdom and reasserted dominance over distant colonies. By establishing new alliances with rising powers on the mainland, Hiram secured access to allied ports on the Red Sea. Through such deals, Tyrian trade during Hiram's reign reached from Spain to East Africa, perhaps even to India. As the wealth of the ancient world poured into his city, Hiram invested in new public works. The architecture of Tyre became the envy of the all neighboring kingdoms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_TEXT_2">
+			<Text>Tyre was already an ancient city when Hiram was born at the dawn of the 10th Century BC, having been founded on the mainland in the year 2750 BC according to the Greek historian Herodotus. By Hiram's time, however, the city had shifted onto two small islands just off the coast, with only satellite towns remaining on the mainland. Multi-story homes were crowded together behind the walls of the larger island, while the Temple of Melqart, the patron god of Tyre, stood upon the smaller island. In years past, Sidon and Tyre had split the Mediterranean between them, with Sidon turning its attention north to Greece and Minoa, while Tyre looking toward Egypt and the rest of North Africa before. This brought Tyre into Egypt's sphere of influence, and when Egypt's might faltered, Tyre's fortune failed. In the century before Hiram, the situation for Tyre began to improve. New expeditions were sent west. The Tyrians established the colony of Utica on the north coast of modern Tunisia. Their trading vessels sailed through the Strait of Gibraltar to each the lucrative markets of Tartessos. There the Tyrians established another colony, Gadir (also known as Gades), which has become the modern city of Cadiz, Spain. In the midst of this Tyrian renaissance, Hiram was born</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_TEXT_3">
+			<Text> Hiram succeeded his father Abibaal in c. 980 BC. Among his first acts as king, he commissioned a massive construction project to expand the city. Where the eastern end of the city expanded into the sea, he ordered a great market square to be built to accommodate the wealth of trade entering the city. The harbors, too, were expanded and canals constructed through the city. To the southwest, his architects joined the city with the smaller island upon which the temple of Melqart stood. By royal decree, all the temples in the city were rebuilt with imported cedar. Melqart's temple received the most lavish remodeling. Two pillars, adorned with gold decorations, flanked its entrance. Most famously, Hiram secured an alliance with the new Israelite kingdom that was then growing on the mainland. The kings of Israel requested that Hiram send them stone, cedar, and artisans to aid in the construction of their own temple. The combined efforts of Israelite labor and Tyrian artistry raised the legendary Temple of Solomon. Further cementing their alliance, the Israelite kings requested shipwrights and navigators from Hiram to aid in the expansion of their southern trade fleet. In exchange, Hiram received a portion of the wealth drawn into the Red Sea from East Africa and India. Finally, late in his reign, Hiram ensured Tyre's continued dominance over the western Mediterranean trade routes by putting down a rebellion in Utica.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_TEXT_4">
+			<Text>After Hiram's death, his son Baal-Eser I and grandson Abdastartus ruled Tyre and the empire Hiram had secured until c. 920 BC. At that time, the sons of one of Abdastartus' servants conspired against him. They assassinated the king and claimed Tyre as their own. One by one, each brother had his chance to rule. The youngest brother, then fifty years old, ruled for less than a year before the priests of the city revolted against him. He was slain by Ithobaal, a priest of the goddess Asarte, who founded the next dynasty to rule Tyre. Among this dynasty was Dido, who fled for her life from her brother Pygmalion. She went west, to Utica, long ago secured for Tyre by the efforts of Hiram, and later founded the city of Carthage which became the heir of Tyre's vast trade empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_TEXT_5">
+			<Text>For nearly three thousand years, historians have recounted the deeds of Hiram and the glories of Tyre. Ancient Israelite historians—the authors of the biblical histories—praised Tyrian wealth and craftsmanship that flourished under Hiram's patronage. Josephus, citing older Phoenician historians now lost to time, shared Hiram's legacy with his audience during the rise of the Roman Empire. The Romans, for their part, were all too aware from their own histories of another aspect of Hiram's legacy—Carthage, which rose to power on the foundations laid by Tyre and colonial Utica. In the 20th Century, Hiram has been called a “statesman worthy of his age” who transformed Tyre into the market of the world. Not far from the city of Tyre, one can still find an ancient monument known as the Qabr Hiram, a stone sarcophagus atop a high pedestal that is said to be the final resting place of the great king.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_FACTOID_HEADING">
+			<Text>Hiram Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEADER_MC_HIRAM_FACTOID_TEXT">
+			<Text>Hiram and Solomon of Israel made a bet with one another over a series of riddles that the two kings sent back and forth to one another, according to both Phoenician and Israelite historians. After Hiram failed to solve one of Solomon's riddles and paid Solomon accordingly, he commissioned the wisest man in Tyre to devise a new riddle. The riddle stumped even the legendary wisdom of Solomon, who promptly repaid what Hiram had lost. Unfortunately, the riddles themselves are now lost.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_FIRSTGREETING_1">
+			<Text>You stand before Hiram I, ruler of Tyre. Our land is prosperous and our merchants generous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_FIRSTGREETING_2">
+			<Text>I am Hiram of Tyre. I pray relations between our empires will be cordial and profitable.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DEFEATED_1">
+			<Text>Take the riches of my land if you will! You still shall never be able to recreate the splendour of Phoenicia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DEFEATED_2">
+			<Text>I've bled my coffers dry in this pointless war. I doubt my lands will be of any use to you now.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_REPEAT_TOO_MUCH_1">
+			<Text>Here, take this coin I'm holding and leave. Will that satisfy your stubborn refusal to understand the word "No"?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>I have nothing more to say.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_GREETING_HOSTILE_HELLO_1">
+			<Text>What reason have you for coming here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_GREETING_POLITE_HELLO_1">
+			<Text>Welcome! I hope you weren't harassed by merchants on your way here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>We may be prosperous, but expect no aid in your war from Phoenicia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_GREETING_HUMAN_AT_WAR_1">
+			<Text>In this time of great turmoil for your nation, rest assured that Phoenicia shall ever remain a loyal friend. And trading partner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Do you think us so easily cowed? Our merchants and people are tight fisted; if you want our riches, you will have to attack. Move your armies away otherwise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_HIRAM_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Our lands are our own. I demand you stop buying it all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Our lands are our own. I ask you stop buying it all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>And I thought my people were greedy: You need not that land. Stop claiming it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>I pray you will temper your expansion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Truly we are fortunate to be allied with one such as you. Our merchants thank your for your aid in protecting their trade routes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Even prosperous Phoenicia is in awe at your great wealth. Perhaps one day you will share your secrets?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>Come! See our great and prosperous cities! I don't imagine you have anything quite as grand.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>With such a small army, I'm surprised someone hasn't robbed you of all you own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>You again? Here to spread the hatred, I suspect.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_TOO_SOON_FOR_DOF_1">
+			<Text>Such matters must be conducted with more delicacy. I appreciate our relationship, but must decline.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DENOUNCE_1">
+			<Text>You are an obstacle to Phoenicia's prosperity and growth![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DENOUNCE_2">
+			<Text>Our merchants clamour for your destruction. Be glad I'm only denouncing you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>And soon your wealth will disappear without our trade. You are a fool to have done this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_HUMAN_DOFED_FRIEND_1">
+			<Text>I happened to hear of your friendship with {1_CivName}. This is good. Together our nations will profit greatly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_HUMAN_DOFED_ENEMY_1">
+			<Text>Even our most unscrupulous of traders hesitate to deal with {1_CivName}. I'm surprised you would think them worthy of befriending.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>We have received nothing but profit from our dealings with {1_CivName}? Your attitude towards them worries me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>Phoenicia thanks your for denouncing {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Your declaration of friendship with {1_CivName} fits our interests nicely.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>We're worried by your friendliness towards {1_CivName}. All my advisors warn against further diplomacy with them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>My dealing with {1_CivName} have never been pleasant. I'm glad you agree.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_COOP_WAR_REQUEST_1">
+			<Text>Join us in ridding the world of {1_PlayerName:textkey}! The treacherous leeches must be dealt with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_COOP_WAR_TIME_1">
+			<Text>Now is the time for war against {1_PlayerName:textkey}. Are you prepared?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DEC_FRIENDSHIP_1">
+			<Text>Come; let our nations thrive from trade and friendship!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Your armies disrupt our trade. What is the meaning of this? Move away. Now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_PLOT_BUYING_WARNING_1">
+			<Text>Stop claiming our lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Stop claiming our land; or expect our navy to come and visit your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_EXPANSION_SERIOUS_WARNING_1">
+			<Text>If you keep settling cities, our navy will feel obliged to go for a rather permanent visit. Temper your expansion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_EXPANSION_WARNING">
+			<Text>If you keep settling cities, our navy will feel obliged to go for a rather permanent visit. Temper your expansion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_RETURNED_CIVILIAN_1">
+			<Text>We are indebted to you for bringing our people home. I will see you receive a generous reward!</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DONT_SETTLE_NO_1">
+			<Text>Our colonists go where they wish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DONT_SETTLE_YES_1">
+			<Text>So be it.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_LUXURY_TRADE_1">
+			<Text>Our merchants have seen fit to offer you this magnificent deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Let us trade in freedom! Let gold flow between our nations!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_RESPONSE_REQUEST_1">
+			<Text>Phoenicia requests your generous aid.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_ATTACKED_HOSTILE_1">
+			<Text>Hah! Gold wins wars you know! My victory shall be swift!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_ATTACKED_EXCITED_1">
+			<Text>Hah! Gold wins wars you know! My victory shall be swift!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_ATTACKED_SAD_1">
+			<Text>Our merchants will be displeased to hear of this. But very well. War it is.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_ATTACKED_BETRAYED_1">
+			<Text>Our merchants will be displeased to hear of this. But very well. War it is.</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DOW_GENERIC_1">
+			<Text>Your wealth shall be mine!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DOW_GENERIC_2">
+			<Text>Your wealth shall be mine! I shall see you again on the field of battle!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DOW_LAND_1">
+			<Text>Your wealth shall be mine!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DOW_WORLD_CONQUEST_1">
+			<Text>Phoenicia's wealth shall spread throughour the world once I'm done with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DOW_OPPORTUNITY_1">
+			<Text>I cannot resist taking advantage of your situation. Prepare to die.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DOW_DESPERATE_1">
+			<Text>I didn't want to attack you now, but this was our only chance. We'll destroy you regardless, don't worry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_DOW_BETRAYAL_1">
+			<Text>Some business transactions can be highly tasteful. This is one of them. Prepare for battle!</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_TOO_SOON_NO_PEACE_1">
+			<Text>I need to let my soldiers do a bit more looting before we can talk.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_BAD_1">
+			<Text>Are you mad?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HIRAM_GOOD_1">
+			<Text>Yes; let us both prosper from this agreement.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						The Phoenician Alphabet
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_MC_PHOENICIAN_APLHABET_SHORT">
+			<Text>The Phoenician Alphabet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_PHOENICIAN_APLHABET">
+			<Text>Receive 5 [ICON_GOLD] Gold for every 1 [ICON_RESEARCH] Science sent out via Trade Routes. A free Tyrian Merchant appears after researching Writing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_PHOENICIA_TOPPANEL_GOLD">
+			<Text>{1_Gold} from exporting [ICON_RESEARCH] Science to other Leaders.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Bireme
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_MC_PHOENICIA_BIREME">
+			<Text>Bireme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_PHOENICIA_BIREME_HELP">
+			<Text>Unique Phoenician replacement for the Trireme. The Bireme generates [ICON_GREAT_PEOPLE] Great Merchant Points in combat. It also transfers its movement points to embarked units when stacked together at the start of the turn, allowing them to travel faster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_PHOENICIA_BIREME_STRATEGY">
+			<Text>The Bireme is the Phoenician replacement for the Trireme. Embarked units gain the movement of the Bireme if they start the turn stacked with it, making the Bireme useful for for ferrying units around, be it Settlers to colonize distant shores, military units to take coastal cities, or Tyrian Merchants to establish Commercial Outposts in foreign lands. It also generates [ICON_GREAT_PEOPLE] Great Merchant Points in combat, allowing Phoenicia to earn Tyrian Merchants faster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_MC_PHOENICIA_BIREME_TEXT">
+			<Text>Invented by the Phoenicians, the Bireme is an ancient warship with two decks of oars. Long vessels built for military purposes had relatively high speed, meticulous construction and strength; qualities which were only enhanced by the excellent cedars indigenous to the Phoenician homelands which were used to build such ships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CEDARS_OF_LEBANON">
+			<Text>Cedars of Lebanon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CEDARS_OF_LEBANON_HELP">
+			<Text>Produces [ICON_GREAT_PEOPLE] Great Merchant Points in combat. Embarked units move at the same rate as this unit if they start the turn stacked.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Tyrian Merchant 
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_MC_TYRIAN_MERCHANT">
+			<Text>Tyrian Merchant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_TYRIAN_MERCHANT_HELP">
+			<Text>In addition to the normal Great Merchant abilities, this unique Phoenician Great Person can establish Commercial Outposts in City States, earning you [ICON_RES_MC_TYRIAN_DYES] Tyrian Dye.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_TYRIAN_MERCHANT_STRATEGY">
+			<Text>The Tyrian Merchant is a unique Phoenician Great Merchant replacement. Aside from the normal Great Merchant abilities, the Tyrian Merchant can establish Commercial Outposts when entering City State borders. Each Player may only establish 1 Outpost in each City State and the Tyrian Merchant is expended when used in this way.[NEWLINE][NEWLINE]The first Commercial Outpost established will grant 2 copies of [ICON_RES_MC_TYRIAN_DYES] Tyrian Dye, a luxury resource. Subsequent Outposts you establish will grant 1 copy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_MC_TYRIAN_MERCHANT_TEXT">
+			<Text>The Phoenicians were among the greatest traders of their time and owed much of their prosperity to trade. The exports of Phoenicia as a whole included particularly cedar and pine wood, fine linen from Tyre, Byblos, and Berytos, embroideries from Sidon, metalwork and glass, glazed faience, wine, salt, dried fish, and cloths dyed with the famed Tyrian Purple. They received in return raw materials, such as papyrus, ivory, ebony, silk, amber, ostrich eggs, spices, incense, horses, gold, silver, copper, iron, tin, jewels, and precious stones. As their influence grew, the Phoenicians established commercial outposts throughout the Mediterranean, the most strategically important being Carthage in North Africa.</Text>
+		</Row>
+		<!--Tyrian Merchant Popup-->
+		<Row Tag="TXT_KEY_PHOENICIAN_DIALOG">
+			<Text>Would you like to establish a Commercial Outpost in {1_CityState}? It will grant you {2_Amount} copies of [ICON_RES_MC_TYRIAN_DYES] Tyrian Dyes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PHOENICIAN_YES">
+			<Text>Yes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PHOENICIAN_YES_TOOLTIP">
+			<Text>A Commercial Outpost will be established. This action will consume the Tyrian Merchant.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PHOENICIAN_NO">
+			<Text>No</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PHOENICIAN_NO_TOOLTIP">
+			<Text>You will be asked again the next time a Tyrian Merchant enters this City State's borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PHOENICIAN_NEVER">
+			<Text>Never</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PHOENICIAN_NEVER_TOOLTIP">
+			<Text>You will no longer be asked if you would like to establish a Commercial Outpost in this City State.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Warning: This action cannot be undone.[ENDCOLOR]</Text>
+		</Row>
+		<!--Tyrian Dyes-->
+		<Row Tag="TXT_KEY_MC_RESOURCE_MC_TYRIAN_DYES">
+			<Text>Tyrian Dye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIV5_RESOURCE_MC_TYRIAN_DYES_TEXT">
+			<Text>Tyrian purple, also known as Tyrian red, royal purple, imperial purple or imperial dye, is a reddish-purple natural dye, which is a secretion produced by a certain species of predatory sea snails in the family Muricidae, a type of rock snail by the name Murex. This dye was possibly first used by the ancient Phoenicians as early as 1570 BC. The dye was greatly prized in antiquity because the colour did not easily fade, but instead became brighter with weathering and sunlight. Tyrian purple was expensive: the 4th-century-BC historian Theopompus reported, "Purple for dyes fetched its weight in silver at Colophon" in Asia Minor. The expense meant that purple-dyed textiles became status symbols, and early sumptuary laws restricted their uses. The production of Tyrian purple was tightly controlled in Byzantium and was subsidized by the imperial court, which restricted its use for the colouring of imperial silks, so that a child born to a reigning emperor was "porphyrogenitos" or "born in the purple".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_RESOURCE_MC_TYRIAN_DYES_HELP">
+			<Text>Obtained by having a Tyrian Merchant establish a Commercial Outpost.</Text>
+		</Row>
+		<!--Tyrian Merchant Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_01">	
+			<Text>Hanno</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_02">	
+			<Text>Abdmelqart</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_03">	
+			<Text>Zimrida</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_04">	
+			<Text>Tabnit</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_05">	
+			<Text>Melqartpilles</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_06">	
+			<Text>Eshmunazar</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_07">	
+			<Text>Himilco</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_08">	
+			<Text>Rib-Addi</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_09">	
+			<Text>Abdosir</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_10">	
+			<Text>Hasdrubal</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_11">	
+			<Text>Ahiram</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_12">	
+			<Text>Khilletzbaal</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_13">	
+			<Text>Germelqart</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_14">	
+			<Text>Yehawwielon</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_15">	
+			<Text>Hiempsal</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_16">	
+			<Text>Baalhanno</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_17">	
+			<Text>Bodashtart</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_18">	
+			<Text>Danel</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_19">	
+			<Text>Eshmunamash</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_20">	
+			<Text>Sakarbaal</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_TYRIAN_MERCHANT_21">	
+			<Text>Philosir</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

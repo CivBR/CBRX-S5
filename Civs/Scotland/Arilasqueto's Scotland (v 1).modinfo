@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="14fe7dd4-82d0-4d0f-af45-92b0fa2ef54f" version="1">
+  <Properties>
+    <Name>Arilasqueto's Scotland</Name>
+    <Teaser>Och aye lassie it's Scotland</Teaser>
+    <Description>Adds Scotlandto the game under the ill-fated rule of Mary, Queen of Scots
+
+[quote]
+[h1] Scotland - Mary I [/h1]
+
+[b]UA: In My End Lies My Beginning[/b]
+May spend Faith to carry out a plot in a religious city, starting a WLTKD if it follows your religion, or spawning rebels near the holy city for another. Cities with a Spy grant some of their Faith in the capital.
+
+[b]UU: Hackbutter[/b]
+Replaces the Musketman. May be purchased with faith. Stronger when starting its turn adjacent to barbarians.
+
+[b]UB: Tower House[/b]
+Generates a burst of faith and culture when this city is converted. +2 happiness in cities following another religion.
+
+[/quote]
+
+[quote]
+[h1]Credits[/h1]
+Lasqueto: Design, SQL, art, text, testing
+Nopecopter: Lua, testing
+Zharques: Civilopedia
+Viregil: Civilopedia
+DarthKyofu: Citylist
+zwei833: UU model
+[/quote]</Description>
+    <Authors>Lasqueto</Authors>
+    <SpecialThanks>NopeCopter, Zharques, DarthKyofu, Viregil, Zwei833</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="DE31099E50E74E3831A564A4D7D28219" import="1">Arts/hackbutterAlpha128.dds</File>
+    <File md5="3C651E8A31491869302EB1531CCB88BA" import="1">Arts/hackbutterAlpha32.dds</File>
+    <File md5="4AAA86C3E77695ED6383AB94ACBC9206" import="1">Arts/Hackbutter/holyromanmusketman_gloss.dds</File>
+    <File md5="87AE9F2805999C9502C5A63E80350FFC" import="1">Arts/Hackbutter/hackbutter.fxsxml</File>
+    <File md5="46CD13CC51F0D1B22F0AD71F85CC8C31" import="1">Arts/Hackbutter/hackbutter.gr2</File>
+    <File md5="7986AB51740CED13C89CB2A8901219E3" import="1">Arts/Hackbutter/hremm128-tc.dds</File>
+    <File md5="54FFFA0FEB87F0AC8AF52E994CE3EDA1" import="1">Arts/Hackbutter/Streltsy_Black_Cap_diff.dds</File>
+    <File md5="3308998185E87E3CD4C60A0E039B0EF3" import="1">Arts/Hackbutter/Streltsy_sref.dds</File>
+    <File md5="E26591387A49DA53288476B0DC099C7D" import="1">Arts/maryScotsAlpha128.dds</File>
+    <File md5="1AF86339FB5AD7AA20E8704F4F7F14E4" import="1">Arts/maryScotsAlpha24.dds</File>
+    <File md5="FB829CDC976FCE97F7FC7E63E6D425E9" import="1">Arts/maryScotsAlpha32.dds</File>
+    <File md5="196915878A039000A9EBE42D7927E5E7" import="1">Arts/maryScotsAlpha48.dds</File>
+    <File md5="FC79CD6693B552FE4D99C2DFF3B0B769" import="1">Arts/maryScotsAlpha64.dds</File>
+    <File md5="E253F501FA4967630A0E8EDAE46851A7" import="1">Arts/maryScotsAtlas128.dds</File>
+    <File md5="427519206E8B83F053D69DD0655F6F83" import="1">Arts/maryScotsAtlas256.dds</File>
+    <File md5="77089498E83C782C607CCF8EFEE16A2D" import="1">Arts/maryScotsAtlas32.dds</File>
+    <File md5="36B116CAF562E08A7B29F320A0F7B1E1" import="1">Arts/maryScotsAtlas45.dds</File>
+    <File md5="069C72CD8822C4B643AEB2D8CDA4487D" import="1">Arts/maryScotsAtlas64.dds</File>
+    <File md5="374D96FA82778E57DFD196CECCC987D4" import="1">Arts/maryScotsAtlas80.dds</File>
+    <File md5="2D11DEF371A4F111D4015F2282553101" import="1">Arts/maryScotsDOM.dds</File>
+    <File md5="7A9F4695679A490D2B8DB5C37A767068" import="1">Arts/maryScotsLS.dds</File>
+    <File md5="77B83EAE3D3F24292534D508F17B1157" import="1">Arts/maryScotsMap.dds</File>
+    <File md5="1E451BC4B73FA1C929793B339E9784EB" import="1">Arts/MaryScots_Scene.xml</File>
+    <File md5="DACA27DBD0E5C567483D8B946B162953" import="1">Audio/Mary_Peace.mp3</File>
+    <File md5="B139F39189FE2DDBD99300A6AD3C5479" import="1">Audio/Mary_War.mp3</File>
+    <File md5="664F5155AA4C218B678D1837A9BD6A77" import="0">Core/ASQ_Scotland_Mary_Artdefs.sql</File>
+    <File md5="B429F18599759DA9324FD58BEB3CD90E" import="0">Core/ASQ_Scotland_Mary_Core.sql</File>
+    <File md5="5AA38A53D772D5E0DACB4689959E85D2" import="0">Core/ASQ_Scotland_Mary_Mod_support.sql</File>
+    <File md5="F4CB32BB6F02AFC54862BF424E97935F" import="0">Core/ASQ_Scotland_Mary_Text.xml</File>
+    <File md5="EB25FFED3025C6F283D9932D57331F3A" import="0">Lua/ASQ_Scotland_Mary_Functions.lua</File>
+    <File md5="FF47D4E2CA654B9371C51B94F73EB510" import="0">Lua/ASQ_Scotland_Mary_PlotButton.lua</File>
+    <File md5="0F841DD40AFED5E3735ABC4FAAACDF19" import="1">Lua/ASQ_Scotland_Mary_PlotButton.xml</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/ASQ_Scotland_Mary_Core.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ASQ_Scotland_Mary_Artdefs.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ASQ_Scotland_Mary_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ASQ_Scotland_Mary_Mod_support.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/ASQ_Scotland_Mary_Functions.lua">
+      <Name>eggeggeggsoct</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/ASQ_Scotland_Mary_PlotButton.lua">
+      <Name>These eggs are too strong for you</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

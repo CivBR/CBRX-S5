@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="69cda27e-5bfd-4724-ba50-e91ed25bcecb" version="1">
+  <Properties>
+    <Name>NopeCopter's Wassoulou</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Wassoulou Empire under Samori Ture.</Teaser>
+    <Description>Adds the Wassoulou Empire under Samori Ture.</Description>
+    <Authors>NopeCopter</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="1CF2D8B0357A1E325D7B0645E089BACE" import="1">Art/Graphics/TirailleurModel/civ5_ottrm2.fxsxml</File>
+    <File md5="06CEFAD5F4D88D3F284AE69AF0600736" import="1">Art/Graphics/TirailleurModel/civ5_ottrm2.gr2</File>
+    <File md5="6711B12062E5A215BA16BB2154E7CB32" import="1">Art/Graphics/TirailleurModel/ottrm2.dds</File>
+    <File md5="1E59E0304D98635336BF3E75423B2D88" import="1">Art/Graphics/TirailleurModel/ottrm_sref2.dds</File>
+    <File md5="9B496549A89D4AC6DA2792ACA0211F69" import="0">Art/Graphics/TirailleurModel/wass_uu_alpha_sv.dds</File>
+    <File md5="330ABFD7E79B33B20CD862F36E988603" import="1">Art/Icons/NC_Wassoulou_AlphaAtlas_128.dds</File>
+    <File md5="1D4FC211EEC7F6ED88C9E5C97C555B52" import="1">Art/Icons/NC_Wassoulou_AlphaAtlas_16.dds</File>
+    <File md5="D3C222AEFD2FCA7EC067D95B0A26C032" import="1">Art/Icons/NC_Wassoulou_AlphaAtlas_24.dds</File>
+    <File md5="D54ACF507BF18B468ADAF991305CEAA4" import="1">Art/Icons/NC_Wassoulou_AlphaAtlas_32.dds</File>
+    <File md5="3836AD6117598709D136D81C222B0411" import="1">Art/Icons/NC_Wassoulou_AlphaAtlas_45.dds</File>
+    <File md5="ED6C333933947496BB981E66D788297A" import="1">Art/Icons/NC_Wassoulou_AlphaAtlas_48.dds</File>
+    <File md5="BBD5F9BAA899E503046D3F8E16A4F6F1" import="1">Art/Icons/NC_Wassoulou_AlphaAtlas_64.dds</File>
+    <File md5="C1C2DF45815682532D4AB06F40C42AC3" import="1">Art/Icons/NC_Wassoulou_AlphaAtlas_80.dds</File>
+    <File md5="24DA8090D77DFF47F22DB7A289C44D95" import="1">Art/Icons/NC_Wassoulou_IconAtlas_128.dds</File>
+    <File md5="4BA3803416348985154A478FB396F10A" import="1">Art/Icons/NC_Wassoulou_IconAtlas_256.dds</File>
+    <File md5="AE39C6B3C6C666401B7A0A9DFD8400D2" import="1">Art/Icons/NC_Wassoulou_IconAtlas_32.dds</File>
+    <File md5="B422BB3E1ACC862C57B485744A76F93E" import="1">Art/Icons/NC_Wassoulou_IconAtlas_45.dds</File>
+    <File md5="7E14DB59963D091D2090B7FC3900D78D" import="1">Art/Icons/NC_Wassoulou_IconAtlas_64.dds</File>
+    <File md5="99890E01B04309D924A66BED9B8D24C3" import="1">Art/Icons/NC_Wassoulou_IconAtlas_80.dds</File>
+    <File md5="36FA40D1ADB57957B38E892631EE1C97" import="1">Art/Icons/wass_alpha32.dds</File>
+    <File md5="2AA3B4164D8E439B4E1BF15E3436AB9D" import="1">Art/Icons/wass_uu_alpha32.dds</File>
+    <File md5="577119E6471FA5E6F0D43C863C5C083D" import="1">Art/Leaderscene/NC_Wassoulou_Diplo.dds</File>
+    <File md5="FA30147D0BD4DAAA9E3B85F9044E1538" import="1">Art/Leaderscene/NC_Wassoulou_Scene.xml</File>
+    <File md5="2F09091973C1CAEB83CDC6DBF23DEF8A" import="1">Art/Maps/NC_DOM_Wassoulou.dds</File>
+    <File md5="BF4C63F6A16AD99DECFB70821C107CC1" import="1">Art/Maps/NC_MapWassoulou512.dds</File>
+    <File md5="ABDB24DF62F82078C5C01D1F5CEB7639" import="1">Audio/NC_Wassoulou_Peace.mp3</File>
+    <File md5="03DD0B70AB4145B2ADAB83F880DD69EA" import="1">Audio/NC_Wassoulou_War.mp3</File>
+    <File md5="1D726F5B9BDE51E8EE37ECE0355206DE" import="0">Core/NC_Wassoulou_ArtDefines.sql</File>
+    <File md5="C835B85520CC718A695DF24E99B1E244" import="0">Core/NC_Wassoulou_GameDefines.sql</File>
+    <File md5="06859C18C1A6011FFFE9451B20BCFBD9" import="0">Core/NC_Wassoulou_GameText.xml</File>
+    <File md5="3F9E5F626BC2A4DCC92FCA61B346261C" import="0">Core/NC_Wassoulou_ModSupport.sql</File>
+    <File md5="1053191FE1F9013A479254A046640695" import="0">Lua/NC_Wassoulou_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/NC_Wassoulou_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/NC_Wassoulou_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/NC_Wassoulou_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/NC_Wassoulou_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/NC_Wassoulou_Functions.lua">
+      <Name>Lua Functions</Name>
+      <Description>function deez nuts</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

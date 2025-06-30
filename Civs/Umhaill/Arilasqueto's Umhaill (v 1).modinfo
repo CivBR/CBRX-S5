@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="583c23bb-44f6-46e9-92a5-78d357e45d58" version="1">
+  <Properties>
+    <Name>Arilasqueto's Umhaill</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds Umhaill to the game under the legendary pirate queen Grace O'Malley</Teaser>
+    <Description>Adds Umhaill to the game under the legendary pirate queen Grace O'Malley</Description>
+    <Authors>Lasqueto</Authors>
+    <SpecialThanks>Zharques, NopeCopter, LacsiraxAriscal</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="A1254C2E95E3DA193C0BADB0F84E0577" import="1">Art/GraceOMalley_Scene.xml</File>
+    <File md5="AB896FF1E1E57DE8B1BE768EB3963527" import="1">Art/longa fada/Skeid.fxsxml</File>
+    <File md5="267C4482364C82D2322EA3377106D79A" import="1">Art/longa fada/skeid.gr2</File>
+    <File md5="57C9BF0E45304295C81543A84AB5D20B" import="1">Art/longa fada/skeid_diff.dds</File>
+    <File md5="EE3835D7CE283D4FB6D23BD2757562BF" import="1">Art/longa fada/skeid_diff_DAM.dds</File>
+    <File md5="C838FAB0473ECC1B5E03D1CD779CF9EC" import="1">Art/longa fada/sv_Skeid.dds</File>
+    <File md5="002310C657B7E6A099BC02BB37D4C2FF" import="1">Art/longaFadaAlpha128.dds</File>
+    <File md5="7F403EA3366816F3481681B3B7BFAC54" import="1">Art/longaFadaAlpha32.dds</File>
+    <File md5="6080368A3DA5BB0742C4021BF13C6B68" import="1">Art/umhaillAtlas128.dds</File>
+    <File md5="070CFD1AFCFCD7E6D7F9A839EA5423DA" import="1">Art/umhaillAtlas256.dds</File>
+    <File md5="C1CF4A2054B0360C58B6E79744DCBBE2" import="1">Art/umhaillAtlas32.dds</File>
+    <File md5="1F9343DAF72D6EEB0BA9C5ECD7AE6D83" import="1">Art/umhaillAtlas45.dds</File>
+    <File md5="8E5EEF1AC866748620406FB15F27C6C8" import="1">Art/umhaillAtlas64.dds</File>
+    <File md5="D63531BF7367312C43B7BD79953C14EA" import="1">Art/umhaillAtlas80.dds</File>
+    <File md5="5746F88662C4A51E597190D314896FBE" import="1">Art/umhaillAlpha128.dds</File>
+    <File md5="064EC3B70F3AE1F8E0765940C8D8CD03" import="1">Art/umhaillAlpha24.dds</File>
+    <File md5="8875690181F3861F07600456262E655D" import="1">Art/umhaillAlpha32.dds</File>
+    <File md5="F5CC3E8118CA29376D718ACC37A7649B" import="1">Art/umhaillAlpha48.dds</File>
+    <File md5="2B7AF2140813CDF8DBBBFF6C2F15FEBD" import="1">Art/umhaillAlpha64.dds</File>
+    <File md5="EB3CA0C28AEA2C497453CB55C9A1CF38" import="1">Art/umhaillDOM.dds</File>
+    <File md5="D7BB2BCD75F6391A4CAA476640DF94AF" import="1">Art/umhaillLS.dds</File>
+    <File md5="ACD545D3C4D1C4DD89936DAC89BFE022" import="1">Art/umhaillMap.dds</File>
+    <File md5="011E4F7B427CC71626E43C6789DD6B1C" import="0">Core/ASQ_Umhaill_Artdefs.sql</File>
+    <File md5="6B64370BA43ECBB7A77A97A912B4F97F" import="0">Core/ASQ_Umhaill_Core.sql</File>
+    <File md5="A2EFF46C6CFD4472A28E975403C1905B" import="0">Core/ASQ_Umhaill_Text.xml</File>
+    <File md5="C347AEA7FE417A9DC1968F8BD3A8950F" import="0">Core/ASQ_Umhaill_Mod_support.sql</File>
+    <File md5="B940370B3735928FD2B05164F297DE73" import="0">Lua/umhaillFunctions.lua</File>
+    <File md5="37AD4E1E6B0A6DDA45B0253180754E90" import="1">Lua/Umhaill_GlobalDefines.lua</File>
+    <File md5="2A32097AA71ACD759B98A9ABFFF58B00" import="1">Lua/Umhaill_TSLSerializerV3.lua</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="CD3E8C278CE1FD36806AA4CF6BE3BF88" import="1">Lua/Utilities/TableSaverLoader016.lua</File>
+    <File md5="69FCADF0D2AE7C0C2CEC9D821AD41883" import="1">Lua/Utilities/TSLSerializerCoreV3.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/ASQ_Umhaill_Core.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ASQ_Umhaill_Artdefs.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ASQ_Umhaill_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ASQ_Umhaill_Mod_support.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/umhaillFunctions.lua">
+      <Name>egggegege</Name>
+      <Description>eegegegegeg</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

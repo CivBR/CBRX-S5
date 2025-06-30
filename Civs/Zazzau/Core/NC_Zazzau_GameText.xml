@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_NC_ZAZZAU_ADJECTIVE">
+			<Text>Zazzau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NC_ZAZZAU_DESC">
+			<Text>Zazzau Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NC_ZAZZAU_SHORT_DESC">
+			<Text>Zazzau</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_CIV_TAL_JFD_ZAZZAU_DESC">
+			<Text>Zazzau</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ZAZZAU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ZAZZAU_TEXT_1">
+			<Text>The Kingdom of Zazzau (also known as Zaria) was one of the seven Hausa Kingdoms, a collection of states ruled by the Hausa people. It was situated between the Niger River and Lake Chad (modern day northern Nigeria). Hausaland lay between the Western Sudanic kingdoms of Ancient Ghana, Mali and Songhai and the Eastern Sudanic kingdoms of Kanem-Bornu. Hausaland took shape as a political and cultural region during the first millennium CE as a result of the westward expansion of Hausa peoples. They arrived in Hausaland when the terrain was converting from woodlands to savannah. They started cultivating grains, which led to a denser peasant population. They had a common language, laws and customs. The Hausa were known for fishing, hunting, agriculture, salt-mining, and blacksmithing. Though the 7 Hausa states shared the same lineage, language and culture, the states were characterized by fierce rivalries with each other with each state seeking supremacy over the others. They constantly waged war on each other and would often work with invaders to the detriment of their sister states.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ZAZZAU_HEADING_2">
+			<Text>Hausa Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ZAZZAU_TEXT_2">
+			<Text>According to the Bayajidda legend, Hausa states were founded by the sons and grandsons of Bayajidda, a prince whose origin differs by tradition, but official canon records him as the person who married Daurama, the last Kabara of Daura, and heralded the end of the matriarchal monarchs that had erstwhile ruled the Hausa people. According to the most famous version of the story, the story of the Hausa states started with a prince from Baghdad called "Abu Yazid". When he got to Daura, he went to the house of an old woman and asked her to give him water but she told him the predicament of the land, how the only well in Daura, called Kusugu, was inhabited by a snake called Sarki, who allowed citizens of Daura to fetch water only on Fridays. Since "sarki" is the Hausa word for "King", this may have been a metaphor for a powerful figure. Bayajidda killed Sarki and because of what he had done the queen married him for his bravery. After his marriage to the queen the people started to call him Bayajidda which means "he didn't understand (the language) before ".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ZAZZAU_HEADING_3">
+			<Text>Development and Conflict</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ZAZZAU_TEXT_3">
+			<Text>The Hausa Kingdoms were first mentioned by Ya'qubi in the 9th century and they were by the 15th century trading centers competing with Kanem-Bornu and the Mali Empire. The primary exports were slaves, leather, gold, cloth, salt, kola nuts, animal hides, and henna. At various moments in their history, the Hausa managed to establish central control over their states, but such unity has always proven short. In the 11th century the conquests initiated by Gijimasu of Kano culminated in the birth of the first united Hausa Nation, although it was short-lived. During the reign of King Yaji I (1349–85) Islam was first introduced to Kano. Many Muslim traders and clerics used to come from Mali, from the Volta region, and later from Songhai. King Yaji appointed a Qadi and Imam as part of the state administration. Islamization facilitated the expansion of trade and was the basis of an enlarged marketing network. The 'Ulama provided legal support, guarantees, safe conducts, introductions and many other services. By the end of the fifteenth century, Muhammad al-Korau, a cleric, took control of Katsina declaring himself king. 'Ulama were later brought in from North Africa and Egypt to reside in Katsina. An 'Ulama class emerged under royal patronage. The Hausa rulers fasted Ramadan, built mosques, kept up the five obligatory prayers, and gave alms (zakat) to the poor. Generally Hausaland remained divided between the Muslim cosmopolitan urban elite and the local animistic rural communities. During this time period, Leo Africanus briefly mentions in his book Descrittione dell'Africa descriptions of the political and economic state of Hausaland during that time although it is unknown if he actually visited it; Hausaland seems to have been mostly of a tributary status by Songhai as in his description of Zamfara he comments that "their king was slaughtered by the Askiya and themselves made tributary" and the same is said for the rest of the region.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ZAZZAU_HEADING_4">
+			<Text>Zazzau Itself</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ZAZZAU_TEXT_4">
+			<Text>Zazzau was the most southern of the Hausa city-states. It was a trading destination for Saharan caravans as well as a prominent city in the Hausa slave trade. In the late 1450s, Islam arrived in Zazzau by the way of its sister Habe cities, Kano and Katsina. Along with Islam, trade flourished between the cities as traders brought camel caravans filled with salt in exchange for slaves and grain. The kingdom's power peaked under Queen Amina whose military campaigns established a tributary region including the kingdoms of Kano and Katsina. At the end of the 16th century, after Queen Amina's death, Zaria fell under the influence of the Jukun Kingdom and eventually became a tributary state itself. Between the fifteenth and sixteenth century the kingdom became a tributary state of the Songhai Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ZAZZAU_HEADING_5">
+			<Text>Decline and Fall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ZAZZAU_TEXT_5">
+			<Text>Despite relatively constant growth from the 15th century to the 18th century, the states were vulnerable to constant war internally and externally. By the 18th century, they were economically and politically exhausted. Famines became very common during this period and the Sultans engaged in heavy taxation to fund their wars. Though the vast majority of its inhabitants were Muslim, by the 19th century, they were conquered by a mix of Fulani warriors and Hausa peasantry, citing syncretism and social injustices. By 1808 the Hausa states were finally conquered by Usuman dan Fodio and incorporated into the Hausa-Fulani Sokoto Caliphate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ZAZZAU_HEADING_6">
+			<Text>Two Zarias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ZAZZAU_TEXT_6">
+			<Text>In December 1808 the kingdom of Zazzau was captured in the Fulani jihad. The Hausa (Habe) ruler had escaped to Abuja, where he established a state now known as the Suleja Emirate, retaining his independence and the title of "Sarkin Zazzau". The ruler of the modern Zazzau Emirate also uses the title "Sarkin Zazzau" or "Sarkin Zaria". After the jihad, the culturally similar but pastoral or nomadic Fulani intermarried with the more settled Habe farmers, and the people of the Emirate today are generally known as Hausa–Fulani. The government of the Zaria Emirate differed from other emirates created at this time in that offices were rarely hereditary, but were appointed based on merit or obligation.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_01">
+			<Text>Zazzau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_02">
+			<Text>Turunku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_03">
+			<Text>Kufena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_04">
+			<Text>Kauru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_05">
+			<Text>Kajuru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_06">
+			<Text>Fatika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_07">
+			<Text>Kushaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_08">
+			<Text>Kusheriki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_09">
+			<Text>Kuta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_10">
+			<Text>Zuba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_11">
+			<Text>Lapai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_12">
+			<Text>Kagiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_13">
+			<Text>Durum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_14">
+			<Text>Lere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_15">
+			<Text>Sofan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_16">
+			<Text>Wuciciri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_17">
+			<Text>Rikoci</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_18">
+			<Text>Kawar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_19">
+			<Text>Noro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_20">
+			<Text>Likoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_21">
+			<Text>Zangwan Aya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_22">
+			<Text>Shika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_23">
+			<Text>Ricifa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_24">
+			<Text>Kwassallo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_25">
+			<Text>Ifira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_26">
+			<Text>Funkuyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_27">
+			<Text>Keffi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_28">
+			<Text>Kudan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_29">
+			<Text>Hunkuyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_30">
+			<Text>Gwanda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_31">
+			<Text>Haskiya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_32">
+			<Text>Gadas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_33">
+			<Text>Girku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_34">
+			<Text>Karigi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_35">
+			<Text>Kwotto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_36">
+			<Text>Doma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_37">
+			<Text>Lafia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_38">
+			<Text>Bagaji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_39">
+			<Text>Kwararafa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_40">
+			<Text>Kano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_41">
+			<Text>Katsina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_42">
+			<Text>Bida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_43">
+			<Text>Bauchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_44">
+			<Text>Abuja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ZAZZAU_45">
+			<Text>Atagara</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ZAZZAU_0">
+			<Text>Zaria</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ZAZZAU_1">
+			<Text>Matani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ZAZZAU_2">
+			<Text>Jatau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ZAZZAU_3">
+			<Text>Ishi'aku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ZAZZAU_4">
+			<Text>Bakwa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ZAZZAU_5">
+			<Text>Ibrihimu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ZAZZAU_6">
+			<Text>Uwan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ZAZZAU_7">
+			<Text>Gunguma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ZAZZAU_8">
+			<Text>Makau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ZAZZAU_9">
+			<Text>Karama</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU">
+			<Text>Amina</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ZAZZAU_NAME">
+			<Text>Amina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ZAZZAU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ZAZZAU_TEXT_1">
+			<Text>Amina (also called Aminatu) was a Hausa queen from the city-state of Zazzau, in what is now in the north-west region of Nigeria. She likely ruled in the mid-sixteenth century, though the exact point at which she was in power is unknown.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ZAZZAU_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ZAZZAU_TEXT_2">
+			<Text>Amina was likely born in the middle of the sixteenth century CE to King Nikatau, the 22nd ruler of Zazzau, and Queen Bakwa Turunku (r. 1536–c. 1566). She had a younger sister named Zaria for whom the modern city of Zaria was renamed by the British in the early twentieth century. According to oral legends collected by anthropologist David E. Jones, Amina was brought up in her grandfather's court and was favored by him. He carried her around court and instructed her carefully in political and military matters. At age sixteen, Amina was named Magajiya (heir apparent), and was given forty female slaves (kuyanga). From an early age, Amina had a number of suitors attempt to marry her. Attempts to gain her hand included "a daily offer of ten slaves" from Makama and "fifty male slaves and fifty female slaves as well as fifty bags of white and blue cloth" from the Sarkin Kano.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ZAZZAU_HEADING_3">
+			<Text>Military Training</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ZAZZAU_TEXT_3">
+			<Text>After the death of her parents in or around 1566, Amina's brother became king of Zazzau. At this point, Amina had distinguished herself as a "leading warrior in her brother's cavalry" and gained notoriety for her military skills. She is still celebrated today in traditional Hausa praise songs as "Amina daughter of Nikatau, a woman as capable as a man that was able to lead men to war." After the death of her brother Karami in 1576, Amina herself ascended to the position of queen. Zazzau was one of the original seven Hausa States (Hausa Bakwai). Before Amina assumed the throne, Zazzau was one of the largest of these states. It was also the primary source of slaves that would be sold at the slave markets of Kano and Katsina by Arab merchants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ZAZZAU_HEADING_4">
+			<Text>The Conquering Queen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ZAZZAU_TEXT_4">
+			<Text>Only three months after being crowned queen, Amina waged a 34-year campaign against her neighbors, to expand Zazzau territory. Her army, consisting of 20,000 foot soldiers and 1,000 cavalry troops, was well trained and fearsome. In fact, one of her first announcements to her people was a call for them to "resharpen their weapons." She conquered large tracts of land as far as Kwararafa and Nupe. Legends cited by Sidney John Hogben say that she took a new lover in every town she went through, each of whom was said to meet the same unfortunate fate in the morning: "her brief bridegroom was beheaded so that none should live to tell the tale." Under Amina, Zazzau controlled more territory than ever before. To mark and protect her new lands, Amina had her cities surrounded by earthen walls. These walls became commonplace across the nation until the British conquest of Zazzau in 1904, and many of them survive today, known as ganuwar Amina (Amina's walls).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ZAZZAU_HEADING_5">
+			<Text>Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ZAZZAU_TEXT_5">
+			<Text>The exact circumstances of Amina's death are not known. The nineteenth-century Muslim scholar Dan Tafa says that "She died in a place called Attaagar. It was for this reason that the kingdom of Zazzau was the most extensive among the kingdoms of Hausa, since Bauchi included many regions." Drawing on Tafa's account, Sidney John Hogben reports that "Amina died in Atagara, near present day Idah, for at that time Amina had pushed the frontiers of Zazzau south of the Niger-Benue confluence. But there are many contradictions surrounding her death; many authors in their books cited that she died in Vom Jos while other historians have said she died in Atagara, the present day Idah."</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ZAZZAU_LIVED">
+			<Text>c. 1576 - 1610 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ZAZZAU_SUBTITLE">
+			<Text>Leader of Zazzau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ZAZZAU_TITLES_1">
+			<Text>Sarauniya</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_NC_ZAZZAU_TEXT">
+			<Text>Hail to you, mighty Amina, queen of Zazzau! Even as a child, your brave and fearsome nature was known - you handled a knife as easily as any soldier, and your service in the Zazzau cavalry proved exemplary. But when you rose to rule the kingdom yourself, that was when the world truly trembled. You conquered your way across all of northern Nigeria, subjugating the Jukun that so recently had held Zazzau as its vassal, bringing the Nupe to the south under your heel, and even drawing tribute from the other Hausa kingdoms! Your nonstop campaigning saw city after city fall under your rule, but you also brought great wealth to your people introducing both new military technology and new resources from far away. Your empire may not have lasted long after your death, but not even attempts by Muslim clerics to excise you from their king lists could stop your people from singing your praises into the modern day. [NEWLINE][NEWLINE]Great Amina, the time has come to once again conquer far and wide. Your warriors stand at the ready - you need only to give them the command. Will you make your enemies bow to you? Or will you perhaps leave none alive to even tell the tale? Will you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_FIRSTGREETING_1">
+			<Text>You stand before Queen Amina, mighty ruler of Zazzau. Doubtless you've already heard of me. You would do well to take notes, or maybe you wish to join the herd?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_DEFEATED_1">
+			<Text>Hah! Rest on your laurels while you can, fool. You haven't heard the last of Queen Amina.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_DOW_GENERIC_1">
+			<Text>I tire of you and your incessant bleating. I intend to shut you up for good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_DOW_GENERIC_2">
+			<Text>It is time we put your head on the end of a pole - where it belongs, would you not agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_DOW_GENERIC_3">
+			<Text>I apologise, I simply couldn't pretend to tolerate your presence any longer. Farewell, fool.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_ATTACKED_HOSTILE_1">
+			<Text>Tsk, and I had hoped to strike the first blow. I look forward to crushing you beneath my horse's hooves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_ATTACKED_HOSTILE_2">
+			<Text>Tsk, you really do make so many mistakes. I suppose this will be your last.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_ATTACKED_HOSTILE_3">
+			<Text>Idiot.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_PEACE_OFFER_1">
+			<Text>I grow bored of your attempts at warfare. Let us call it quits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_PEACE_OFFER_2">
+			<Text>I've seen enough.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_DEC_FRIENDSHIP_1">
+			<Text>Hmm, you are not as pathetic as I once thought. I would offer you a place in my retinue.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_DENOUNCE_1">
+			<Text>You remind me of an ex-lover. I've a good mind to give you the same treatment.  [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_DENOUNCE_2">
+			<Text>You are pathetic, your people laugh at you behind your back, and your odour is so foul I can barely stand to share your company. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_DENOUNCE_FRIEND_1">
+			<Text>My greatest mistake was lifting you out of the gutter you came from. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_LUXURY_TRADE_1">
+			<Text>You were clearly not making good use of this. Allow me to take it off your hands.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_TRADE_ACCEPT_GENEROUS_1">
+			<Text>Mmm, such an astute bargainer. This will do indeed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_TRADE_REJECT_INSULTING_1">
+			<Text>Hah! You really make me laugh, you do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>A million years might pass and not once would someone consider this an acceptable deal.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_GREETING_NEUTRAL_HELLO_1">
+			<Text>I have no need for new servants. You'll have to come back another ti- oh, it's you. What did you want again?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_GREETING_NEUTRAL_HELLO_2">
+			<Text>Ahh, it's you... sorry, what was your name?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_GREETING_NEUTRAL_HELLO_3">
+			<Text>Well?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_GREETING_HOSTILE_HELLO_1">
+			<Text>Tsk. Why must you keep bothering me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_GREETING_HOSTILE_HELLO_2">
+			<Text>Oh good grief, not you again.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Tsk, foolish indeed. I thought your judgement better than that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now wearing your Babban Riga and bludgeoning eachother senseless playing Dambe. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ZAZZAU_INFLUENTIAL_ON_HUMAN_1">
+			<Text>The colours of Zazzau suit you well. Maybe you will finally take up my offer of fealty?</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_NC_ZAZZAU_SHORT">
+			<Text>Resharpen Your Weapons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NC_ZAZZAU">
+			<Text>Earning [ICON_GREAT_PEOPLE] Great Generals contributes towards the research of a military technology, and vice versa. Capturing a city with a new luxury resource permanently increases the [ICON_GOLD] Gold output of Trade Routes. </Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_NC_GANUWAR_DUMMY">
+			<Text>Ganuwar Counter (Dummy)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_GANUWAR_DUMMY_HELP">
+			<Text>+2 City Strength, +1 Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_GANUWAR_TRACKER">
+			<Text>Ganuwar Marker (Dummy)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_GANUWAR_TRACKER_HELP">
+			<Text>Marks cities with a Ganuwar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_ZAZZAU_GOLD_DUMMY">
+			<Text>Zazzau Gold (Dummy)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_ZAZZAU_GOLD_DUMMY_HELP">
+			<Text>+1 [ICON_GOLD] Gold from Trade Routes.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_NC_ZAZZAU_YAN_LIFIDA">
+			<Text>Yan Lifida Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_ZAZZAU_YAN_LIFIDA_HELP">
+			<Text>Marks a Yan Lifida, or a unit that has promoted from a Yan Lifida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_ZAZZAU_YAN_LIFIDA_BONUS">
+			<Text>Yan Lifida Bonus XP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_ZAZZAU_YAN_LIFIDA_BONUS_HELP">
+			<Text>Gains double XP when near a Great General.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WEAPONS_RESHARPENED">
+			<Text>Weapons Resharpened</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WEAPONS_RESHARPENED_HELP">
+			<Text>The birth of a [ICON_GREAT_PEOPLE] Great General contributes towards the research of a military technology.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_NC_GANUWAR">
+			<Text>Ganuwar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_GANUWAR_HELP">
+			<Text>Replaces Walls. Cheaper to build in captured cities. Generates extra City Strength and Happiness for every Ganuwar in your empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_GANUWAR_STRATEGY">
+			<Text>The Ganuwar is Zazzau's Unique Building, replacing the Walls. Ganuwar are not only easy to build, being constructed even faster than normal in captured cities, but every four extra Ganuwar in your empire provides additional [ICON_HAPPINESS_1] Happiness and [ICON_STRENGTH] City Strength to every city with a Ganuwar. Be sure to quickly construct a Ganuwar in every city you capture to not only defend them, but keep them happy, as well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_GANUWAR_TEXT">
+			<Text>Ganuwar are the earthen walls constructed around many Hausa city-states. Many Hausa cities have walls dating back hundreds of years, and many of these Hausa walls and gates are highly decorated. The Zazzau queen Amina is credited with constructing many of these walls around the cities she conquered, said to be a prototype for the walls used by all the Hausa states - in turn, these walls became known as "Ganuwar Amina".</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_UNIT_NC_YAN_LIFIDA">
+			<Text>Yan Lifida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_YAN_LIFIDA_HELP">
+			<Text>Replaces Knight. Reduced penalty vs. cities. Generates Great General points from kills, and gains double XP when near a Great General. Only Zazzau may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_YAN_LIFIDA_STRATEGY">
+			<Text>The Yan Lifida is Zazzau's Unique Unit, replacing the Knight. In addition to having a lower penalty against cities than a standard mounted unit, the Yan Lifida not only gains extra experience when near a Great General, but also generates more Great General points from combat than usual. Use your Yan Lifida to quickly obtain Great Generals, and then utilize them together to demolish your enemies with a high-level cavalry force.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_YAN_LIFIDA_TEXT">
+			<Text>The hot climate of the Sahara makes metal armor impractical, so garments of heavy quilted cotton were used as armor by elite forces in the region. In the Hausa kingdoms and later the Sokoto Caliphate, horsemen in such armor were known as the Yan Lifida, and in battle they would act as bodyguards for the commanders.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

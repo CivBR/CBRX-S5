@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_AGLA_YESAUL_HELP">
+			<Text>Green Ukrainian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_AGLA_YESAUL">
+			<Text>Green Ukrainian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_AGLA_ZELENY_KLYN_HELP">
+			<Text>Green Ukrainian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_AGLA_ZELENY_KLYN">
+			<Text>Green Ukrainian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AGLA_YESAUL">
+			<Text>Green Ukrainian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AGLA_ZELENY_KLYN_ADJECTIVE">
+			<Text>Green Ukrainian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AGLA_ZELENY_KLYN_DESC">
+			<Text>The Zelenyi Klyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AGLA_ZELENY_KLYN_SHORT_DESC">
+			<Text>Green Ukraine</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_1">
+			<Text>Vladivostok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_2">
+			<Text>Khabarovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_3">
+			<Text>Zeya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_4">
+			<Text>Nikolaevskoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_5">
+			<Text>Iman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_6">
+			<Text>Nikolaevsk-Ussurisky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_7">
+			<Text>Svobodnyy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_8">
+			<Text>Blagoveshchenskoye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_9">
+			<Text>Cicilkar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_10">
+			<Text>Harbin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_11">
+			<Text>Okha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_12">
+			<Text>Nogliki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_13">
+			<Text>Tymovskoye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_14">
+			<Text>Alexandrovsk-Sakhalinsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_15">
+			<Text>Vanino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_16">
+			<Text>Artjom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_17">
+			<Text>Spassk-Daini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_18">
+			<Text>Bikin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_19">
+			<Text>Vostok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_ZELENY_KLYN_20">
+			<Text>Nova Basan</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ZELENY_KLYN_0">
+			<Text>Lina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ZELENY_KLYN_1">
+			<Text>Olga</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ZELENY_KLYN_2">
+			<Text>Mova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ZELENY_KLYN_3">
+			<Text>Fedir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ZELENY_KLYN_4">
+			<Text>Aleksandr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ZELENY_KLYN_5">
+			<Text>Sas in Siberia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ZELENY_KLYN_6">
+			<Text>Serhii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ZELENY_KLYN_7">
+			<Text>Volodymyr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ZELENY_KLYN_8">
+			<Text>Pjotr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_ZELENY_KLYN_9">
+			<Text>Aagl</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN">
+			<Text>Yurii Hlushko</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_ZELENY_KLYN_NAME">
+			<Text>Yurii Kosmych Hlushko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_ZELENY_KLYN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_ZELENY_KLYN_TEXT_1">
+			<Text>
+				Hlushko was born 4 April 1882 in the village of Nova Basan, Chernihiv Oblast.
+
+				Hlushko graduated from the Railway Institute in Kyiv in 1899. During 1901–1903, he worked as a steamship engineer for Dobroflot steamships serving the Odesa-Vladivostok route.
+
+				Between 1904 and 1907, he worked for the Chinese Eastern Railway in Manchuria. From 1907, he lived in Vladivostok, worked as a draftsman and technician. He became active in the amateur Ukrainian theater society organized by the local Ukrainian community and the Ukrainian student society.
+
+				Hlushko was mobilized during the First World War and served at the Caucasian front in 1916–1917. In the spring of 1918 he became the head of the Vladivostok Ukrainian society "Prosvita" (Ukrainian: Просвіта—"Enlightenment") and the Vladivostok Ukrainian Council. He became the chairman of 3rd Ukrainian Far Eastern Council in the summer of 1918. He organized the 4th Ukrainian Far Eastern Council, which proclaimed him head of the Ukrainian Far Eastern Secretariat.
+
+				He was arrested by Kolchak's White forces in 1919 for Ukrainian activism. In 1922 he was arrested by Bolshevik authorities. Accused of anti-Soviet activities and "designs to split Far East from Russia and give it to Japan", Hlushko was sentenced in Chita in 1924 to 5 years imprisonment. After serving the term, he worked as a technician in the Far East and Tajikistan.
+
+				Hlushko returned to Ukraine in 1930, and died in Kyiv on 28 October 1942.
+			</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_ZELENY_KLYN_LIVED">
+			<Text>1882 - 1942 </Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_ZELENY_KLYN_SUBTITLE">
+			<Text>Leader of Green Ukraine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_ZELENY_KLYN_TITLES_1">
+			<Text>
+				Secretariat of the Ukrainian Far Eastern Regional Council
+			</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_AGLA_ZELENY_KLYN_TEXT">
+			<Text>Salutes to you, Yurii Hlushko! You once were a simple figure moved like a pawn at the grasp of powers far beyond your reach. Far from your Ukrainian Motherland into the Caucasus then somehow into the Far East, a fate since centuries that is not foreign to your people.  After finding your place within the creative forces to keep your peoples heritage alive, you became the head of it in this Forgotten East starting to smith plans for a free Green Ukraine that once will rejoin with the Motherland.[NEWLINE][NEWLINE]Far is the land of your ancestors and harsh is the sea, cold is the earth, hostile are the borders, still those who share the Green Ukrainian Faith are with you! Can you harness the strength of the Estonian spirit and build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_FIRSTGREETING_1">
+			<Text>Greetings! What brings you in this distant land? Friends call me Mova, it is my grand task to bring this god forgotten place home, I hope you wont stand in my way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_DEFEATED_1">
+			<Text> Dictatorship always looks good on paper. But in reality, it is impossible to have a dictatorship and a flourishing economy, as the two are incompatible.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_ATTACKED_HOSTILE_1">
+			<Text>To resort to such unholy tactics. You are a brute!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_DEC_FRIENDSHIP_1">
+			<Text>I can teach you much about the future of government. Come, let us make a Declaration of Friendship and together we can move you out of the dark ages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_DENOUNCE_1">
+			<Text>You have no place amongst the faithful rulers of this world.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_DENOUNCE_FRIEND_1">
+			<Text>And to think I considered you an equal. Oh how sorely mistaken I was![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_DOW_GENERIC_1">
+			<Text>It pains me to resort to violence but I do what must be done for the good of my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I will not tolerate your expansion into my lands. You have been warned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_GREETING_HOSTILE_HELLO_1">
+			<Text>Get on with it brute.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_GREETING_NEUTRAL_HELLO_1">
+			<Text>Something to discuss?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_GREETING_POLITE_HELLO_1">
+			<Text>Hello friend. What brings you to my court this day?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Do you seek to attack us like some barbarian from the dark age? Get your troops out of my lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_LUXURY_TRADE_1">
+			<Text>A decadent finery, if I do say. Care to share?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Peace can be better assured if we open our borders to one another. What do you say?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_REQUEST_1">
+			<Text>Will you give us the aide she needs?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_TOO_SOON_NO_PEACE_1">
+			<Text>You amuse me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_ZELENY_KLYN_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>So this is how you treat a friend? An ally? Bah! I'm wasting my time with you. Begone.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_AGLA_ZELENY_KLYN_SHORT">
+			<Text>Zakytaishchyna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_AGLA_ZELENY_KLYN">
+			<Text>Every [ICON_CULTURE] Culture Building increases the [ICON_FOOD] Food keept by 2% when a city grows. If a friendly Civilization is at war your borders expand faster (max. 15%). </Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_UNIT_AGLA_YESAUL">
+			<Text>Exiled Yesaul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AGLA_YESAUL_HELP">
+			<Text>A Unique Great General Replacement that is created from Great Writer Specialist Points aswell as from combat. If stationed in a city the Exiled Yesaul turns 10% of [ICON_CULTURE] Culture from Great Works into Tourism.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AGLA_YESAUL_STRATEGY">
+			<Text>Your mission is to preserve your culture. The Yesaul is optimal to accomplish it with its power to boost Tourism while being able to boost your military power.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AGLA_YESAUL_TEXT">
+			<Text>In Ukraine of the 17th and 18th centuries, an osaul was a military and administrative official performing the duties of aide-de-camp.[2] The head of state, hetman, would appoint up to two osauls known as a General Osaul. There also was a Regimental Osaul as well as Company Osaul, with each regular cossack regiment and company except artillery having two of each. Beside them there were osauls under special assignments, one of them serving for General Obozny (quartermaster) who performed duties of a chief executive and was the second in importance after the Hetman.</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_BUILDING_AGLA_LITERACY_CLUB">
+			<Text>Prosvita Literacy Club</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGLA_LITERACY_CLUB_HELP">
+			<Text>Unique Museum that keeps its original effects, while providing Writer Specialist Points towards the Capital. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGLA_LITERACY_CLUB_STRATEGY">
+			<Text>A versatile cultural building to further enstrengthen your ability to bring more Exiled Yesauls under your control and push Green Ukrainian Literature.</Text>
+		</Row>
+			<Row Tag="TXT_KEY_BUILDING_AGLA_LITERACY_CLUB_TEXT">
+				<Text>
+					Prosvita was founded in 1868 in Lviv by 65 delegates from different regions and groups of intellectuals, mostly from the same city. Anatole Vakhnianyn was elected the first head of the Prosvita Society. By the end of 1913, Prosvita had 77 affiliate societies and 2,648 reading rooms.
+
+					After the First Russian Revolution, local branches of the society were also opened in the Russian-ruled areas populated by Ukrainians: in Katerynoslav and Odesa (1905), Kyiv (1906), Kamianets-Podilskyi, Zhytomyr, Chernihiv, Mykolaiv, Melitopol, Katerynodar and other cities. However, all of Prosvita societies in the Russian Empire were closed before the start of the First World War, as they were accused of promoting separatism by imperial authorities.
+
+					A new wave of Prosvita's development started after the Russian Revolution of 1917, when its branches were restored in Dnieper Ukraine, Volhynia and Polissia, as well as in Kuban and the Far East. However, most of them were once again closed down by the Soviet and Polish authorities in the 1920s and 1930s. Similarly, the Zakarpattian branch of Prosvita established in 1920 was closed down by the Hungarian government in 1939.[1]
+
+					After the end of the First World War, Prosvita continued to develop in Galicia. In 1936 alone, when Western Ukraine with the city of Lviv were part of the Second Polish Republic, the society opened over 500 new outlets with full-time professional staff.[2] By the end of the interwar period, Prosvita had grown to include 83 affiliates, 3,210 reading rooms, 1,207 premises, 3,209 libraries (with 688,186 books), 2,185 theater clubs, 1,115 choirs, 138 orchestras, and 550 study groups.[2]
+
+					In 1939 the society was shut down and banned by the newly arrived Soviet rulers. Prosvita operated only in Western Europe and America up to 1988.[3] The first Prosvita society established in the United States was in Shenandoah, Pennsylvania in 1887.[4]
+
+					The Prosvita Society was renewed in Ukraine during the Soviet period of Glasnost of 1988–89 as the Shevchenko Association of Ukrainian Language, and since then has taken an active part in social life of independent Ukraine. In modern times it was headed by Dmytro Pavlychko and Pavlo Movchan (present head).
+
+					Currently, almost all higher education institutions in Ukraine have Prosvita affiliations with teachers and students as members. Also active are the Young Prosvita youth organizations.[5]
+
+					During the 2014 pro-Russian conflict in Ukraine two Prosvita members were kidnapped and one was murdered by pro-Russian separatists in the Donetsk and Luhansk provinces.
+				</Text>
+			</Row>
+	</Language_en_US>
+</GameData>

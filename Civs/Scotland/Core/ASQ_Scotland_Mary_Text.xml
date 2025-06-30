@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/30/2021 1:03:02 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_ASQ_MARY_SCOTS">
+			<Text>Mary I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ASQ_MARY_SCOTS">
+			<Text>May spend [ICON_PEACE] Faith to carry out a plot in a [ICON_RELIGION] religious city, starting a WLTKD if it follows your religion, or spawning rebels near the holy city for another. Cities with a [ICON_SPY] Spy grant some of their [ICON_PEACE] Faith in the capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ASQ_MARY_SCOTS_SHORT">
+			<Text>In My End Lies My Beginning</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_TEXT_1">
+			<Text>
+				Mary I Stuart, popularly known as Mary, Queen of Scots, was Queen of Scotland from 14 December 1542 until her forced abdication in 1567.  The only surviving legitimate child of James V of Scotland, Mary was six days old when her father died and she inherited the throne. During her childhood, Scotland was governed by regents. In 1548, she was betrothed to the Dauphin of France, and was sent to be brought up in France, where she would be safe from invading English forces during the Rough Wooing. But upon her widowing, Mary returned to Scotland in August 1561. The tense religious and political climate following the Scottish Reformation that Mary encountered on her return to Scotland was further agitated by prominent Scots such as John Knox, who openly questioned whether her subjects had a duty to obey her. Following an uprising against her and her husband, Mary was imprisoned in Lochleven Castle. On 24 July 1567, she was forced to abdicate in favour of her one-year-old son James VI, but fled to England after an unsuccessful uprising. As a great-granddaughter of Henry VII of England, Mary had once claimed Elizabeth's throne as her own and was considered the legitimate sovereign of England by many English Catholics, including participants in a rebellion known as the Rising of the North. After eighteen-and-a-half years in captivity, Mary was found guilty of plotting to assassinate Elizabeth in 1586 and was beheaded the following year at Fotheringhay Castle.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_HEADING_2">
+			<Text>
+				The Treaty of Greenwich
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_TEXT_2">
+			<Text>
+				Mary was born on 8 December 1542 at Linlithgow Palace, Scotland, to King James V and his French second wife, Mary of Guise. She was said to have been born prematurely and was the only legitimate child of James to survive him. She was the great-granddaughter of King Henry VII of England through her paternal grandmother, Margaret Tudor. On 14 December, six days after her birth, she became Queen of Scotland when her father died. As Mary was an infant when she inherited the throne, Scotland was ruled by regents until she became an adult. From the outset, there were two claims to the regency: one from the Catholic Cardinal Beaton, and the other from the Protestant Earl of Arran, who was next in line to the throne. Arran, with the support of his friends and relations, became the regent until 1554 when Mary's mother managed to remove and succeed him. Henry VIII of England took the opportunity of the regency to propose marriage between Mary and his own son and heir, Edward, hoping for a union of Scotland and England. On 1 July 1543, when Mary was six months old, the Treaty of Greenwich was signed, which promised that, at the age of ten, Mary would marry Edward and move to England, where Henry could oversee her upbringing. The treaty provided that the two countries would remain legally separate and, if the couple failed to have children, the temporary union would dissolve. Cardinal Beaton rose to power again and began to push a pro-Catholic pro-French agenda, angering Henry, who wanted to break the Scottish alliance with France. Beaton wanted to move Mary away from the coast to the safety of Stirling Castle. Regent Arran resisted the move but backed down when Beaton's armed supporters gathered at Linlithgow. The Earl of Lennox escorted Mary and her mother to Stirling on 27 July 1543 with 3,500 armed men. Mary was crowned in the castle chapel on 9 September 1543.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_HEADING_3">
+			<Text>The Rough Wooing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_TEXT_3">
+			<Text>
+				Shortly before Mary's coronation, Henry arrested Scottish merchants headed for France and impounded their goods. The arrests caused anger in Scotland, and Arran joined Beaton and became a Catholic. The Treaty of Greenwich was rejected by the Parliament of Scotland in December. The rejection of the marriage treaty and the renewal of the alliance between France and Scotland prompted Henry's "Rough Wooing", a military campaign designed to impose the marriage of Mary to his son. English forces mounted a series of raids on Scottish and French territory. In May 1546, Beaton was murdered by Protestant lairds, and on 10 September 1547, nine months after the death of Henry VIII, the Scots suffered a heavy defeat at the Battle of Pinkie. Mary's guardians, fearful for her safety, sent her to Inchmahome Priory for no more than three weeks and turned to the French for help. King Henry II of France proposed to unite France and Scotland by marrying the young queen to his three-year-old son, the Dauphin Francis. On the promise of French military help and a French dukedom for himself, Arran agreed to the marriage. On 7 July 1548, a Scottish Parliament held at a nunnery near the town agreed to the French marriage treaty.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_HEADING_4">
+			<Text>Queen of Scotland, Queen of England, Queen of France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_TEXT_4">
+			<Text>
+				With her marriage agreement in place, five-year-old Mary was sent to France to spend the next thirteen years at the French court. The French fleet sent by Henry II, commanded by Nicolas de Villegagnon, sailed with Mary from Dumbarton on 7 August 1548 and arrived a week or more later at Roscoff or Saint-Pol-de-Léon in Brittany. At the French court, she was a favourite with many people, except Henry II's wife Catherine de' Medici. Mary learned to play lute and virginals, was competent in prose, poetry, horsemanship, falconry, and needlework, and was taught French, Italian, Latin, Spanish, and Greek, in addition to her native Scots. Mary was eloquent, and especially tall by 16th-century standards, reaching 5 feet 11 inches. On 4 April 1558, Mary signed a secret agreement bequeathing Scotland and her claim to England to the French crown if she died without issue. Twenty days later, she married the Dauphin at Notre Dame de Paris, and he became king consort of Scotland. In November 1558, Henry VIII's elder daughter, Mary I of England, was succeeded by her only surviving sibling, Elizabeth I. Under the Third Succession Act, passed in 1543 by the Parliament of England, Elizabeth was recognised as her sister's heir, and Henry VIII's last will and testament had excluded the Stuarts from succeeding to the English throne. Yet, in the eyes of many Catholics, Elizabeth was illegitimate and Mary Stuart was the rightful queen of England, as the senior surviving legitimate descendant of Henry VII through her grandmother, Margaret Tudor. Henry II of France proclaimed his eldest son and daughter-in-law king and queen of England. In France, the royal arms of England were quartered with those of Francis and Mary. When Henry II died on 10 July 1559, from injuries sustained in a joust, fifteen-year-old Francis and sixteen-year-old Mary became king and queen of France. Two of the Queen's uncles, the Duke of Guise and the Cardinal of Lorraine, were now dominant in French politics, enjoying an ascendancy called by some historians la tyrannie Guisienne.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_HEADING_5">
+			<Text>
+				Protestants and Catholics
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_TEXT_5">
+			<Text>
+				In Scotland, the power of the Protestant Lords of the Congregation was rising at the expense of Mary's mother, who maintained effective control only through the use of French troops. In early 1560, the Protestant lords invited English troops into Scotland in an attempt to secure Protestantism. A Huguenot uprising in France, the Tumult of Amboise, made it impossible for the French to send further support. Instead, the Guise brothers sent ambassadors to negotiate a settlement. On 11 June 1560, their sister, Mary's mother, died, and so the question of future Franco-Scots relations was a pressing one. Under the terms of the Treaty of Edinburgh, signed by Mary's representatives on 6 July 1560, France and England undertook to withdraw troops from Scotland. France recognised Elizabeth's right to rule England, but the seventeen-year-old Mary, still in France and grieving for her mother, refused to ratify the treaty. Francis II died on 5 December 1560 of a middle-ear infection that led to an abscess in his brain. Mary was grief-stricken. Her mother-in-law, Catherine de' Medici, became regent for the late king's ten-year-old brother Charles IX, who inherited the French throne. Mary returned to Scotland nine months later, arriving in Leith on 19 August 1561. Having lived in France since the age of five, Mary had little direct experience of the dangerous and complex political situation in Scotland. As a devout Catholic, she was regarded with suspicion by many of her subjects, as well as by the Queen of England. Scotland was torn between Catholic and Protestant factions. Mary's illegitimate half-brother, the Earl of Moray, was a leader of the Protestants. The Protestant reformer John Knox preached against Mary, condemning her for hearing Mass, dancing, and dressing too elaborately. To the surprise and dismay of the Catholic party, Mary tolerated the newly established Protestant ascendancy, and kept her half-brother Moray as her chief advisor. Her privy council of 16 men, appointed on 6 September 1561, retained those who already held the offices of state.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_HEADING_6">
+			<Text>
+				Successor to Elizabeth?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_TEXT_6">
+			<Text>
+				Mary sent William Maitland of Lethington as an ambassador to the English court to put the case for Mary as the heir presumptive to the English throne. Elizabeth refused to name a potential heir, fearing that would invite conspiracy to displace her with the nominated successor. However, she assured Maitland that she knew no one with a better claim than Mary. In late 1561 and early 1562, arrangements were made for the two queens to meet in England at York or Nottingham in August or September 1562. In July, Elizabeth sent Sir Henry Sidney to cancel Mary's visit because of the civil war in France. Mary then turned her attention to finding a new husband from the royalty of Europe. When her uncle, the Cardinal of Lorraine, began negotiations with Archduke Charles of Austria without her consent, she angrily objected and the negotiations foundered. Her own attempt to negotiate a marriage to Don Carlos, the mentally unstable heir apparent of King Philip II of Spain, was rebuffed by Philip. Elizabeth attempted to neutralise Mary by suggesting that she marry English Protestant Robert Dudley, 1st Earl of Leicester.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_HEADING_7">
+			<Text>
+				The Chaseabout Raid
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_TEXT_7">
+			<Text>
+				Mary had briefly met her English-born half-cousin Henry Stuart, Lord Darnley, in February 1561 when she was in mourning for Francis. Darnley shared a more recent Stewart lineage with the Hamilton family as a descendant of Mary Stewart, Countess of Arran, a daughter of James II of Scotland. They next met on Saturday 17 February 1565 at Wemyss Castle in Scotland. Mary fell in love with him, and married at Holyrood Palace on 29 July 1565, even though both were Catholic and a papal dispensation for the marriage of first cousins had not been obtained. Mary's marriage to a leading Catholic precipitated Mary's half-brother, the Earl of Moray, to join with other Protestant lords, including Lords Argyll and Glencairn, in open rebellion. Mary set out from Edinburgh on 26 August 1565 to confront them. She carried a pistol, known as a "dagg", on her saddle. On the 30th, Moray entered Edinburgh but left soon afterwards, having failed to take the castle. Mary returned to Edinburgh the following month to raise more troops. In what became known as the Chaseabout Raid, Mary with her forces and Moray with the rebellious lords roamed around Scotland without ever engaging in direct combat.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_HEADING_8">
+			<Text>
+				The Crown Matrimonial
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_TEXT_8">
+			<Text>
+				Before long, Darnley grew arrogant. Not content with his position as king consort, he demanded the Crown Matrimonial, which would have made him a co-sovereign of Scotland with the right to keep the Scottish throne for himself, if he outlived his wife. Mary refused his request and their marriage grew strained, although they conceived by October 1565. He was jealous of her friendship with her Catholic private secretary, David Rizzio, who was rumoured to be the father of her child. By March 1566, Darnley had entered into a secret conspiracy with Protestant lords, including the nobles who had rebelled against Mary in the Chaseabout Raid. On 9 March, a group of the conspirators accompanied by Darnley stabbed Rizzio to death in front of the pregnant Mary at a dinner party in Holyrood Palace. Over the next two days, a disillusioned Darnley switched sides and Mary received Moray at Holyrood. On the night of 11 to 12 March, Darnley and Mary escaped from the palace. They took temporary refuge in Dunbar Castle before returning to Edinburgh on 18 March. Mary's son by Darnley, James, was born on 19 June 1566 in Edinburgh Castle. However, the murder of Rizzio led to the breakdown of her marriage. At Craigmillar Castle, near Edinburgh, at the end of November 1566, Mary and leading nobles held a meeting to discuss the "problem of Darnley". Divorce was discussed, but a bond was probably sworn between the lords present to remove Darnley by other means. In late January 1567, Mary prompted her husband to return to Edinburgh. On the night of 9 to 10 February 1567, Mary visited her husband in the early evening and then attended the wedding celebrations of a member of her household, Bastian Pagez. In the early hours of the morning, an explosion devastated Kirk o' Field. Darnley was found dead in the garden, apparently smothered. James Hepburn, 4th Earl of Bothwell, was generally believed to be guilty of Darnley's assassination, but was acquitted after a seven-hour trial on 12 April. A week later, Bothwell managed to convince more than two dozen lords and bishops to sign the Ainslie Tavern Bond, in which they agreed to support his aim to marry the queen.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_HEADING_9">
+			<Text>
+				Scottish Cage
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_TEXT_9">
+			<Text>
+				Between 21 and 23 April 1567, Mary visited her son at Stirling for the last time. On her way back to Edinburgh on 24 April, Mary was abducted, willingly or not, by Lord Bothwell and his men and taken to Dunbar Castle, where he may have raped her. On 6 May, Mary and Bothwell returned to Edinburgh. On 15 May, at either Holyrood Palace or Holyrood Abbey, they were married according to Protestant rites. Bothwell and his first wife, Jean Gordon, who was the sister of Lord Huntly, had divorced twelve days previously. Originally, Mary believed that many nobles supported her marriage, but relations quickly soured between the newly elevated and his former peers and the marriage proved to be deeply unpopular. Catholics considered the marriage unlawful since they did not recognise Bothwell's divorce or the validity of the Protestant service. Both Protestants and Catholics were shocked that Mary should marry the man accused of murdering her husband. Twenty-six Scottish peers, known as the confederate lords, turned against Mary and Bothwell and raised their own army. Mary and Bothwell confronted the lords at Carberry Hill on 15 June, but there was no battle, as Mary's forces dwindled away through desertion during negotiations. Bothwell was given safe passage from the field. The lords took Mary to Edinburgh, where crowds of spectators denounced her as an adulteress and murderer. The following night, she was imprisoned in Lochleven Castle on an island in the middle of Loch Leven. Between 20 and 23 July, Mary miscarried twins. On 24 July, she was forced to abdicate in favour of her one-year-old son James. Moray was made regent, while Bothwell was driven into exile. He was imprisoned in Denmark, went insane, and died in 1578.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_HEADING_10">
+			<Text>
+				Elizabeth and Mary Again
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_TEXT_10">
+			<Text>
+				On 2 May 1568, Mary escaped from Lochleven Castle with the aid of George Douglas, brother of Sir William Douglas, the castle's owner. After spending the night at Dundrennan Abbey, she crossed the Solway Firth into England by fishing boat on 16 May. She landed at Workington in Cumberland in the north of England and stayed overnight at Workington Hall. On 18 May, local officials led by Richard Lowther took her into protective custody at Carlisle Castle. Mary apparently expected Elizabeth to help her regain her throne. Elizabeth was cautious, ordering an inquiry into the conduct of the confederate lords and the question of whether Mary was guilty of Darnley's murder. In Scotland, her supporters fought a civil war against Regent Moray and his successors. As an anointed queen, Mary refused to acknowledge the power of any court to try her. She refused to attend the inquiry at York personally but sent representatives. Elizabeth forbade her attendance anyway. As evidence against Mary, Moray presented the so-called casket letters, eight unsigned letters purportedly from Mary to Bothwell, two marriage contracts, and a love sonnet or sonnets. Mary denied writing them and insisted they were forgeries. Mary had been forced to abdicate and held captive for the better part of a year in Scotland; the letters were never made public to support her imprisonment and forced abdication. On 26 January 1569, Mary was moved to Tutbury Castle. Mary was permitted her own domestic staff, which never numbered fewer than 16. In May 1569, Elizabeth attempted to mediate the restoration of Mary in return for guarantees of the Protestant religion, but a convention held at Perth rejected the deal overwhelmingly. Early the following year, Moray was assassinated. His death occurred soon after an unsuccessful rebellion in the North of England, led by Catholic earls, which persuaded Elizabeth that Mary was a threat. English troops then intervened in the Scottish civil war, consolidating the power of the anti-Marian forces. In 1571, England's ambassador to France uncovered the Ridolfi Plot, a plan to replace Elizabeth with Mary with the help of Spanish troops and the Duke of Norfolk. Norfolk was executed and the English Parliament introduced a bill barring Mary from the throne, to which Elizabeth refused to give royal assent. Mary sent letters in cipher to the French ambassador, Michel de Castelnau.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_HEADING_11">
+			<Text>
+				Treason for a Foreign Queen
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_TEXT_11">
+			<Text>
+				In 1584, Mary proposed an "association" with her son, James. She announced that she was ready to stay in England, to renounce the Pope's bull of excommunication, and to retire, abandoning her pretensions to the English Crown. She also offered to join an offensive league against France. For Scotland, she proposed a general amnesty, agreed that James should marry with Elizabeth's knowledge, and accepted that there should be no change in religion. Her only condition was the immediate alleviation of the conditions of her captivity. James went along with the idea for a while, but eventually rejected it and signed an alliance treaty with Elizabeth, abandoning his mother. On 11 August 1586, after being implicated in the Babington Plot, Mary was arrested while out riding and taken to Tixall Hall in Staffordshire. In a successful attempt to entrap her, Walsingham had deliberately arranged for Mary's letters to be smuggled out of Chartley. The letters were deciphered, and it was clear that Mary had sanctioned the attempted assassination of Elizabeth. Mary was moved to Fotheringhay Castle in a four-day journey ending on 25 September. In October, she was put on trial for treason under the Act for the Queen's Safety before a court of 36 noblemen. Mary denied the charges. She protested that she had been denied the opportunity to review the evidence, that her papers had been removed from her, that she was denied access to legal counsel, and that as a foreign anointed queen she had never been an English subject and therefore could not be convicted of treason.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_HEADING_12">
+			<Text>
+				God Save the Queen
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_TEXT_12">
+			<Text>
+				She was convicted on 25 October and sentenced to death with only one commissioner, Lord Zouche, expressing any form of dissent. Nevertheless, Elizabeth hesitated to order her execution, even in the face of pressure from the English Parliament to carry out the sentence. She was concerned that the killing of a queen set a discreditable precedent and was fearful of the consequences, especially if, in retaliation, Mary's son, James, formed an alliance with the Catholic powers and invaded England. At Fotheringhay, on the evening of 7 February 1587, Mary was told she was to be executed the next morning. She spent the last hours of her life in prayer, distributing her belongings to her household, and writing her will and a letter to the King of France. Mary was not beheaded with a single strike. The first blow missed her neck and struck the back of her head. The second blow severed the neck, except for a small bit of sinew, which the executioner cut through using the axe. Afterwards, he held her head aloft and declared "God save the Queen." When the news of the execution reached Elizabeth, she became indignant and asserted that Davison had disobeyed her instructions not to part with the warrant and that the Privy Council had acted without her authority. Elizabeth's vacillation and deliberately vague instructions gave her plausible deniability to attempt to avoid the direct stain of Mary's blood. Mary's request to be buried in France was refused by Elizabeth. Her body was embalmed and left in a secure lead coffin until her burial in a Protestant service at Peterborough Cathedral in late July 1587. Her body was exhumed in 1612 when her son, James VI and I, ordered that she be reinterred in Westminster Abbey in a chapel opposite the tomb of Elizabeth.
+			</Text>
+		</Row>
+	
+
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_LIVED">
+			<Text>1542-1587</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_NAME">
+			<Text>Mary I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_MARY_SCOTS_SUBTITLE">
+			<Text>Queen of Scots</Text>
+		</Row>
+
+		<!--Civilization-->
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY">
+			<Text>Scotland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_SHORT">
+			<Text>Scotland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_ADJ">
+			<Text>Scots</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_DOM">
+			<Text>
+				God be with you, O Mary, Queen of Scots. Your reign came at a perilous time for Catholicism. Across the realm the people cast aside Catholicism for the ways of the Reformation. However, while many abandoned the faith, you stayed true. This, and your status as a woman, only served to turn your nobles against you. Pretender though she is, many support your cousin Elizabeth and her claim to the English throne; that should rightfully have been yours.  Even lovers revealed themselves as scoundrels, you began to feel you had nowhere to turn to.
+				[NEWLINE]
+				Stay watchful, your grace! Your enemies are all around us, but there are still many who remain loyal to the crown. Though this war may be fought with the pen as much as the sword, your chance is now. Can you cement your power as Queen and undermine those who stand against you? Will you build a civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_TEXT_1">
+			<Text>
+				With a history dating back to the Roman occupation of Britain, Scotland has long been renowned as a cultural stronghold in the north of Europe. Early in its history, the Pictish Confederation spanned almost the entire region, with the Gaels of Ireland coming later to inhabit the west coast. After years of war, the nation was consolidated into the Kingdom of Alba, overwhelmingly the among the most powerful kingdoms in the British Isles. Facing invasion from England, the Scottish Wars of Independence were triggered, and continue to live on in the memory of many romanticists in modern-day Scotland. In later years, the crowns of the often-feuding nations of Scotland and England were made into one, forming the United Kingdom.[NEWLINE][NEWLINE]In the 19th and 20th centuries, Scotland became known for its industry and technological growth, attracting immigrants from all over the world to come and work in places such as the shipbuilding region of the Clyde. During both world wars, Scotland participated fully, and though it took many losses, it came through as a major fighting force, renowned to this day. During later political regimes of the 20th century, movements such as Thatcherism were unpopular among many Scots, sparking Scotland’s independence movement. With the coming of the SNP to power in 2007, a referendum on Scottish independence was scheduled for the 18th of September 2014.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_TEXT_2">
+			<Text>Often known for its wet, rainy climate, much of Scotland is almost constantly battered by rain. This is particularly bad on the West Coast, where close to no protection is offered from Atlantic storms, thus making rain far more likely here than the East Coast. The Hebrides, Orkney and Shetland also have little protection from such rain storms. In terms of the makeup of the land, Scotland is situated on a line known as the Great Highland Fault, and because of this fault line, the Highlands are a dominant part of Scotland’s geographic makeup. These mountains are a major tourist attraction in Scotland, with mountaineers from all over the world coming to climb them. Scotland also boasts the tallest mountain in the UK, Ben Nevis. Another of Scotland’s more famous features are the lakes, or “lochs”. Lochs in Scotland are typically formed in valleys between the hills. Glens also feature in the Highlands, and are often used in romanticist depictions. In the lowlands of Scotland, it tends to be a lot flatter, though it still retains a lot of mountains near the borders. At no point is Scotland really free of any incline, making it a vibrant and interesting landscape.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_HEADING_3">
+			<Text>Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_TEXT_3">
+			<Text>Scotland’s history is dominated by legendary figures such as William Wallace and Rob Roy - though one of the first to be mentioned was mostly, if not entirely fabricated. Calgacus, meaning “Swordsman” in Latin, was recorded as the first Scot in history. Presumably a Pictish general of sorts, he allegedly made a speech to the invading Roman soldiers. Calgacus may have done so, but what he would have said is entirely unknown, given very few elements of the Pictish language he would have spoken are known. In the battle that followed, the Romans are speculated to have won, but they were never able to dominate the whole of Scotland, only a couple of border regions. Around 410 AD, crisis in Rome triggered the retreat of effectively all Roman positions around Scotland. This lead to almost complete Pictish domination in the north, and new land ready to take in the south. In the west, however, a power vacuum lead to the settlement of the Gaels. These Gaels founded the Kingdom of Dal Riata, which spanned most of Scotland that was not owned by the Picts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_HEADING_4">
+			<Text>Kingdom of Alba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_TEXT_4">
+			<Text>After many wars between the rival Picts and Gaels, the two were finally united into the Kingdom of Alba around 900 AD. This came about after a long merger between the two peoples took place, with the Pictish conversion to Christianity and the subsequent struggles in which the ruling dynasties were united. Initially, the kingdom had its seat of power at Scone, and though the monarch often changed courts, Scone was always the ritual capital of the kingdom. During this period, the Scots were frequently at war with the English, which had been recently conceived as a nation as well. In 1066, the Normans attacked England, bringing about colossal social change not only south of the border, but in Scotland as well. Many monarchs of Scotland aimed to emulate the grandeur the Normans brought about, with many members of royal households marrying into Norman families as a sign of prestige. Later kings followed suit, and eventually, many of Scotland’s nobles would have spoken French as their primary language.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_HEADING_5">
+			<Text>The Wars of Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_TEXT_5">
+			<Text>After the Battle of Largs, King Alexander III of Scotland was able to make the kingdom more prosperous than ever. During his reign, Scotland experienced a golden age, with a lot more people able to make a decent living. However, this came to an abrupt end in 1286, with the sudden death of King Alexander. While riding home during a storm, his horse had fallen off a cliff, killing him instantly. His successor, Margaret, was a six-year-old Norweigan princess that had never been to Scotland before. On her journey to Scotland, she died in Orkney, leaving the Scottish throne in crisis. To resolve the issue of the new monarch, Scottish nobles called on Edward I of England, noted for his wisdom and diplomatic skills. Out of several candidates for the new Scottish king, he recognized John Balliol as the strongest of them, making him the new monarch. However, in 1294, Balliol refused one of Edward’s demands. Furious, Edward deposed Balliol and invaded Scotland. Before long, the kingdom was effectively a puppet on England. With Wales seized only years before, Edward dominated Great Britain, albeit unstably. Before long, resistance to Edward’s rule became apparent, with one of the most famous characters in Scottish history appearing - William Wallace.[NEWLINE][NEWLINE]A middle-class outlaw from Perth, Wallace was the unlikely champion of the Scottish cause. He had fiercely opposed the English since a dispute with his sheriff, which resulted in his death and the creation of Wallace’s criminal record. As an excellent general and warrior, Wallace was able to recruit men for his cause easily in a guerilla warfare style, especially due to the mass anti-English sentiment. Before long, Wallace had been appointed Guardian of Scotland, having won the Battle of Stirling Bridge, which resulted in total slaughter of the English army. However, it didn’t take long before Wallace himself was defeated by Edward’s superior skill, having brought a battle-hardened army from France to crush the rebels. At the Battle of Falkirk, Wallace was forced to flee, with the independence cause almost completely abandoned. When he attempted to reignite the war seven years later, he was captured by the English and forced to stand trial in London, where he was hung, drawn and quartered. While this was meant to be a lesson to anyone who wanted independence, it only encouraged more people to take up arms against Edward.[NEWLINE][NEWLINE]Robert the Bruce, an ambitious young man born into a wealthy Anglo-Norman family, was next to take up the cause. Though Bruce was a fervent supporter of independence, all he really wanted was kingship. At times, he had backed Edward to fuel this ambition, but with Wallace gone, he knew he could pick up where he left off and recreate Scotland. Bruce met up with John Comyn in a church to discuss the terms of an independent Scotland. Previously, Bruce had allowed Comyn to keep the land while Bruce had the crown - though Comyn had told Edward that Bruce was pretending to be King of Scotland, giving him limited time to act. Bruce’s meeting with Comyn proved eventful, as after Comyn only laughed at Bruce’s demands, he stabbed him to death. A story tells that Bruce came out of the church, with his knife blood-stained, and exclaimed to his friend Fitzpatrick “I’m afraid I’ve stabbed Comyn!”. Fitzpatrick then went into the church, and finished off Comyn for him. The motto of the Fitzpatrick family to this day is allegedly his response to Bruce, “I make sure”. Bruce then went on to start another campaign of guerrilla war. With the death of Edward I, the tide changed for the better. Edward II was a completely incapable commander, and at the Battle of Bannockburn, Bruce overwhelmed the English forces, ending their domination in Scotland for good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_HEADING_6">
+			<Text>Arbroath and Aftermath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_TEXT_6">
+			<Text>The conclusion to the Wars of Independence was in 1320, when Robert the Bruce signed the Declaration of Arbroath, legally restricting the powers of the king. While the peace treaty with England had been signed, it was not until this document had been created that Scotland could truly function as a kingdom again. Roughly equivalent to the powers of the Magna Carta, the Declaration was later used as a model for the American Declaration of Independence. [NEWLINE][NEWLINE]Following this, Scotland began a period of regrowth and rebirth. Soon after Bruce’s family line had lost claim on the throne, the notoriously corrupt Stuart line came to power. James I was noted for his immense patronage of the arts; however, he was later assassinated in his home, having not been able to escape. James II was a better administrator; however, his fiery passion for war lead to his death at the Siege of Roxburgh Castle, one of the final English strongholds in Scotland, when his cannon exploded and killed him. Often considered Scotland’s first Renaissance king, James III obtained the Orkney and Shetland Islands from Norway due to marriage; however, he was, in most other aspects, an infective king. With little luck in battle, James III was thrown off his horse and killed at the Battle of Sauchie Burn. James IV followed suit in the family tradition of bad battles; at the Battle of Flodden Field, the Scots army was crushed, and James IV was killed, making him the last British monarch to be killed in battle. However, his reign was noted as prosperous in many other aspects, given he was a capable administrator and governor. After defeat at the Battle of Solway Moss, James V returned home in shame and died just hours later. This left his one-week-old daughter, Mary, in control of Scotland.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_HEADING_7">
+			<Text>Act of Union and Catholicism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_TEXT_7">
+			<Text>Mary, Queen of Scots, had one of the most eventful and sad reigns in Scottish history. Due to their Catholic ties, Mary was sent to mary Francis, Dauphin of France, at a very young age. She stayed with the French royalty for a long part of her reign, and thus not able to conform to the massive social changes that were happening in a Scotland deemed unsafe for her at the time. After her husband died, Mary returned to her homeland. However, she was unpopular among the Protestants in Scotland, who now formed a majority - and women in power were also frowned upon at the time. To ease this slightly, Mary married Lord Darnley, a young noble who was a likely candidate for a good monarch. However, a few years into their marriage, Darnley was murdered, presumably on Mary’s orders. John Hepburn was originally thought to have been the murderer, but was cleared of all charges. This became more suspicious still when he married Mary a month later. Not yet popular among the many Protestants in Scotland, Mary was chucked out of the throne, and the crown was given to her son, James. Mary fled to England after a failed uprising known as the “Rising of the North”, an attempt to boost Catholic influence - she had assumed her cousin, Elisabeth, would help her. However, Elisabeth instead imprisoned her, and had Mary executed 18 years later.[NEWLINE][NEWLINE]Though Mary’s rule was turbulent and wild, James had a far more peaceful and prosperous reign. At an early age, he was perceived as a wise King of Scots - though the most important event in his reign came when Elizabeth died without a heir. The best the English nobility could do to find a successor was to ask James, who accepted - this meant that for the first time in history, Scotland and England were in a peaceful union. James, unlike his mother, had been raised as a Protestant king - previously unheard of in Scotland. With England also a Protestant country, this made James popular in both nations, though not to all. Guy Fawkes, an English Catholic, wanted rid of James on both the counts that he was Protestant and Scottish. Fawkes was an explosives expert as he had been fighting for the Spanish in the Netherlands prior to the plot to kill James - he used this to his advantage. Though Fawkes was not the leader of the group of Catholics against James, he is the most famous today as he was the first caught conspirator of the plot, now popularly known as the “Gunpowder Plot” - every year in Britain, the failure of the plot is commemorated with Guy Fawkes Night on the 5th of November.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_HEADING_8">
+			<Text>The Commonwealth and the Glorious Revolution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_TEXT_8">
+			<Text>After James’ passing, his son, Charles I, took over. A big believer in the divine right of kings, Charles was a holy man - but a useless monarch. Charles dismissed his parliament initially so that he could rule with supreme authority, but he called them back as soon as he ran into trouble. This displeased the parliamentary nobles, so among them they decided to rid themselves of Charles, which soon sparked the War of Three Kingdoms. Though most of the nation was held by Charles or the now-proclaimed Commonwealth of England, there were two other major factions - the Confederates in Ireland, and the Covenanters in Scotland. A Presbyterian movement in Scotland, the Covenanters fought against both the Irish Confederates and the English Crown, triumphing over both. However, only a few years later, they were crushed by Oliver Cromwell’s New Model Army. For ten years, all three of these kingdoms were ruled by the Lord Protector Cromwell - the first time in British history that the islands had no king to be seen. However, Cromwell felt like a king to many, his reign portrayed as a harsh, hard time for the isles. With Cromwell’s death, the monarchy was brought back by Charles II, a time often seen as a reawakening of Britain’s crushed spirits. Charles was never particularly religious, but rather strangely, he converted to Catholicism upon his death; he had not dared do so beforehand for fear of another revolt.  [NEWLINE][NEWLINE]However, Charles’ brother, James VII of Scotland and II of England, made no secret of being a Catholic. With his rule in turmoil within a couple of months, James was challenged as king by the upstart ruler William of Orange, a Dutch prince and diehard Protestant. William began the so-called Glorious Revolution by gathering his men to fight against the crown and install him in James’ place; this went incredibly well. James was forced into full retreat after the Battle of the Boyne, and William became king once more. Anne, William’s successor, was not particularly notable as a monarch - though she does have ties to Scotland. In 1707, the Act of Union was created, a document that unified the crowns of Scotland and England into one. This came after the disastrous Darrian Project, which involved Scotland colonising Panama. However, they failed miserably to do so, and with investments wasted, Scotland was bankrupted. The Act of Union lead to an uneasy merger of the countries, and was widely opposed in Scotland at the time, though it probably saved the economy in its entirety.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_HEADING_9">
+			<Text>Jacob Bites Back</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_TEXT_9">
+			<Text>In the newly-formed United Kingdom, the ruling dynasty had now been changed to the German Hanoverians - mostly on account of them being the closest Protestant relatives to the late Queen Anne. King George I was unpopular in the UK, as he rarely visited, spending most his time in Hanover, and never bothered to learn English - this led to him creating the post of Prime Minister to fulfil his day-to-day needs in the UK. This led to people wanting to do something about it. James II’s son, James Francis Stuart, was brought up in France by the exiled James in the hope he would one day return a Catholic to the throne. James inspired the Jacobite movement, which means “Followers of Jacob” in Latin. Finding help from the movement in Scotland, James decided to attack - however, he turned out to be a bad leader and strategist, and subsequently this first Jacobite rising, in 1715, ended in failure. However, James’ son - Charles Edward Stuart - knew better how to start a rising. Charles went to Scotland in 1745, and after proclaiming his father King James VIII of Scotland, he began his campaign by rallying armed clansmen to fight for his cause. This rising was initially a great success, but before they could think about marching on London, they were thwarted by the betrayal of Dudley Bradstreet, and English spy who had told the Jacobites that their army would be destroyed if they stayed in England, thus forcing them to return to the north. However, the Jacobite cause was quickly defeated at the Battle of Culloden; this ended the Jacobites for once and for all. Charles was forced to escape to the isle of Skye and then France, an event immortalised in Scottish folklore. Charles was helped to disguise himself as a woman by Flora Macdonald so that he could escape, through one account describes Charles as “the ugliest woman I’ve ever seen”. Regardless, Charles was able to escape to safety like his father, though his rising had been far more successful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_HEADING_10">
+			<Text>Empire and Industry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_TEXT_10">
+			<Text>Following the risings, Scotland became a true Enlightenment era state, with many people from there stepping forth to leave their mark on the world. One of the many contributors to this was the Glaswegian merchant Adam Smith, who is credited with describing modern capitalism in his book, The Wealth of Nations. One of Scotland’s most famous pioneers was James Watt, a  scientist and inventor who helped make steam power one of the most mainstream energy sources in the world - Watt is also credited with popularising railways as a method of transport, thus paving the way for the Industrial world. However, in the wake of the Jacobite cause, a lot of Scotland’s dying romanticism was put to good use. Robert Burns, one of Scotland’s most famous poets, wrote verses in a fluidly Scottish manner. Internationally, the song and poem “Auld Lang Syne” is likely the most famous of Burns’ works, as it it used all over the world to celebrate New Years’ Day, or “Hogmanay” in Scotland. [NEWLINE][NEWLINE]During this time, cities such as Glasgow became massive immigration and industry centres. When the Potato Famine struck Ireland in 1847, tens of thousands of immigrants made the journey to places such as Scotland, where large Irish communities were formed and still exist today. Shipbuilding was a major industry in the Clyde area in general, and as a result, it created thousands of new jobs. The burst of industry into Scotland also created substantial amounts of work for Scots and immigrants alike, creating a massive boost in productivity. Scotland became an integral part of the British Empire during this time, with Glasgow even being called the UK’s second city at times. Glasgow’s prominence declined towards the end of the 19th century, but Scotland was still an integral part of the Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_HEADING_11">
+			<Text>The War Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_TEXT_11">
+			<Text>When Scotland, as part of the British Empire, entered the First World War in 1914, men rushed to recruitment as part of so-called “Pals Regiments” - like so many other soldiers in the Great War, they tended to sign up with their friends. The Scots saw a lot of action in the Somme, and also in Ypres - they tended to serve alongside the rest of the British regiments for the most part. By the end of the war, Scotland had changed socially to become a poorer, though still highly industrialised nation - this set the scene for a lot of Scottish history since the war. After a period of recovery, Scotland was doing well once more, and was able to function well as part of the British Empire. However, come the Second World War, and Scotland was back in turmoil. The Clydebank area of Glasgow was blitzed due to its vast shipbuilding importance, but Glasgow was still well able to supply the British army with enough ships to continue its campaign. In 1942, the Commando regiment began training in Scotland as a concept of elite soldiers - Scotland’s rugged Highland terrain was perfect for military operations to be practiced. Dundee’s comics of The Beano and The Dandy were immensely popular during the Second World War, as they put in satires of Hitler, Goring and Mussolini in particular, and encouraged children to help the war effort. How much a children's comic could do for a war is debatable, but the writers were put on the kill list of the Nazi party. [NEWLINE][NEWLINE]Out on the other side of the Second World War, and Scotland was again poorer. This time, England seemed to be getting more benefit than Scotland - and while that is unlikely to be true, given the example of post-war London - it certainly stirred an anti-English sentiment among many Scots. The Clyde was still a shipbuilding centre, but with less demand for ships came less demand for jobs. The economy of Scotland gradually stabilized, with progressive Labour governments aiming to help the poor affected by the war across the country, but this didn’t last as long as some hoped. By 1980, the more left-wing Scots had a Tory government in power - this didn’t sit well with the vast majority of Scots.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_HEADING_12">
+			<Text>Thatcherism, Devolution, and the Referendum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_SCOTLAND_MARY_TEXT_12">
+			<Text>Margaret Thatcher, the UK’s first female Prime Minister, remains a controversial figure even after her passing. In general, she is admired by most right-wingers in the UK, but is a detested figure in most of Scotland. During her time in power, the Poll Tax was introduced - albeit only in Scotland. Though it was seen by a lot of Tories as a good move to ensure it worked on one region before checking the rest, it was incredibly unpopular in Scotland and simply made her approval hit near rock bottom. Furthermore, the Trident nuclear missile program was announced - and it was to take up residence in Scotland. Thatcher’s free-market capitalist and conservative views made her clash with Scotland’s majority left-wing and socialist population, many of which wanted rid of her. Eventually, the Scots got to say goodbye to Thatcher, and under Tony Blair’s Labour government, Scotland got its own devolved parliament in 1999. Scotland’s first First Minister, Donald Dewar, was an advocate of devolution above independence as a means of retaining a strong Labour government in Westminster. The Scottish Parliament was meant to represent Scotland within the United Kingdom - this meant that Scotland was able to take what it valued into its own hands. Matters such as education, healthcare and transport were given over to the Scottish Parliament, which proved to be a huge success. In 2007, the Scottish Nationalist Party were elected to the Scottish Parliament, and promised to hold a referendum on Scottish independence on September 18th, 2014. This treachery failed, and Scotland remained united beneath the crown of the United Kingdom.</Text>
+		</Row>
+
+		<!--Spies-->
+
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_SPY_0">
+			<Text>Henry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_SPY_1">
+			<Text>James</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_SPY_2">
+			<Text>David</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_SPY_3">
+			<Text>Francis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_SPY_4">
+			<Text>Jane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_SPY_5">
+			<Text>William</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_SPY_6">
+			<Text>Agnes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_SPY_7">
+			<Text>Anthony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_SPY_8">
+			<Text>Bess</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_SPY_9">
+			<Text>John</Text>
+		</Row>
+
+		<!--Cities-->
+		<!--vultured from JFD!James :yukasperm:-->	
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_1">
+			<Text>Edinburgh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_2">
+			<Text>Dunfermline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_3">
+			<Text>Perth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_4">
+			<Text>Stirling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_5">
+			<Text>Glasgow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_6">
+			<Text>Inverness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_7">
+			<Text>Dundee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_8">
+			<Text>Aberdeen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_9">
+			<Text>Kilmarnock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_10">
+			<Text>Dumfries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_11">
+			<Text>Arbroath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_12">
+			<Text>Linlithgow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_13">
+			<Text>Ayr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_14">
+			<Text>Montrose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_15">
+			<Text>Cromarty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_16">
+			<Text>Haddington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_17">
+			<Text>Dingwall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_18">
+			<Text>Elgin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_19">
+			<Text>Nairn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_20">
+			<Text>Lanark</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_21">
+			<Text>Dumbarton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_22">
+			<Text>Cupar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_23">
+			<Text>Falkirk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_24">
+			<Text>Kirkcaldy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_25">
+			<Text>Fortrose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_26">
+			<Text>Saint Andrews</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_27">
+			<Text>Thurso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_28">
+			<Text>Dunbar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_SCOTLAND_MARY_CITY_29">
+			<Text>Leith</Text>
+		</Row>
+
+		<!--Unit-->
+		<Row Tag="TXT_KEY_UNIT_ASQ_HACKBUTTER">
+			<Text>Hackbutter</Text>
+		</Row>
+		<!--Building-->
+		<Row Tag="TXT_KEY_BUILDING_ASQ_KIRK">
+			<Text>Kirk</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_ASQ_KIRK_HELP">
+			<Text>Generates a burst of [ICON_PEACE] faith and [ICON_CULTURE] culture when this city is converted. +2 [ICON_HAPPINESS_1] happiness in cities following another [ICON_RELIGION] religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_KIRK_STRATEGY">
+			<Text>To use plots most affectively you'll need foreign religions in your cities. The kirk helps make that viable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_KIRK_PEDIA">
+			<Text>A kirk is a church, deriving its name from Old Norse and most commonly associated with churches of the Church of Scotland. The Church of Scotland was principally shaped in 1560, when a group of Scottish nobles known as the Lords of the Congregation, led by John Knox, gained control of government. Under their guidance, the Scottish Reformation Parliament passed legislation that established a Protestant creed, and rejected Papal supremacy, although these were only formally ratified by James VI and I in 1567.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_ASQ_KIRK_DUMMY">
+			<Text>Kirk happiness dummy</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_ASQ_PLOTCOUNT_DUMMY">
+			<Text>Scotland plot counter dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_PLOTCOOL_DUMMY">
+			<Text>Scotland plot cooldown dummy</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_ASQ_SCOTLAND_HACKBUTTER_BONUS">
+			<Text>Hackbutter Adjacency Bonus</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_ASQ_SCOTLAND_HACKBUTTER_BONUS_HELP">
+			<Text>+25% combat strength when adjacent to Barbarians</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_ASQ_HACKBUTTER_HELP">
+			<Text>Replaces the Musketman. May be purchased with [ICON_PEACE] faith. Stronger when starting its turn adjacent to barbarians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASQ_HACKBUTTER_STRATEGY">
+			<Text>Strike when your enemies are beset by rebels, taking them down before they can recover.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASQ_HACKBUTTER_PEDIA">
+			<Text>A hackbutter was an arquebusier. The arquebus was a form of long gun that appeared in Europe and the Ottoman Empire during the 15th century. It originally referred to "a hand-gun with a hook-like projection or lug on its under surface, useful for steadying it against battlements or other objects when firing". Until the late 1700’s there was relatively little production of iron in Scotland, therefore weapons, or raw material for them had to be imported. Two types of flintlocks were invented in the late 1500’s in two different locations. The snaphaunce is the earliest form of Scottish-made firearm identifiable. Matchlocks were certainly made, but no known Scottish examples survive. Scottish snaphaunces date from the 1500’s to about 1675, and along with the matchlock, would be the most common firearm during the period.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_ASQ_SCOTLAND_MARY_PLOT">
+			<Text>[ICON_PEACE] Conduct a Plot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_SCOTLAND_MARY_PLOT_TT">
+			<Text>Spend [ICON_PEACE] Faith to conduct a Plot in this city, starting a WLTKD if it follows your Religion, or spawning Rebels near the Holy City if it follows another Religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_SCOTLAND_MARY_PLOT_TT_DISABLED">
+			<Text>Spend [ICON_PEACE] Faith to conduct a Plot in this city, starting a WLTKD if it follows your Religion, or spawning Rebels near the Holy City if it follows another Religion.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]You cannot conduct a Plot in this city.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_SCOTLAND_MARY_PLOT_POPUP_CONFIRM">
+			<Text>Are you sure you want to conduct a Plot in [COLOR_POSITIVE_TEXT]{1_CityName}[ENDCOLOR] for {2_Num} [ICON_PEACE] Faith?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ASQ_MARY_SCOTS_FIRSTGREETING_1">
+			<Text>Good day to you, outsider, I am Mary Stuart, Queen of Scots; welcome to this fair country! Choose your words carefully, you never know who may be listening.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_MARY_SCOTS_DEFEATED_1">
+			<Text>Into thy hands, O Lord, I commend my spirit...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_MARY_SCOTS_DOW_GENERIC_1">
+			<Text>By God and by Saint Andrew, I will claim what is rightfully mine!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_MARY_SCOTS_ATTACKED_HOSTILE">
+			<Text>I feared this might happen, but perhaps it is you that should be fearful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_MARY_SCOTS_DEC_FRIENDSHIP_1">
+			<Text>Good souls are few in this land of traitors. Would you work with me in my struggle?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_MARY_SCOTS_DENOUNCE_1">
+			<Text>When you reach the gates of heaven, I pray that Saint Peter sends you where you belong.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_MARY_SCOTS_DENOUNCE_FRIEND_1">
+			<Text>Another so-called ally turns their cloak? The lord will judge you in time.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_MARY_SCOTS_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>I object to your narrow-minded jibes. Look around you; the theatre of the world is much wider than your kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_SCOTLAND_MARY_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are eating haggis and dancing to the pipes. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_SCOTLAND_MARY_INFLUENTIAL_ON_HUMAN_1">
+			<Text>It seems our customs have overtaken your people. In fact, is that a Scots twinge I hear in your voice?</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

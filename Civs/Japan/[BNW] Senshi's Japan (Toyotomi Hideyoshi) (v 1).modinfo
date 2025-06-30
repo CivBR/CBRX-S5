@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="952907d8-5074-423c-839d-0a90062c330c" version="1">
+  <Properties>
+    <Name>[BNW] Senshi's Japan (Toyotomi Hideyoshi)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Second Great Unifier of Japan, Toyotomi Hideyoshi, into the game!</Teaser>
+    <Description>Adds the Second Great Unifier of Japan, Toyotomi Hideyoshi, into the game!
+
+Credits:
+GPuzzle - Original Author
+Senshi - Concept, Code, Art (Map), Etc
+PorkBean - Lua, Text (City List), Unique Longswordsman Model
+Arilasqueto - Art (Leaderscene and Icon)
+DarthKyofu - Art (Civ Icon &amp; Alpha, Wajo Icon)
+sukritact - Art (Ashigaru Icon)
+Zharques - Text (Pedias)
+Danrell - Unit Model</Description>
+    <Authors>Senshi, PorkBean</Authors>
+    <SpecialThanks>GPuzzle, Arilasqueto, DarthKyofu, sukritact, Zharques</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="11AC35EF592CE79D2EB92A7C34E13344" import="1">Art/Atlas/AshigaruFlag32.dds</File>
+    <File md5="545EEB3F1F77042E9E937DB45B235226" import="0">Art/Atlas/AtlasDefines.xml</File>
+    <File md5="5339DD52CA7E3E053F1830B766A03E06" import="1">Art/Atlas/HideyoshiAlpha128.dds</File>
+    <File md5="F07F9D0588EA14421205E3478B2E396E" import="1">Art/Atlas/HideyoshiAlpha16.dds</File>
+    <File md5="75481E8255D93A192F6223047FB8BE82" import="1">Art/Atlas/HideyoshiAlpha24.dds</File>
+    <File md5="D4E3F519BC6B543BF364189597FA390B" import="1">Art/Atlas/HideyoshiAlpha256.dds</File>
+    <File md5="B9A9B2BF5ABF3F2AEE5F98E95F999A20" import="1">Art/Atlas/HideyoshiAlpha32.dds</File>
+    <File md5="1518270FA7C44EA92DBC9508BF0C8547" import="1">Art/Atlas/HideyoshiAlpha48.dds</File>
+    <File md5="2D6A2E3399AF5C3810A5855EF3FD2452" import="1">Art/Atlas/HideyoshiAlpha64.dds</File>
+    <File md5="DD448B802D7806C91A8F06369825BC08" import="1">Art/Atlas/HideyoshiAlpha80.dds</File>
+    <File md5="43A78AF195EC603EBDC8229FBB24696F" import="1">Art/Atlas/HideyoshiAtlas128.dds</File>
+    <File md5="D3F00FFD269728CD1396F5D49D578069" import="1">Art/Atlas/HideyoshiAtlas256.dds</File>
+    <File md5="0B2EDEF51D4632FD3DC470AAD7337C05" import="1">Art/Atlas/HideyoshiAtlas32.dds</File>
+    <File md5="B3F5C87F9F2AFCFFEFDBDF05B1EA6743" import="1">Art/Atlas/HideyoshiAtlas45.dds</File>
+    <File md5="0118E31DB8736E883C0A32FD2405E02C" import="1">Art/Atlas/HideyoshiAtlas48.dds</File>
+    <File md5="33903EF721A7083E79B4DF9E487A8F80" import="1">Art/Atlas/HideyoshiAtlas64.dds</File>
+    <File md5="79478C23B92632A69C5B4D24EC520B89" import="1">Art/Atlas/HideyoshiAtlas80.dds</File>
+    <File md5="F378E93220943C0B5D0C17D17D97652B" import="1">Art/HideyoshiDoM.dds</File>
+    <File md5="86C77B10BF1C422673714B291DCD6276" import="1">Art/HideyoshiLS.dds</File>
+    <File md5="0D3E9BD11A13434966441D5A7AF6214E" import="1">Art/HideyoshiMap412.dds</File>
+    <File md5="18715C6E866F162802311FD43F16CEDE" import="1">Art/Music/HideyoshiPeace.mp3</File>
+    <File md5="849765CDADEC1AD7FC9BABCBD954F30C" import="1">Art/Music/HideyoshiWar.mp3</File>
+    <File md5="05DDBC8AA5A6A02D45D9FB2F92E2A0D3" import="0">Art/Music/SoundRig.xml</File>
+    <File md5="9827D5AFB1B14BB328DCC4C9593614E1" import="0">Art/UniqueLongsword/ArtDefines.sql</File>
+    <File md5="ABFCD384C3C8FCE94372D336EC341C8F" import="1">Art/UniqueLongsword/u_toyotomi_samurai.fxsxml</File>
+    <File md5="9A07B5154B318AE5EC87FB01E083B1B5" import="1">Art/UniqueLongsword/u_toyotomi_samurai.gr2</File>
+    <File md5="C37ED96DCBEAED32DCCD07A51CBF5EA2" import="1">Art/UniqueLongsword/u_toyotomi_samurai_diff.dds</File>
+    <File md5="7E4A6652979626C88DF0FDC25D6EF074" import="0">Art/UnitModel/ModelDefines.xml</File>
+    <File md5="083BC082413F589E39D78D232DBDFF52" import="1">Art/UnitModel/Spearman_Japan.blend</File>
+    <File md5="D668E4B8443FE709B871A41FD39B5199" import="1">Art/UnitModel/Spearman_Japan.dds</File>
+    <File md5="9F9E29928E10E7FB1A4AA4838CC01D2C" import="1">Art/UnitModel/Spearman_Japan.fxsxml</File>
+    <File md5="FB4E410A0614140971EC057E72E1E249" import="1">Art/UnitModel/Spearman_Japan.gr2</File>
+    <File md5="26C434A87F890F9E4B4577B5F19BCD68" import="1">Art/UnitModel/Spearman_Japan_gloss.dds</File>
+    <File md5="205AB0A674B9EA2C225C8141E05C18C9" import="1">Art/UnitModel/sv_Ashigaru.dds</File>
+    <File md5="E45305F9CF88DC9A9FC3D8BB0D5B1257" import="0">Core/Buildings.sql</File>
+    <File md5="73F699A3FFF220A3704F9490089C45B1" import="1">Core/C15_IteratorPack_v4.lua</File>
+    <File md5="621DBEE9ADC482E520F25D8D733B9A84" import="0">Core/Civilizations.sql</File>
+    <File md5="A37EB8E9A3FF574C00915CDE743956D2" import="0">Core/DiplomacyResponses.xml</File>
+    <File md5="8C8711B5D3810FCBC9983B65BF335521" import="0">Core/GameText.xml</File>
+    <File md5="BC5B5A7BF368EA53912DA85F67149585" import="0">Core/HideyoshiFunctions.lua</File>
+    <File md5="E367B36627EB9EADAA12C04A2F260C02" import="0">Core/Leaderhead.sql</File>
+    <File md5="8E2D579D42D26CA794DE4F83D4E38E4E" import="0">Core/ModSupport.sql</File>
+    <File md5="B18FE608C3B0B551ABA192C707D9BB33" import="0">Core/PlayerColours.sql</File>
+    <File md5="72E24C04BE3B9DBB70BE35B88BEE2054" import="1">Core/PlotIterators.lua</File>
+    <File md5="052E4286067CCC1E30D53FA3FB69C457" import="1">Core/Senshi_Hideyoshi_Scene.xml</File>
+    <File md5="9BC9F008F6937216113838F1334B062D" import="0">Core/Traits.sql</File>
+    <File md5="10D701883C0F900AB4F1434F24595889" import="0">Core/Units.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Atlas/AtlasDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Art/UnitModel/ModelDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Music/SoundRig.xml</UpdateDatabase>
+      <UpdateDatabase>Art/UniqueLongsword/ArtDefines.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/HideyoshiFunctions.lua">
+      <Name>HideyoshiFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

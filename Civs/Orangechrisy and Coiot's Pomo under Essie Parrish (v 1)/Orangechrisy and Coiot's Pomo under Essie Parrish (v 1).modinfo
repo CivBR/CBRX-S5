@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b465266b-47bb-465a-9f32-25812f5af4cb" version="1">
+  <Properties>
+    <Name>Orangechrisy and Coiot's Pomo under Essie Parrish</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the [COLOR_YIELD_FOOD]Pomo under Essie Parrish[ENDCOLOR] to the game</Teaser>
+    <Description>Pomo under Essie Parrish
+- (UA) Spirits of the Four Directions: Gain a different bonus depending on the direction of the last converted city.
+South: Units heal +10 HP when healing
+East: +20% Great People generation
+North: At the start of the turn, Religious units give nearby units +1 movement
+West: Trade Routes in cities give +5% growth to that city
+- (UGP) Basket Weaver: Replaces Great Artist. The Basket Weaver creates unique Great Works, Baskets, that provide a different bonus to the capital depending on the direction of the city the Great Work is in.
+South: +4 Faith
+East: +4 Culture
+North: +4 Food
+West: +4 Gold
+- (UB) Roundhouse: Replaces Temple. +1 faith for every 4 people in the city. Has a Great Work of Art slot, this city gains +10% religious pressure per great work in the city.</Description>
+    <Authors>Orangechrisy, Coiot</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="9c0f0f18-26d3-41ea-9691-c5886299575e" minversion="0" maxversion="999" title="California Religions" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD and Pouakai's Mercenaries" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="A48B537BE56C252ACA27F785FCE6208B" import="1">Art/EssieLeaderScene.dds</File>
+    <File md5="F97D204C69A903F4E69EA47C5E8D95C8" import="1">Art/Music/Pomo Fast 2 Step.mp3</File>
+    <File md5="066491CB9416FDB7F0DC0E81BFBD45BD" import="1">Art/Music/Round Valley Feather Dancers.mp3</File>
+    <File md5="621488471F1C33071C8CFA99A991822D" import="1">Art/PomoAtlas128.dds</File>
+    <File md5="5B164126FEC2E5244DA5DF8CA01FF6FA" import="1">Art/PomoAtlas24.dds</File>
+    <File md5="C4CD380A5A064E9810FCA4DAB43D0875" import="1">Art/PomoAtlas256.dds</File>
+    <File md5="430A42C67754A8CDE5F2F6A956B42E5F" import="1">Art/PomoAtlas32.dds</File>
+    <File md5="A8B951CCBE65A9653350BD7C10315621" import="1">Art/PomoAtlas45.dds</File>
+    <File md5="58E30715582C0523A69E2124103533D8" import="1">Art/PomoAtlas48.dds</File>
+    <File md5="3DD3E9B8FA035E8B615E787919F0B903" import="1">Art/PomoAtlas64.dds</File>
+    <File md5="9D9FE0DF691239684E50C41531E1B596" import="1">Art/PomoAtlas80.dds</File>
+    <File md5="F38BB275CBA4F50DAD2E7181CD2E6AFC" import="1">Art/PomoDoM.dds</File>
+    <File md5="887723D6105BE4B9B177D2E6436557C5" import="1">Art/PomoMap.dds</File>
+    <File md5="82FA506AB73A962D7BD1216063782DC9" import="1">Art/BasketWeaverAlpha128.dds</File>
+    <File md5="BC3BD1275ADCE178C320AEC097CF8058" import="1">Art/UGP art/agnessantana.dds</File>
+    <File md5="7EE12D77EAF7532F907C526F8E33E695" import="1">Art/UGP art/aliceelliott.dds</File>
+    <File md5="E0D5AFF6224A5F2C71726BF02458A587" import="1">Art/UGP art/annieboone.dds</File>
+    <File md5="A8D0EB402E432290C716ECB9AB3BD054" import="1">Art/UGP art/annieburke.dds</File>
+    <File md5="16F17E1A9459998432A81E823D90AA16" import="1">Art/UGP art/annielake.dds</File>
+    <File md5="ECF82A7F33BABF6D25BCC868DB362B8C" import="1">Art/UGP art/clintmckay.dds</File>
+    <File md5="2DDFDA8F2F8A755A884948EC90792B58" import="1">Art/UGP art/corinepearce.dds</File>
+    <File md5="D51B6062B0C23FFEFC21E4F59FD092EC" import="1">Art/UGP art/elsieallen.dds</File>
+    <File md5="B2DEE319921D938C8D92BA99EA4AC5D6" import="1">Art/UGP art/essieparrish.dds</File>
+    <File md5="E3EA89D6B24D575E4C16AB86243E0C5B" import="1">Art/UGP art/ethelburke.dds</File>
+    <File md5="8F55BC52D77B98425FA2292D949366B5" import="1">Art/UGP art/evelynlake.dds</File>
+    <File md5="E65AB807BDF5D73DFA4765F407137147" import="1">Art/UGP art/genericbasket.dds</File>
+    <File md5="56203C3B15AFD377BDD2202B14AFE862" import="1">Art/UGP art/gladyslockhart.dds</File>
+    <File md5="9942D2F7F18F513D97FF2972F36B094F" import="1">Art/UGP art/juliafparker.dds</File>
+    <File md5="694BB66262B9DC375952D37774FC0EB8" import="1">Art/UGP art/laurasomersal.dds</File>
+    <File md5="B98E64CCDC4C475403ED22C5176788EB" import="1">Art/UGP art/laurawilbell.dds</File>
+    <File md5="C948805154989996B5C92DEFB3525045" import="1">Art/UGP art/lorrainelockhart.dds</File>
+    <File md5="F265F0956B287C11580AC276F800C1A0" import="1">Art/UGP art/luwanaquitiquit.dds</File>
+    <File md5="836015BD65B926CDEFFFDFB004A46ED2" import="1">Art/UGP art/lydiafaught.dds</File>
+    <File md5="220631EF3F6F783352887276F35043B6" import="1">Art/UGP art/mabelmckay.dds</File>
+    <File md5="05EAFD7B4272779CF1B480AAA862F295" import="1">Art/UGP art/maryarnold.dds</File>
+    <File md5="ECBB6CF3EC8DFB3FD9E58A7494EA3D0D" import="1">Art/UGP art/marybenson.dds</File>
+    <File md5="88623B59A3C40F434802E0C176D0F90E" import="1">Art/UGP art/maudescott.dds</File>
+    <File md5="26EC6B4735316957CF4BB0DD496C110F" import="1">Art/UGP art/molliejackson.dds</File>
+    <File md5="B89D4152ABBCDB3CC0C85D5F86C4C402" import="1">Art/UGP art/mowshaedwards.dds</File>
+    <File md5="1E1F4E8D9A6289B3A26E705A4F2EDD6E" import="1">Art/UGP art/mrskyman.dds</File>
+    <File md5="F5E4A4A537926700422F8778FEC90BC7" import="1">Art/UGP art/myrtlechavez.dds</File>
+    <File md5="1945707E86FCC613D18C2AA8744FF1C9" import="1">Art/UGP art/nellieburke.dds</File>
+    <File md5="DA0B9DBA93D11A8C239E5997EFF4E30C" import="1">Art/UGP art/noracooper.dds</File>
+    <File md5="55B9AD571B513741B52D82328E88E100" import="1">Art/UGP art/rhodaknight.dds</File>
+    <File md5="B8B8719CADE81E7FA8BA9108B94E10A9" import="1">Art/UGP art/salomealcantra.dds</File>
+    <File md5="B98913D0FD0A30C5EDF58DFE511808F6" import="1">Art/UGP art/sarahknight.dds</File>
+    <File md5="2916E8FF8C53484FBBF9B350E16843F2" import="1">Art/UGP art/susanbilly.dds</File>
+    <File md5="0C0487A3AC5A27175D60106E6DF2F83B" import="1">Art/UGP art/susiesantiagobilly.dds</File>
+    <File md5="CA2EDA3419305025F064EBE96DEAD010" import="1">Art/UGP art/suzanneholder.dds</File>
+    <File md5="C83C85EC4A26BB5B0779E89B5EA14BBF" import="1">Art/UGP art/walawala.dds</File>
+    <File md5="D44D52D118C282C30D27AD1F32D88089" import="1">Art/UGP art/williambenson.dds</File>
+    <File md5="2E457CC8CB0188BBD58681C3036E9499" import="1">Art/BasketWeaverAlpha32.dds</File>
+    <File md5="C91ED4A908CF9CEB488352D674B77ED4" import="1">Art/UGP model/basketweaver.fxsxml</File>
+    <File md5="1D4D0F5E2E46039242884B7FA688B699" import="1">Art/UGP model/basketweaver.gr2</File>
+    <File md5="5620949CD9A16B65A837435473399810" import="1">Art/UGP model/basketweaver_diff.dds</File>
+    <File md5="BD47E0A26D484E3F7D123B27C1A33D91" import="1">Core/Essie_Scene.xml</File>
+    <File md5="7CF983B7F0492D5DF1D4174E5A050A66" import="0">Core/Orange_Coiot_Pomo_ArtDefines.sql</File>
+    <File md5="BB098FBF8D6B05DAFD6F506BB7D4A887" import="0">Core/Orange_Coiot_Pomo_GameDefines.sql</File>
+    <File md5="C37201CE469D979C2F15456A2FC1E59E" import="0">Core/Orange_Coiot_Pomo_GameText.xml</File>
+    <File md5="D43316C3B2764354020894E74136895E" import="0">Core/Orange_Coiot_Pomo_Diplomacy_Responses.xml</File>
+    <File md5="A3C7BBA5BBFA57FA72DEEE5BC6AAF6B6" import="0">Core/Orange_Coiot_Pomo_ModSupport.sql</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/CultureOverview/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/CultureOverview/CultureOverview.xml</File>
+    <File md5="9340107EAA9734416176CE89B219EE42" import="1">Lua/PlotIterators.lua</File>
+    <File md5="9BD2238CA057CF4D6E36417A073B12BB" import="0">Lua/PomoFunctions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Orange_Coiot_Pomo_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Orange_Coiot_Pomo_Diplomacy_Responses.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Orange_Coiot_Pomo_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Orange_Coiot_Pomo_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Orange_Coiot_Pomo_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Essie_Scene.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/PomoFunctions.lua">
+      <Name>PomoFunctions</Name>
+      <Description>PomoFunctions</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

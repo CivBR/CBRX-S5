@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/30/2021 1:03:02 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_ASQ_GRACEOMALLEY">
+			<Text>Grace O'Malley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ASQ_GRACEOMALLEY">
+			<Text>Your naval units split some of their xp between nearby friendly units on death. Looting cities generates [ICON_GREAT_PEOPLE] great admiral points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ASQ_GRACEOMALLEY_SHORT">
+			<Text>Nurse to All Rebellions</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_TEXT_1">
+			<Text>
+				Gráinne O'Malley, also known as Grace O'Malley, was the head of the Ó Máille dynasty in Umhaill. Upon her father's death, she took over active leadership of the lordship by land and sea, despite having a brother, Dónal an Phíopa Ó Máille. As leader, she engaged in activities considered piracy by the English. In 1593, when her sons and her half-brother were taken captive by the English governor of Connacht, Sir Richard Bingham, O'Malley sailed to England to petition for their release.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_HEADING_2">
+			<Text>Taking Charge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_TEXT_2">
+			<Text>
+				O'Malley was born in Ireland around 1530, when Henry VIII was King of England and held the title Lord of Ireland. Under the policies of the English government at the time, the semi-autonomous Irish clans were left mostly to their own devices. However, this was to change over the course of O'Malley's life as the Tudor conquest of Ireland gathered pace. The Uí Mháille were one of the seafaring clans of Connacht, and they had built a row of castles facing the sea to protect their territory. They controlled most of what is now the barony of Murrisk in south-west County Mayo and recognised as their nominal overlords the Mac William Íochtar branch of the Bourkes, who controlled much of what is now County Mayo. The Bourke family were originally Anglo-Norman but by O'Malley's lifetime had become completely Gaelicised. Her mother, Margaret or Maeve, was also an O'Malley. Although she was the only child of Dubhdara and his wife, O'Malley had a paternal half-brother called Dónal na Píopa. Although under Brehon Law only male members of the derbhfine could inherit the mantle of Chief of the Name through tanistry, O'Malley "was considered to be the legal retainer of the family land and seafaring activities".
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_HEADING_3">
+			<Text>Gráinne Mhaol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_TEXT_3">
+			<Text>
+				With shore castles like Carrickkildavnet, the Clan Uí Mháille demanded and received black rent from those who fished off their coasts, which included fishermen from as far away as England. The head of the family was known simply by his surname as Ó Máille, anglicised as The O'Malley. The local oral tradition has it that O'Malley, as a young girl, wished to go on a trading expedition to Spain with her father. Upon being told she could not because her long hair would catch in the ship's ropes, she cut off most of her hair to shame her father into taking her. This earned her the nickname "Gráinne Mhaol", maol meaning 'bald' or 'having cropped hair'. As a child she most likely lived at her family's residence of Belclare and Clare Island, but she may have been fostered by another family, as fosterage was traditional among the Gaelic nobility of Ireland. It is also likely that, in her youth, O'Malley was taught English and Latin in addition to her native tongue.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_HEADING_4">
+			<Text>The Dark Lady of Doona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_TEXT_4">
+			<Text>
+				In 1546, at fiffteen, O'Malley was married to Dónal an Chogaidh Ó Flaithbheartaigh, tánaiste or heir to the Chief of the Name of Clan Ó Flaithbheartaigh, or O'Flaherty. She bore three children during her marriage to Dónal an Chogaidh: Eóghan, Anglicised as Owen, Méadhbh, Anglicised as Maeve, and Murchadh, Anglicised as Murrough. In 1564, Dónal's ambitions were dashed when his kinsman Murrough na dTuadh Ó Flaithbheartaigh was appointed by Queen Elizabeth as Chief of the Name instead of him. In 1565, Dónal was killed in an ambush while hunting in the hills surrounding Lough Corrib. His assassination was, undoubtedly, part of Dónal's wider struggle against Clan Joyce for control of Hen's Castle upon the lough. When the Joyces moved to take the Castle, thinking that O'Malley would not resist, she fought back successfully and forced Clan Joyce to retreat. O'Malley then returned to her own lands and established her principal residence upon Clare Island. She allegedly took a shipwrecked sailor as her lover. The affair lasted only briefly as he was killed by Clan MacMahon of Ballyvoy. Seeking vengeance, O'Malley attacked Clan MacMahon's stronghold of Doona Castle in Blacksod Bay and slew her lover's murderers upon Caher Island. Her veangence against Clan MacMahon earned Gráinne the nickname the 'Dark Lady of Doona'.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_HEADING_5">
+			<Text>Iron Richard and Revenge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_TEXT_5">
+			<Text>
+				By 1566, O'Malley had married a second time, this time to Iron Richard Bourke, 18th Mac William Íochtar, his nickname deriving from his ironworks at Burrishoole, the place of his principal castle and residence. Tibbot Bourke, 1st Viscount Mayo was a child of this marriage. Still not satisfied with her revenge, O'Malley then sailed for Ballycroy and attacked the garrison at Doona Castle, overpowering the defenders and taking the castle for herself. Her attack against the MacMahons was not the first time she interrupted someone at their prayers. Legend tells of another lord who stole property from her and fled to a church for sanctuary. She was determined to wait out the thief, maintaining that he could starve or surrender. The thief dug a tunnel and escaped, however, and the hermit who took care of the church broke his vow of silence to scold her for attempting to harm someone who had sought sanctuary. Her reply is not recorded. In 1576, O'Malley engaged in the surrender and regrant process with the Lord Deputy Sir Henry Sidney in respect of her lands. Because Rockfleet was over a week's march from Dublin, and as she was so often at sea, control by the Crown was very weak. In 1593, in his letter to protest O'Malley's claims against him, Sir Richard Bingham claimed that she was "nurse to all rebellions in the province for this forty years". O'Malley had every reason, and used every opportunity, to limit the power of the Kingdom of Ireland over her part of the country. An expedition from Galway led by Sheriff William Óge Martyn attacked her castle at Clare Island in March 1579. However, they were put to flight and barely escaped.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_HEADING_6">
+			<Text>An Irish Woman at an English Court</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_TEXT_6">
+			<Text>
+				In the late 16th century, English power steadily grew in Ireland and O'Malley's power was steadily encroached upon. In June 1593, O'Malley sent a petition to the Queen. She asked her "to grant her some reasonable maintenance for the little tyme she hath to live". In return she offered "a surrender at her hands" of the lands of her two sons and those of her two surviving Bourke nephews. In May 1593, Hugh Maguire rebelled and burned Ballymote, then under the control of Sir George Bingham. One of Maguire's men was captured and implicated Grace's son Tibbott-ne-Long in a wider Tyrone- inspired conspiracy against the English. Tibbott was promptly captured by Sir Richard Bingham, sent to Athlone prison and charged with treason. Grace's half-brother Dónal na Píopa was also arrested by Sir Richard Bingham and charged with the murder of some English soldiers. Grace sailed to England to petition Queen Elizabeth I for their release. She was accompanied by Sir-Murrough-ne-Doe O'Flaherty. Sir Richard Bingham implied that Grace sailed her own ship to England as he stated she brought over the son of Ulick Bourke of Erris and her grandnephew, the son of Tibbott Reagh Bourke who "attended uppon Grany O'Maille in her late beyinge at court". Tradition but not the written sources states that O'Malley met with the Queen at Greenwich Palace, wearing a fine gown; the two of them were surrounded by guards and the members of Elizabeth's royal court.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_HEADING_7">
+			<Text>Fanciful Tales</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_TEXT_7">
+			<Text>
+				Many of what Anne Chambers refers to as "fanciful tales" have embellished the story of the meeting in Irish story-telling tradition. For example, O'Malley is said to have refused to bow before Elizabeth because she did not recognise her as the "Queen of Ireland". It was said that she had a dagger concealed about her person, which guards found upon searching her. Elizabeth's courtiers were said to be very upset and worried, but O'Malley informed the Queen that she carried it for her own safety. Elizabeth accepted this and seemed untroubled. It was said that O'Malley had sneezed and was given a lace-edged handkerchief from a noblewoman. She apparently blew her nose into it and then threw the cloth into a nearby fireplace, much to the shock of the court. O'Malley informed everyone that in Ireland, a used handkerchief was considered dirty and was properly destroyed. The Queen ordered her Privy Council to seek an explanation from Sir Richard Bingham regarding his treatment of O'Malley and her family and to investigate how her situation could best be relieved. Towards the end of September 1593 the Queen wrote to Bingham ordering the release of Tibbott-ne-Long and Dónal-ne-Píopa from prison. She also ordered for provision to be made for Grace out of her sons' estates, the amount to be deducted from their crown taxes. She requested Bingham to allow them ownership of their lands and property and "protect them to live in peace to enjoy their livelihoods". The Queen stated that O'Malley had "departeth with great thankfulness and with many more earnest promises that she will, as long as she lives, continue a dutiful subject, yea and will employ all her power to offend and prosecute any offender against Us". The leading authority on the life of Grace O'Malley, Anne Chambers, states that the conversation between the two women would have been in English as all the indications are that O'Malley could speak it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_HEADING_8">
+			<Text>Rebuilding the Fleet	</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_TEXT_8">
+			<Text>
+				Sir Richard Bingham disagreed with the decision of the Queen and initially did not obey her instructions, which O'Malley had personally delivered to him on her return to Ireland. Grace O'Malley rebuilt her fleet with three large galleys and began to return to her former life. Bingham struck, quartering a troop of his soldiers on her ships to accompany her in her voyages and later forcing her into service against some of her own kinsmen who he claimed were in rebellion. Bingham quartered another detachment of his soldiers on Grace O'Malley's property in Burishoole, leading to her impoverishment. Unable to bear the strain, she, her sons cousins and followers "were forced to withdrawe themselves into the Province of Mounster, where they do remaine in great distresse". In April 1595 O'Malley sought the aid of the Earl of Ormond at his Elizabethan manor at Carrick-on-Suir. At some time between 17 April and 5 May she returned to England to plead her case with Burghley. O'Malley was rewarded when in August 1595, a commission was granted by the queen and the Privy Council to investigate the lands in Mayo claimed by her two sons, her grandson Dónal O'Flaherty, son of Owen, Dermot and Dónal O'Malley of "Owel O'Maillie", and Miles MacEvilly, Tibbott-ne-Long's foster-father, "with the intention of the Queen accepting their surrenders of the premises and re-granting them by letters patent. As the Nine Years' War escalated, O'Malley sought to retrench her position with the crown. On 18 April 1595 she petitioned Lord Burghley, complaining of the activities of troops and asking to hold her estate for Elizabeth I. She most likely died at Rockfleet Castle around 1603, the same year as Elizabeth's death, though the year and place of O'Malley's death are disputed. Her family's usual burial place was in Clare Island Abbey.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_LIVED">
+			<Text>1530-1603</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_NAME">
+			<Text>Grace O'Malley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_GRACEOMALLEY_SUBTITLE">
+			<Text>Pirate Queen of Connacht</Text>
+		</Row>
+
+		<!--Civilization-->
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL">
+			<Text>Umhaill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_SHORT">
+			<Text>Umhaill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_ADJ">
+			<Text>Umhaill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_DOM">
+			<Text>
+				Do not let the tides of fate wash over you, oh Grace O'Malley of Umhaill, the Dark Lady of Doona. Your clan had long demanded black rent from those fishing off your coast, and you were no different. When your father died you took control of your clan, at a time where the Tudors were exerting their control upon Ireland. You and the Englishman Sir Richard Bingham, who deemed you been the nurse to all rebellions in Umhaill for forty years, did battle upon the sea and land, with Bingham's brother murdering your son, forcing you off your lands, and eventually capturing your two sons. With this, you sailed to England and demanded their release, gaining an audience with Elizabeth I and securing their freedom.
+				[NEWLINE]
+				Oh dauntless Grace O'Malley, control your shores and save your people from those who would exploit them. Dominate the seas, caring not if they call you pirate. Can you push back those seeking to dominate your lands by commanding fleets at sea? Will you build a civilization that can stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_UMHAILL_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_UMHAILL_TEXT_1">
+			<Text>
+				Umhaill was a Gaelic territory around Clew Bay in the west of what is now County Mayo, Ireland, comprising the baronies of Burrishoole and Murrisk. By the 12th century, its ruling dynasty were known as the Uí Máille, or the O'Malleys.  Originally an autonomous part of the kingdom of Connacht, it later became one of the vassal territories of the Mac William Íochtar. Umhaill's last and most famous ruler was Grace O'Malley. The Gaelic culture and Irish language continued on in the area longer than most other parts of Ireland.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_UMHAILL_HEADING_2">
+			<Text>Early Rulers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_UMHAILL_TEXT_2">
+			<Text>
+				Its earliest rulers of Umhaill were the semi-historical Tuath mhac nUmhoir. The Umaill, its early historical rulers, were renamed the Uí Briúin Umaill to claim a fictitious relationship with the Uí Briúin. The first historically accepted leader is Flannabhra. His great-grandson, Maille mac Conall, would become the ancestor and eponym of the Ó Máille clan. The Burke Civil War of the 1330s led to unrest and outright warfare in Connacht, where Domnall Ruadh Ó Máille and his son Cormac seem to have been casualties of the conflict.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_UMHAILL_HEADING_3">
+			<Text>Grace O'Malley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ASQ_UMHAILL_TEXT_3">
+			<Text>
+				Grace O'Malley, was the head of the Ó Máille dynasty in Umhaill. Upon her father's death, she took over active leadership of the lordship by land and sea, despite having a brother, Dónal an Phíopa Ó Máille. As leader, she engaged in activities considered piracy by the English. In 1593, when her sons and her half-brother were taken captive by the English governor of Connacht, Sir Richard Bingham, O'Malley sailed to England to petition for their release.
+			</Text>
+		</Row>
+		
+		<!--Spies-->
+
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_SPY_0">
+			<Text>Dónal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_SPY_1">
+			<Text>Méadhbh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_SPY_2">
+			<Text>Risdeárd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_SPY_3">
+			<Text>Eóghan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_SPY_4">
+			<Text>Tibbot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_SPY_5">
+			<Text>Diarmaid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_SPY_6">
+			<Text>Murchadh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_SPY_7">
+			<Text>Aodh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_SPY_8">
+			<Text>Cormac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_SPY_9">
+			<Text>Domhnall</Text>
+		</Row>
+
+		<!--Cities-->
+		<!--churs lacs-->
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_1">
+                        <Text>Inishcleer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_2">
+								<Text>Carrickahowley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_3">
+								<Text>Belclare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_4">
+								<Text>Carrickkildavnet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_5">
+								<Text>Murrisk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_6">
+								<Text>Burrishoole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_7">
+								<Text>Bunowen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_8">
+								<Text>Doona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_9">
+								<Text>Ballynahinch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_10">
+								<Text>Aughnanure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_11">
+								<Text>Castleaffy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_12">
+								<Text>Moycullen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_13">
+								<Text>Castlekirk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_14">
+								<Text>Inishbofin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_15">
+								<Text>Howth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_16">
+								<Text>Kilgeever</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_17">
+								<Text>Lough Moher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_18">
+								<Text>Rahan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_19">
+								<Text>Inishturk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_20">
+								<Text>Gleninagh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_21">
+								<Text>Renvyle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_22">
+								<Text>Kanturk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_23">
+								<Text>Askeaton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_24">
+								<Text>Kismul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ASQ_UMHAILL_CITY_25">
+								<Text>Ballintubber</Text>
+		</Row>
+
+		<!--Unit-->
+		<Row Tag="TXT_KEY_UNIT_ASQ_LONGAFADA">
+			<Text>Longa Fada</Text>
+		</Row>
+		<!--Building-->
+		<Row Tag="TXT_KEY_BUILDING_ASQ_TOWERHOUSE">
+			<Text>Tower House</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_ASQ_TOWERHOUSE_HELP">
+			<Text>Replaces the Castle. Cheaper in conquered cities. Boosts [ICON_PRODUCTION] production when a unit dies nearby.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_TOWERHOUSE_STRATEGY">
+			<Text>Quickly turn your naval conquests into offensive beachheads and capitalize on further combat in the area.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_TOWERHOUSE_PEDIA">
+			<Text>Tower Houses were defensive stone structures built to defend strategic points with reduced forces while also acting as an aristocrat's residence, around which a castle town was often constructed. Many tower houses were built in Ireland between the early 15th and 17th centuries. They were built by both the Anglo-Irish and Gaelic Irish, with some constructed by English and Scottish immigrants during successive conquests of Ireland. Many had a defensive wall around the building, known as a bawn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASQ_LONGAFADA_HELP">
+			<Text>Replaces the Caravel. Faster but slightly weaker. When it kills a unit, steals some of its xp, and turns the rest into [ICON_GOLD] gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASQ_LONGAFADA_HELP_EE">
+			<Text>Replaces the Galleon. Faster but slightly weaker. When it kills a unit, steals some of its xp, and turns the rest into [ICON_GOLD] gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASQ_LONGAFADA_STRATEGY">
+			<Text>Target your enemies' best ships to siphon a pinch of their gold and glory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASQ_LONGAFADA_PEDIA">
+			<Text>Longa Fada were Irish galleys used in the West of Ireland down to the seventeenth century. Propelled by both by oars and sail, the ships were used for the export of salted and pickled fish, linen, wool, hides and tallow. There are no archeological remains, but there is a carving in the old Cistercian monastery on Clare Island, home of the O'Malleys. The longa fada was commonly an eight or twelve-oared vessel and was used for both warfare and trade. It was notable for its speed when rowed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_GRACEOMALLEY_FIRSTGREETING_1">
+			<Text>Ahoy there friend! The name's Grace O'Malley. Ye've probably already heard of me. Oh, and if yer all cozy with those English feckers, we've got nothing more to discuss.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_GRACEOMALLEY_DEFEATED_1">
+			<Text>I beat the Joyces. I beat the MacMahons. I beat the feckin' English for christ's sakes. But I get bested by a snivelling little bastard like you? Old Grace must be losing her touch.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_GRACEOMALLEY_DOW_GENERIC_1">
+			<Text>Ohhh, I'm gonna feckin' show ye why they call me the dark lady of Doona.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_GRACEOMALLEY_ATTACKED_HOSTILE">
+			<Text>Good luck pal. One of my boys is worth a thousand of you arsewipes. Smile while you can ye English bastard.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_GRACEOMALLEY_DEC_FRIENDSHIP_1">
+			<Text>Ye seem like an alright sort. Fancy being pals? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_GRACEOMALLEY_DENOUNCE_1">
+			<Text>Yer a no good lying English twat and I hope no one ever forgets that.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_GRACEOMALLEY_DENOUNCE_FRIEND_1">
+			<Text>Deep down I always knew ye was a gobshite.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_GRACEOMALLEY_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Ohh what's the matter? Scared? Maybe ye should crawl back up yer mother's arse where ye came from.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_UMHAILL_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now cursing the English and singing Óró sé do bheatha abhaile. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_UMHAILL_INFLUENTIAL_ON_HUMAN_1">
+			<Text>Ye'll never be a true O'Malley but ye sure are trying.</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,15 @@
+<GameData>
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_RHO_POTISHRIMP</IconFontTexture>
+			<IconFontTextureFile>PotyShrimpFontIcon</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
+	<IconFontMapping>
+		<Row>
+			<IconName>ICON_RES_RHO_POTISHRIMP</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_RHO_POTISHRIMP</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+	</IconFontMapping>
+</GameData>

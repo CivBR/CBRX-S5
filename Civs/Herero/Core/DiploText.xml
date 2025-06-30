@@ -1,0 +1,79 @@
+<GameData>
+    <Language_en_US>
+        <!-- First Greeting -->
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_FIRSTGREETING_1">
+            <Text>You stand in the land of the Herero! I am Jacob Morenga, and I defend my brethren in these lands. Are you friend or foe?</Text>
+        </Row>
+
+        <!-- Defeated -->
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_DEFEATED_1">
+            <Text>Kill me if you must, but know that - even in my absence - my men will fight you to the last.</Text>
+        </Row>
+
+        <!-- Diplomacy: Wars, Denunciations, and DoF -->
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_ATTACKED_GENERIC_1">
+            <Text>It is to be war, then? Very well. My men shall strand you in the desert and let your blood spill upon the sands.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_DEC_FRIENDSHIP_1">
+            <Text>Just as I have brought the Herero together with the Nama, so too do I see the potential for alliance between our two peoples. Shall we make a public Declaration of Friendship?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_DENOUNCE_1">
+            <Text>I can be silent no longer about your crimes against my people. [NEWLINE] [NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_DOW_GENERIC_1">
+            <Text>I can only protect my people by striking preemptively against those who would do them harm.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_EXPANSION_SERIOUS_WARNING_1">
+            <Text>If you do not relinquish your claim to Herero lands, we will have no choice but to retaliate by force.</Text>
+        </Row>
+
+        <!-- Greetings -->
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_GREETING_AT_WAR_HOSTILE_1">
+            <Text>You are brave, to meet me in person. Come to fight, or just to surrender?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_GREETING_POLITE_HELLO_1">
+            <Text>I am pleased to see you. Come, join me by the fire.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_GREETING_NEUTRAL_HELLO_1">
+            <Text>What brings you to the land of the Herero today?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_GREETING_HOSTILE_HELLO_1">
+            <Text>It is always an unfortunate day when I am forced to see your face. What is it you want?</Text>
+        </Row>
+
+        <!-- Misc -->
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+            <Text>Your army is quite impressive... but be aware that I will not be cowed by threats.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_LETS_HEAR_IT_1">
+            <Text>Speak, then.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_LOSEWAR_1">
+            <Text>My people have suffered, but we are not broken.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_LUXURY_TRADE_1">
+            <Text>My people have come to value your goods nearly as much as they value their cattle. Shall we make a deal?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_NO_PEACE_1">
+            <Text>Unfortunately, after everything that has transpired, I can no longer allow there to be peace between us.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_OPEN_BORDERS_EXCHANGE">
+            <Text>Would you be interested in an Open Borders agreement? My cattle herders must be permitted to roam freely.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_REPEAT_NO_1">
+            <Text>Do not mock me.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_RESPONSE_REQUEST_1">
+            <Text>Our enemies seek to starve and destroy us, but with your assistance, the Herero may yet grow strong again.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_RESPONSE_TO_BEING_DENOUNCED_1">
+            <Text>There are times when a man must make enemies. However, you have not chosen your enemy wisely today.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_TOO_SOON_NO_PEACE_1">
+            <Text>Fleeing already? Come, let us at least have a proper fight first.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_JACOB_MORENGA_WINWAR_1">
+            <Text>Let these events be a lesson for all those who would seek to wrong the Herero.</Text>
+        </Row>
+    </Language_en_US>
+</GameData>

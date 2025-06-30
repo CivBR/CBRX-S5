@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!--=============================================================-->
+		<!-- Unique Unit 1 - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_UNIT_MC_MYSORE_CUSHOON">
+			<Text>Cushoon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MYSORE_CUSHOON_HELP">
+			<Text>Replaces the Musketman. Upon being trained, comes with two Cushoon Rockets, missile units which are strong against cities and instill fear in enemy units. Only Mysore may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MYSORE_CUSHOON_STRATEGY">
+			<Text>The Cushoon is an early gunpowder unit unique to Mysore. Unlike the Musketman, which it replaces, the Cushoon starts with two Cushoon Rockets, a unique missile unit which is especially effective against cities and instills fear in adjacent enemies. Use these rockets to devastating effect when beginning your sieges.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MYSORE_CUSHOON_PEDIA">
+			<Text>The Cushoon were rocket artillery brigade, originally numbering 1500 servicemen but, under the reign of Tipu Sultan, numbered approximately 5000. The organisation of these brigades was dictated by the Fathul Mujahidin, compiled by general Mir Zain-ul-'Abidin Shushtari on the orders of Tipu Sultan. According to this text, 200 rocket men were assigned to each cushoon. Cushoons were first fielded by Tipu Sultan in 1792 during the Third Anglo-Mysore War, where one unit of 120 men and another of 131 attacked Lt. Col. Knox of the British. The rocket men were trained to launch their rockets at an angle calculated from the diameter of the cylinder and the distance to the target.</Text>
+		</Row>
+		<!--EE tags-->
+		<Row Tag="TXT_KEY_UNIT_MC_MYSORE_CUSHOON_HELP_EE">
+			<Text>Replaces the Line Infantry. Upon being trained, comes with two Cushoon Rockets, missile units which are strong against cities and instill fear in enemy units. Only Mysore may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MYSORE_CUSHOON_STRATEGY_EE">
+			<Text>The Cushoon is an early gunpowder unit unique to Mysore. Unlike the Line Infantry, which it replaces, the Cushoon starts with two Cushoon Rockets, a unique missile unit which is especially effective against cities and instills fear in adjacent enemies. Use these rockets to devastating effect when beginning your sieges.</Text>
+		</Row>
+		<!--Tracker promo-->
+		<Row Tag="TXT_KEY_PROMOTION_MC_MYSORE_CUSHOON">
+			<Text>Rockets being prepared</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MYSORE_CUSHOON_HELP">
+			<Text>Cushoon Rockets for this unit are being built and will be ready upon the unit departing from the city.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Unique Unit 2 - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_UNIT_MC_MYSORE_CUSHOON_ROCKET">
+			<Text>Cushoon Rocket</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MYSORE_CUSHOON_ROCKET_HELP">
+			<Text>Missile unit unique to Mysore. Received through training a Cushoon or through a Taramandal Pet. Especially effective against cities, and instills fear in adjacent enemy units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MYSORE_CUSHOON_ROCKET_STRATEGY">
+			<Text>The Cushoon Rocket is a unique mid-game missile unit only available through Mysore's unique unit, the Cushoon. As with all missile units, it can be fired on targets as a one-off and is especially effective against cities. Additionally, the rockets instill fear into adjacent enemy units, lowering their [ICON_COMBAT_STRENGTH] combat strength. Make good use of these rockets and usher in a new era for Mysore.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MYSORE_CUSHOON_ROCKET_PEDIA">
+			<Text>Cushoon Rockets, more commonly referred to as Mysorean rockets, were iron-cased rockets developed by Hyder Ali and his son Tipu, first deployed in the Third Anglo-Mysore War. Rockets could be of various sizes but usually consisted of a tube of soft hammered iron about 20 centimetres long and 4 to 8 centimetres in diameter, closed at one end and strapped to a shaft of bamboo about 1 metre long. The iron tube acted as a combustion chamber and contained well-packed black powder propellant. A rocket carrying about one pound of powder could travel almost 900 metres. In contrast, rockets in Europe at the time could not take large chamber pressures, not being iron cased, and were consequently not capable of reaching such distances. Mysore rockets were also used for ceremonial purposes. The Jacobin Club of Mysore sent a delegation to Tipu Sultan, and 500 rockets were launched as part of the gun salute. After the fall of Srirangapattana, 600 launchers, 700 serviceable rockets, and 9,000 empty rockets were found. Some of the rockets had pierced cylinders, to allow them to act like incendiaries, while some had iron points or steel blades bound to the bamboo. By attaching these blades to rockets they became very unstable towards the end of their flight causing the blades to spin around like flying scythes, cutting down soldiers in their path. These experiences eventually led the Royal Woolwich Arsenal to start a military rocket research and development program in 1801, based on the Mysorean technology. Several rocket cases were collected from Mysore and sent to Britain for analysis. Their first demonstration of solid-fuel rockets came in 1805 and was followed by publication of A Concise Account of the Origin and Progress of the Rocket System in 1807 by William Congreve, son of the arsenal's commandant. Congreve rockets were systematically used by the British during the Napoleonic Wars and the War of 1812.</Text>
+		</Row>
+		<!--Combat boost promo-->
+		<Row Tag="TXT_KEY_PROMOTION_MC_CUSHOON_ROCKET">
+			<Text>Thicker than hail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_CUSHOON_ROCKET_HELP">
+			<Text>-10% [ICON_STRENGTH] Combat Strength for units within two tiles.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Unique Building - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_BUILDING_MC_MYSORE_TARAMANDAL_PET">
+			<Text>Taramandal Pet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MYSORE_TARAMANDAL_PET_HELP">
+			<Text>Replaces the Arsenal. Provides fewer hitpoints but more strength. Cushoons adjacent to the city may sacrifice hitpoints to receive another Cushoon Rocket.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MYSORE_TARAMANDAL_PET_STRATEGY">
+			<Text>The Taramandal Pet is a defensive building unique to Mysore, which provides fewer hitpoints (but more strength) than the Arsenal, which it replaces. Building it allows for Cushoons adjacent to the city to sacrifice some of their hitpoints to receive an additional Cushoon Rocket, provided they have space to do so.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MYSORE_TARAMANDAL_PET_PEDIA">
+			<Text>Taramandal Pet was the Ordnance Factory of Tipu Sultan, where the research was done on how to make rockets. It was where Tipu’s rockets were assembled. The name Taramandal Pet, or Taramandalpet, was given as some rockets would burst in the sky and rain shrapnel over the enemy, and Taramandal Pet is translated as the place associated with star-filled skies, or more roughly, Galaxy Market. From the Taramandal Pet localities, the rockets used to be transported to the many armories of Tipu, where they used to be stored until its use in a battle. Four Taramandal Pets were established, at Srirangapatna, Bangalore, Chitradurga, and Bidanur.</Text>
+		</Row>
+		<!--EE tags-->
+		<Row Tag="TXT_KEY_BUILDING_MC_MYSORE_TARAMANDAL_PET_HELP_EE">
+			<Text>Replaces the Bastion. Provides fewer hitpoints but more strength. Cushoons adjacent to the city may sacrifice hitpoints to receive another Cushoon Rocket.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MYSORE_TARAMANDAL_PET_STRATEGY_EE">
+			<Text>The Taramandal Pet is a defensive building unique to Mysore, which provides fewer hitpoints (but more strength) than the Bastion, which it replaces. Building it allows for Cushoons adjacent to the city to sacrifice some of their hitpoints to receive an additional Cushoon Rocket, provided they have space to do so.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Unique Ability  - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_TRAIT_MC_FATHUL_MUJAHAIDIN_SHORT">
+			<Text>Fathul Mujahidin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_FATHUL_MUJAHAIDIN">
+			<Text>Missile and siege units are more effective against land units. For 5 turns after the outbreak of war, receive +50% [ICON_CULTURE] Culture and [ICON_RESEARCH] Science.</Text>
+		</Row>
+		<!--Dummy building tags-->
+		<Row Tag="TXT_KEY_BUILDING_MC_SCIENCE_CULTURE_DUMMY">
+			<Text>MC: Mysore UA Dummy (+50% [ICON_RESEARCH] Science and [ICON_CULTURE] Culture)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_DUMMY_TIMER">
+			<Text>MC: Mysore Timer dummy</Text>
+		</Row>
+		<!--Promo bonus vs units-->
+		<Row Tag="TXT_KEY_PROMOTION_MC_MYSORE">
+			<Text>Fathul Mujahidin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MYSORE_HELP">
+			<Text>+10% [ICON_STRENGTH] Combat Strength against land units.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Other assorted text for various traits- - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_MC_MYSORE_SCIENCE">
+			<Text>[COLOR_RESEARCH_STORED]+{1_Num} [ICON_RESEARCH] Science, {2_Var} trained[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MYSORE_CULTURE">
+			<Text>[COLOR_CULTURE_STORED]+{1_Num} [ICON_CULTURE] Culture, {2_Var} trained[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MYSORE_ROCKET_RESUPPLY">
+			<Text>[COLOR_POSITIVE_TEXT]Resupply Rockets[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MYSORE_ROCKET_RESUPPLY_TT">
+			<Text>Expend 50 hitpoints to receive an additional Cushoon Rocket</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MYSORE_ROCKET_RESUPPLY_TT_DISABLED_HEALTH">
+			<Text>[COLOR_WARNING_TEXT]Unit must have at least {1_Var} hitpoints[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MYSORE_ROCKET_RESUPPLY_TT_DISABLED_CITY">
+			<Text>[COLOR_WARNING_TEXT]Unit must be adjacent to, not inside, a city with a Taramandal Pet[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MYSORE_ROCKET_RESUPPLY_TT_CAPACITY">
+			<Text>[COLOR_WARNING_TEXT]Unit may only carry a maximum of two rockets[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MYSORE_ROCKET_RESUPPLY_TT_WARNING">
+			<Text>[COLOR_WARNING_TEXT]Warning: This action will expend {1_Var} hitpoints.[ENDCOLOR]</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Mod Support - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_MC_MYSORE_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now creating automaton tigers mauling their enemies and cultivating mulberry silk. I worry the rest of the world will succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_MC_MYSORE_INFLUENTIAL_ON_HUMAN_1">
+			<Text>I see that your people are now creating automaton tigers mauling their enemies and cultivating mulberry silk.  This will only continue.</Text>
+		</Row>
+		<!--Additional Achievements-->
+		<Row Tag="TXT_KEY_MOD_MC_MYSORE_NAME">
+			<Text>MC's Mysore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_MC_MYSORE_ID_STEAM">
+			<Text>182523df-604d-4d52-8f97-0bed797145f1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_MC_MYSORE_AUTHORS">
+			<Text>More Civs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_MC_MYSORE_VICTORY_HEADER">
+			<Text>Tiger of Mysore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_MC_MYSORE_VICTORY_TEXT">
+			<Text>Beat the game on any difficulty setting as Tipu Sultan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_MC_MYSORE_SPECIAL_HEADER">
+			<Text>Our muskets are backed with nuclear weapons!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_MC_MYSORE_SPECIAL_TEXT">
+			<Text>As Mysore, launch a nuclear missile from a Cushoon</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Misc Civ Text - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_MC_MYSORE">
+			<Text>Mysore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MYSORE_DESC">
+			<Text>Kingdom of Mysore</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_MC_MYSORE_SHORT_DESC">
+			<Text>Mysore</Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_MC_MYSORE_ADJECTIVE">
+			<Text>Mysorean</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Dawn of Man - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_MYSORE">
+			<Text>Let the rockets fly against your enemies, oh Badshah Tipu Sultan, Tiger of Mysore. It was your armies and rockets that provided the last resistance against the British in India, so much so that upon your death the British celebrated with a public holiday. But this was not your only endeavour, as you introduced a new coinage system, new land revenue system, developed the Mysore silk industry and pioneered Channapatna toys. Your wars against the Marathas and British forced them to recognise Mysore as a legitimate power in the region, but they grew jealous and anxious, respectively, and made alliance to destroy and depose you. Despite an alliance with Napoleon Bonepart and France, you were unable to hold on and succumbed, declaring that it was better to live one day as a tiger than a thousand years as a sheep.[NEWLINE][NEWLINE]Your enemies have had their way, but it is time for you to take your revenge. Build a new arsenal and take your revenge. Rebuild and reinvigorate your empire. Can you innovate and strategise new ways to defeat your enemies and keep control of your lands? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Diplomacy Lines - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_FIRSTGREETING_1">
+			<Text>Welcome to Mysore. This land, rich and fertile, will reward those that work on it. I hope you come with good intentions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_DEFEATED_1">
+			<Text>It is far better to live like a tiger for a day than to live like a jackal for a hundred years.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_DOW_GENERIC_1">
+			<Text>Looting a conquered enemy enriches a few, impoverishes the nation and dishonours the entire army. Wars must be linked to battlefields. Do not carry them to innocent civilians. Honour their women, respect their religion, and protect their children and the infirm.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_ATTACKED_HOSTILE">
+			<Text>My land is under my management... you would be wise to move your troops to somewhere less aggressive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_DEC_FRIENDSHIP_1">
+			<Text>I am very desirous of engaging in this pursuit, to engage in friends with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_DENOUNCE_1">
+			<Text>To begin the so much desired work of ceasing your regime... it will not be long before all nations and people grow tired of your antics.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>a
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_DENOUNCE_FRIEND_1">
+			<Text>The imbecility and ruinous condition of your country is obvious. I do not want anything to do with you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Don't you know I have achieved a great victory recently? Are you determined for me to march against you?</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Spy Names - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MYSORE_0">
+			<Text>Krishnacharya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MYSORE_1">
+			<Text>Arcot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MYSORE_2">
+			<Text>Revaraja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MYSORE_3">
+			<Text>Latif</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MYSORE_4">
+			<Text>Ali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MYSORE_5">
+			<Text>Sahib</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MYSORE_6">
+			<Text>Jinnah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MYSORE_7">
+			<Text>Nandini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MYSORE_8">
+			<Text>Jayachamaraja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MYSORE_9">
+			<Text>Yaduraya</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Civilopedias  - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!--Civilisation Pedia-->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MYSORE_TITLE">
+			<Text>Mysore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_TEXT_1">
+			<Text>The Kingdom of Mysore was a realm in the southern part of Deccan Plateau. The kingdom, which was founded and ruled for the most part by the Hindu Wodeyar family, initially served as feudatories under the Vijayanagara Empire. The 17th century saw a steady expansion of its territory and during the rule of Narasaraja Wodeyar I and Chikka Devaraja Wodeyar, the kingdom annexed large expanses of what is now southern Karnataka and parts of Tamil Nadu to become a powerful state in the southern Deccan. During a brief Muslim rule, the kingdom shifted to a Sultanate style of administration under Hyder Ali and Tipu Sultan. During this time, it came into conflict with the Marathas, the Nizam of Hyderabad, the Kingdom of Travancore and the British, which culminated in the four Anglo-Mysore Wars. The British restored the Wodeyars to their throne by way of a subsidiary alliance and the diminished Mysore was transformed into a princely state. The Wodeyars continued to rule the state until Indian independence in 1947, when Mysore acceded to the Union of India.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_HEADING_2">
+			<Text>Vassals of Vijayanagara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_TEXT_2">
+			<Text>According to traditional accounts, the kingdom originated as a small state based in the modern city of Mysore and was founded by two brothers, Yaduraya, also known as Vijaya, and Krishnaraya. Their origins are mired in legend and are still a matter of debate. The brothers, upon marrying a princess, assumed the feudal title Wodeyar. The first unambiguous mention of the Wodeyar family is in 16th century Kannada literature from the reign of the Vijayanagara king Achyuta Deva Raya. The kings who followed ruled as vassals of the Vijayanagara Empire until the decline of the latter in 1565. By this time, the kingdom had expanded to thirty-three villages protected by a force of 300 soldiers. After the death of Aravidu Aliya Rama Raya, the Wodeyars began to assert themselves further and King Raja Wodeyar I wrested control of Srirangapatna from the Vijayanagara governor. By 1612, the Wodeyars exercised a great deal of autonomy and even though they acknowledged the nominal overlordship of the Aravidu dynasty, tributes and transfers of revenue to Chandragiri stopped. This was in marked contrast to other major chiefs, the Nayaks of Tamil country who continued to pay off Chandragiri emperors well into the 1630s.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_HEADING_3">
+			<Text>Maharajas of Mysore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_TEXT_3">
+			<Text>Chamaraja VI and Kanthirava Narasaraja I attempted to expand further northward but were thwarted by the Bijapur Sultanate and its Maratha subordinates, though the Bijapur armies under Ranadullah Khan were effectively repelled in their 1638 siege of Srirangapatna. Chikka Devaraja, the most notable of Mysore's early kings, who ruled during much of this period, managed to not only survive the Mughal and Maratha threats, but also expand territory further, by forging strategic alliances with them. The kingdom soon grew to include Salem and Bangalore to the east, Hassan to the west, Chikkamagaluru and Tumkur to the north and the rest of Coimbatore to the south. Despite this expansion, the kingdom, which now accounted for a fair share of land in the southern Indian heartland, extending from the Western Ghats to the western boundaries of the Coromandel plain, remained landlocked without direct coastal access. Nevertheless, from around 1704, when the kingdom passed on to the Mute King Kanthirava Narasaraja II, the survival and expansion of the kingdom was achieved by playing a delicate game of alliance, negotiation, subordination on occasion, and annexation of territory in all directions. Mysore was now formally a tributary of the Mughal Empire. Mughul records claim a regular tribute by Mysore. By the 1720s, with the Mughal empire in decline, further complications arose with the Mughal residents at both Arcot and Sira claiming tribute. The latter part of the rule of Krishnaraja II saw the Deccan Sultanates being eclipsed by the Mughals and in the confusion that ensued, Hyder Ali, a captain in the army, rose to prominence. His victory against the Marathas at Bangalore in 1758, resulting in the annexation of their territory, made him an iconic figure. In honour of his achievements, the king gave him the title "Nawab Haider Ali Khan Bahadur".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_HEADING_4">
+			<Text>The Rise of Hyder Ali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_TEXT_4">
+			<Text>Hyder Ali was a noted fighter and deft administrator. The rise of Hyder came at a time of important political developments in the sub-continent. While the European powers were busy transforming themselves from trading companies to political powers, the Nizam as the Subahdar of the Mughals pursued his ambitions in the Deccan, and the Marathas, following their defeat at Panipat, sought safe havens in the south. The period also saw the French vie with the British for control of the Carnatic, a contest in which the British would eventually prevail as British commander Sir Eyre Coote decisively defeated the French under the Comte de Lally at the Battle of Wandiwash in 1760, a watershed in Indian history as it cemented British supremacy in South Asia. Though the Wodeyars remained the nominal heads of Mysore during this period, real power lay in the hands of Hyder Ali and his son Tipu. By 1761, Maratha power had diminished and by 1763, Hyder Ali had captured the Keladi kingdom, defeated the rulers of Bilgi, Bednur and Gutti, invaded the Malabar Coast in the south and conquered the Zamorin's capital Calicut with ease in 1766 and extended the Mysore kingdom up to Dharwad and Bellary in the north. Mysore was now a major political power in the subcontinent and Haider's meteoric rise from relative obscurity and his defiance formed one of the last remaining challenges to complete British hegemony over the Indian subcontinent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_HEADING_5">
+			<Text>The Anglo-Mysore Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_TEXT_5">
+			<Text>In a bid to stem Hyder's rise, the British allied with the Marathas and the Nizam of Golconda, culminating in the First Anglo-Mysore War in 1767. Despite numerical superiority, Hyder Ali suffered defeats at the battles of Chengham and Tiruvannamalai. The British ignored his overtures for peace until Hyder Ali had strategically moved his armies to within five miles of Madras, modern Chennai, and he was able to successfully sue for peace. In 1770, when the Maratha armies of Madhavrao Peshwa invaded Mysore, Hyder expected British support as per the 1769 treaty but they betrayed him by staying out of the conflict. The British betrayal and Hyder's subsequent defeat reinforced Hyder's deep distrust of the British, a sentiment that would be shared by his son and one that would inform Anglo-Mysore rivalries of the next three decades. In 1777, Haider Ali recovered the previously lost territories of Coorg and parts of what would later become Malabar District from the Marathas. Hyder Ali's army advanced towards the Marathas and fought them at the Battle of Saunshi and came out victorious during the same year. By 1779, Hyder Ali had captured parts of modern Tamil Nadu and Kerala in the south. In 1780, he befriended the French and made peace with the Marathas and the Nizam However, Hyder Ali was betrayed by the Marathas and the Nizam, who made treaties with the British as well. In July 1779, Hyder Ali headed an army of 80,000, mostly cavalry, descending through the passes of the Ghats amid burning villages, before laying siege to British forts in northern Arcot starting the Second Anglo-Mysore War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_HEADING_6">
+			<Text>Bloody Noses on Both Sides</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_TEXT_6">
+			<Text>Hyder Ali had some initial successes against the British notably at Pollilur, the worst defeat the British suffered in India until Chillianwala, and Arcot, until the arrival of Sir Eyre Coote, when the fortunes of the British began to change. On 1 June 1781 Coote struck the first heavy blow against Hyder Ali in the decisive Battle of Porto Novo. The battle was won by Coote against odds of five to one and is regarded as one of the greatest feats of the British in India. It was followed up by another hard-fought battle at Pollilur on 27 August, in which the British won another success, and by the rout of the Mysore troops at Sholinghur a month later. Hyder Ali died on 7 December 1782, even as fighting continued with the British. He was succeeded by his son Tipu Sultan who continued hostilities against the British by recapturing Baidanur and Mangalore.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_HEADING_7">
+			<Text>The Tiger of Mysore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_TEXT_7">
+			<Text>By 1783 neither the British nor Mysore were able to obtain a clear overall victory. The French withdrew their support of Mysore following the peace settlement in Europe. Undaunted, Tipu, popularly known as the "Tiger of Mysore", continued the war against the British but lost some regions in modern coastal Karnataka to them. The Maratha–Mysore War occurred between 1785 and 1787 and consisted of a series of conflicts between the Sultanate of Mysore and the Maratha Empire. Following Tipu Sultan's victory against the Marathas at the siege of Bahadur Benda, a peace agreement was signed between the two kingdoms with mutual gains and losses. Similarly, the treaty of Mangalore was signed in 1784 bringing hostilities with the British to a temporary and uneasy halt and restoring the others' lands to the status quo ante bellum. The treaty is an important document in the history of India because it was the last occasion when an Indian power dictated terms to the British, who were made to play the role of humble supplicants for peace. A start of fresh hostilities between the British and French in Europe would have been sufficient reason for Tipu to abrogate his treaty and further his ambition of striking at the British. His attempts to lure the Nizam, the Marathas, the French and the Sultan of Turkey failed to bring direct military aid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_HEADING_8">
+			<Text>The End of the Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_TEXT_8">
+			<Text>Tipu's successful attacks in 1790 on the Kingdom of Travancore, a later British ally, ended in defeat for him, and it resulted in greater hostilities with the British which culminated in the Third Anglo-Mysore War. In the beginning, the British made gains, taking the Coimbatore district, but Tipu's counterattack reversed many of these gains. By 1792, with aid from the Marathas who attacked from the north-west and the Nizam who moved in from the north-east, the British under Lord Cornwallis successfully besieged Srirangapatna, resulting in Tipu's defeat and the Treaty of Srirangapatna. Half of Mysore was distributed among the allies, and two of his sons were held to ransom. A humiliated but indomitable Tipu went about rebuilding his economic and military power. He attempted to covertly win over support from Revolutionary France, the Amir of Afghanistan, the Ottoman Empire and Arabia. However, these attempts to involve the French soon became known to the British, who were at the time fighting the French in Egypt and were backed by the Marathas and the Nizam. In 1799, Tipu died defending Srirangapatna in the Fourth Anglo-Mysore War, heralding the end of the Kingdom's independence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_HEADING_9">
+			<Text>The Princely Puppets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_MYSORE_TEXT_9">
+			<Text>Following Tipu's fall, a part of the kingdom of Mysore was annexed and divided between the Madras Presidency and the Nizam. The remaining territory was transformed into a Princely State. The British then took control of Mysore's foreign policy and also exacted an annual tribute and a subsidy for maintaining a standing British army at Mysore. The years that followed witnessed cordial relations between Mysore and the British until things began to sour in the 1820s. Even though the Governor of Madras, Thomas Munro, determined after a personal investigation in 1825 that there was no substance to the allegations of financial impropriety made by A. H. Cole, the incumbent Resident of Mysore, the Nagar revolt which broke out towards the end of the decade changed things considerably. In 1831, close on the heels of the insurrection and citing mal administration, the British took direct control of the princely state, placing it under a commission rule. For the next fifty years, Mysore passed under the rule of successive British Commissioners. In 1876–77, however, towards the end of the period of direct British rule, Mysore was struck by a devastating famine with estimated mortality figures ranging between 700,000 and 1,100,000, or nearly a fifth of the population. Shortly thereafter, Maharaja Chamaraja X, educated in the British system, took over the rule of Mysore in 1881, following the success of a lobby set up by the Wodeyar dynasty that was in favour of rendition. Mysore joined the Indian Union on 9 August 1947.</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MYSORE_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MYSORE_FACTOID_TEXT">
+			<Text></Text>
+		</Row>-->
+		<!--Leader Civilopedia-->
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_DESC">
+			<Text>Tipu Sultan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_LIVED">
+			<Text>1751 - 1799</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_NAME">
+			<Text>Tipu Sultan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_SUBTITLE">
+			<Text>Sultan of Mysore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_TITLES_1">
+			<Text>Sher-e-Mysore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_TITLES_2">
+			<Text>Badshah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_TEXT_1">
+			<Text>Tipu Sultan, commonly known as Sher-e-Mysore or "Tiger of Mysore", was the Indian Muslim ruler of the Kingdom of Mysore. A pioneer of rocket artillery, he introduced a number of administrative innovations during his rule, including a new coinage system and calendar, new land revenue system, which initiated the growth of the Mysore silk industry, and introduced Channapatna toys. Tipu Sultan and his father used their French-trained army in alliance with the French in their struggle with the British, and the conflicts with surrounding powers such as the Marathas. He won important victories against the British in the Second Anglo-Mysore War, but in the Fourth Anglo-Mysore War, a combined force of British East India Company troops supported by the Marathas and the Nizam of Hyderabad defeated Tipu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_HEADING_2">
+			<Text>Illiterate to Educated Prince in a Generation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_TEXT_2">
+			<Text>Tipu Sultan was born in Devanahalli, in present-day Bangalore Rural district. He was named "Tipu Sultan" after the saint Tipu Mastan Aulia of Arcot. Tipu's father, Hyder Ali, was a military officer in service to the Kingdom of Mysore who had become the de facto ruler of Mysore in 1761 while his mother Fatima Fakhr-un-Nisa was the daughter of Mir Muin-ud-Din, the governor of the fort of Kadapa. Being illiterate, Hyder was very particular in giving his eldest son a prince's education and a very early exposure to military and political affairs. Hyder Ali appointed able teachers to give Tipu an early education in subjects like Urdu, Persian, Arabic, Kannada, beary, Quran, Islamic jurisprudence, riding, shooting and fencing. From the age of 17 Tipu was given independent charge of important diplomatic and military missions. He was his father's right arm in the wars from which Hyder emerged as the most powerful ruler of southern India.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_HEADING_3">
+			<Text>A Father's Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_TEXT_3">
+			<Text>Tipu Sultan was instructed in military tactics by French officers in the employment of his father. At age 15, he accompanied his father against the British in the First Mysore War in 1766. He commanded a corps of cavalry in the invasion of Carnatic in 1767 at age 16. He also distinguished himself in the First Anglo-Maratha War of 1775–1779. In 1779, the British captured the French-controlled port of Mahé, which Tipu had placed under his protection, providing some troops for its defence. In response, Hyder launched an invasion of the Carnatic, with the aim of driving the British out of Madras. During this campaign in September 1780, Tipu Sultan was dispatched by Hyder Ali with 10,000 men and 18 guns to intercept Colonel William Baillie who was on his way to join Sir Hector Munro. In the Battle of Pollilur, Tipu decisively defeated Baillie. Out of 360 Europeans, about 200 were captured alive, and the sepoys, who were about 3800 men, suffered very high casualties. Tipu Sultan defeated Colonel Braithwaite at Annagudi near Tanjore on 18 February 1782. Braithwaite's forces, consisting of 100 Europeans, 300 cavalry, 1400 sepoys and 10 field pieces, was the standard size of the colonial armies. Tipu Sultan seized all the guns and took the entire detachment prisoner. In December 1781 Tipu Sultan successfully seized Chittur from the British. Tipu Sultan had thus gained sufficient military experience by the time Hyder Ali died. He immediately worked on to check the advances of the British by making alliances with the Marathas and the Mughals. The Second Mysore War came to an end with the 1784 Treaty of Mangalore.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_HEADING_4">
+			<Text>Maratha and Malabar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_TEXT_4">
+			<Text>The Maratha Empire, under its new Peshwa Madhavrao I, regained most of Indian subcontinent, twice defeating Tipu's father, who was forced to accept Maratha Empire as the supreme power in 1764 and then in 1767. In 1767 Maratha Peshwa Madhavrao defeated both Hyder Ali and Tipu Sultan and entered Srirangapatna, the capital of Mysore. Hyder Ali accepted the authority of Madhavrao who gave him the title of Nawab of Mysore. However Tipu Sultan wanted to escape from the treaty of Marathas and therefore tried to take some Maratha forts in Southern India, which were captured by Marathas in the previous war. Tipu also stopped the tribute to Marathas which was promised by Hyder Ali. This brought Tipu in direct conflict with the Marathas, leading to the Maratha–Mysore War. Conflict ended with Treaty of Gajendragad in March 1787, as per which Tipu returned all the territory captured by Hyder Ali to Maratha Empire, in return for independence and recognition. However the Marathas ultimately betrayed Tipu and in the Fourth Anglo-Mysore War. In 1786 Tipu Sultan, again following the lead of his father, decided to build a navy consisting of 20 battleships of 72 cannons and 20 frigates of 65 cannons. In the year 1790 he appointed Kamaluddin as his Mir Bahar and established massive dockyards at Jamalabad and Majidabad. Tipu Sultan ordered that the ships have copper-bottoms, an idea that increased the longevity of the ships and was introduced to Tipu by Admiral Suffren. Due to their perpetual battle engagements, Haidar and Tipu required a disciplined standing army. Thus, Rajputs, Muslims and able tribal men were enrolled for full time service replacing the local militia called the Kandachar, a  force of agricultural origin which existed in the Mysore army earlier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_HEADING_5">
+			<Text>Coins and Copper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_TEXT_5">
+			<Text>The coinage of Tipu Sultan is one of the most complex and fascinating series struck in India during the 18th century. Local South India coinage had been struck in the area that became Mysore since ancient times, with the first gold coinage introduced about the 11th century, usually in elephant pagoda style, until Hyder Ali added pagodas with Persian legends, plus a few very rare gold mohurs and silver rupees, always in the name of the Mughal emperor Shah Alam II. Tipu Sultan, continued to issue pagodas, mohurs and rupees, with legends that were completely new. He also introduced new denominations. Tipu Sultan earned the nickname the Tiger of Mysore. It is said that Tipu Sultan was hunting in the forest with a French friend. They came face to face with a tiger there. The tiger first pounced on the French soldier and killed him. Tipu's gun did not work, and his dagger fell on the ground as the tiger jumped on him. He reached for the dagger, picked it up, and killed the tiger with it. That earned him the name "the Tiger of Mysore". He even had French engineers build a mechanical tiger toy for his palace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_HEADING_6">
+			<Text>The Rockets of Mysore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_TEXT_6">
+			<Text>In 1789, Tipu Sultan disputed the acquisition by Dharma Raja of Travancore of two Dutch-held fortresses in Cochin. In December 1789 he massed troops at Coimbatore, and on 28 December made an attack on the lines of Travancore, knowing that Travancore was an ally of the British East India Company. On account of the staunch resistance by the Travancore army, Tipu was unable to break through the Tranvancore lines and the Maharajah of Travancore appealed to the East India Company for help. In response, Lord Cornwallis mobilised company and British military forces, and formed alliances with the Marathas and the Nizam of Hyderabad to oppose Tipu. In 1790 the company forces advanced, taking control of much of the Coimbatore district. Tipu counter-attacked, regaining much of the territory, although the British continued to hold Coimbatore itself. He then descended into the Carnatic, eventually reaching Pondicherry, where he attempted without success to draw the French into the conflict. This conflict extensively used rocketry, as Tipu Sultan's father had expanded on Mysore's use of rocketry, making critical innovations in the rockets themselves and the military logistics of their use. He deployed as many as 1,200 specialised troops in his army to operate rocket launchers. These men were skilled in operating the weapons and were trained to launch their rockets at an angle calculated from the diameter of the cylinder and the distance to the target. They were first used against Britain in the Third Anglo-Mysore War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_HEADING_7">
+			<Text>Holding Out For Allies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_TEXT_7">
+			<Text>In 1791 his opponents advanced on all fronts, with the main British force under Cornwallis taking Bangalore and threatening Srirangapatna. Tipu harassed the British supply and communication and embarked on a "scorched earth" policy of denying local resources to the British. In this last effort he was successful, as the lack of provisions forced Cornwallis to withdraw to Bangalore rather than attempt a siege of Srirangapatna. Following the withdrawal, Tipu sent forces to Coimbatore, which they retook after a lengthy siege. The 1792 campaign was a failure for Tipu. The allied army was well-supplied, and Tipu was unable to prevent the junction of forces from Bangalore and Bombay before Srirangapatna. After about two weeks of siege, Tipu opened negotiations for terms of surrender. In the ensuing treaty, he was forced to cede half his territories to the allies, and deliver two of his sons as hostages until he paid in full three crores and thirty lakhs rupees fixed as war indemnity to the British for the campaign against him. He paid the amount in two instalments and got back his sons from Madras. In 1794, with the support of French Republican officers, Tipu allegedly helped found the Jacobin Club of Mysore for 'framing laws comfortable with the laws of the Republic'. He planted a Liberty Tree and declared himself Citizen Tipu. In a 2005 paper, historian Jean Boutier argued that the club's existence, and Tipu's involvement in it, was fabricated by the East India Company in order to justify British military intervention against Tipu. One of the motivations of Napoleon's invasion of Egypt was to establish a junction with India against the British. Bonaparte wished to establish a French presence in the Middle East, with the ultimate dream of linking with Tipu Sultan. According to a 13 February 1798 report by Talleyrand: "Having occupied and fortified Egypt, we shall send a force of 15,000 men from Suez to India, to join the forces of Tipu-Sahib and drive away the English."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_HEADING_8">
+			<Text>Living One Day as a Tiger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_TEXT_8">
+			<Text>Horatio Nelson defeated François-Paul Brueys D'Aigalliers at the Battle of the Nile in Egypt in 1798. Three armies marched into Mysore in 1799—one from Bombay and two British, one of which included Arthur Wellesley. They besieged Srirangapatna in the Fourth Anglo-Mysore War. Tipu Sultan's ministers betrayed him by weakening the walls to make an easy path for the British. When the British broke through the city walls, French military advisers told Tipu Sultan to escape via secret passages and to fight the rest of the wars from other forts, but he refused. Tipu famously said "Better to live one day as a tiger than a thousand years as a sheep". Tipu Sultan was killed at the Hoally Gateway. He was buried the next afternoon at the Gumaz, next to the grave of his father. Many members of the British East India Company believed that Nawab of Carnatic Umdat Ul-Umra secretly provided assistance to Tipu Sultan during the war and sought his deposition after 1799. When he died there were jubilant celebrations in Britain, with authors, playwrights and painters creating works to celebrate it. The death of Tipu Sultan was celebrated with declaration of public holiday in Britain.</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_FACTOID_HEADING">
+			<Text>Uzun Hasan Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TIPU_SULTAN_FACTOID_TEXT">
+			<Text></Text>
+		</Row>-->
+		<!--=============================================================-->
+		<!-- City List - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_MYSORE">
+			<Text>Mysore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_SRIRANGAPATNA">
+			<Text>Srirangapatna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_BANGALORE">
+			<Text>Bangalore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_CALICUT">
+			<Text>Calicut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_KELADI">
+			<Text>Keladi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_MANGALORE">
+			<Text>Mangalore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_CHANNAPATNA">
+			<Text>Channapatna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_SALEM">
+			<Text>Salem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_KARWAR">
+			<Text>Karwar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_ERODE">
+			<Text>Erode</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_HASSAN">
+			<Text>Hassan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_DHARWAD">
+			<Text>Dharwad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_DHARMAPURI">
+			<Text>Dharmapuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_BIDANUR">
+			<Text>Bidanur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_CHITRADURGA">
+			<Text>Chitradurga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_BEKALA">
+			<Text>Bekala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_MADIKERI">
+			<Text>Madikeri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_TELLICHERRY">
+			<Text>Tellicherry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_KAVERIPATTINAM">
+			<Text>Kaveripattinam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_CUDDAPAH">
+			<Text>Cuddapah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_CHIKKAMAGALURU">
+			<Text>Chikkamagaluru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_TUMKUR">
+			<Text>Tumkur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_SIRA">
+			<Text>Sira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_COIMBATORE">
+			<Text>Coimbatore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_KURNOOL">
+			<Text>Kurnool</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_BELLARY">
+			<Text>Bellary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_PERIYAPATNA">
+			<Text>Periyapatna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_GURRAMAKONDA">
+			<Text>Gurramakonda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_GUTTY">
+			<Text>Gutty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_SATHYAMANGALAM">
+			<Text>Sathyamangalam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_GAJENDRAGAD">
+			<Text>Gajendragad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MYSORE_GURRAMKONDA">
+			<Text>Gurramkonda</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

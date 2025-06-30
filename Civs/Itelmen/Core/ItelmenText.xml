@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/7/2022 11:47:29 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_KAMMAMARK">
+			<Text>Koannym</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_1">
+			<Text>Koannym</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_2">
+			<Text>Mashurin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_3">
+			<Text>Shantal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_4">
+			<Text>Yelovka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_5">
+			<Text>Tigil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_6">
+			<Text>Chineshisheliu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_7">
+			<Text>Avacha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_8">
+			<Text>Utkholok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_9">
+			<Text>Malka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_10">
+			<Text>Kyllush</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_11">
+			<Text>Tarein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_12">
+			<Text>Chakazhuzh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_13">
+			<Text>Usaul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_14">
+			<Text>Karymchin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_15">
+			<Text>Chaapyngan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_16">
+			<Text>Aushin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_17">
+			<Text>Kashkhau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_18">
+			<Text>Kupka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_19">
+			<Text>Nachikin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_20">
+			<Text>Takaut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_21">
+			<Text>Koazhchkhozhu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_22">
+			<Text>Ksybilgyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_23">
+			<Text>Neiaeie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_24">
+			<Text>Ankompo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_25">
+			<Text>Sigikan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_26">
+			<Text>Sushazhuch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_27">
+			<Text>Amanino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_28">
+			<Text>Myshku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_29">
+			<Text>Guntyn-Makailon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_30">
+			<Text>Uaushimmel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_31">
+			<Text>Kapichurer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_32">
+			<Text>Itytkhoch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_33">
+			<Text>Gychen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_34">
+			<Text>Dachkhon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_35">
+			<Text>Kashkhoin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_36">
+			<Text>Kovran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_37">
+			<Text>Sikushkin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_38">
+			<Text>Eshkun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_39">
+			<Text>Kaunych</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_40">
+			<Text>Karimaev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_41">
+			<Text>Zastoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_42">
+			<Text>Tenevin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_43">
+			<Text>Pingaushch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_44">
+			<Text>Kakeich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_45">
+			<Text>Adagut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_46">
+			<Text>Takhlaatynum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_47">
+			<Text>Seukhli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_48">
+			<Text>Kuakuach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_49">
+			<Text>Uka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_50">
+			<Text>Totkapen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_51">
+			<Text>Shvannolom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_52">
+			<Text>Ganalina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_53">
+			<Text>Shkuazhch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_54">
+			<Text>Kharchin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_55">
+			<Text>Milkhiia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_56">
+			<Text>Kivrin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_57">
+			<Text>Oaut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_58">
+			<Text>Kyrganik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_59">
+			<Text>Kolko-Kro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_60">
+			<Text>Shopkhad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_61">
+			<Text>Chachamzhu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_62">
+			<Text>Alaun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_63">
+			<Text>Shepen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_64">
+			<Text>Kuuiukchen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_65">
+			<Text>Kygynumt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_66">
+			<Text>Shemachin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_ITELMEN_67">
+			<Text>Orat</Text>
+		</Row>
+
+
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_ITELMEN_0">
+			<Text>Kana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_ITELMEN_1">
+			<Text>Chegech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_ITELMEN_2">
+			<Text>Keshleia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_ITELMEN_3">
+			<Text>Briamkina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_ITELMEN_4">
+			<Text>Billukai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_ITELMEN_5">
+			<Text>Khutlyzhich</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_ITELMEN_6">
+			<Text>Zavina-Kugagt</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_ITELMEN_7">
+			<Text>Ilkkhum</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_ITELMEN_8">
+			<Text>Nyaa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_ITELMEN_9">
+			<Text>Siduka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<!--Basic Info-->
+		<Row Tag="TXT_KEY_LEADER_RHO_HARCHIN">
+			<Text>Harchin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_RHO_ITELMEN_ADJ">
+			<Text>Itelmen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_RHO_ITELMEN">
+			<Text>The Itelmen</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_RHO_ITELMEN_SHORT">
+			<Text>The Itelmen</Text>
+			<Plurality>2</Plurality>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="TXT_KEY_PEDIA_RHO_ITELMEN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_ITELMEN_TEXT_1">
+			<Text>The Itelmens are an Indigenous ethnic group of the Kamchatka Peninsula in Russia. The Itelmen language is distantly related to Chukchi and Koryak, forming the Chukotko-Kamchatkan language family, but it is now virtually extinct, the vast majority of ethnic Itelmens being native speakers of Russian. Native peoples of Kamchatka (Itelmen, Ainu, Koryaks, and Chuvans), collectively referred to as Kamchadals, had a substantial hunter-gatherer and fishing society with up to fifty thousand natives inhabiting the peninsula before they were decimated during the Russian conquest, both by brutal repressions of the rebellions of locals and by a major smallpox epidemic, in the 18th century. So much intermarriage took place between the natives and the Cossacks that Kamchadal now refers to the majority mixed population, while the term Itelmens became reserved for persistent speakers of the Itelmen language. Itelmens resided primarily in the valley of the Kamchatka River in the middle of the peninsula.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_ITELMEN_HEADING_2">
+			<Text>Villages</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_ITELMEN_TEXT_2">
+			<Text>Itelmens tended to settle along the various rivers of the Kamchatka Peninsula. At the time of the arrival of the first Cossacks to the peninsula, in the early 1650s, villages numbered between 200 and 300 residents, a number which had dwindled to 40 or 50 at most by the time of the composition of Steller's account in 1744. When a village became too large to sustain itself, it was divided and a portion of the villagers would create a settlement at another point along the same river. Steller describes a great variation of dialects from river to river, as the Itelmens predominantly communicated with communities which shared the river. The Sarana (lily) was a staple food, and was also often mixed with various other fruits of nature and seafood at celebrations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_ITELMEN_HEADING_3">
+			<Text>Religion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_ITELMEN_TEXT_3">
+			<Text>The Itelmens subscribed to a polytheistic religion. The creative god was referred to as Kutka or Kutga. Though he is regarded as the creator of all things, Steller describes a complete lack of veneration for him. The Itelmens attribute the problems and difficulties of life to his stupidity, and are quick to scold or curse him. They believed Kutka to be married to an intelligent woman named Chachy, who was said to have kept him from much foolishness and to have corrected him constantly. Kutka was believed to have lived on the greatest rivers of the Kamchatka Peninsula, and is said to have left a son and daughter for each river, which is used to explain the great variety of dialects present on the peninsula. Various spirits inhabiting all parts of nature were also believed in, if not venerated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_HARCHIN_NAME">
+			<Text>Harchin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_HARCHIN_SUBTITLE">
+			<Text>Leader of the Itelmen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_HARCHIN_TITLES_1">
+			<Text>Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_HARCHIN_LIVED">
+			<Text>d.1731</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_HARCHIN_HEADING_1">
+			<Text>Biography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_HARCHIN_TEXT_1">
+			<Text>Harchin, aka Fyodor or Fetka Kharchin, was an Itelmen chief of Koannym, near the Kamchatka River valley, in the 1700s. By the 1730s, Russian traders had become overlords, and rebellious sentiment among Itelmen was high. Coordinating plans across the entire peninsula, Harchin and one Chugotche, chief of another settlement, waited until the right time. In 1731, most of the cossacks residing in Kamchatka were ordered to go to Anadyr to suppress a Chukchi rebellion, and with this chance the Itelmen rebels also struck. Sailing down the great Kamchatka River, the heart of the peninsula, they burned down any russian settlements they saw and killed any soldiers remaining. Eventually reaching the biggest colonial fort around, at the mouth of the Kamchatka, a gambit saw them rout the defenders and slaughter the inhabitants. Drunk on victory, the rebels made mockery of the christian religion that had been forced upon them - they celebrated their own Itelmen gods while dressed in priest's robes and made a fake mass. Unfortunately, bad weather at sea had forced the party bound for Anadyr to return, and only three days after the taking of the fort the Russians returned, at full strength. Russian cannons broke the walls of the Russian fort that Harchin and his comrades had occupied, refusing false promises of surrenders or pardons. Eventually the fresh imperial force overwhelmed the defenders, and they were slowly picked off. Most Itelmen fought to the end, but the few who surrendered were killed anyway. Chugotche and many others were killed as well, either by the Russians or by other Itelmen who had not rebelled. Harchin himself was taken prisoner, but no mention is made of the chief afterwards. The russians went to great appeasement efforts to quiet any other rebellious sentiment after this, and no revolt so major ever followed.</Text>
+		</Row>
+
+		<!--Gameplay-->
+		<Row Tag="TXT_KEY_CIV5_DAWN_RHO_ITELMEN_TEXT">
+			<Text>
+				Glory to you, Fyodor Harchin, proud Itelmen and bane of the Russians! Before you knew it, the trickle of colonizers grasped your beautiful land and claimed they owned it, your disparate Itelmen too unused to uniting to fight back. However, the small spark inside you grew into a roaring flame, and when the invaders who had wormed their way into your people's land let down their guards, you struck. The Russian fortresses went up in flames and with no defenders left, you celebrated your victory by mocking their strange customs. Alas, brave leader, it was not to last, for events on the seas had foreign fleets full of fighters at your throat before you were ready, and your people were routed. Neglected and conquered, your people and their identity slowly faded from history.[NEWLINE][NEWLINE] But today, o Harchin, even in a small corner of the world your traditions and language are yet remembered. The Itelmen cry out to be heard, and surely you can answer. Can you reignite the fire of Alkhalalalai? Can you expel the demons lurking in the trees once more? Can you build a civilization to stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RHO_COUNTLESS_CHILDREN_SHORT">
+			<Text>Countless Children of Mitti and Kutkh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RHO_COUNTLESS_CHILDREN">
+			<Text>
+				[ICON_FOOD] Food stored after growth is sent to smaller cities on the same river instead, or else it is used to improve nearby tiles with Farms. Every different river you have settled provides +1 [ICON_PEACE] Faith and +3 [ICON_CULTURE] Culture globally.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_KAMMA">
+			<Text>Kamma Suppressor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_KAMMA_HELP">
+			<Text>A Crossbowman replacement that is faster in wooded terrain, gains Faith from kills, and can lock down enemies in Forests.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_KAMMA_STRATEGY">
+			<Text>A Crossbowman replacement. Double Movement through Forest and Jungle. Gains Faith from kills. Adjacent Barbarians or enemy gun units on Forest tiles cannot move.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_KAMMA_TEXT">
+			<Text>Kamma, according to one account was a devilish figure trapped in a tree near Nizhnoi, which had to be shot with arrows each year to keep contained. This may be the same word as Kamul/Gamuli, malevolent spirits believed to live high in the mountains and volcanoes of Kamchatka, who had to be scared off with a grimace. Itelmen bows were quite sophisticated, used for hunting and for warfare.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_PEHMY">
+			<Text>Pehmy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_PEHMY_HELP">
+			<Text>Unique replacement for the Granary. Only The Itelmen may build it. Provides Food on sources of Fish and Salt instead of Bananas. +1 Production in a river city. If built in a city on Tundra or Snow, enables construction of a Kist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_PEHMY_STRATEGY">
+			<Text>Unique replacement for the Granary. Only The Itelmen may build it. Provides Food on sources of Fish and Salt instead of Bananas. +1 Production in a river city. If built in a city on Tundra or Snow, enables construction of a Kist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_PEHMY_TEXT">
+			<Text>The Pehmy (also Pehm, Mem, Balagan), is the traditional Itelmen summer dwelling. Raised on stilts to provide reprieve from river floods, each family had their own Pehmy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_KIST">
+			<Text>Kist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_KIST_HELP">
+			<Text>Requires a Pehmy in a Tundra or Snow city to be built. Provides +2 Food, +1 Culture and stores 20% of Food after Growth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_KIST_STRATEGY">
+			<Text>Requires a Pehmy in a Tundra or Snow city to be built. Provides +2 Food, +1 Culture and stores 20% of Food after Growth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_KIST_TEXT">
+			<Text>The Kist is the traditional Itelmen winter dwelling. Dug 1-2m into the ground and coated with sticks and straw, the Kist was a large affair that housed several families, and provided shelter from the harsh winter cold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_KAMMAMARK">
+			<Text>Suppressed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_KAMMAMARK_HELP">
+			<Text>Cannot Move.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_RHO_HARCHIN_FIRSTGREETING_1">
+			<Text>More newcomers! Well, get settled in then, it's a land for all to share. Just make sure to avoid the volcanoes and the demons, and you'll be fine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HARCHIN_DEFEATED_1">
+			<Text>Pah! One day, the gods will dance on your grave too, demon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HARCHIN_DOWGENERIC_1">
+			<Text>Nothing personal, you just have something I want. Have you said your strange prayers, outsider?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HARCHIN_ATTACKEDHOSTILE_1">
+			<Text>I understand, I understand. I'm not just going to roll over for you though, you know?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HARCHIN_DENOUNCE_1">
+			<Text>Why did accursed Kutkh make the world with you in it? Foul being.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

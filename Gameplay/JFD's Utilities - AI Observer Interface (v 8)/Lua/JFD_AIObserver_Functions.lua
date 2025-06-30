@@ -7,17 +7,17 @@ include("JFD_AIObserver_Utils.lua")
 -- GLOBALS
 --==========================================================================================================================
 ----------------------------------------------------------------------------------------------------------------------------
-local g_ConvertTextKey        = Locale.ConvertTextKey
-local g_MapGetPlot            = Map.GetPlot
-local g_MathCeil              = math.ceil
-local g_MathFloor             = math.floor
-local g_MathMax               = math.max
-local g_MathMin               = math.min
+local g_ConvertTextKey  = Locale.ConvertTextKey
+local g_MapGetPlot		= Map.GetPlot
+local g_MathCeil		= math.ceil
+local g_MathFloor		= math.floor
+local g_MathMax			= math.max
+local g_MathMin			= math.min
 
-local Players                 = Players
-local HexToWorld              = HexToWorld
-local ToHexFromGrid           = ToHexFromGrid
-local Teams                   = Teams
+local Players 			= Players
+local HexToWorld 		= HexToWorld
+local ToHexFromGrid 	= ToHexFromGrid
+local Teams 			= Teams
 --==========================================================================================================================
 -- CORE FUNCTIONS
 --==========================================================================================================================
@@ -27,9 +27,9 @@ local Teams                   = Teams
 --==========================================================================================================================
 ----------------------------------------------------------------------------------------------------------------------------
 -- local opSupressNotifs = Game.GetCustomOption("GAMEOPTION_JFD_AIOBSERVER_SUPPRESS_NOTIFS");
-local opSupressNotifs         = Game.IsOption("GAMEOPTION_JFD_AIOBSERVER_SUPPRESS_NOTIFS");
+local opSupressNotifs = Game.IsOption("GAMEOPTION_JFD_AIOBSERVER_SUPPRESS_NOTIFS");
 -- local opSupressPopups = Game.GetCustomOption("GAMEOPTION_JFD_AIOBSERVER_SUPPRESS_POPUPS");
-local opSupressPopups         = Game.IsOption("GAMEOPTION_JFD_AIOBSERVER_SUPPRESS_POPUPS");
+local opSupressPopups = Game.IsOption("GAMEOPTION_JFD_AIOBSERVER_SUPPRESS_POPUPS");
 ----------------------------------------------------------------------------------------------------------------------------
 -- IGE
 ----------------------------------------------------------------------------------------------------------------------------
@@ -40,29 +40,27 @@ local opSupressPopups         = Game.IsOption("GAMEOPTION_JFD_AIOBSERVER_SUPPRES
 local controlMapOptionsButton = ("/InGame/WorldView/MiniMapPanel/MapOptionsButton")
 local function JFD_AIObserver_ChangeMapOptionsParent()
 	-- Controls.OverlayMapsButton:ChangeParent(ContextPtr:LookUpControl(controlMapOptionsButton))
-	-- Controls.IGEButton:ChangeParent(ContextPtr:LookUpControl(controlMapOptionsButton))
-	LuaEvents.IGE_SetOffsetXYForMainButton(430, 0)
+	Controls.IGEButton:ChangeParent(ContextPtr:LookUpControl(controlMapOptionsButton))
+	LuaEvents.IGE_SetOffsetXYForMainButton(430,0)
 end
 Events.LoadScreenClose.Add(JFD_AIObserver_ChangeMapOptionsParent);
 ----------------------------------------------------------------------------------------------------------------------------
 function OnOverlayMapsButton()
 	LuaEvents.JFD_UI_ShowOverlayMapsOverview()
 end
-
-Controls.OverlayMapsButton:RegisterCallback(Mouse.eLClick, OnOverlayMapsButton);
+Controls.OverlayMapsButton:RegisterCallback( Mouse.eLClick, OnOverlayMapsButton );
 ----------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 function OnIGEButton()
-	LuaEvents.IGE_Toggle()
+	LuaEvents.IGE_ShowHideMainButton()
 end
 
 if Game_IsIGEActive() then
-	Controls.IGEButton:RegisterCallback(Mouse.eLClick, OnIGEButton);
+	Controls.IGEButton:RegisterCallback( Mouse.eLClick, OnIGEButton );
 else
 	Controls.IGEButton:SetHide(true)
 end
-
 ----------------------------------------------------------------------------------------------------------------------------
 -- SUPPRESS NOTIFS
 ----------------------------------------------------------------------------------------------------------------------------
@@ -86,26 +84,26 @@ end
 -- SUPPRESS POPUPS
 ----------------------------------------------------------------------------------------------------------------------------
 --JFD_AIObserver_SerialEventGameMessagePopup
-function JFD_AIObserver_SerialEventGameMessagePopup(popupInfo)
-	if (popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_GOLDEN_AGE_REWARD) then
+function JFD_AIObserver_SerialEventGameMessagePopup( popupInfo )
+	if( popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_GOLDEN_AGE_REWARD ) then
 		UIManager:DequeuePopup(ContextPtr:LookUpControl("/InGame/GoldenAgePopup"));
-	elseif (popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_GREAT_PERSON_REWARD) then
+	elseif( popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_GREAT_PERSON_REWARD ) then
 		UIManager:DequeuePopup(ContextPtr:LookUpControl("/InGame/GreatPersonRewardPopup"));
-	elseif (popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_NEW_ERA) then
+	elseif( popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_NEW_ERA ) then
 		UIManager:DequeuePopup(ContextPtr:LookUpControl("/InGame/NewEraPopup"));
-	elseif (popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_WHOS_WINNING) then
+	elseif( popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_WHOS_WINNING ) then
 		UIManager:DequeuePopup(ContextPtr:LookUpControl("/InGame/WhosWinningPopup"));
-	elseif (popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_NATURAL_WONDER_REWARD) then
+	elseif( popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_NATURAL_WONDER_REWARD ) then
 		UIManager:DequeuePopup(ContextPtr:LookUpControl("/InGame/NaturalWonderPopup"));
-	elseif (popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_BARBARIAN_CAMP_REWARD) then
+	elseif( popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_BARBARIAN_CAMP_REWARD ) then
 		UIManager:DequeuePopup(ContextPtr:LookUpControl("/InGame/BarbarianCampPopup"));
-	elseif (popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_GOODY_HUT_REWARD) then
+	elseif( popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_GOODY_HUT_REWARD ) then
 		UIManager:DequeuePopup(ContextPtr:LookUpControl("/InGame/GoodyHutPopup"));
-	elseif (popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_CITY_STATE_GREETING) then
+	elseif( popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_CITY_STATE_GREETING ) then
 		UIManager:DequeuePopup(ContextPtr:LookUpControl("/InGame/CityStateGreetingPopup"));
-	elseif (popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_TECH_AWARD) then
+	elseif( popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_TECH_AWARD ) then
 		UIManager:DequeuePopup(ContextPtr:LookUpControl("/InGame/TechAwardPopup"));
-	elseif (popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_WONDER_COMPLETED_ACTIVE_PLAYER) then
+	elseif( popupInfo.Type == ButtonPopupTypes.BUTTONPOPUP_WONDER_COMPLETED_ACTIVE_PLAYER ) then
 		UIManager:DequeuePopup(ContextPtr:LookUpControl("/InGame/WonderPopup"));
 	end
 end

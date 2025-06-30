@@ -1,0 +1,51 @@
+Merry Christmas DMS!
+===========================================================================
+== Credits
+===========================================================================
+-- JakeWalrusWhale
+----------------
+Art (Map, UU and Civ Icons, Unit Models, Misc)
+Code
+Research
+Text (City List, Civ and Leader Pedias, Diplomacy Responses)
+Design
+
+----------------
+-- RawSasquatch
+----------------
+Art (Leaderscene, Leader Icon, DoM Image)
+
+----------------
+-- Zharques
+----------------
+Text (UU Pedias, DoM Text)
+
+----------------
+-- DarthKyofu
+----------------
+TSL, Nyau Icon Touchups
+
+----------------
+-- TopHatPaladin
+----------------
+Pillage Trigger
+
+----------------
+-- EmeraldRange
+----------------
+Unit Model help
+
+----------------
+-- Madando147
+----------------
+Research
+
+----------------
+-- "Traditional Dance by the Girls of Chiawa, Zambia" (https://www.youtube.com/watch?v=ImytlqwS7hg)
+----------------
+Audio (Peace)
+
+----------------
+-- "Nosk" by Christopher Larkin [From "Hollow Knight"]
+----------------
+Audio (War)

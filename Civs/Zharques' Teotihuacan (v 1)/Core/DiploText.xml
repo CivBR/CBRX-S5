@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_ZRQ_SPEAROWL_FIRSTGREETING_1">
+			<Text>Welcome to Teotihuacan, the city of the Pyramids of the Sun and the Moon. Respect my power, and be welcome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZRQ_SPEAROWL_DEFEATED_1">
+			<Text>Our temples shall still be standing when your name has been lost to time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZRQ_SPEAROWL_ATTACKED_HOSTILE">
+			<Text>I would say you'll live to regret this, but that would be a lie, because you will not live.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZRQ_SPEAROWL_DEC_FRIENDSHIP_1">
+			<Text>I think you can work with me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZRQ_SPEAROWL_DENOUNCE_1">
+			<Text>Let the atlatl of fear strike your hearts, for I am coming for you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZRQ_SPEAROWL_DENOUNCE_FRIEND_1">
+			<Text>You are a disappointment. I shall have you taken to our temples in chains, and it's nothing less than you deserve.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZRQ_SPEAROWL_DOW_GENERIC_1">
+			<Text>Your cities will make a fine addition to my empire with my son on their thrones.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZRQ_SPEAROWL_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Do you really think your idle threats make me fear you in any way whatsoever? Pathetic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GERMANY_BLUM_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now building Boulevards of the Dead and wearing war goggles. I worry the rest of the world will succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GERMANY_BLUM_INFLUENTIAL_ON_HUMAN_1">
+			<Text>I see that your people are now Boulevards of the Dead and wearing war goggles. This is excellent.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

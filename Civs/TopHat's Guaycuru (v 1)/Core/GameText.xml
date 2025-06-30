@@ -1,0 +1,261 @@
+<GameData>
+    <Language_en_US>
+        <!--the 1999 dissertation of Gastón Rafael Gordillo is my source for like 90% of the information in this file-->
+        <!--Cities-->
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_1">
+            <Text>Misión El Toba</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_2">
+            <Text>Sombrero Negro</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_3">
+            <Text>San Martín del Tabacal</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_4">
+            <Text>Laguna Martín</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_5">
+            <Text>Laguna Los Paces</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_6">
+            <Text>Jesús María</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_7">
+            <Text>Nuevo Pilcomayo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_8">
+            <Text>Misión Pilagá</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_9">
+            <Text>Vaca Perdida</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_10">
+            <Text>Pescado Negro</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_11">
+            <Text>Buenaventura</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_12">
+            <Text>Misión Chaqueña</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_13">
+            <Text>Selva San Andrés</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_14">
+            <Text>Ledesma</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_15">
+            <Text>La Esperanza</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_16">
+            <Text>Rivadavia</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_17">
+            <Text>San Isidro</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_18">
+            <Text>La Mendieta</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_19">
+            <Text>Desmonte</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_20">
+            <Text>Embarcación</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_21">
+            <Text>Orán</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_22">
+            <Text>Salta</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_23">
+            <Text>Jujuy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_24">
+            <Text>Bermejo</Text> <!--this and the following city are just rivers-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_25">
+            <Text>Paraná</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_26">
+            <Text>Mocoví</Text> <!--the rest of the cities are just Guaycuru subgroups-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_27">
+            <Text>Mbayá</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_28">
+            <Text>Kadiweu</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_29">
+            <Text>Abipón</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_GUAYCURU_30">
+            <Text>Payaguá</Text>
+        </Row>
+        
+        <!--Spies-->
+        <Row Tag="TXT_KEY_SPY_NAME_THP_GUAYCURU_0">
+            <Text>Carancho</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_GUAYCURU_1">
+            <Text>Kosodót</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_GUAYCURU_2">
+            <Text>Asin</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_GUAYCURU_3">
+            <Text>Peritnalik</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_GUAYCURU_4">
+            <Text>Nedámik</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_GUAYCURU_5">
+            <Text>Weda'ik</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_GUAYCURU_6">
+            <Text>Aleixo Garcia</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_GUAYCURU_7">
+            <!--you could probably make an alt guaycuru under tayolique if you were so inclined-->
+            <!--but he'd need to have a gun and stuff and i already made an LS without one, so.-->
+            <Text>Tayolique</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_GUAYCURU_8">
+            <Text>Child-Born-In-A-Pot</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_GUAYCURU_9">
+            <Text>Kopilitare</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        
+        <!--Basic Info-->
+        <Row Tag="TXT_KEY_LEADER_THP_ESO">
+            <Text>Eso</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_GUAYCURU_ADJECTIVE">
+            <Text>Guaycuru</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_GUAYCURU_DESC">
+            <Text>The Guaycuru</Text>
+            <Plurality>2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_GUAYCURU_SHORT_DESC">
+            <Text>The Guaycuru</Text>
+            <Plurality>2</Plurality>
+        </Row>
+        
+        <!--Civilopedia-->
+        <Row Tag="TXT_KEY_PEDIA_THP_GUAYCURU_HEADING_1">
+            <Text>Precolonial History</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_GUAYCURU_TEXT_1">
+            <Text>The Guaycuru are a group of nomadic peoples native to the Gran Chaco region. Extant Guaycuru peoples include the Toba, the Pilagá, the Mocoví, and the Kadiweu. The Guaycuru traditionally lived a hunter-gatherer lifestyle, traveling seasonally between different regions based on the presence of resources: in some seasons they engaged in fishing, and in others they hunted game in the forests. The caraguatá plant, a type of bromeliad, was heavily used by the Guaycuru; its thread was used for nets, bags, ropes, slings, and clothing.[NEWLINE][NEWLINE]
+            The Guaycuru peoples frequently raided each other, as well as other neighboring groups such as the Guaraní. This practice was greatly expanded after Europeans introduced horses to the Gran Chaco; horses allowed the Guaycuru to raid more widely and more effectively, giving them supremacy over the Chaco. The profit from these raids also allowed the Guaycuru to trade with the Spanish for other goods, such as metal knives and hatchets.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_GUAYCURU_HEADING_2">
+            <Text>Colonialism</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_GUAYCURU_TEXT_2">
+            <Text>Though Spanish colonists had conflicts with the Guaycuru as early as 1542, sustained contact did not occur until the seventeenth century. During this century, the Guaycuru stepped up their raiding efforts, forcing the Spanish to abandon many of their settlement in the region; many of these were Jesuit reductions, which were being established frequently throughout this period.[NEWLINE][NEWLINE]
+            In 1743, the first lasting reduction was established in Guaycuru territory, at San Javier in northeastern Argentina. The success of this mission may be related to a recent smallpox epidemic, which had torn through Guaycuru populations in the 1730s - particularly among the Mocoví, who lived in the San Javier area. Some Guaycuru began to adopt sedentary, European-style behaviors during this era, but many retained their nomadic lifestyles and remained hostile to the Europeans. Even on the reductions, there were many Guaycuru who smuggled livestock away to their kinsmen.[NEWLINE][NEWLINE]
+            The struggle for independence among the South American nations had relatively little effect on the Guaycuru, but in the mid- to later nineteenth century, Bolivia, Paraguay, and Argentina increasingly encroached on Guaycuru land in the Chaco. The Toba and Mocoví were the most steadfast in their resistance, but by 1884, they had been forced to either move onto reductions or withdraw to the so-called "Impenetrable Chaco", a deeply forested area with little potable water. Throughout the 20th century, the Guaycuru (especially in Argentina) would continue to periodically revolt against their marginalized living conditions, but these uprisings were mostly subdued by force. In 2010, over 100,000 people in Argentina identified themselves as members of Guaycuru groups.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_PEDIA_NAME">
+            <Text>Eso</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_PEDIA_SUBTITLE">
+            <Text>Leader of the Guaycuru</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_PEDIA_TITLES_1">
+            <Text>Guaycuru culture hero</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_PEDIA_TITLES_2">
+            <Text>Exterminator of evil</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_PEDIA_LIVED">
+            <Text>Unknown</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_PEDIA_HEADING_1">
+            <Text>Biography</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_PEDIA_TEXT_1">
+            <Text>Eso was a warrior and chief in the mythology of the Toba and Pilagá, two prominent Guaycuru subgroups. He was famed for vanquishing a range of evildoers, primarily witches. In one incident, he slew a witch who attacked fishermen; in another, he killed a witch who attacked those who gathered honey. Eso is also credited with defeating the villainous Man With A Sharpened Leg, though Sharpened-Leg would meet his final defeat at the hands of another cultural hero, Carancho the hawk.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV5_DAWN_THP_GUAYCURU_TEXT">
+            <Text>Your people stand in awe of you, chief Eso! The Guaycuru were a people of gifted raiders, who were able to harvest resources - by trade and force alike - from land all around the Chaco. You were one of their greatest chiefs, vanquishing those who threatened your fishermen and gatherers, and doing it so effectively that you earned an immortal place in your people's mythology. The Guaycuru's raiding skills were only amplified by the arrival of the horse, which you captured from Spanish interlopers. With these animals on your side, you were able to resist the Spaniards for centuries, with the Guaycuru way of life surviving well past 1800. [NEWLINE][NEWLINE]Eso, though your people are now divided and under foreign rule, they still have fond memories of the time when the Guaycuru were the terror of the Gran Chaco. Can you gather an army that can outmaneuver and outfight anyone who dares approach you? Can you build a civilization that will stand the test of time?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_GUAYCURU_SHORT">
+            <Text>Dance of the Scalps</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_GUAYCURU">
+            <Text>Capturing Cities or clearing Barbarian Encampments reveals sources of Strategic Resources. Units that require Strategic Resources have +1 Movement while at full health, and provide a burst of [ICON_FOOD] Food to their cities upon birth.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_HALIAGANEK">
+            <Text>Haliaganék</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_HALIAGANEK_HELP">
+            <Text>Fast and powerful Classical Era mounted unit. Only the Guaycuru may build it. Upon killing a unit or clearing a Barbarian Encampment, restores the movement of adjacent friendly units.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_HALIAGANEK_STRATEGY">
+            <Text>By securing early sources of Strategic Resources, you can pump out many Haliaganéks in the Classical Era and create an incredibly fast and mobile army. Keep them on the front lines and have them deal the finishing blow to enemies to ensure that the rest of your army is equally flexible, and that non-Mounted units can keep pace with the Haliaganék and its blazing speed.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_HALIAGANEK_TEXT">
+            <Text>A haliaganék was a type of leader among the Toba and other Guaycuru peoples, renowned as warrior and shaman alike. The haliaganék was typically responsible for establishing and protecting campsites; they were also in charge of diplomacy with foreign populations. After Spanish colonization of the Chaco, the term "haliaganék" also came to be used for white plantation bosses.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_NEMACHAQA">
+            <Text>Nemacháqa</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_NEMACHAQA_HELP">
+            <Text>Unique replacement for the Garden. Only the Guaycuru may build it. Requires a worked Strategic Resource in its city, rather than fresh water. Does not affect Great People generation, but yields +2 Food, and grants +10 starting XP to units trained in its city.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_NEMACHAQA_STRATEGY">
+            <Text>The Guaycuru UA allows you to discover extra Strategic Resources, meaning that potential Nemacháqa cities can crop up across the map. Make sure to settle on or near these sites in order to maximize your Nemacháqa-building abilities and help your cities grow quickly. The free starting XP will also help you produce high-power units.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_NEMACHAQA_TEXT">
+            <Text>The nemacháqa was a type of campsite used by the Toba and other Guaycuru peoples on hunting expeditions. These campsites were generally built in marshy regions during the peak fishing season, and during the rest of the year were built in the forests for foraging purposes. A given nemacháqa would often be in use for weeks or months at a time. [NEWLINE][NEWLINE]Because of the remote locations in which the nemacháqa would typically be built, these sites came to be refuges in which the Guaycuru could engage in practices condemned by European missionaries.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_GUAYCURU_SPEED">
+            <Text>Dance of Courage</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_GUAYCURU_SPEED_HELP">
+            <Text>This unit is at full health, granting it +1 Movement.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_HALIAGANEK">
+            <Text>Raiders of the Chaco</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_HALIAGANEK_HELP">
+            <Text>Upon killing a unit or clearing a Barbarian Encampment, this unit restores the movement of adjacent allies.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_GUAYCURU_DUMMY">
+            <Text>Guaycuru Res Dummy</Text>
+        </Row>
+        
+        <!--Mod Support-->
+        <Row Tag="TXT_KEY_GENERIC_THP_GUAYCURU_INFLUENTIAL_ON_AI_1">
+            <Text>Our people are now wearing your bracelets and attending your nimatáq feasts. I worry that the rest of the world will also succumb to the influence of your culture.</Text>
+        </Row>
+        
+        <!--Additional Achievements-->
+        <Row Tag="TXT_KEY_MOD_THP_GUAYCURU_NAME">
+            <Text>TopHat's Guaycuru</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_GUAYCURU_ID">
+            <Text>770208f2-cece-4c42-9738-77ecdf10486d</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_GUAYCURU_AUTHORS">
+            <Text>TopHatPaladin</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_GUAYCURU_VICTORY_HEADER">
+            <Text>I Qom, I Saw, I Conquered</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_GUAYCURU_VICTORY_TEXT">
+            <Text>Win the game on any difficulty setting as the Guaycuru.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_GUAYCURU_SPECIAL_HEADER">
+            <Text>They Must've Been Ecoterrorists</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_GUAYCURU_SPECIAL_TEXT">
+            <Text>As the Guaycuru, discover a source of Oil or Uranium by clearing a Barbarian Encampment.</Text>
+        </Row>
+    </Language_en_US>
+</GameData>

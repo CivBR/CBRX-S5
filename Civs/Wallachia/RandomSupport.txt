@@ -1,0 +1,36 @@
+TraitBasedLua = 'TRUE';
+
+OVERRIDE_AUTO  = { 
+	CIVILIZATIONS = {
+		CIVILIZATION = {
+			Civilization = 'CIVILIZATION_JFD_WALLACHIA';
+			Leader = 'LEADER_JFD_VLAD';
+		};
+	};
+
+	MOD_SUPPORT = {
+		Civ4Traits = {
+			LEADER_JFD_VLAD = {
+				Leader 	= 	'LEADER_JFD_VLAD';
+				LeaderTXT	=	'Vlad III Tepes ';
+			};
+		};
+	};
+
+	COMPONENTS = {
+		COMPONENT = {
+			Type = 'UNIT_JFD_LEFEGII';
+			Class = 'UNITCLASS_SWORDSMAN';
+		};
+		COMPONENT = {
+			Type = 'BUILDING_JFD_FORTIFIED_CHURCH';
+			Class = 'BUILDINGCLASS_TEMPLE';
+		};
+	};
+
+	TRAITS = {
+		TRAIT = {
+			Type = 'TRAIT_JFD_WALLACHIA';
+		};
+	};
+};

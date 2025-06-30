@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_URDNOT_GUILLOTINE</Type>
+			<BuildingClass>BUILDINGCLASS_THEATRE</BuildingClass>
+			<Cost>150</Cost>
+			<GoldMaintenance>1</GoldMaintenance>
+			<PrereqTech>TECH_PRINTING_PRESS</PrereqTech>
+			<Help>TXT_KEY_BUILDING_URDNOT_GUILLOTINE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_URDNOT_GUILLOTINE</Description>
+			<Civilopedia>TXT_KEY_BUILDING_URDNOT_GUILLOTINE_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_URDNOT_GUILLOTINE_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_ZOO</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>0</ConquestProb>
+			<IconAtlas>URDNOT_REV_FRANCE_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_URDNOT_GUILLOTINE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_URDNOT_GUILLOTINE</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+	</Building_Flavors>
+</GameData>

@@ -1,0 +1,333 @@
+﻿<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_SENSHI_DUMMY_YUNNAN">
+			<Text>Senshi Dummy Yunnan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SENSHI_DUMMY_HUMP_AIRBASE">
+			<Text>Senshi Dummy Hump Airbase</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_01">
+			<Text>Kunming</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_02">
+			<Text>Zhaotong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_03">
+			<Text>Geiju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_04">
+			<Text>Qujing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_05">
+			<Text>Chuxiong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_06">
+			<Text>Kaiyuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_07">
+			<Text>Guiyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_08">
+			<Text>Dali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_09">
+			<Text>Lijiang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_10">
+			<Text>Pu'er</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_11">
+			<Text>Xuanwei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_12">
+			<Text>Xingyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_13">
+			<Text>Anning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_14">
+			<Text>Mile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_15">
+			<Text>Dongchuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_16">
+			<Text>Huize</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_17">
+			<Text>Mengzi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_18">
+			<Text>Jinghong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_19">
+			<Text>Wenshan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_20">
+			<Text>Zunyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_21">
+			<Text>Luxi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_22">
+			<Text>Baoshan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_23">
+			<Text>Tengchong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_24">
+			<Text>Chengjiang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_25">
+			<Text>Lushui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_26">
+			<Text>Ruili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_27">
+			<Text>Bijie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_YUNNAN_28">
+			<Text>Zhongdian</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUNNAN_0">
+			<Text>Ruoyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUNNAN_1">
+			<Text>Han</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUNNAN_2">
+			<Text>Jiyao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUNNAN_3">
+			<Text>E</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUNNAN_4">
+			<Text>Su</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUNNAN_5">
+			<Text>Niu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUNNAN_6">
+			<Text>Peilian</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUNNAN_7">
+			<Text>Yingqiu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUNNAN_8">
+			<Text>Shengwu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_YUNNAN_9">
+			<Text>Shengzheng</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_SENSHI_YUNNAN_ADJECTIVE">
+			<Text>Yunnanese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_YUNNAN_DESC">
+			<Text>Yunnan Clique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_YUNNAN_SHORT_DESC">
+			<Text>Yunnan</Text>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_SENSHI_LONG_YUN_TEXT">
+			<Text>Stand resolute, oh steadfast Long Yun, warlord and leader of Yunnan. The Yunnan clique, formerly led by Cai E and Tang Jiyao, stood in resolute independence and opposition to monarchy and those who would seek to impose despotism upon the people of Yunnan. But it was your policies of the New Yunnan that saw a series of political, military, economic, cultural and educational reforms. Unlike many other warlord states, this made Yunnan a prosperous and stable state, leading to declarations that Yunnan’s capital was a democratic fortress. You also built infrastructure, with the Yunnan-Burma Highway standing as a testament to your desire to connect the newly independent Yunnan to the rest of the world.[NEWLINE][NEWLINE]Oh unwavering Long Yun, Yunnan has fallen into the clutches of those who reward repression, destroying all your advances and reforms which made life better for those in Yunnan. It is incumbent upon you to return Yunnan to glory, sweeping away the rotten old authoritarian structures and bringing about a new, prosperous democracy like you did once before. Can you restore democracy and responsiveness to the people for the citizens of Yunnan? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_TEXT_1">
+			<Text>Yunnan is a landlocked province in the southwest of China, and borders a number of Southeast Asian countries: Vietnam, Laos, and Myanmar. Situated in a mountainous area, with high elevations in the northwest and low elevations in the southeast, most of the population lives in the eastern part of the province. Yunnan formed the base for the Yunnan clique, one of the several mutually hostile cliques or factions that split from the Beiyang Government in the Republic of China's warlord era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_HEADING_2">
+			<Text>Nanzhao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_TEXT_2">
+			<Text>Around the 3rd century BC, the central area of Yunnan around present day Kunming was known as Dian. In 221 BC, Qin Shi Huang unified China and extended his authority south. Commanderies and counties were established in Yunnan. An existing road in Sichuan, the Five Foot Way, was extended south to around present day Qujing, in eastern Yunnan. During the Three Kingdoms, the territory of present-day Yunnan, western Guizhou and southern Sichuan was collectively called Nanzhong. By the 730s Nanzhao had succeeded in bringing the Erhai Lake area under its authority. In 738, the western Yunnan was united by Piluoge, the fourth king of Nanzhao, who was confirmed by the imperial court of the Tang dynasty as king of Yunnan. Ruling from Dali, the thirteen kings of Nanzhao ruled over more than two centuries and played a vital role in the dynamic relationship between the Tang dynasty and the Tibetan Empire as a buffer state. By the 750s, Nanzhao had conquered Yunnan and became a potential rival to Tang China. Nanzhao's expansion lasted for several decades. In 829, Nanzhao suddenly plundered Sichuan and entered Chengdu. When it retreated, hundreds of Sichuan people, including skilled artisans, were taken to Yunnan. In 902, Zheng Maisi, the qingpingguan of Nanzhao, murdered the infant king of Nanzhao, and established a short-lived regime, namely, Da Chang He. Nanzhao, a once-powerful empire, disappeared.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_HEADING_3">
+			<Text>Imperial Heritage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_TEXT_3">
+			<Text>In 937, Duan Siping overthrew the Nanzhao and established the Dali Kingdom. The kingdom was conquered by the Mongol Empire in 1253 after Dali King Duan Xingzhi defected to the Mongols. The Duans incorporated into the Mongol dominion as Maharajas of the new province. The Mongolian prince sent to administer the region with them was killed. In 1273, Kublai Khan reformed the province and appointed the semu Ajall Shams al-Din Omar as its governor. The Yunnan Province during the Yuan dynasty included significant portions of Upper Burma after the First Mongol invasion of Burma in the 1270s and 1280s. With the fall of the Yuan dynasty in 1368, the Ming dynasty destroyed the Yuan loyalists led by Basalawarmi and the remnants of the House of Duan in the Ming conquest of Yunnan by the early 1380s. The Ming installed Mu Ying and his family as hereditary aristocrats in Yunnan. During the Ming and Qing dynasties, large areas of Yunnan were administered under the native chieftain system. Although largely forgotten, the bloody Panthay Rebellion of the Muslim Hui people and other local minorities against the Manchu rulers of the Qing dynasty caused the deaths of up to a million people in Yunnan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_HEADING_4">
+			<Text>Cai E and the Kunming Uprising</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_TEXT_4">
+			<Text>When the 1911 Revolution began, Cai E, the commander of the 37th Brigade of the New Army, revolted against the Qing government and quickly gained control over Yunnan. The local Qing administration was replaced with an independent government and educational reforms were enacted by Cai. He also reorganised the provincial military into a more cohesive independent force. In the following six months, all of Yunnan and southern Sichuan were unified under the clique's rule. Cai E was very popular among people because he denounced factionalism and supported a strong central government. In 1913, Cai E went to serve in Yuan's government in Beijing, leaving behind Tang Jiyao as provincial governor. Jiyao came from a prominent Yunnanese family. In December 1915, Yuan Shikai announced his plan to turn China back into a monarchy with himself as emperor. This enraged Cai, who was a supporter of the Republic. Shortly after the announcement, Cai E secretly left Beijing and returned to Yunnan to stage a revolt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_HEADING_5">
+			<Text>Republican Principles and the Anti-Monarchy War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_TEXT_5">
+			<Text>On December 25, Cai E, Tang Jiyao, and Li Liejun, on the advice of Liang Qichao, declared Yunnan independent and expressed their opposition to Yuan Shikai's monarchy. Tang would stay as governor, but Cai and Li would assume command of the Nation Protection Army. On January 1, 1916, Yunnan published an official denunciation of Yuan Shikai's monarchy. The same day, three divisions of the National Protection Army marched onto Sichuan, Guizhou, and Guangxi, beginning the National Protection War to restore the republic. After being informed of Yunnan's declaration of independence, Yuan immediately sent out three armies to crush the rebellion but suffered heavy losses in southern Sichuan by Cai's forces. In the following two months, other provinces declared independence and joined Yunnan in its fight against Yuan. By June, Yuan had been defeated and was replaced by Li Yuanhong as president of the republic. The National Protection War made Cai a national hero, but he died shortly after from tuberculosis. His chief lieutenant, Tang Jiyao, took over Yunnan and demanded that the National Assembly be restored. When this was accomplished, Yunnan officially reunified with the national government but kept its provincial army separate due to the Beiyang Army's grip on Beijing politics.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_HEADING_6">
+			<Text>The Constitutional Protection Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_TEXT_6">
+			<Text>After Cai E died in 1916, Tang helped Sun Yat-Sen set up the Constitutional Protection Movement in 1917 and started his own party, the People's Party while remaining a member of Sun's Kuomintang. Tang Jiyao set up an opium trafficking scheme in Yunnan, with monopolies, taxes and licenses, and succeeded in producing large amounts of opium from poppy plants, which were suited to Yunnan's climate. He transported opium via Indochina to Haiphong, which was a port, from where it was sent to China via the coast. Along with the prospects of exporting homegrown Yunnanese opium and morphia to other provinces, Tang Jiyao maintained his fleet of dozens of combat and transport aircraft based at Kunming Wujiaba airbase which he and Cai E established in 1911, and officially opening Yunnan Aviation School in 1922.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_HEADING_7">
+			<Text>Yunnan Struggles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_TEXT_7">
+			<Text>Yunnan joined several other southern provinces in forming a rival government in Guangzhou during the Constitutional Protection Movement. Tang Jiyao was chosen as one of the seven executives of its ruling committee. Within the committee, there was a power struggle between Sun Yatsen's supporters and the Old Guangxi clique. Tang sided with Sun and helped in the expulsion of the Guangxi executives. In 1921, he was ousted by Gu Pinzhen, whose rule was recognized by Sun. The following year, Gu's army defected back to Tang. Tang sided with Sun again during Chen Jiongming's betrayal. Less than a week after Sun died in 1925, Tang claimed to be his rightful successor and made a move on Guangzhou in a bid to overthrow Hu Hanmin and put himself in charge of the Kuomintang. His forces were routed by Li Zongren during the Yunnan-Guangxi War. Thereafter, Tang joined Chen Jiongming's China Public Interest Party as its vice premier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_HEADING_8">
+			<Text>The Rise of Long Yun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_TEXT_8">
+			<Text>Tang Jiyao was overthrown by Long Yun and his allies. Long Yun succeeded as the new governor and served as governor of Yunnan from 1928-45. When he was in power he put forward the goal of building a new Yunnan. He carried out a series of reorganizations and reforms from political, military, economic, cultural and educational aspects. During this period Yunnan was politically clear, had good social stability and a strong atmosphere of democracy. He consolidated and reorganized the economy, expanded paper money in the region and reorganized the tariff tax regulations. He prioritized textile export while reorganizing and developing production of tin ore, tungsten, antimonies, copper, salt, coal and other resources. Another big part of his project was the improvement of infrastructure, which was very poor in Yunnan. To improve it, he established a transportation enterprise that built the Yunnan-Burma Highway, the Diankang Road, the Sichuan-Yunnan West Road, the Yunnan-Sichuan Road, the Yunnan-Guangxi Highway and the Diankang Highway. Yunnan was referred to as a democratic fortress.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_HEADING_9">
+			<Text>The Second Sino-Japanese War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_TEXT_9">
+			<Text>In Second Sino-Japanese War, Yunnan served as, among other things, a home base for the Flying Tigers. The Burma Road was constructed, along which supplies travelled into the province and then into the heart of China. In 1942 the Chinese Expeditionary Force entered Burma to fight with the British against the Japanese invasion, eventually fighting to a standstill across the Nu River for 2 years. The province was also a refuge for people, especially university faculty and students, from the east. These had originally retreated to Changsha, but as the Japanese forces were gaining more territory they eventually bombed Changsha in February 1938. The 800 staff faculty and students who were left had to flee and made the 1,000-mile journey to Kunming. It was here that the National Southwest Associated University, commonly known as Lianda, was established.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_HEADING_10">
+			<Text>Lianda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_TEXT_10">
+			<Text>In these extraordinary wartime circumstances for eight years, staff, professors and students had to survive and operate in makeshift quarters that were subject to sporadic bombing campaigns by Japan. There were dire shortages of food, equipment, books, clothing and other essential needs, but they did manage to conduct the running of a modern university. Over those eight years of war, Lianda became famous nationwide for having and producing many, if not most, of China's most prominent academics, scholars, scientists and intellectuals. Both of China's only Nobel laureates in physics studied at Lianda.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_HEADING_11">
+			<Text>The End of the Yunnan Clique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_TEXT_11">
+			<Text>After the end of the Second Sino-Japanese War, Long was removed from office. During the Chinese Civil War, Nationalist forces retreated to the southwest provinces of Szechwan, Sikang, and Yunnan. In 9 December 1949, Chairperson of the Provincial Government Lu Han defected to the Communists and most of the Nationalist troops were defeated in the province. Remnants of the Nationalist forces, led by Li Mi and using Mong Hsat as a base, engaged in guerrilla warfare against the Communists, briefly capturing parts of Yunnan territory. In 1951 the provincial government in exile was dissolved and in 1954, Li Mi's remaining troops retreated to Taiwan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_HEADING_12">
+			<Text>Modern Yunnan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_YUNNAN_TEXT_12">
+			<Text>Yunnan is now, along with the rest of China, part of the People’s Republic. Yunnan is noted for a very high level of ethnic diversity. It has the highest number of ethnic groups among the provinces and autonomous regions in China. Among the country's 56 recognised ethnic groups, twenty-five are found in Yunnan. Some 38% of the province population are members of ethnic minorities, including the Yi, Bai, Hani, Tai, Dai, Miao, Lisu, Hui, Lahu, Wa, Nakhi, Yao, Tibetans, Jingpo, Blang, Pumi, Nu, Achang, Jinuo, Mongols, Derung, Manchus, Sui, and Buyei. Most dialects of the Chinese language spoken in Yunnan belong to the southwestern subdivision of the Mandarin group, and are therefore very similar to the dialects of neighboring Sichuan and Guizhou provinces. As of the mid-19th century, Yunnan exported birds, brass, tin, gemstones, musk, nuts, and peacock feathers mainly to stores in Guangzhou. They imported silk, wool, and cotton cloth, tobacco and books. Yunnan is one of China's relatively undeveloped provinces with more poverty-stricken counties than the other provinces.</Text>
+		</Row>
+		
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_LIVED">
+			<Text>1884 - 1962</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_NAME">
+			<Text>Long Yun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_SUBTITLE">
+			<Text>Warlord 'King' of Yunnan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_LONG_YUN">
+			<Text>Long Yun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_TITLES_1">
+			<Text>Governor</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_TEXT_1">
+			<Text>Long Yun was governor and warlord of the Chinese province of Yunnan from 1927 to October 1945, when he was overthrown in a coup by Du Yuming under the order of Chiang Kai-shek, known as the Kunming Incident.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_HEADING_2">
+			<Text>Service in the Yunnan Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_TEXT_2">
+			<Text>Long Yun was an ethnic Yi, and a grandson of a tribal headman. His Yi name was Naji Niaoti or Naji Jiajia, while Long Yun was a Han Chinese name he adopted later. He was a cousin of Lu Han. Long Yun participated in the anti-Qing struggle in its early years. First he joined the local warlord's army in 1911 and was gradually promoted to the rank of corps commander. He served in Tang Jiyao's Yunnan Army for years until February 1927, when he, together with Hu Ruoyu, launched a coup and expelled Tang from office. Soon after that he became 38th Army commander in the National Revolutionary Army, at the same time continuing as Yunnan chairman for more than a decade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_HEADING_3">
+			<Text>The New Yunnan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_TEXT_3">
+			<Text>After the 26 coup, Tang Jiyao, then governor of Yunnan, was overthrown by Long Yun and his allies. Long Yun succeeded as the new governor and served as governor of Yunnan from 1928-45. When he was in power he put forward the goal of building a new Yunnan. He carried out a series of reorganizations and reforms from political, military, economic, cultural and educational aspects. During this period Yunnan was politically clear, had good social stability and a strong atmosphere of democracy. He consolidated and reorganized the economy, expanded paper money in the region and reorganized the tariff tax regulations. He prioritized textile export while reorganizing and developing production of tin ore, tungsten, antimonies, copper, salt, coal and other resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_HEADING_4">
+			<Text>Roads and Fortresses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_TEXT_4">
+			<Text>Another big part of his project was the improvement of infrastructure, which was very poor in Yunnan. To improve it, he established a transportation enterprise that built the Yunnan-Burma Highway, the Diankang Road, the Sichuan-Yunnan West Road, the Yunnan-Sichuan Road, the Yunnan-Guangxi Highway and the Diankang Highway. He also paid much attention to the agricultural parts of Yunnan. He implemented measuring of land and later used the information they achieved to put through a reformed tax collection. He worked to expand grain farming, reduce tax revenue and strived to achieve food self-sufficiency for all farmers. Due to Long Yun's reforms, Kunming, the capital of Yunnan, was commonly known as a democratic fortress.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_HEADING_5">
+			<Text>The Fight Against the Japanese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_TEXT_5">
+			<Text>He was nominated as commander-in-chief of the 1st Army Group, fighting against the Japanese in his province. The Second Sino-Japanese War brought progress and modernization to Yunnan, as the Nationalist government developed the province into a war base against the Japanese. Factories, universities and government agencies were transplanted there from the coastal regions, and fresh manpower, capital and ideas poured into the province. Industries were established and efforts made by the government to develop the resources of the region. The Burma Road made Yunnan the corridor through which supplies flowed to Allied bases in all parts of China, and Kunming became a key U.S. Air Force base. A major advance by the Japanese Army along the upper Salween River in 1942 was halted at Huitongqiao, near Tengchong, indicating the vital role that Yunnan played in the country’s defense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_HEADING_6">
+			<Text>Crossing the Salween</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_TEXT_6">
+			<Text>The campaign involved Chinese troops, assisted by American forces, crossing the upper Salween on 11 May 1944 in order to drive Japanese forces from Yunnan into northern Burma. On 11 May about 40,000 Chinese of the Chinese Expeditionary Force crossed the Salween initially and a further 60,000 arrived later. About 17,000–19,000 Chinese and 15,000 Japanese were killed in the resulting battle. There were more Chinese casualties because the Japanese had time to prepare their fortifications on the south side of the river.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_HEADING_7">
+			<Text>End of the Democratic Fortress</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_TEXT_7">
+			<Text>Immediately following the war, Generalissimo Chiang Kai-shek moved against Long Yun. When Chiang had retreated into western China, he was forced into an area barely under his control and hardly touched by the national revolution that had taken place after the fall of the Qing. Both of the two principal provinces of west China, Szechwan and Yunnan were dominated by old-style warlords. In 1941, Chiang had ousted the warlord of Sichuan. When Long Yun's turn came in 1945, he was caught by surprise: patriotically obeying Chiang's diversionary orders, a good part of his private army of over 100,000 men had marched far away, into Indochina. Long Yun had been offered a face-saving job in Chungking earlier, but he had refused. The absence of his army, however, led to the final extraction. That night, 5 October 1945, the Kunming Incident, rifles fired in Kunming and the next morning a score of bodies lay at the South Gate. For four days the battle continued as soldiers of Chiang Kai-shek's army assaulted the place. Only a few companies of Long's troops did any shooting; the warlord never had a chance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_HEADING_8">
+			<Text>Anti-Chiang Activities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_TEXT_8">
+			<Text>On the fourth day Premier T.V. Soong flew down from Chungking. He and the Chinese commander in chief, Gen. Ho Ying-chin, had a morning conference with Gen. Long and that afternoon escorted him by air to Chungking. Gen. Lu Han, Long's former aide, took over the Yunnan government for the Generalissimo. After being removed from his reign of 18 years, and his meaningless appointment to a position in Chungking, Long Yun escaped to Hong Kong at the end of 1948 and joined the Kuomintang Revolutionary Committee, the KMT-RC, a KMT anti-Chiang organization. In August 1949 he declared his revolt against Chiang together with Huang Shaohong in Hong Kong.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_HEADING_9">
+			<Text>A Democrat in Communist China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_TEXT_9">
+			<Text>Long Yun went back to Yunnan in 1950, after the establishment of the People's Republic. By inviting him back, the Communists were acting on the principle of the enemy of my enemy is my friend. Long Yun was not only reinstalled as Governor but awarded several high-ranking positions such as member of the Chinese People's Political Consultative Conference and the Standing Committee of the National People's Congress. He also became vice-chairman of the National Defense Committee and vice-chairman of the Administrative Council of Southwestern China. In 1956, he visited Eastern European countries such as the Soviet Union, Romania, Czechoslovakia, Yugoslavia and others.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_HEADING_10">
+			<Text>The Anti-Rightist Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_LONG_YUN_TEXT_10">
+			<Text>Later, during the Anti-Rightist Movement, Long Yun was labeled a rightist because of his criticism of Chinese foreign aid policy. He maintained that if the living standard in the Soviet Union was so high that many ordinary workers could own their own car, then the responsibility for foreign aid should fall on the Soviet Union and not on China, since the Chinese economy was much less advanced than that of the Soviet Union because it was still recovering from wars. Long Yun refused to change his view and openly complained of his treatment for telling the truth. Ultimately, on the day following his death in 1962, the Chinese government formally declared that he was not a rightist and was thus partially rehabilitated. In July 1980, nearly two decades after his death, he was finally fully rehabilitated in accordance with the Chinese government's policy of admitting the Anti-Rightist Movement had been wrong.</Text>
+		</Row>
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_YUNNAN_SHORT">
+			<Text>Democratic Fortress</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_YUNNAN">
+			<Text>Cities with a [ICON_CONNECTED] City Connection share 25% of their [ICON_STRENGTH] Combat Strength with the [ICON_CAPITAL] Capital, doubled if connected via Railroad. Upon the outbreak of War, receive a burst of [ICON_CULTURE] Culture equal to the [ICON_STRENGTH] Combat Strength of your Capital.</Text>
+		</Row>
+
+		<!--Unique Units-->
+		<Row Tag="TXT_KEY_UNIT_SENSHI_DIAN_CORPS">
+			<Text>Dian Corps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_DIAN_CORPS_STRATEGY">
+			<Text>Unique Yunnanese replacement for the Great War Infantry. Cheaper to construct than the Great War Infantry, and may build Roads, Railroads, and Mines. Heals +5 HP for each non-pillaged Improvement, Road, or Railroad on its tile when beginning a turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_DIAN_CORPS_HELP">
+			<Text>Unique Yunnanese replacement for the Great War Infantry. Cheaper to construct than the Great War Infantry, and may build Roads, Railroads, and Mines. Heals +5 HP for each non-pillaged Improvement, Road, or Railroad on its tile when beginning a turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_DIAN_CORPS_TEXT">
+			<Text>The Dian Corps, with Dian being an endonym for Yunnan, was the army of Yunnan. Despitre being a province government by warlords, the Dian Corps often served with Nationalist Forces, especially during the Second Sino-Japanese War. During this war, the border area between Yunnan and Burma became a battlefield, starting at the beginning of December 1943. Called the Battle of Northern Burma and Western Yunnan, the purpose of the battle was to open up the China-India Highway. The Allied Forces were jointly formed by the troops of China, the United States and the United Kingdom. The Battle of Northern Myanmar and Western Yunnan lasted one and a half years. At the cost of 31,443 people killed and 35,948 wounded, the Allies killed more than 25,000 Japanese soldiers, reopened southwest China to the Burma Road, and recovered all the lost land on the west bank of the Salween River in western Yunnan.</Text>
+		</Row>
+
+		<!--Unique Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_HUMP_AIRBASE">
+			<Text>Hump Airbase</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_HUMP_AIRBASE_STRATEGY">
+			<Text>Unique Yunnanese replacement for the Airport. Unlocked at Flight rather than Radar, and provides +15 XP to newly trained Air units. In addition, each stationed Aircraft provides +2 [ICON_STRENGTH] Combat Strength to this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_HUMP_AIRBASE_HELP">
+			<Text>Unique Yunnanese replacement for the Airport. Unlocked at Flight rather than Radar, and provides +15 XP to newly trained Air units. In addition, each stationed Aircraft provides +2 [ICON_STRENGTH] Combat Strength to this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_SENSHI_HUMP_AIRBASE_TEXT">
+			<Text>The Hump was the name given by Allied pilots in the Second World War to the eastern end of the Himalayan Mountains over which they flew military transport aircraft from India to China to resupply the Chinese war effort against the Japanese, as the Burma Road had been cut off. Airbases such as Xiangyun Airport meant that Yunnan was a perfect destination as it had a high level of air infrastructure. Kunming became a key U.S. Air Force base. Tang Jiyao, leader of Yunnan prior to Long Yun, maintained his fleet of dozens of combat and transport aircraft based at Kunming Wujiaba airbase which he and Cai E established in 1911, and officially opened Yunnan Aviation School in 1922.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

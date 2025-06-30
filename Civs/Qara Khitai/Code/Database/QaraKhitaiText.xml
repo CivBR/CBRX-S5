@@ -1,0 +1,423 @@
+<GameData>
+	<Language_en_US>
+	<!-- Civilization -->
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_TITLE">
+			<Text>Qara Khitai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_QARA_KHITAI_DESC">
+			<Text>Western Liao Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_QARA_KHITAI_SHORT_DESC">
+			<Text>Qara Khitai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_QARA_KHITAI_ADJECTIVE">
+			<Text>Kara Khitan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JWW_QARA_KHITAI_TEXT">
+			<Text>The path is long and twisted, Gurkhan Yelü Dashi, and there is much yet to travel still. Born a minor imperial of the Liao dynasty, when your house was crushed and your family captured, you made a daring escape West with a mere 10,000 horses after the former Emperor made a tactical blunder. The further West, the more unfamiliar the states became, allying with local tribes. But you built your strength, and were eventually proclaimed Emperor Tianyou, establishing authority over more and more towns. Eventually, you became ascendant in Central Asia, with Qara Khitai ascendant in their own right, no longer a mere remnant of a long-forgotten empire, but a truly strong power in their own right.[NEWLINE][NEWLINE]Resolute Yelü Dashi, your people once again call for your determination and courage to guide them to a new home. The world you seek to enter is strange and features new allies and enemies. It is a world you must navigate, as you did all those years ago, with the same steely resolve. Can you lead your old dynasty to new glories in an unfamiliar area? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+	<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_JWW_BATTLE_OF_QATWAN">
+			<Text>Losing [ICON_INFLUENCE] influence with a [ICON_CITY_STATE] city state will grant a [ICON_STRENGTH] combat bonus to all nearby troops. All cities gain additional [ICON_HAPPINESS_1] happiness, [ICON_GOLD] gold, and [ICON_CULTURE] culture for each city in the empire with a different original owner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JWW_BATTLE_OF_QATWAN_SHORT">
+			<Text>Battle of Qatwan</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_JWW_QARA_KHITAI_UA">
+			<Text>Qara Khitai UA Dummy</Text>
+		</Row>
+	<!-- Leader -->
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI">
+			<Text>Yelü Dashi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_LIVED">
+			<Text>1749-1800 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_NAME">
+			<Text>Yelü Dashi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_SUBTITLE">
+			<Text>Gurkhan of Western Liao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_TITLES_1">
+			<Text>Emperor Dezong</Text>
+		</Row>
+	<!-- Unit -->
+		<Row Tag="TXT_KEY_UNIT_JWW_ORDO_CAVALRYMAN">
+			<Text>Ordo Cavalryman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JWW_ORDO_CAVALRYMAN">
+			<Text>Can only be built by Qara Khitai. Replaces the Knight, and is slightly weaker. Gains more combat strength the further it gets from its origin plot. Starts with Survivalism I.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JWW_ORDO_CAVALRYMAN_STRATEGY">
+			<Text>Gets stronger the further away it gets from its starting tile. Can also survive well away from home, with a free promotion in Survivalism I.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_ORDO_DISTANCE_PROM">
+			<Text>Ordo Cavalryman Distance Buff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_ORDO_DISTANCE_PROM_HELP">
+			<Text>The Ordo Cavalryman gets more combat strength the further it is from its starting plot.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_JWW_SHAOJIAN">
+			<Text>Shaojian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JWW_SHAOJIAN">
+			<Text>Can only be built by Qara Khitai. Replaces the Great Merchant. Trade Missions conducted grant double the [ICON_GOLD] gold, but lose [ICON_INFLUENCE] influence instead of gaining influence. If adjacent friendly combat units are nearby, more [ICON_INFLUENCE] influence will be lost and the city will be damaged.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JWW_SHAOJIAN_STRATEGY">
+			<Text>Like the Great Merchant it replaces, but its Trade Missions instead lower influence and grant more gold. Having nearby friendly units nearby the trade mission will grant them combat strength and damage the city state slightly.</Text>
+		</Row>
+	<!-- Civilopedia -->
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_TEXT_1">
+			<Text>The Qara Khitai empire, or Kara Khitai, literally meaning "Black Khitan", also known as the Western Liao dynasty and officially the Great Liao was a sinicized dynastic empire in Central Asia ruled by the Khitan Yelü clan, and a successor state to the Liao dynasty. The dynasty was founded by Yelü Dashi who led the remnants of the Liao dynasty from Manchuria to Central Asia after fleeing from the Jin dynasty conquest of their homeland in northern China. The empire was usurped by the Naimans under Kuchlug in 1211, considered to be the end of the dynasty. The location of the dynasty corresponds to modern-day China, Kazakhstan, Kyrgyzstan, Mongolia, Tajikistan, and Uzbekistan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_HEADING_2">
+			<Text>The Khitan People</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_TEXT_2">
+			<Text>The Khitan people were a historical para-Mongolic nomadic people from Northeast Asia who, from the 4th century. Khitans spoke the Khitan language, a Para-Mongolic language related to the Mongolic languages. During their early history the Khitan were composed of eight tribes. Their territory was between the present-day Xar Moron River and Chaoyang, Liaoning. The Khitan's territory bordered Goguryeo, China and the lands of the Eastern Turks. Abaoji, who had been successful in uniting the Khitan tribes, founded the Liao dynasty in 907. The Liao territory included modern day northern and northeastern China, Mongolia, and parts of Central Asia and Siberia. Although transition to an imperial social and political organization was a significant change for the Khitans, the Khitan language, origin myth, shamanic religion and nomadic lifestyle endured.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_HEADING_3">
+			<Text>A Great Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_TEXT_3">
+			<Text>The Khitan people founded the Great Liao dynasty, founded in 916 around the time of the collapse of the Tang dynasty, at its greatest extent it ruled over Northeast China, the Mongolian Plateau, the northern part of the Korean Peninsula, southern portions of the Russian Far East, and the northern tip of the North China Plain. The dynasty had a history of territorial expansion. The most important early gains was the Sixteen Prefectures. Tension between traditional Khitan social and political practices and Han influence and customs was a defining feature of the dynasty. This tension led to a series of succession crises; Liao emperors favored the Han concept of primogeniture, while much of the rest of the Khitan elite supported the traditional method of succession by the strongest candidate. The Liao dynasty was destroyed by the Jurchen-led Jin dynasty in 1125 with the capture of the Emperor Tianzuo of Liao.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_HEADING_4">
+			<Text>A Move West</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_TEXT_4">
+			<Text>The Qara Khitai empire was established by Yelü Dashi, who led nomadic Khitans west by way of Mongolia after the collapse of the Liao dynasty. The Jurchens, once vassals of the Khitans, had allied with the Song dynasty and overthrown the Liao. Yelü recruited Khitans and other tribes to form an army, and in 1134 captured Balasagun from the Kara-Khanid Khanate, which marks the start of the Qara Khitai empire in Central Asia. The Khitan forces were soon joined by 10,000 Khitans, who had been subjects of the Kara-Khanid Khanate. The Khitans then conquered Kashgar, Khotan, and Beshbalik. The Khitans defeated the Western Kara-Khanid Khanate at Khujand in 1137, eventually leading to their control over the Fergana Valley. Yelü Dashi had originally hoped to recapture northern China from the Jin dynasty and restore the territories once held by the Liao dynasty. However, he soon discovered the relative weakness of his empire vis-a-vis the Jin dynasty and gave up the idea after a disastrous attack on the Jin dynasty in 1134.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_HEADING_5">
+			<Text>Legacy of the Liao…</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_TEXT_5">
+			<Text>The Khitan rulers adopted many administrative elements from the Liao dynasty, including the use of Confucian administration and imperial trappings. The empire also adopted the title of Gurkhan. The Khitans used the Chinese calendar, maintained Chinese imperial and administrative titles, gave its emperors reign names, used Chinese-styled coins, and sent imperial seals to its vassals. The Khitans maintained their old customs, even in Central Asia. They remained nomads, adhered to their traditional dress, and maintained the religious practices followed by the Liao dynasty Khitans. The ruling elite tried to maintain the traditional marriages between the Yelü king clan and the Xiao queen clan, and were highly reluctant to allow their princesses to marry outsiders. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_HEADING_6">
+			<Text>…Reborn as the Western Liao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_TEXT_6">
+			<Text>The Qara Khitai Khitans followed a mix of Buddhism and traditional Khitan religion, which included fire worship and tribal customs, such as the tradition of sacrificing a gray ox with a white horse. In an innovation unique to the Qara Khitai, the Khitans paid their soldiers salary. In Chinese historiography, the Qara Khitai is most commonly called the Western Liao, and is considered to be an orthodox Chinese dynasty, as is the case for the Liao dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_HEADING_7">
+			<Text>The Successors of a Founder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_TEXT_7">
+			<Text>When Yelü Dashi died his wife, Xiao Tabuyan became regent for their son. The son, Yelü Yilie, ruled from 1150 to 1163, to be succeeded by his sister, Yelü Pusuwan. She then fell in love with her husband's younger brother, Xiao Fuguzhi. They were executed in 1177 by her husband's father, Xiao Wolila, who then placed his son Yelü Zhilugu on the throne. The empire was weakened by rebellions and internal wars among its vassals, especially during the latter parts of its history. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_HEADING_8">
+			<Text>Ruling An Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_TEXT_8">
+			<Text>The Khitans ruled from their capital at Balasagun, directly controlling the central region of the empire. The rest of their empire consisted of highly autonomous vassalized states, primarily Khwarezm, the Karluks, the Kingdom of Qocho of the Uyghurs, the Kankalis, and the Western, Eastern, and Fergana Kara-Khanids. The late-arriving Naimans also became vassals, before usurping the empire under Kuchlug.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_HEADING_9">
+			<Text>Kuchlug and the Naimans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_TEXT_9">
+			<Text>In 1208, a Naiman prince, Kuchlug, fled his homeland after being defeated by Mongols. Kuchlug was welcomed into the empire of the Qara Khitans, and was allowed to marry Zhilugu's daughter. However, in 1211, Kuchlug revolted, and later captured Yelü Zhilugu while the latter was hunting. Zhilugu was allowed to remain as the nominal ruler but died two years later, and many historians regarded his death as the end of the Qara Khitan empire. In 1216, Genghis Khan dispatched his general Jebe to pursue Kuchlug; Kuchlug fled, but in 1218, he was finally captured and decapitated. The Mongols fully conquered the former territories of the Qara Khitans in 1220.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_HEADING_10">
+			<Text>End of Qara Khitai and Absorption by the Mongols</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_QARA_KHITAI_TEXT_10">
+			<Text>Qara Khitai became absorbed into the Mongol Empire; a segment of the Qara Khitan troops had previously already joined the Mongol army fighting against Kuchlug. Another segment of the Qara Khitans, in a dynasty founded by Buraq Hajib, survived in Kirman as a vassal of the Mongols, but ceased to exist as an entity during the reign of Öljaitü of the Ilkhanate. The Qara Khitans were dispersed widely all over Eurasia as part of the Mongol army. In the 14th century, they began to lose their ethnic identity, traces of their presence however may be found as clan names or toponyms from Afghanistan to Moldova. Today a Khitay tribe still lives in northern Kyrgyzstan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_TEXT_1">
+			<Text>Yelü Dashi, also known by his courtesy name Zhongde and his temple name Emperor Dezong of Western Liao, was the founder of the Qara Khitai, or Western Liao dynasty. He initially ruled as king from 1124 to 1132, then as emperor from 1132 to 1143. He fled the Liao dynasty in northern China as it was on the verge of destruction by the Jurchen-led Jin dynasty and moved westward into Central Asia where he established a new empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_HEADING_2">
+			<Text>A Minor Imperial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_TEXT_2">
+			<Text>Yelü Dashi was a minor member of the Liao dynasty's imperial Yelü clan and an eighth-generation descendant of the Emperor Taizu of Liao. His date of birth is not entirely clear but may have been in either 1087 or 1094, according to various accounts of the history of Liao. In the twilight of the dynasty he held increasingly important administrative and military posts. He held posts of governorship of Taizhou and Xiangzhou.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_HEADING_3">
+			<Text>A Life Upended</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_TEXT_3">
+			<Text>The Jurchens, a Tungus people who lived north of the Liao dynasty in Manchuria, established the Jin dynasty in 1115 and began to dominate Manchuria. The Jin dynasty formed an alliance with the Song dynasty to attack the Liao, and by 1122 the Jin had captured a large part of Liao territories, including its supreme capital of Chifeng. The Liao emperor Tianzuo fled west, and his uncle Prince Yelü Chun then formed the short-lived Northern Liao in its southern capital of Liao Nanjing. The Song forces under the command of Tong Guan attacked Northern Liao from the south, but under the command of Dashi and Xiao Gan, the Liao army was able to repel the Song attacks. However, the Jin dynasty continued to advance from the north, and eventually captured the southern capital in 1123. Just before the Jin takeover, Dashi slipped away with 7000 of his troops to join the Emperor Tianzuo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_HEADING_4">
+			<Text>A Daring Escape</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_TEXT_4">
+			<Text>Dashi was later captured by the Jin dynasty, but escaped five months later to rejoin the emperor. However, the emperor signalled his intention to attack the Jin. Dashi thought this was folly, as the Jin was in a strong position. Unable to convince the emperor, in 1124 Dashi led a band of Liao officials northwest to the Liao garrison town of Kedun. Emperor Tianzuo was captured by the Jin dynasty in 1125 and the Liao dynasty ended.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_HEADING_5">
+			<Text>A Long Move West</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_TEXT_5">
+			<Text>He started out with 10,000 horses. His new base of Kedun was about 1500 km northwest of Beijing, probably along the Orkhon River in Bulgan Province. It was an old Liao garrison with 20,000 tribal horsemen, good pasture, and protected by desert to the east and south. He probably planned to build up his forces and attack the Jurchens when an opportunity arose, which never did. He took control of the imperial horse herds and gained some power over the local tribes. Alliances with the Western Xia to the south or the Song dynasty to the southeast never developed. As the Jurchens grew stronger the disorganized lands to the west became increasingly attractive. There had already been significant tribal movements westward, including some Khitans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_HEADING_6">
+			<Text>Further and Further</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_TEXT_6">
+			<Text>On 13 March 1130 he headed west with less than 20,000 men. After some minor fighting with the Yenisei Kyrgyz, he established a new base on the Emil River just east of the current Chinese border about 1500 km west of Kedun. At about the same time, he was welcomed by the ruler of the Kingdom of Qocho who became his ally or vassal. In the summer of 1131, he attacked Kashgar, was soundly defeated, and withdrew to Qocho. The Jurchens sent an army after him, but this failed because of the distance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_HEADING_7">
+			<Text>A New Western Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_TEXT_7">
+			<Text>In 1132, he was proclaimed Gurkhan by his followers and adopted the regnal name Emperor Tianyou. He established his authority over Almaliq and Qayaliq. To the west was the disorganized Kara-Khanid Khanate that had split into two. The Eastern Karakhanid ruler of Balasagun invited him to help fight the Karluks and Kankalis, and in 1134 Dashi took the opportunity to depose him. He made Balasagun his new capital and took over 16,000 Khitans that had served the old ruler. He spread his power over Jetysu. He sent two armies east to attack the Jurchens, which failed. He gained control over what is now Xinjiang. In May 1137 he defeated a Western Karakhanid ruler at Khujand and then spent several years consolidating his power in the Ferghana valley and Tashkent, thereby expanding his empire to the west and south.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_HEADING_8">
+			<Text>The Great Battle of Qatwan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_TEXT_8">
+			<Text>The Western Karakhanids were then vassals of the Seljuks, and Mahmud appealed to the Seljuk sultan Ahmad Sanjar for help. In 1141, Dashi, interceding in a conflict between the Karakhanids and Karluk nomads, came into direct conflict with the Seljuks. Sanjar marched his troops to meet the Qara Khitans. At the Battle of Qatwan, however, Dashi achieved a decisive victory against the Seljuk Turks. The Seljuk army suffered a great death toll, and Sanjar barely escaped with his life, but his wife and some of his best warriors were captured. The power of the Seljuks sharply declined after the battle, and the Seljuk state collapsed into internal rebellion. The Qara Khitans became the dominant force in Central Asia, and Khwarazm and Karakhanids became vassal states of his empire. Their empire controlled an area roughly equivalent to most of today's Xinjiang, Kyrgyzstan, Uzbekistan, Tajikistan, and southern Kazakhstan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_HEADING_9">
+			<Text>Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_YELU_DASHI_TEXT_9">
+			<Text>Yelü Dashi died two years after Qatwan in 1143 as the master of much of Central Asia. At the time of his death, the Qara Khitai ruled Transoxiana, Ferghana, Semirechye, the Tarim Basin, and Uyghuria. His empress Xiao Tabuyan succeeded him as regent of the dynasty.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_UNIT_JWW_ORDO_CAVALRYMAN_TEXT">
+			<Text>The term Ordo, when used by the Liao Empire of the Khitans, was used to refer to a nobleman's personal entourage or court, which included servants, retainers, and bodyguards. Emperors, empresses, and high-ranking princes all had ordos of their own, which they were free to manage in practically any way they chose. The Khitan ordo horsemen could dismount to also fight as both bow and blade armed troops when necessary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_JWW_SHAOJIAN_TEXT">
+			<Text>The Shaojian were commissioners or representatives of the Gurkhan of Qara Khitai. Shaojian was their Chinese name, but they were also known as the shihna (Persian) and the basqaq (Turkic). They were stationed in the subject kingdoms and tribes or emissaries, were mainly responsible for collecting taxes and tributes, though in a few cases local dignitaries carried the tribute to Balāsāghūn. While the Qara Khitai emissaries were mainly Khitans of noble origin or high officials in the central administration, their commissioners came from the subjects’ ranks and, moreover, professed the prevalent religious belief of the respective territory (e.g., Buddhists in Gaochang, Muslims in Samarkand). Such commissioners also collected taxes, according to census, in the Qara Khitai’s central territory.</Text>
+		</Row>
+	<!-- Diplomacy Responses -->
+		<!-- First Greeting -->
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_FIRSTGREETING_1">
+			<Text>Not expecting to see a Khitan emperor in these parts? I am emperor Yelü Dashi, courtesy name Zhongde, and this is the Great Liao. Don't worry, you'll come to accept your Khitan overlords in time.</Text>
+		</Row>
+
+		<!-- Defeated -->
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_DEFEATED_1">
+			<Text>Yet another empire falls, and my journey begins anew once more.</Text>
+		</Row>
+
+		<!-- Diplomacy: Wars, Denunciations, and DoF -->
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_ATTACKED_GENERIC_1">
+			<Text>The Khitans face an attack once more, but fret not, we are not alone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_DEC_FRIENDSHIP_1">
+			<Text>Perhaps you would be more valuable as a friend and not a vassal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_DENOUNCE_1">
+			<Text>You are a threat to all cultures around the world, which includes my people.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_DOW_GENERIC_1">
+			<Text>I see your empire as a necessary requirement for me to continue onwards.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I can't have you laying claim to lands near my control.</Text>
+		</Row>
+
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_GREETING_AT_WAR_HOSTILE_1">
+			<Text>You are facing the wrath of the Khitans, Persians, Turks, and all other cultures that reside inside the Great Liao.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_GREETING_POLITE_HELLO_1">
+			<Text>I have taken a liking to you. Perhaps your empire is willing to join the Great Liao?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_GREETING_NEUTRAL_HELLO_1">
+			<Text>Impressed by the my empire yet?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_GREETING_HOSTILE_HELLO_1">
+			<Text>You wouldn't be first vassal to join this empire, if I so desired.</Text>
+		</Row>
+
+		<!-- Misc -->
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I am paranoid around armies not of my own. It would be best for you to go away before I do it myself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_LETS_HEAR_IT_1">
+			<Text>Get to the point.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_LOSEWAR_1">
+			<Text>I already forsaw this outcome, and was prepared to minimize my losses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_LUXURY_TRADE_1">
+			<Text>My people are restless, I need this for the good of the empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_NO_PEACE_1">
+			<Text>I'm grant peace when you've declared full control to yours truly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_OPEN_BORDERS_EXCHANGE">
+			<Text>I control the center of the world, how could you refuse?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_REPEAT_NO_1">
+			<Text>For what purpose are you bothering me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_RESPONSE_REQUEST_1">
+			<Text>This isn't a request, if you don't oblige I foresee consequences.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You say it is us who have no honor, but with your cowardly denunciation, it's really you who has no honor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_TOO_SOON_NO_PEACE_1">
+			<Text>Giving up before the battle was even fought?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_WINWAR_1">
+			<Text>It brings me joy to add more cultures to my collection.</Text>
+		</Row>
+
+		<!-- Cultural Influence -->
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_INFLUENTIAL_ON_HUMAN_1">
+			<Text>Our people are now paying tribute to Qara Khitai and raiding neighboring empires on horses. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_YELU_DASHI_INFLUENTIAL_ON_AI_1">
+			<Text>We are glad to see that your people are now paying tribute to Qara Khitai and raiding neighboring empires on horses. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+	<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_0">
+			<Text>Balasagun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_1">
+			<Text>Kashgar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_2">
+			<Text>Chachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_3">
+			<Text>Almalïq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_4">
+			<Text>Yutian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_5">
+			<Text>Hezhong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_6">
+			<Text>Khujand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_7">
+			<Text>Uzgen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_8">
+			<Text>Illiq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_9">
+			<Text>Yarkand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_10">
+			<Text>Bukhara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_11">
+			<Text>Kucha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_12">
+			<Text>Beshbalïq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_13">
+			<Text>Hezhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_14">
+			<Text>Gurgench</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_15">
+			<Text>Yizhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_16">
+			<Text>Solmi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_17">
+			<Text>Khiva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_18">
+			<Text>Xizhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_19">
+			<Text>Fergana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_20">
+			<Text>Sayram</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_21">
+			<Text>Qayalïq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_22">
+			<Text>Bole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_23">
+			<Text>Emin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_24">
+			<Text>Talas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_25">
+			<Text>Otrar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_26">
+			<Text>Barchuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_27">
+			<Text>Qiemo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_28">
+			<Text>Changji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_29">
+			<Text>Luntai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_30">
+			<Text>Yanqi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_31">
+			<Text>Lop</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_32">
+			<Text>Nakhshab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_33">
+			<Text>Amu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_34">
+			<Text>Kheti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_QARA_KHITAI_35">
+			<Text>Kedun</Text>
+		</Row>
+	<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_QARA_KHITAI_0">
+			<Text>Xiao</Text>
+			<gender>feminine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_QARA_KHITAI_1">
+			<Text>Renzong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_QARA_KHITAI_2">
+			<Text>Pesuwan</Text>
+			<gender>feminine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_QARA_KHITAI_3">
+			<Text>Zhilugu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_QARA_KHITAI_4">
+			<Text>Kuchlug</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_QARA_KHITAI_5">
+			<Text>Gantian</Text>
+			<gender>feminine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_QARA_KHITAI_6">
+			<Text>Yilie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_QARA_KHITAI_7">
+			<Text>Chengtian</Text>
+			<gender>feminine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_QARA_KHITAI_8">
+			<Text>Mozhu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_QARA_KHITAI_9">
+			<Text>Tianyou</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

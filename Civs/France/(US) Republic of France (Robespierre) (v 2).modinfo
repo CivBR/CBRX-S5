@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e589d3e5-80ff-44fe-9437-7691f102abf1" version="2">
+  <Properties>
+    <Name>(US) Republic of France (Robespierre)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Revolutionary Republic of France under Maximilien Robespierre to the game.</Teaser>
+    <Description>Adds the Revolutionary Republic of France under Maximilien Robespierre to the game.
+
+This mod is by Urdnot_Scott, I am uploading it for him because he is unable to currently.
+
+[IMG]https://i.imgur.com/Z67GWps.png[/IMG]</Description>
+    <Authors>Urdnot_Scott</Authors>
+    <SpecialThanks>DMS, DarthKyofu, Uighur_Caesar</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="CiD" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="ExCE" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="RTP" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="CulDiv" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="E&amp;D" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="924F06B901FF8BFBFA1096ED25E360E9" import="1">aRT/Atlas/AtlasDefines.xml</File>
+    <File md5="AF2B7A80B551FEC2C076C60B771ADCA9" import="1">aRT/Atlas/GuardFlag32.dds</File>
+    <File md5="69A563215DC14D6CCFC3AA22F2FC9E78" import="1">aRT/Atlas/RobDDS/Alpha24.dds</File>
+    <File md5="06A350B521B9F7C98B8ECFBFB43E698A" import="1">aRT/Atlas/RobDDS/Alpha32.dds</File>
+    <File md5="08DE76CA958417FF01A0ADCB4A4575F1" import="1">aRT/Atlas/RobDDS/Alpha48.dds</File>
+    <File md5="8D022979B9B7B078F72C991CF81687DF" import="1">aRT/Atlas/RobDDS/Alpha64.dds</File>
+    <File md5="BE44A29AA551E4872109BC6520F90AF7" import="1">aRT/Atlas/RobDDS/FranceAtlas128.dds</File>
+    <File md5="F39BE3AC70820D509CEB95FBC32778B6" import="1">aRT/Atlas/RobDDS/FranceAtlas256.dds</File>
+    <File md5="F7BBF2512D15B8F90D5AE909D566E054" import="1">aRT/Atlas/RobDDS/FranceAtlas32.dds</File>
+    <File md5="44D7A0056B7AD593B54FC8168CB3A784" import="1">aRT/Atlas/RobDDS/FranceAtlas45.dds</File>
+    <File md5="E9908BCB38D107B0B53EFEE8E812372A" import="1">aRT/Atlas/RobDDS/FranceAtlas64.dds</File>
+    <File md5="AACBB512DC593239F8557B2D0B1B3010" import="1">aRT/Atlas/RobDDS/FranceAtlas80.dds</File>
+    <File md5="07480A2A6DCF4C03CD8D3817352F08C1" import="1">aRT/RevFrance_DOM.dds</File>
+    <File md5="503CDBB7C78EEB8D63A9415E56C69B48" import="1">aRT/Robespierre_Diplo.dds</File>
+    <File md5="5CF398919048C12CA8DD4140594F32CE" import="1">aRT/Robespierre_Diplo.xml</File>
+    <File md5="A59390783544093E74233E38177A0DD2" import="1">aRT/Unit/civ5_fremm1.fxsxml</File>
+    <File md5="909F3F86A67F31A929BE201DA1AD7880" import="1">aRT/Unit/civ5_fremm1.gr2</File>
+    <File md5="07AB022ACB8C10A944D1013B8DB75711" import="1">aRT/Unit/fremm1.dds</File>
+    <File md5="4947CFACB4573339EB47C815939C0440" import="1">aRT/Unit/fremm1_sref.dds</File>
+    <File md5="C4CEE58A9B7BF36811BE74E886846A84" import="1">aRT/Unit/National_Guard.sql</File>
+    <File md5="1434B5AB6F554F094104D62754854FCB" import="1">aRT/Unit/sv_NationalGuard.dds</File>
+    <File md5="80602A69C2119D6BF59B61EEB54D5824" import="1">aRT/Urdnot_France_Map.dds</File>
+    <File md5="751408005C36A03C0D27D731DD80343D" import="0">cORE/Diplo.sql</File>
+    <File md5="B053D54A5F66C336620CEE24A04C2DAF" import="0">cORE/Diplomacy_Text.xml</File>
+    <File md5="182549F7F44AED5447BD4A1561B18120" import="0">cORE/ModSupport.sql</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">cORE/Plotiterators.lua</File>
+    <File md5="EE884F6388929E78DA4F046783C47906" import="0">cORE/RevFranceDecisions.lua</File>
+    <File md5="1ECBF4DFC16077AF794C79D89926336A" import="0">cORE/RevFranceHappinessSQL.sql</File>
+    <File md5="C6626DBDE485048EBFB23A394E405FF7" import="0">cORE/RevFrance_Buildings.xml</File>
+    <File md5="FF26EEF24347CDD02E717EA0F4CE849E" import="0">cORE/RevFrance_Civilizations.xml</File>
+    <File md5="972AE97DB8E1A845673F53D80F12C510" import="0">cORE/RevFrance_functions.lua</File>
+    <File md5="BE7A284B2A41A3EA7F60EFDC7E66B2EB" import="1">cORE/RevFrance_functions.xml</File>
+    <File md5="D845F70CC23E11B1393216638E8BE618" import="0">cORE/RevFrance_Leader.xml</File>
+    <File md5="C127FF7F9A8934BEFA1949475A7C563B" import="0">cORE/RevFrance_Text.xml</File>
+    <File md5="40B2D9AE5B656325BE2B553D140ECA15" import="0">cORE/RevFrance_Units.xml</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">cORE/SaveUtils.lua</File>
+    <File md5="60EF2C09D4C30C480AA385233E6DCE07" import="0">cORE/Trait.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>cORE/Diplo.sql</UpdateDatabase>
+      <UpdateDatabase>cORE/Diplomacy_Text.xml</UpdateDatabase>
+      <UpdateDatabase>cORE/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>cORE/RevFrance_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>cORE/RevFrance_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>cORE/RevFrance_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>cORE/RevFrance_Text.xml</UpdateDatabase>
+      <UpdateDatabase>cORE/RevFrance_Units.xml</UpdateDatabase>
+      <UpdateDatabase>cORE/RevFranceHappinessSQL.sql</UpdateDatabase>
+      <UpdateDatabase>cORE/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>aRT/Atlas/AtlasDefines.xml</UpdateDatabase>
+      <UpdateDatabase>aRT/Unit/National_Guard.sql</UpdateDatabase>
+      <UpdateDatabase>aRT/Robespierre_Diplo.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="cORE/RevFrance_functions.lua">
+      <Name>gheoaunrfs;mcdla,x</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

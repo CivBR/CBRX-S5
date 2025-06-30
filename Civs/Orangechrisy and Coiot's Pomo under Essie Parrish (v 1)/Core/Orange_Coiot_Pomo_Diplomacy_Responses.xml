@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/28/2025 10:42:38 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_ORG_COIOT_ESSIE">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_ORG_COIOT_ESSIE_FIRSTGREETING</Response>
+		</Row>
+		<Row LeaderType="LEADER_ORG_COIOT_ESSIE">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_ORG_COIOT_ESSIE_DEFEATED</Response>
+		</Row>
+		<Row LeaderType="LEADER_ORG_COIOT_ESSIE">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_ORG_COIOT_ESSIE_GREETING_POLITE_HELLO</Response>
+		</Row>
+		<Row LeaderType="LEADER_ORG_COIOT_ESSIE">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_ORG_COIOT_ESSIE_GREETING_NEUTRAL_HELLO</Response>
+		</Row>
+		<Row LeaderType="LEADER_ORG_COIOT_ESSIE">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_ORG_COIOT_ESSIE_GREETING_HOSTILE_HELLO</Response>
+		</Row>
+		<Row LeaderType="LEADER_ORG_COIOT_ESSIE">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_ORG_COIOT_ESSIE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</Response>
+		</Row>
+		<Row LeaderType="LEADER_ORG_COIOT_ESSIE">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_ORG_COIOT_ESSIE_EXPANSION_SERIOUS_WARNING</Response>
+		</Row>
+		<Row LeaderType="LEADER_ORG_COIOT_ESSIE">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_ORG_COIOT_ESSIE_REQUEST</Response>
+		</Row>
+		<Row LeaderType="LEADER_ORG_COIOT_ESSIE">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_ORG_COIOT_ESSIE_DECLAREWAR</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

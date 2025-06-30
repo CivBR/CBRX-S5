@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="86432ce5-722a-4274-bb03-997bdfdabd28" version="1">
+  <Properties>
+    <Name>Lungora and NopeCopter's Kipchaks</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Kipchaks to Sid Meier's Civilization V.</Teaser>
+    <Description>Adds the Kipchaks to Sid Meier's Civilization V.</Description>
+    <Authors>Lungora, NopeCopter</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="295ECB4FF367C9E73B484FD686FBB777" import="1">Art/Graphics/Balbal/balbal.dds</File>
+    <File md5="E9B47342C2C705F713BBF5915624BE08" import="1">Art/Graphics/Balbal/balbal.fxsxml</File>
+    <File md5="C818B6E53C53CDB7B192DFBE48BEB02F" import="1">Art/Graphics/Balbal/balbal.gr2</File>
+    <File md5="60FD330326D6BF0EE77F40BEF970FFD5" import="1">Art/Graphics/Balbal/balbal_hb.fxsxml</File>
+    <File md5="3CA170252E6FEE6892DFB89DB8A2D38D" import="1">Art/Graphics/Balbal/balbal_hb.gr2</File>
+    <File md5="462EE8B79AF071EB1CB1775AE8DE685E" import="1">Art/Graphics/Balbal/balbal_pl.dds</File>
+    <File md5="3BFCA3B1AD9EF63D725E9CB6012642B6" import="1">Art/Graphics/Balbal/balbal_pl.fxsxml</File>
+    <File md5="070EF86E11FFE9DB8DE2D70F1834FDA9" import="1">Art/Graphics/Balbal/balbal_pl.gr2</File>
+    <File md5="B22BC806631767435EA15264EF7267CE" import="1">Art/Graphics/Balbal/kipchakuicon_sv.dds</File>
+    <File md5="3498CC92A8BD3F34540BF5EB8E40A4BD" import="1">Art/Graphics/Tarkhan/Horseman_Turkey.dds</File>
+    <File md5="F38D19328D14A38612E5CCFE5554A480" import="1">Art/Graphics/Tarkhan/Horseman_Turkey.fxsxml</File>
+    <File md5="F5A9C1A3C0A23E8C0929E2D43805FEE7" import="1">Art/Graphics/Tarkhan/Horseman_Turkey.gr2</File>
+    <File md5="B520BF3F53768555638871DC646E4096" import="1">Art/Graphics/Tarkhan/Horseman_Turkey_gloss.dds</File>
+    <File md5="651AD041BBB81FA07E533C347AB2382D" import="1">Art/Graphics/Tarkhan/Horseman_Turkey_Horse.dds</File>
+    <File md5="CEAB20D7805EA9E6DBB45778596ECC17" import="1">Art/Graphics/Tarkhan/kipchak_uu_alpha_sv.dds</File>
+    <File md5="CEA7B3B89776DDE8FA95A16C1AF4B389" import="1">Art/Icons/kipchakuiconbutton_45.dds</File>
+    <File md5="ACD0B5C141C138463E963077F0AEAA36" import="1">Art/Icons/kipchakuiconbutton_64.dds</File>
+    <File md5="2AAF02DBC70957D2E3E0AD1345F8CA17" import="1">Art/Icons/kipchak_alpha_128.dds</File>
+    <File md5="C8B12E8ADE36B999CDF9C2A6411E1F49" import="1">Art/Icons/kipchak_alpha_16.dds</File>
+    <File md5="FDF8B1C25D4902D81340F7F7979F89D9" import="1">Art/Icons/kipchak_alpha_24.dds</File>
+    <File md5="329133CC556024B9D9E740708F957B4B" import="1">Art/Icons/kipchak_alpha_32.dds</File>
+    <File md5="698600E8E2590E7BA90535D481697858" import="1">Art/Icons/kipchak_alpha_45.dds</File>
+    <File md5="636E2D6F4BA555F70E1B798F32F78C55" import="1">Art/Icons/kipchak_alpha_48.dds</File>
+    <File md5="26FB1A05D4DE1E256741C938E94FCDEE" import="1">Art/Icons/kipchak_alpha_64.dds</File>
+    <File md5="F8628674A7102E3DAD6B7038A3E7871D" import="1">Art/Icons/kipchak_alpha_80.dds</File>
+    <File md5="4D1885F1BEF2351239F65D4FC2114CD8" import="1">Art/Icons/kipchak_uu_alpha_32.dds</File>
+    <File md5="2FD901D6D11FC66EA494C3A53EAEE32A" import="1">Art/Icons/NC_Kipchaks_IconAtlas_128.dds</File>
+    <File md5="B70FDD43A91CD55ED2F13E37AAA56ED0" import="1">Art/Icons/NC_Kipchaks_IconAtlas_256.dds</File>
+    <File md5="E7EB361733F990A19E0C4FA065204962" import="1">Art/Icons/NC_Kipchaks_IconAtlas_32.dds</File>
+    <File md5="75D17B4BE7CDABAED57C85A1FDE71F06" import="1">Art/Icons/NC_Kipchaks_IconAtlas_45.dds</File>
+    <File md5="6A00A493A2D2039C285ACA11D5D6EA76" import="1">Art/Icons/NC_Kipchaks_IconAtlas_64.dds</File>
+    <File md5="885387D4539A0D85A8FEFD2091113489" import="1">Art/Icons/NC_Kipchaks_IconAtlas_80.dds</File>
+    <File md5="0C0E6E50C8A57FD7E71D83089FB0E654" import="1">Art/Leaderscene/KipchakLS.dds</File>
+    <File md5="2757C06EA6C33D385379767CB15D1DA4" import="1">Art/Leaderscene/KipchakLS.xml</File>
+    <File md5="529BB60BB3890841445B5EBB627F06CD" import="1">Art/Maps/Kipchaks_DOM.dds</File>
+    <File md5="E3220BC55A8E94502CCFCCCBD529D349" import="1">Art/Maps/SasKipchaksMap.dds</File>
+    <File md5="92251830233E334A03EAC40EF9D2FD5B" import="1">Audio/Kipchaks_War.mp3</File>
+    <File md5="6A10ED4943671F8DC8F05ABB9C631E2B" import="1">Audio/Kipchaks_Peace.mp3</File>
+    <File md5="C2621B27702EED511E631BBBEA1F04F2" import="0">Core/NC_Kipchaks_ArtDefines.sql</File>
+    <File md5="49F28F553DFC78164D8147BECFC6E380" import="0">Core/NC_Kipchaks_GameDefines.sql</File>
+    <File md5="084BA273C5C1EA68C66A13C11C7C91EB" import="0">Core/NC_Kipchaks_GameText.xml</File>
+    <File md5="0AC48C01D6D5BFD3811D45719EA42DD9" import="0">Core/NC_Kipchaks_ModSupport.sql</File>
+    <File md5="6DFDB12DF246ED852CF250B0C9DB0D25" import="0">Lua/Kipchak_Functions.lua</File>
+    <File md5="FB100CB0B76034E45A1D0F139AEF0B3B" import="0">Lua/Kipchak_Functions.xml</File>
+    <File md5="E7726F3F70343324BEBAFC5094D1DD1F" import="1">Lua/TSL/Kipchaks_GlobalDefines.lua</File>
+    <File md5="08F3C66E8BE3C4AFE9B5398FB4BD4359" import="1">Lua/TSL/Kipchaks_TSLSerializerV3.lua</File>
+    <File md5="CD3E8C278CE1FD36806AA4CF6BE3BF88" import="1">Lua/TSL/TableSaverLoader016.lua</File>
+    <File md5="69FCADF0D2AE7C0C2CEC9D821AD41883" import="1">Lua/TSL/TSLSerializerCoreV3.lua</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/NC_Kipchaks_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/NC_Kipchaks_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/NC_Kipchaks_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/NC_Kipchaks_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Kipchak_Functions.lua">
+      <Name>Lua Functions</Name>
+      <Description>function deez nuts</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2cf01eea-0af0-4525-8e7d-f49c5af68226" version="1">
+  <Properties>
+    <Name>TopHat's Herero</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Herero, led by Jacob Morenga, to the game as a custom civilization. Requires Brave New World.</Teaser>
+    <Description>Adds the Herero, led by Jacob Morenga, to the game as a custom civilization. Requires Brave New World.</Description>
+    <Authors>TopHatPaladin</Authors>
+    <SpecialThanks>DMS, Typhlomence</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="0" maxversion="999" title="Additional Achievements" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD and Pouakai's Mercenaries" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="0E0A777440EEAC076D7CEAFC75F6475F" import="1">Art/JacobMorenga_DOM.dds</File>
+    <File md5="6A6BCDC795918455CA7DD8B662F7D112" import="1">Art/Map_Herero.dds</File>
+    <File md5="F31B4AB067E8FE7091432B2179C3AA12" import="1">Art/Morenga_scene.dds</File>
+    <File md5="43A4865C58CC7E180DA0ADC16940DB7E" import="1">Art/sv_oxrider.dds</File>
+    <File md5="BFE06CD1D9C7253534C9ED949ADB11CC" import="1">Art/THP_HereroAlpha128.dds</File>
+    <File md5="1EEB6FF097896777CAC8D16FA9F6F33C" import="1">Art/THP_HereroAlpha16.dds</File>
+    <File md5="AB5403A13AE1D512AB176E4B0876B9AE" import="1">Art/THP_HereroAlpha24.dds</File>
+    <File md5="B88F8913020B77128CB48B825679F156" import="1">Art/THP_HereroAlpha32.dds</File>
+    <File md5="21C941CE9F98AD407B2CDBDB336C032E" import="1">Art/THP_HereroAlpha48.dds</File>
+    <File md5="0A29AD81F5DC5439C43405F17C4FCE82" import="1">Art/THP_HereroAlpha64.dds</File>
+    <File md5="0A8BBD13D0BCB2BC227BCA3BB1173DE7" import="1">Art/THP_HereroAtlas128.dds</File>
+    <File md5="591490BB74149ACC41F4729BB8445454" import="1">Art/THP_HereroAtlas256.dds</File>
+    <File md5="EDD0D0AB5CD6495261682CCCE9F5CA0D" import="1">Art/THP_HereroAtlas32.dds</File>
+    <File md5="2246A6058A66CF20226A3883FECE016F" import="1">Art/THP_HereroAtlas45.dds</File>
+    <File md5="782CD80432BEBC666D1511E545935732" import="1">Art/THP_HereroAtlas64.dds</File>
+    <File md5="1436A3DEE6960CA7BF6CB11172BF84F3" import="1">Art/THP_HereroAtlas80.dds</File>
+    <File md5="99FEDA1E921E4E8D9735964BBF8DCB7B" import="1">Art/UnitModel/fx_triggers_OxCavalry.ftsxml</File>
+    <File md5="AEFDD95D87B65858EE77F068B4703FAC" import="1">Art/UnitModel/OxCavalry.fxsxml</File>
+    <File md5="F5F0159A6F28F01D1CA0A262AFBE8932" import="1">Art/UnitModel/OxCavalry.gr2</File>
+    <File md5="6C5B04AFE7F62345332AC7D684451573" import="1">Art/UnitModel/OxCavalryCow.dds</File>
+    <File md5="1346B00B8D3E6B89EF79F2047A472576" import="1">Art/UnitModel/OxCavalryHat.dds</File>
+    <File md5="C5B832FD92E8CE9F63822E7879940885" import="1">Art/UnitModel/OxCavalryRider.dds</File>
+    <File md5="FAC0D16D64E2656FB73C238D2D77B943" import="1">Art/Unit_Oxrider_Flag_32.dds</File>
+    <File md5="ACA43ACAB63B1C92082AD3930E41BAC4" import="1">Audio/Herero_Peace.mp3</File>
+    <File md5="D8CEBFF5E4B9BDE7D870327CC1265725" import="1">Audio/Herero_War.mp3</File>
+    <File md5="391FF2673434228F2525510CEC78DF27" import="0">Core/DiploText.xml</File>
+    <File md5="6F015C898083992A4C4E4C44BC7F0902" import="0">Core/GameText.xml</File>
+    <File md5="0D7B2C4B948DF71C7C12A9D56E7EC6FB" import="0">Core/Herero_ArtDef.sql</File>
+    <File md5="1A8D13D0E0D71ABEC55F16D24E5E6ACB" import="0">Core/Herero_GameDef.sql</File>
+    <File md5="44D383D21681C0905332564699DD1C71" import="1">Core/Leaderhead_Morenga.xml</File>
+    <File md5="FB99A9EC3C61278850188470F3465A4B" import="0">Core/ModSupport_Herero.sql</File>
+    <File md5="1368ACF988CC8834BB7AD60585E8B936" import="1">Lua/AdditionalAchievementsUtility.lua</File>
+    <File md5="D05EFE279E71828D3211ADAEC17A46FF" import="0">Lua/Herero_Functions.lua</File>
+    <File md5="78E29FF36B34B2124C0DF8BF4B8C9EC2" import="1">Lua/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Herero_GameDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Herero_ArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DiploText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport_Herero.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Herero_Functions.lua">
+      <Name>TophatHereroFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

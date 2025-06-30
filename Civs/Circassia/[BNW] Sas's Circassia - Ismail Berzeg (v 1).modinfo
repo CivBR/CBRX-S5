@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="bf0e311f-5203-4941-b00d-3b1ea775a324" version="1">
+  <Properties>
+    <Name>[BNW] Sas's Circassia - Ismail Berzeg</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>This mod adds the Circassian Confederation to the game, under the leadership of Hajji Ismail Berzeg!</Teaser>
+    <Description>This mod adds the Circassian Confederation to the game, under the leadership of Hajji Ismail Berzeg!</Description>
+    <Authors>Sasquatch (AKA Kramer), TopHatPaladin</Authors>
+    <SpecialThanks>Arilasqueto, Zharques, JFD</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="73BAD2686FAE02B72F6583ABCF3B8117" import="1">Art/Atlases/Alpha/SasBerzegAlpha_128.dds</File>
+    <File md5="AB45BE00D220BB23178EFCEE8259639E" import="1">Art/Atlases/Alpha/SasBerzegAlpha_16.dds</File>
+    <File md5="653A7F0833E03CC4C98D01191DAAEED6" import="1">Art/Atlases/Alpha/SasBerzegAlpha_24.dds</File>
+    <File md5="F634F8F1831076D1B3E47ADBAB714A42" import="1">Art/Atlases/Alpha/SasBerzegAlpha_32.dds</File>
+    <File md5="96DB4D0CE64B9556775F7D1A023A7E92" import="1">Art/Atlases/Alpha/SasBerzegAlpha_45.dds</File>
+    <File md5="E9789EE11AC03EEE25C1242939C45E26" import="1">Art/Atlases/Alpha/SasBerzegAlpha_48.dds</File>
+    <File md5="E540924BBB3AC83BE30245F82A0077B6" import="1">Art/Atlases/Alpha/SasBerzegAlpha_64.dds</File>
+    <File md5="5049051FF04B5097087F251374A32EAB" import="1">Art/Atlases/Alpha/SasBerzegAlpha_80.dds</File>
+    <File md5="92BD7B4B6ECCC169DA8413881F112C3A" import="1">Art/Atlases/SasBerzegIcons128.dds</File>
+    <File md5="F4775DBC3611E5FC0FEF20DB876B6FA2" import="1">Art/Atlases/SasBerzegIcons256.dds</File>
+    <File md5="3259CE2F332D97700E470421F32FB60B" import="1">Art/Atlases/SasBerzegIcons32.dds</File>
+    <File md5="249BB7AD99A1BFDA29BBCB057AD251C8" import="1">Art/Atlases/SasBerzegIcons45.dds</File>
+    <File md5="D516AAEBDB985D50F9C2A85EB4E1A346" import="1">Art/Atlases/SasBerzegIcons64.dds</File>
+    <File md5="D6EA89EAC3D9869A59689A2BDC854F0C" import="1">Art/Atlases/SasBerzegIcons80.dds</File>
+    <File md5="06E51410AF3A568EB376124DB0FD9878" import="1">Art/Models/Circassian_Dzhigit.fxsxml</File>
+    <File md5="52436E74776CD39BB614C789CB28D7DA" import="1">Art/Models/Circassian_Dzhigit.gr2</File>
+    <File md5="2E28A792849EF6E5AA343518F296BBC8" import="1">Art/Models/Circassian_Dzhigit_diff.dds</File>
+    <File md5="8128D30A465894C0693B2DB851FFAB36" import="1">Art/Models/Circassian_Dzhigit_sref.dds</File>
+    <File md5="CABFE82A08313603C9A995A461C91322" import="1">Art/Models/Circassian_Dzhigit_v2.fxsxml</File>
+    <File md5="219BF4000C2BAB083CCF78E90F5EBACF" import="1">Art/Models/Circassian_Dzhigit_v2.gr2</File>
+    <File md5="5E578D5FC6609003C1FE2CED4A04657A" import="1">Art/Models/Circassian_Dzhigit_v3.fxsxml</File>
+    <File md5="622371FA4FF26F2784EEC258724838CB" import="1">Art/Models/Circassian_Dzhigit_v3.gr2</File>
+    <File md5="FBDBA2B48D1B820926628752A27DE125" import="1">Art/SasBerzeg412.dds</File>
+    <File md5="FEAE702E3E433466EAA5A85111C3A902" import="1">Art/Sas_Berzeg_DOM.dds</File>
+    <File md5="7EE11DD17960EDBAC3F42486DCBA2ACF" import="1">Art/Sas_Berzeg_Scene.dds</File>
+    <File md5="8B7F0A7247498B327DCF1911E100203D" import="1">Art/Sas_Dzhigit_Flag.dds</File>
+    <File md5="52D1D34B8F85FE40E6BC1BB5F5A50CF1" import="1">Art/SV_Sas_Dzhigit.dds</File>
+    <File md5="E22A90490200DF2AF9F59D287E36EA08" import="0">Core/SasBerzegArtDefs.sql</File>
+    <File md5="A8BFCA24E49BAD3C7F47F4472F159361" import="0">Core/SasBerzegCore.sql</File>
+    <File md5="3E3765D26A49AA9CE42F00DAB2469980" import="0">Core/SasBerzegModSupport.sql</File>
+    <File md5="9B8A3536D2EA4D9609C0B953E1035292" import="0">Core/SasBerzegText.xml</File>
+    <File md5="80DD934D5CB12432FF0ACB9BA1A3535B" import="1">Core/Sas_Berzeg_Scene.xml</File>
+    <File md5="FD32910FB6671E95DAE3D0F24EF6919D" import="0">Lua/Circassia_Functions.lua</File>
+    <File md5="9B782D4CCD857A155304B4240CAFA9B0" import="1">Lua/Circassia_Functions.xml</File>
+    <File md5="0E1F4CB9F340052C81D89C9B1659222E" import="1">Sound/Sas_Berzeg_Peace.mp3</File>
+    <File md5="B5986502A377BBA936D28E6B1098E6BA" import="1">Sound/Sas_Berzeg_War.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Sas_Berzeg_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Core/SasBerzegArtDefs.sql</UpdateDatabase>
+      <UpdateDatabase>Core/SasBerzegCore.sql</UpdateDatabase>
+      <UpdateDatabase>Core/SasBerzegModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/SasBerzegText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Circassia_Functions.lua">
+      <Name>CircassiaBerzegFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

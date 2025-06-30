@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1aa2bf35-58f2-4310-8167-363c11532375" version="4">
+  <Properties>
+    <Name>JakeWalrusWhale's Maravi</Name>
+    <Teaser>Adds the [COLOR_NEGATIVE_TEXT]Maravi[ENDCOLOR] Confederation under Kalonga Mazula.</Teaser>
+    <Description>The Maravi under Kalonga Mazula[NEWLINE][NEWLINE]
+UA: Prophecy of Chauta[NEWLINE]
+For each unique luxury resource you own, units are trained with additional experience. Razing Cities grant Faith, and grant healing to all the units in the territory.[NEWLINE][NEWLINE]
+
+UU: Zimba Marauder[NEWLINE]
+Replaces the Pikeman. Defeating units will heal the Zimba and provide food to a random city. Pillaging in enemy territory permanently increases combat strength. Cannot pillage roads.[NEWLINE][NEWLINE]
+
+UU2: Nyau Cultist[NEWLINE]
+Replaces the Missionary. Cannot purchase, but spawns naturally upon accumulation of 250 Faith. Invisible when on roads, improvements, or the same tile as another unit. Can perform a "Gule Wamkulu" on city ruins, which expends the unit to build a city.</Description>
+    <Authors>JakeWalrusWhale</Authors>
+    <SpecialThanks>DMS (Merry Christmas!), DarthKyofu, Zharques, RawSasquatch</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="CBP" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Rise to Power" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="CulDiv" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="Mercenaries" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="7BE4B660F197FD256E855E609B5CED48" import="1">Art/Atlas/JWWMaraviIconAtlas128.dds</File>
+    <File md5="92629CC6BB8CC0533C09D380B354F29A" import="1">Art/Atlas/JWWMaraviIconAtlas24.dds</File>
+    <File md5="1C5C0FB8BE0ADCA129C881F704382404" import="1">Art/Atlas/JWWMaraviIconAtlas256.dds</File>
+    <File md5="716B763C54792F0883CFCC27AD5C6DA9" import="1">Art/Atlas/JWWMaraviIconAtlas32.dds</File>
+    <File md5="919C8D62455F99E59A9DC13BC132D6EA" import="1">Art/Atlas/JWWMaraviIconAtlas45.dds</File>
+    <File md5="D34DBDA7B245D2FB7358A4AA1E362B93" import="1">Art/Atlas/JWWMaraviIconAtlas48.dds</File>
+    <File md5="3A311BBE50C79F2B3B0C600977B3B3CF" import="1">Art/Atlas/JWWMaraviIconAtlas64.dds</File>
+    <File md5="C55407857546562581FE7C1CD59E63E3" import="1">Art/Atlas/JWWMaraviIconAtlas80.dds</File>
+    <File md5="0BA5C69412B1088E76AA44CF37EC64F9" import="1">Art/Atlas/JWWNyauAlpha128.dds</File>
+    <File md5="15BFAA6B8AFF184D7C40DF19F4DF4F86" import="1">Art/Atlas/JWWNyauAlpha16.dds</File>
+    <File md5="3293F67D28F5894D45AF1DF342FFCA45" import="1">Art/Atlas/JWWNyauAlpha24.dds</File>
+    <File md5="2142BE29441AFDC6A1159FD3438D0132" import="1">Art/Atlas/JWWNyauAlpha32.dds</File>
+    <File md5="A01A45058841BD07419A63B1C4B8A771" import="1">Art/Atlas/JWWNyauAlpha48.dds</File>
+    <File md5="0E2BEEDA58A3644EA80D4955512A6C67" import="1">Art/Atlas/JWWNyauAlpha64.dds</File>
+    <File md5="205FC28CD57481F63658C72695B6F144" import="1">Art/Atlas/JWWNyauAlpha80.dds</File>
+    <File md5="FDACDB721E8CE6D7785999771C6BFDB7" import="1">Art/Atlas/MaraviGaleWamkuluAtlas45.dds</File>
+    <File md5="A64DFFCA520103AAA8E23B6F3102F4FA" import="1">Art/Atlas/MaraviGaleWamkuluAtlas64.dds</File>
+    <File md5="B51D7AF3375E940DF46060FD9B1F3E53" import="1">Art/Font Icon/JWWNyauFontIcon22.dds</File>
+    <File md5="73C14033D27C59C64ABE0C368ABFFDB3" import="1">Art/Font Icon/JWWNyauFontIcon22.ggxml</File>
+    <File md5="D6473F8159701A742F2D580AECA64E4D" import="1">Art/JWWKalongaMazulaDOM.dds</File>
+    <File md5="948BEEE6D10D76AA1DE0165FA0676432" import="1">Art/JWWKalongaMazulaScene.dds</File>
+    <File md5="9E298788F9A62B6B340486C10EA35644" import="1">Art/JWWMaraviMap.dds</File>
+    <File md5="263D0CB6DFDDD5DE964BC39725A4DA94" import="1">Art/Unit Models/JWW_Nyau_diff.dds</File>
+    <File md5="7ABAF38AA57547EFE90A98A9E944F295" import="1">Art/Unit Models/JWW_Nyau_sref.dds</File>
+    <File md5="7099F564F406A4A6E7C0356CF42CCF27" import="1">Art/Unit Models/JWW_Nyau_v1.fxsxml</File>
+    <File md5="8C4BD8AE29F3D894402B2439C0C10B32" import="1">Art/Unit Models/JWW_Nyau_v1.gr2</File>
+    <File md5="A73C6632681198A9D8B0F638B1D37D8A" import="1">Art/Unit Models/JWW_Nyau_v2.fxsxml</File>
+    <File md5="87B9A4F4AED1F1B354656AAA431F4BB6" import="1">Art/Unit Models/JWW_Nyau_v2.gr2</File>
+    <File md5="63173476F138F24DB58AAB234E8B5FD5" import="1">Art/Unit Models/JWW_Zimba.fxsxml</File>
+    <File md5="4548AB55A4DA4DCCA3BABF71C6545C0C" import="1">Art/Unit Models/JWW_Zimba.gr2</File>
+    <File md5="F960CC94AB0632285D97FDF8F9C72E0F" import="1">Art/Unit Models/JWW_Zimba_diff.dds</File>
+    <File md5="D0190EF7CD833A6D43867EA6CE267C5D" import="1">Art/Unit Models/JWW_Zimba_sref.dds</File>
+    <File md5="5819A52222740CC0F5B713B43D39E46F" import="1">Art/Unit Models/NyauCultistAlpha32.dds</File>
+    <File md5="A78E6746ECBC9A3015E2D4D29092F4F0" import="1">Art/Unit Models/NyauCultistSV.dds</File>
+    <File md5="1EC9E33EE20588A9F2CAB2F4A0BB879E" import="1">Art/Unit Models/ZimbaMarauderAlpha32.dds</File>
+    <File md5="DB7A0A0F2371F4F142E014828148F243" import="1">Art/Unit Models/ZimbaMarauderSV.dds</File>
+    <File md5="7F82B4B1197C525F0B53A5960D55A891" import="0">Code/Database/JWWMaraviArtDefines.sql</File>
+    <File md5="AF9D990284F715B07FBB78C3674C4D64" import="0">Code/Database/JWWMaraviGameDefines.sql</File>
+    <File md5="AC2B88D59B961564FF66F3266843AA6F" import="0">Code/Database/JWWMaraviModSupport.sql</File>
+    <File md5="42340789547032780F8B9485257AA19A" import="1">Code/Database/JWWKalongaMazulaScene.xml</File>
+    <File md5="785E0CBF50F5B3B0632A517D7C38B89E" import="0">Code/Database/JWWMaraviText.xml</File>
+    <File md5="74863C4B66BD498F65715BE248D838AC" import="0">Code/Lua/MaraviFunctions.lua</File>
+    <File md5="EBDE900650F75780E8235B9B0BC15425" import="0">Code/Lua/MaraviFunctions.xml</File>
+    <File md5="529007DC48F3E0E344FDE69DC01CB2E9" import="1">Code/Lua/Utilities/JWWMaraviTSL.lua</File>
+    <File md5="7C83BC818781F9DFFDA2B2A06BC8978F" import="1">Code/Lua/Utilities/TableSaverLoader016.lua</File>
+    <File md5="FC62CA3A1C67B71BA4D3CCAD467DF9D0" import="1">Code/Lua/Utilities/TSLSerializerCoreV3.lua</File>
+    <File md5="708B6F9F52DF78B55389120EEF5B8B7E" import="0">Credits.txt</File>
+    <File md5="0F95C0930B0537D6D6B55D8768974FFA" import="1">Music/JWWMaraviPeace.mp3</File>
+    <File md5="9226E3989038340BF7B45A774236EA59" import="1">Music/JWWMaraviWar.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/Database/JWWMaraviArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/JWWMaraviGameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/JWWMaraviModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/JWWMaraviText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/MaraviFunctions.lua">
+      <Name>Maravi Fucntiosn</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

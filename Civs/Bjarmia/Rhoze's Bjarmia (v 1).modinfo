@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ce29064f-8c01-4f98-ac4a-abdd2641cefd" version="1">
+  <Properties>
+    <Name>Rhoze's Bjarmia</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the enigmatic Bjarmians of Gandvik to the game.</Teaser>
+    <Description>Adds the enigmatic Bjarmians of Gandvik to the game.</Description>
+    <Authors>Rhoze</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="4045B08B68FBD8243E6671C22FFED6C3" import="1">Art/AshenUnitflag32.dds</File>
+    <File md5="B3B5E3E787ADD8AC6B6F0827385683B7" import="1">Art/BjarmiaAlpha_24.dds</File>
+    <File md5="815B2A0F21A38569F8AE169F4F2E0D98" import="1">Art/BjarmiaAlpha_32.dds</File>
+    <File md5="75D31B74A9C8F998CC6C4B8400084D01" import="1">Art/BjarmiaAlpha_48.dds</File>
+    <File md5="AB8AEF9CA22A796FBEEA36656B3C6463" import="1">Art/BjarmiaAlpha_64.dds</File>
+    <File md5="55173457CABED7A0AC05999A0057DDA7" import="1">Art/BjarmiaIcon_128.dds</File>
+    <File md5="9C355714B6EA80755FD0BB70DCFB3858" import="1">Art/BjarmiaIcon_256.dds</File>
+    <File md5="1D4BFE917C766A308FC2BA8ADD0446F8" import="1">Art/BjarmiaIcon_32.dds</File>
+    <File md5="8570F67EBFBE0F5B8F4B56B9E8A9CFAC" import="1">Art/BjarmiaIcon_45.dds</File>
+    <File md5="D8DA5A48BD5F2302EC221F99967DAA75" import="1">Art/BjarmiaIcon_64.dds</File>
+    <File md5="0BA574B9E22243786DF7ED4E06BA0432" import="1">Art/BjarmiaIcon_80.dds</File>
+    <File md5="CEEA18522C3307CEDC1BBB51F633124F" import="1">Art/bjarmia_map.dds</File>
+    <File md5="D8B2D22344A3682F324A6D4312DF635D" import="1">Art/bjarmleader.dds</File>
+    <File md5="191BD19ED9E57E1F8A9142ED4668B589" import="1">Art/bjarm_dom.dds</File>
+    <File md5="92D8101CBD4C955E62B0F9A6D878F7EC" import="1">Art/svAshen.dds</File>
+    <File md5="6EF4B10025885B0AEBF38F2F1A272CE3" import="1">Art/bjarm_LS.xml</File>
+    <File md5="9613D3579F7DB782BFBA54176618800C" import="0">Core/BjarmArtDef.sql</File>
+    <File md5="9F73EF6004052370962222DF432A38AE" import="0">Core/BjarmCore.sql</File>
+    <File md5="6E17033A0928FD90A963E2E292021D46" import="0">Core/BjarmSupport.sql</File>
+    <File md5="C1D0E7E735BDBB8F4955EC68C48BB338" import="0">Core/BjarmText.xml</File>
+    <File md5="E0DB1C4DD5478A83AE9A65A9AC1A9184" import="0">Lua/BjarmFunc.lua</File>
+    <File md5="B6ECA560A5F39C3085B2BE0585992949" import="1">Lua/GoldenAgeLuaEvent.lua</File>
+    <File md5="96731BF4C5C832DCCDB35CC1371062A2" import="1">Sound/BjarmiaPeace.mp3</File>
+    <File md5="4CFDE91DEEF8FED3DE41EC7CE16725BF" import="1">Sound/BjarmiaWar.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/BjarmArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/BjarmCore.sql</UpdateDatabase>
+      <UpdateDatabase>Core/BjarmSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/BjarmText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/BjarmFunc.lua">
+      <Name>BjarmFunc</Name>
+      <Description>BjarmFunc</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

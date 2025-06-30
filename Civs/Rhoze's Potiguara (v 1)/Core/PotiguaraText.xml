@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/7/2022 11:47:29 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_RHO_POTIGUARA_WEAKMARK">
+			<Text>Capaôba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_RHO_POTIGUARA_PHUSACONVERT">
+			<Text>Capaôba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_1">
+			<Text>Capaôba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_2">
+			<Text>Akaîutebiró</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_3">
+			<Text>Sagi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_4">
+			<Text>Jacu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_5">
+			<Text>Catu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_6">
+			<Text>Amarelão</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_7">
+			<Text>Cachoeira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_8">
+			<Text>Marajó</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_9">
+			<Text>Acucena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_10">
+			<Text>Serrote</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_11">
+			<Text>Santa Terezinha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_12">
+			<Text>Sagi Trabanda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_13">
+			<Text>Amarelão Novo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_14">
+			<Text>Santo Inácio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_15">
+			<Text>Capibaribemirim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_16">
+			<Text>Rio dos Índios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_17">
+			<Text>Marcacão</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_18">
+			<Text>Igramació</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_19">
+			<Text>Jaraguá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_20">
+			<Text>Camurupim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_21">
+			<Text>Grupiúna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_22">
+			<Text>Tramataia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_23">
+			<Text>Camaratuba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_24">
+			<Text>Mamanguape</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_25">
+			<Text>Pitaguarí</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_26">
+			<Text>Caucaia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_27">
+			<Text>Parangaba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_28">
+			<Text>Paupina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_29">
+			<Text>Parnamirim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_30">
+			<Text>Ipioca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_31">
+			<Text>Nossa Senhora das Neves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_32">
+			<Text>Forte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_33">
+			<Text>Galego</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_34">
+			<Text>Laranjeira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_35">
+			<Text>Monte-Mór</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_36">
+			<Text>Sarrambi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_POTIGUARA_37">
+			<Text>Raposa</Text>
+		</Row>
+
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_POTIGUARA_0">
+			<Text>Zorobabé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_POTIGUARA_1">
+			<Text>Iniguacu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_POTIGUARA_2">
+			<Text>Pedro Poty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_POTIGUARA_3">
+			<Text>Macachera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_POTIGUARA_4">
+			<Text>Tejucupapo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_POTIGUARA_5">
+			<Text>Clara Camarão</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_POTIGUARA_6">
+			<Text>Eliane</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_POTIGUARA_7">
+			<Text>Aratuya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_POTIGUARA_8">
+			<Text>Poti</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_POTIGUARA_9">
+			<Text>Paraguacu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<!--Basic Info-->
+		<Row Tag="TXT_KEY_LEADER_RHO_INIGUACU">
+			<Text>Filipe Camarão</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_RHO_POTIGUARA_ADJ">
+			<Text>Potiguar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_RHO_POTIGUARA">
+			<Text>The Potiguara</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_RHO_POTIGUARA_SHORT">
+			<Text>The Potiguara</Text>
+			<Plurality>2</Plurality>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="TXT_KEY_PEDIA_RHO_POTIGUARA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_POTIGUARA_TEXT_1">
+			<Text>tbd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_INIGUACU_NAME">
+			<Text>Filipe Camarão</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_INIGUACU_SUBTITLE">
+			<Text>Leader of the Potiguara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_INIGUACU_TITLES_1">
+			<Text>Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_INIGUACU_LIVED">
+			<Text>1580-1648</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_INIGUACU_HEADING_1">
+			<Text>Biography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_INIGUACU_TEXT_1">
+			<Text>tbd</Text>
+		</Row>
+
+		<!--Gameplay-->
+		<Row Tag="TXT_KEY_CIV5_DAWN_RHO_POTIGUARA_TEXT">
+			<Text>
+				tbd
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RHO_DIVINE_LIGHT_SHORT">
+			<Text>War of the Divine Light</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RHO_DIVINE_LIGHT">
+			<Text>
+				Gain permanent vision in regions of Forest or Jungle connected to your cities. Claiming any wooded tiles provides unit [ICON_PRODUCTION] Production in all nearby cities and permanently weakens any close enemies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_PHUSA">
+			<Text>Phusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_PHUSA_HELP">
+			<Text>A Spearman replacement that can convert city-state units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_PHUSA_STRATEGY">
+			<Text>
+				A Spearman replacement. Amphibious. Converts one hostile adjacent city-state unit to your side (per Phusa). The first Phusa built in each city spawns an additional one.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_PHUSA_TEXT">
+			<Text>tbd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_SHRIMPPOND">
+			<Text>Shrimp Pond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_SHRIMPPOND_HELP">
+			<Text>Unique replacement for the Water Mill. Only the Potiguara may build it. Can be built anywhere, but spawns a Shrimp bonus resource if the city has fresh water access (+1 Food, +1 Culture, +1 Gold when improved). Another Shrimp may spawn after entering later eras. +1 XP for new units for each different resource worked by this city and for each friendly civilization at war with the same targets as you (max 15).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_SHRIMPPOND_STRATEGY">
+			<Text>Unique replacement for the Water Mill. Only the Potiguara may build it. Can be built anywhere, but spawns a Shrimp bonus resource if the city has fresh water access (+1 Food, +1 Culture, +1 Gold when improved). Another Shrimp may spawn after entering later eras. +1 XP for new units for each different resource worked by this city and for each friendly civilization at war with the same targets as you (max 15).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_SHRIMPPOND_TEXT">
+			<Text>tbd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_POTIGUARA_PHUSACONVERT">
+			<Text>Unity Under Strife</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_POTIGUARA_PHUSACONVERT_HELP">
+			<Text>Converts the first hostile City-State unit that this starts a turn next to into your own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_POTIGUARA_WEAKMARK">
+			<Text>Lost in the Sea of Trees and Forest of Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_POTIGUARA_WEAKMARK_HELP">
+			<Text>Permanent Combat Strength reduction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RHO_POTISHRIMP">
+			<Text>Poti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RHO_POTISHRIMP_TEXT">
+			<Text>Provides 1 Food and 1 Culture, in addition to 1 Gold if improved by Fishing Boats.</Text>
+		</Row>
+
+		<!--
+		<Row Tag="TXT_KEY_LEADER_RHO_INIGUACU_FIRSTGREETING_1">
+			<Text>Hm, a newcomer. Do you seek spiritual aid, or have you come to trade with my people?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_INIGUACU_DEFEATED_1">
+			<Text>You have won, outsider. ...Perhaps you should keep an eye on the deer and the ravens of your land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_INIGUACU_DOWGENERIC_1">
+			<Text>I'm afraid the time has come to drop pretenses. You are an enemy, and we will treat you as such.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_INIGUACU_ATTACKEDHOSTILE_1">
+			<Text>You have made a mistake. Horagalles, protect me!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_INIGUACU_LUXURYTRADE_1">
+			<Text>These items are in great demand. I wouldn't haggle too much if I were you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_INIGUACU_OPEN_BORDERS_EXCHANGE">
+			<Text>Your people require my personal permission to move freely in my land.</Text>
+		</Row>
+		-->
+	</Language_en_US>
+</GameData>

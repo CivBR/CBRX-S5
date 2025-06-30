@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="3a7288bc-4841-4081-87e6-8a5579feda38" version="1">
+  <Properties>
+    <Name>TarcisioCM - Bactria</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Bactria[ENDCOLOR] under Demetrius. Requires BNW.</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]Bactria[ENDCOLOR] under Demetrius. Requires BNW.</Description>
+    <Authors>TarcisioCM</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD’s Cities in Development" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1FA70262D8B6D8A5906A2A6A5B1B484C" import="1">Art/DDS/Event_tcm_Ambassor.dds</File>
+    <File md5="6FF9ABFF620EBCF7C1BF8F0FB2C4E59B" import="1">Art/DDS/Event_tcm_Usurper.dds</File>
+    <File md5="DDFA944ACAA3704D31694D55F92FC89D" import="1">Art/DDS/tcmDemetriusScene.xml</File>
+    <File md5="11518E08B0824AD76FD5D30186D614D3" import="1">Art/DDS/TCM_BACTRIA_ALPHA_128.dds</File>
+    <File md5="2A9BD7C674EB10505DAA93F52A52B190" import="1">Art/DDS/TCM_BACTRIA_ALPHA_16.dds</File>
+    <File md5="B60D9DD897C2BE6654E6232BC8BA07F6" import="1">Art/DDS/TCM_BACTRIA_ALPHA_24.dds</File>
+    <File md5="1F5B9433970A44646DFE4C81EA67ADC9" import="1">Art/DDS/TCM_BACTRIA_ALPHA_32.dds</File>
+    <File md5="D55B6F82ED8485A48A7204F633F1F42E" import="1">Art/DDS/TCM_BACTRIA_ALPHA_48.dds</File>
+    <File md5="5DB0959B0BF9634CB7E687B4A05F13F8" import="1">Art/DDS/TCM_BACTRIA_ALPHA_64.dds</File>
+    <File md5="8ABC3CB1F31A55ACE8CB15A5FC1AF5AF" import="1">Art/DDS/TCM_BACTRIA_ALPHA_80.dds</File>
+    <File md5="CF962D805545D383E2FC609ED452999C" import="1">Art/DDS/TCM_BACTRIA_DOM.dds</File>
+    <File md5="4BA2186F5D48107E1D7D0A8A3976B908" import="1">Art/DDS/TCM_BACTRIA_ICONS_128.dds</File>
+    <File md5="FDAAC363D4A2FB6555652E895DA8EB71" import="1">Art/DDS/TCM_BACTRIA_ICONS_256.dds</File>
+    <File md5="1E5A999594C928971E44FE583A057403" import="1">Art/DDS/TCM_BACTRIA_ICONS_32.dds</File>
+    <File md5="9F4A29B71FFE751FE9092961ED4B255D" import="1">Art/DDS/TCM_BACTRIA_ICONS_45.dds</File>
+    <File md5="3414F9A1045744804CBD74EC5C4AF383" import="1">Art/DDS/TCM_BACTRIA_ICONS_64.dds</File>
+    <File md5="0D7943A3B46A243F9C37279D362F3772" import="1">Art/DDS/TCM_BACTRIA_ICONS_80.dds</File>
+    <File md5="1A3F986A111B52175F92C6F944A20514" import="1">Art/DDS/TCM_BACTRIA_LEADERSCREEN.dds</File>
+    <File md5="F6FD7EDC2DC2183331FEB845B7A299AF" import="1">Art/DDS/TCM_BACTRIA_MAP.dds</File>
+    <File md5="5704D7B14A6F453D5C479058F1437701" import="1">Art/DDS/TCM_BACTRIA_PHROURIA_256.dds</File>
+    <File md5="F3A3DE7EA6298EC956B92FF81F164D00" import="1">Art/DDS/TCM_BACTRIA_PHROURIA_45.dds</File>
+    <File md5="B2517AE06842AB6A2C45DEF4C6F4A006" import="1">Art/DDS/TCM_BACTRIA_PHROURIA_64.dds</File>
+    <File md5="D6996DBC4ED7A4706AA343F3635949CA" import="1">Art/DDS/TCM_ELEPANTARCH_FLAG.dds</File>
+    <File md5="02A59E1E07B6455A0E87AEFC0B3E7417" import="1">Art/DDS/TCM_ELEPHANTARCH_SV.dds</File>
+    <File md5="CD1AD31616389B25B40F14BE3B039DE9" import="1">Art/DDS/TCM_PHROURIA_SV.dds</File>
+    <File md5="765DD4859FF39F34D916A68618D80031" import="1">Art/Model/Oriental Fort B.fxsxml</File>
+    <File md5="F8FA8281A685BBEEBB15EFA03AE2C328" import="1">Art/Model/Oriental Fort HB.fxsxml</File>
+    <File md5="50D3505CFC2FC91E772CF9A6D42D3484" import="1">Art/Model/oriental fort HB.gr2</File>
+    <File md5="3EB47940004D1599BDDF99521958F9C4" import="1">Art/Model/Oriental Fort PL.fxsxml</File>
+    <File md5="8B05BA3F28CEF78AE3A4230F26804C19" import="1">Art/Model/oriental fort PL.gr2</File>
+    <File md5="79E8BBD25091B1F81E818CC3D9FE23B1" import="1">Art/Model/oriental fort.gr2</File>
+    <File md5="8D0D6329BE849693E7DF19072311F4A8" import="1">Art/Model/s_oriental_fort_diff_2.dds</File>
+    <File md5="DC0799939641F7308934AE23B90DBAD2" import="1">Art/Music/TCM_BACTRIA_PEACE.mp3</File>
+    <File md5="10BF5C7A49D572A33112ECD3CE66D9B5" import="1">Art/Music/TCM_BACTRIA_WAR.mp3</File>
+    <File md5="EF3B1FF203D4FE7AED68B71735E8178F" import="0">Code/Functions.lua</File>
+    <File md5="B790557DBF7B016A3BFE0A68E26FE3A9" import="1">Code/tcmBactriaEvents.lua</File>
+    <File md5="37B543F619B00A4B0787EB99C964ECF8" import="1">Code/tcmBactriaDecisions.lua</File>
+    <File md5="580F20F5D0F498D67DEE4900C714ABF7" import="0">Code/MainCode.sql</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Code/SaveUtils.lua</File>
+    <File md5="D6ED748C61DC3B99C2CB195DAAE689AA" import="0">Code/Text.xml</File>
+    <File md5="BB152BDE8D69298586AA0E30353961FC" import="0">Code/ModSupport.sql</File>
+    <File md5="1513FF5F39A749C2DBF57370E341A58E" import="0">Code/ArtDef.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/MainCode.sql</UpdateDatabase>
+      <UpdateDatabase>Code/ArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Code/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Functions.lua">
+      <Name>Demetrius Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

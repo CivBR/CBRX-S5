@@ -1,0 +1,447 @@
+--==========================================================================================================================		
+--==========================================================================================================================
+-- Civilizations
+--==========================================================================================================================
+INSERT INTO Civilizations 	
+			(Type, 							Description, 						ShortDescription, 						Adjective, 								Civilopedia, 							CivilopediaTag, 				DefaultPlayerColor,		 	 ArtDefineTag, ArtStyleType, ArtStyleSuffix, ArtStylePrefix, IconAtlas,				AlphaIconAtlas, 			 PortraitIndex,	SoundtrackTag, 	MapImage, 					DawnOfManQuote, 					   DawnOfManImage)
+SELECT		('CIVILIZATION_TCM_BACTRIA'), 	('TXT_KEY_CIV_TCM_BACTRIA_DESC'), 	('TXT_KEY_CIV_TCM_BACTRIA_SHORT_DESC'), ('TXT_KEY_CIV_TCM_BACTRIA_ADJECTIVE'), 	('TXT_KEY_CIV5_TCM_BACTRIA_TEXT_1'),	('TXT_KEY_CIV5_TCM_BACTRIA'), 	('PLAYERCOLOR_TCM_BACTRIA'), ArtDefineTag, ArtStyleType, ArtStyleSuffix, ArtStylePrefix, ('TCM_BACTRIA_ATLAS'), ('TCM_BACTRIA_ALPHA_ATLAS'), 0, 			('GREECE'),	 	('TCM_BACTRIA_MAP.dds'), 	('TXT_KEY_CIV5_DOM_TCM_BACTRIA_TEXT'), ('TCM_BACTRIA_DOM.dds')
+FROM Civilizations WHERE Type = 'CIVILIZATION_GREECE';
+--==========================================================================================================================
+-- Civilization_CityNames
+--==========================================================================================================================		
+INSERT INTO Civilization_CityNames 
+			(CivilizationType, 					CityName)
+VALUES		('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_01'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_02'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_03'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_04'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_05'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_06'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_07'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_08'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_09'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_10'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_11'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_12'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_13'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_14'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_15'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_16'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_17'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_18'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_19'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_20'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_21'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_22'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_23'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_24'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_25'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_26'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_27'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_28'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_29'),
+			('CIVILIZATION_TCM_BACTRIA', 		'TXT_KEY_CITY_NAME_TCM_BACTRIA_30');
+--==========================================================================================================================
+-- Civilization_FreeBuildingClasses
+--==========================================================================================================================		
+INSERT INTO Civilization_FreeBuildingClasses 
+			(CivilizationType, 				BuildingClassType)
+VALUES		('CIVILIZATION_TCM_BACTRIA', 	'BUILDINGCLASS_PALACE');
+--==========================================================================================================================
+-- Civilization_FreeTechs
+--==========================================================================================================================	
+INSERT INTO Civilization_FreeTechs 
+			(CivilizationType, 				TechType)
+SELECT		('CIVILIZATION_TCM_BACTRIA'), 	TechType
+FROM Civilization_FreeTechs WHERE CivilizationType = 'CIVILIZATION_GREECE';
+--==========================================================================================================================
+-- Civilization_FreeUnits
+--==========================================================================================================================	
+INSERT INTO Civilization_FreeUnits 
+			(CivilizationType, 				UnitClassType, Count, UnitAIType)
+SELECT		('CIVILIZATION_TCM_BACTRIA'), 	UnitClassType, Count, UnitAIType
+FROM Civilization_FreeUnits WHERE CivilizationType = 'CIVILIZATION_GREECE';
+--==========================================================================================================================
+-- Civilization_Leaders
+--==========================================================================================================================		
+INSERT INTO Civilization_Leaders 
+			(CivilizationType, 				LeaderheadType)
+VALUES		('CIVILIZATION_TCM_BACTRIA', 	'LEADER_TCM_DEMETRIUS');
+--==========================================================================================================================
+-- Civilization_UnitClassOverrides
+--==========================================================================================================================	
+INSERT INTO Civilization_UnitClassOverrides 
+			(CivilizationType, 				UnitClassType, 			UnitType)
+VALUES		('CIVILIZATION_TCM_BACTRIA', 	'UNITCLASS_SWORDSMAN', 	'UNIT_TCM_ELEPHANTARCH');
+--==========================================================================================================================
+-- Civilization_Religions
+--==========================================================================================================================	
+INSERT INTO Civilization_Religions 
+			(CivilizationType, 				ReligionType)
+VALUES		('CIVILIZATION_TCM_BACTRIA', 	'RELIGION_BUDDHISM');
+--==========================================================================================================================
+-- Civilization_SpyNames
+--==========================================================================================================================	
+INSERT INTO Civilization_SpyNames 
+			(CivilizationType, 				SpyName)
+VALUES		('CIVILIZATION_TCM_BACTRIA', 	'TXT_KEY_SPY_NAME_TCM_BACTRIA_0'),	
+			('CIVILIZATION_TCM_BACTRIA', 	'TXT_KEY_SPY_NAME_TCM_BACTRIA_1'),
+			('CIVILIZATION_TCM_BACTRIA', 	'TXT_KEY_SPY_NAME_TCM_BACTRIA_2'),
+			('CIVILIZATION_TCM_BACTRIA', 	'TXT_KEY_SPY_NAME_TCM_BACTRIA_3'),
+			('CIVILIZATION_TCM_BACTRIA', 	'TXT_KEY_SPY_NAME_TCM_BACTRIA_4'),
+			('CIVILIZATION_TCM_BACTRIA', 	'TXT_KEY_SPY_NAME_TCM_BACTRIA_5'),
+			('CIVILIZATION_TCM_BACTRIA', 	'TXT_KEY_SPY_NAME_TCM_BACTRIA_6'),
+			('CIVILIZATION_TCM_BACTRIA', 	'TXT_KEY_SPY_NAME_TCM_BACTRIA_7'),
+			('CIVILIZATION_TCM_BACTRIA', 	'TXT_KEY_SPY_NAME_TCM_BACTRIA_8'),
+			('CIVILIZATION_TCM_BACTRIA', 	'TXT_KEY_SPY_NAME_TCM_BACTRIA_9');
+--==========================================================================================================================	
+-- Colors
+--==========================================================================================================================			
+INSERT INTO Colors 
+			(Type, 										Red, 	Green, 	Blue, 	Alpha)
+VALUES		('COLOR_PLAYER_TCM_BACTRIA_ICON',			0.69,	0.184,	0.118,	1),
+			('COLOR_PLAYER_TCM_BACTRIA_BACKGROUND',		0.102,	0.239,	0.322,	1); 
+--==========================================================================================================================	
+-- PlayerColors
+--==========================================================================================================================				
+INSERT INTO PlayerColors 
+			(Type, 								PrimaryColor, 							SecondaryColor, 								TextColor)
+VALUES		('PLAYERCOLOR_TCM_BACTRIA',			'COLOR_PLAYER_TCM_BACTRIA_ICON', 		'COLOR_PLAYER_TCM_BACTRIA_BACKGROUND', 			'COLOR_PLAYER_WHITE_TEXT');
+--==========================================================================================================================	
+--==========================================================================================================================	
+--==========================================================================================================================	
+-- Leaders
+--==========================================================================================================================			
+INSERT INTO Leaders 
+			(Type, 						Description, 						Civilopedia, 								CivilopediaTag, 					 ArtDefineTag, 				VictoryCompetitiveness, WonderCompetitiveness, 	MinorCivCompetitiveness, 	Boldness, 	DiploBalance, 	WarmongerHate, 	DenounceWillingness, DoFWillingness, Loyalty, 	Neediness, 	Forgiveness, 	Chattiness, Meanness, 	IconAtlas, 				PortraitIndex)
+VALUES		('LEADER_TCM_DEMETRIUS', 	'TXT_KEY_LEADER_TCM_DEMETRIUS', 	'TXT_KEY_LEADER_TCM_DEMETRIUS_PEDIA_TEXT', 'TXT_KEY_LEADER_TCM_DEMETRIUS_PEDIA', 'tcmDemetriusScene.xml',	10, 					3, 						7, 							9, 			5, 				4, 				6, 					 3, 			 4, 		5, 			3, 				5, 			7, 			'TCM_BACTRIA_ATLAS', 	1);
+--==========================================================================================================================	
+-- Leader_MajorCivApproachBiases
+--==========================================================================================================================						
+INSERT INTO Leader_MajorCivApproachBiases 
+			(LeaderType, 				MajorCivApproachType, 				Bias)
+VALUES		('LEADER_TCM_DEMETRIUS', 	'MAJOR_CIV_APPROACH_WAR', 			12),
+			('LEADER_TCM_DEMETRIUS', 	'MAJOR_CIV_APPROACH_HOSTILE', 		7),
+			('LEADER_TCM_DEMETRIUS', 	'MAJOR_CIV_APPROACH_DECEPTIVE', 	4),
+			('LEADER_TCM_DEMETRIUS', 	'MAJOR_CIV_APPROACH_GUARDED', 		5),
+			('LEADER_TCM_DEMETRIUS', 	'MAJOR_CIV_APPROACH_AFRAID', 		2),
+			('LEADER_TCM_DEMETRIUS', 	'MAJOR_CIV_APPROACH_FRIENDLY', 		3),
+			('LEADER_TCM_DEMETRIUS', 	'MAJOR_CIV_APPROACH_NEUTRAL', 		5);
+--==========================================================================================================================	
+-- Leader_MajorCivApproachBiases
+--==========================================================================================================================						
+INSERT INTO Leader_MinorCivApproachBiases 
+			(LeaderType, 				MinorCivApproachType, 				Bias)
+VALUES		('LEADER_TCM_DEMETRIUS', 	'MINOR_CIV_APPROACH_IGNORE', 		2),
+			('LEADER_TCM_DEMETRIUS', 	'MINOR_CIV_APPROACH_FRIENDLY', 		4),
+			('LEADER_TCM_DEMETRIUS', 	'MINOR_CIV_APPROACH_PROTECTIVE', 	5),
+			('LEADER_TCM_DEMETRIUS', 	'MINOR_CIV_APPROACH_CONQUEST', 		9),
+			('LEADER_TCM_DEMETRIUS', 	'MINOR_CIV_APPROACH_BULLY', 		10);
+--==========================================================================================================================	
+-- Leader_Flavors
+--==========================================================================================================================						
+INSERT INTO Leader_Flavors 
+			(LeaderType, 				FlavorType, 						Flavor)
+VALUES		('LEADER_TCM_DEMETRIUS', 	'FLAVOR_OFFENSE', 					12),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_DEFENSE', 					6),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_CITY_DEFENSE', 				9),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_MILITARY_TRAINING', 		9),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_RECON', 					5),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_RANGED', 					7),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_MOBILE', 					8),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_NAVAL', 					3),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_NAVAL_RECON', 				4),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_NAVAL_GROWTH', 				4),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_NAVAL_TILE_IMPROVEMENT', 	4),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_AIR', 						7),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_EXPANSION', 				12),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_GROWTH', 					8),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_TILE_IMPROVEMENT', 			7),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_INFRASTRUCTURE', 			5),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_PRODUCTION', 				8),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_GOLD', 						7),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_SCIENCE', 					6),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_CULTURE', 					3),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_HAPPINESS', 				6),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_GREAT_PEOPLE', 				3),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_WONDER', 					3),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_RELIGION', 					6),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_DIPLOMACY', 				4),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_SPACESHIP', 				4),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_WATER_CONNECTION', 			5),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_NUKE', 						9),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_USE_NUKE', 					9),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_ESPIONAGE', 				4),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_AIRLIFT', 					5),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_I_TRADE_DESTINATION', 		5),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_I_TRADE_ORIGIN', 			5),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_I_SEA_TRADE_ROUTE', 		5),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_I_LAND_TRADE_ROUTE', 		5),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_ARCHAEOLOGY', 				5),
+			('LEADER_TCM_DEMETRIUS', 	'FLAVOR_AIR_CARRIER', 				5);
+--==========================================================================================================================	
+-- Leader_Traits
+--==========================================================================================================================	
+INSERT INTO Leader_Traits 
+			(LeaderType, 				TraitType)
+VALUES		('LEADER_TCM_DEMETRIUS', 	'TRAIT_TCM_DEMETRIUS_BACTRIA');
+--==========================================================================================================================	
+-- Traits
+--==========================================================================================================================	
+INSERT INTO Traits 
+			(Type, 								Description, 							ShortDescription)
+VALUES		('TRAIT_TCM_DEMETRIUS_BACTRIA', 	'TXT_KEY_TRAIT_TCM_DEMETRIUS_BACTRIA', 	'TXT_KEY_TRAIT_TCM_DEMETRIUS_BACTRIA_SHORT');
+--==========================================================================================================================
+-- AUDIO
+--==========================================================================================================================	
+-- Audio_Sounds
+------------------------------	
+INSERT INTO Audio_Sounds 
+			(SoundID, 									Filename, 				LoadType)
+VALUES		('SND_LEADER_MUSIC_TCM_DEMETRIUS_PEACE', 	'TCM_BACTRIA_PEACE', 	'DynamicResident'),
+			('SND_LEADER_MUSIC_TCM_DEMETRIUS_WAR',		'TCM_BACTRIA_WAR', 		'DynamicResident');		
+------------------------------
+-- Audio_2DSounds
+------------------------------	
+INSERT INTO Audio_2DSounds 
+			(ScriptID, 										SoundID, 									SoundType, 		MinVolume, 	MaxVolume,	IsMusic,	Looping)
+VALUES		('AS2D_LEADER_MUSIC_TCM_DEMETRIUS_PEACE', 		'SND_LEADER_MUSIC_TCM_DEMETRIUS_PEACE', 	'GAME_MUSIC', 	80, 		80, 		1, 			0),
+			('AS2D_LEADER_MUSIC_TCM_DEMETRIUS_WAR', 		'SND_LEADER_MUSIC_TCM_DEMETRIUS_WAR', 		'GAME_MUSIC', 	80, 		80, 		1,			0);
+--==========================================================================================================================	
+-- BuildingClasses
+--==========================================================================================================================	
+INSERT INTO BuildingClasses 	
+			(Type, 						 			DefaultBuilding, 					Description)
+VALUES		('BUILDINGCLASS_TCM_BACTRIA_DUMMY', 	'BUILDING_TCM_DUMMY_BACTRIA', 		'TXT_KEY_TRAIT_TCM_DEMETRIUS_BACTRIA_SHORT'),
+			('BUILDINGCLASS_TCM_BACTRIA_DUMMY_2', 	'BUILDING_TCM_BACTRIA_TRADE_ROUTE', 	'TXT_KEY_TRAIT_TCM_DEMETRIUS_BACTRIA_SHORT');
+--==========================================================================================================================	
+-- Buildings
+--==========================================================================================================================			
+INSERT INTO Buildings 	
+			(Type, 									BuildingClass, 							NumTradeRouteBonus, UnmoddedHappiness,  GreatWorkCount, Cost, FaithCost, NukeImmune, ConquestProb,  PrereqTech,	Description, 									Help,											PortraitIndex, 	IconAtlas)
+VALUES		('BUILDING_TCM_DUMMY_BACTRIA',			'BUILDINGCLASS_TCM_BACTRIA_DUMMY', 		0,					1,					-1, 			-1,   -1, 		 1,		 	 0,				NULL, 		'TXT_KEY_TRAIT_TCM_DEMETRIUS_BACTRIA_SHORT', 	'TXT_KEY_TRAIT_TCM_DEMETRIUS_BACTRIA_SHORT',	0, 				'TCM_BACTRIA_ATLAS'),
+			('BUILDING_TCM_BACTRIA_TRADE_ROUTE',	'BUILDINGCLASS_TCM_BACTRIA_DUMMY_2', 	1,					0,					-1, 			-1,   -1, 		 1,		 	 0,				NULL, 		'TXT_KEY_TRAIT_TCM_DEMETRIUS_BACTRIA_SHORT', 	'TXT_KEY_TRAIT_TCM_DEMETRIUS_BACTRIA_SHORT',	0, 				'TCM_BACTRIA_ATLAS');
+--==========================================================================================================================
+--==========================================================================================================================	
+-- Units
+--==========================================================================================================================		
+INSERT INTO Units 	
+			(Class, 	Type, 						PrereqTech, Combat, Cost, ObsoleteTech, FaithCost, RequiresFaithPurchaseEnabled, Moves, CombatClass, Domain, DefaultUnitAI, Description, 						Civilopedia, 									 	 Strategy, 									 Help, 								 	 MilitarySupport, MilitaryProduction, IgnoreBuildingDefense, AdvancedStartCost, Mechanized, CombatLimit, MinAreaSize, Pillage, XPValueAttack, XPValueDefense, Conscription, UnitArtInfo, 						UnitFlagIconOffset,	UnitFlagAtlas,					 	  PortraitIndex, IconAtlas,				 MoveRate)
+SELECT		Class,		('UNIT_TCM_ELEPHANTARCH'),  PrereqTech, Combat, Cost+15, ObsoleteTech, FaithCost, RequiresFaithPurchaseEnabled, Moves+2, CombatClass, Domain, DefaultUnitAI, ('TXT_KEY_UNIT_TCM_ELEPHANTARCH'),  ('TXT_KEY_CIVILOPEDIA_UNITS_TCM_ELEPHANTARCH_TEXT'), ('TXT_KEY_UNIT_TCM_ELEPHANTARCH_STRATEGY'), ('TXT_KEY_UNIT_HELP_TCM_ELEPHANTARCH'), MilitarySupport, MilitaryProduction, IgnoreBuildingDefense, AdvancedStartCost, Mechanized, CombatLimit, MinAreaSize, Pillage, XPValueAttack, XPValueDefense, Conscription, ('ART_DEF_UNIT_TCM_ELEPHANTARCH'),	0,					('TCM_UNIT_FLAG_ELEPHANTARCH_ATLAS'), 2, 			 ('TCM_BACTRIA_ATLAS'),  'PHANT'
+FROM Units WHERE (Type = 'UNIT_SWORDSMAN');
+--==========================================================================================================================	
+-- UnitGameplay2DScripts
+--==========================================================================================================================		
+INSERT INTO UnitGameplay2DScripts 	
+			(UnitType, 					SelectionSound, FirstSelectionSound)
+SELECT		('UNIT_TCM_ELEPHANTARCH'), 	SelectionSound, FirstSelectionSound
+FROM UnitGameplay2DScripts WHERE (UnitType = 'UNIT_INDIAN_WARELEPHANT');		
+--==========================================================================================================================	
+-- Unit_AITypes
+--==========================================================================================================================		
+INSERT INTO Unit_AITypes 	
+			(UnitType, 					UnitAIType)
+SELECT		('UNIT_TCM_ELEPHANTARCH'), 	UnitAIType
+FROM Unit_AITypes WHERE (UnitType = 'UNIT_SWORDSMAN');	
+--==========================================================================================================================	
+-- Unit_ClassUpgrades
+--==========================================================================================================================		
+INSERT INTO Unit_ClassUpgrades 	
+			(UnitType, 					UnitClassType)
+VALUES		('UNIT_TCM_ELEPHANTARCH', 	'UNITCLASS_KNIGHT');
+--==========================================================================================================================	
+-- Unit_Flavors
+--==========================================================================================================================		
+INSERT INTO Unit_Flavors 	
+			(UnitType, 					FlavorType,				Flavor)
+VALUES		('UNIT_TCM_ELEPHANTARCH', 	'FLAVOR_OFFENSE',		7),
+			('UNIT_TCM_ELEPHANTARCH', 	'FLAVOR_DEFENSE',		6),
+			('UNIT_TCM_ELEPHANTARCH', 	'FLAVOR_MOBILE',		4);
+--==========================================================================================================================	
+-- Unit_ResourceQuantityRequirements
+--==========================================================================================================================		
+INSERT INTO Unit_ResourceQuantityRequirements 	
+			(UnitType, 					ResourceType)
+VALUES		('UNIT_TCM_ELEPHANTARCH', 	'RESOURCE_IRON');
+--==========================================================================================================================	
+-- UnitPromotions
+--==========================================================================================================================
+INSERT INTO UnitPromotions 
+			(Type, 								 Description, 							 	Help, 										 	Sound, 				LostWithUpgrade, OrderPriority, AttackMod,  CannotBeChosen,	PortraitIndex, 	IconAtlas,			PediaType, 			PediaEntry)
+VALUES		('PROMOTION_TCM_ELEPHANT_CHARGE_1',	 'TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE',  'TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_1_HELP', 'AS2D_IF_LEVELUP',	1, 				 0, 			10, 		1,				59, 			'ABILITY_ATLAS', 	'PEDIA_ATTRIBUTES', 'TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_1'),
+			('PROMOTION_TCM_ELEPHANT_CHARGE_2',	 'TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE',  'TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_2_HELP', 'AS2D_IF_LEVELUP',	1, 				 0, 			20, 		1,				59, 			'ABILITY_ATLAS', 	'PEDIA_ATTRIBUTES', 'TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_2'),
+			('PROMOTION_TCM_ELEPHANT_CHARGE_3',	 'TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE',  'TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_3_HELP', 'AS2D_IF_LEVELUP',	1, 				 0, 			30, 		1,				59, 			'ABILITY_ATLAS', 	'PEDIA_ATTRIBUTES', 'TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_3'),
+			('PROMOTION_TCM_ELEPHANT_CHARGE_4',	 'TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE',  'TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_4_HELP', 'AS2D_IF_LEVELUP',	1, 				 0, 			40, 		1,				59, 			'ABILITY_ATLAS', 	'PEDIA_ATTRIBUTES', 'TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_4'),
+			('PROMOTION_TCM_ELEPHANT_CHARGE_5',	 'TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE',  'TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_5_HELP', 'AS2D_IF_LEVELUP',	1, 				 0, 			50, 		1,				59, 			'ABILITY_ATLAS', 	'PEDIA_ATTRIBUTES', 'TXT_KEY_PROMOTION_TCM_ELEPHANT_CHARGE_5');
+--==========================================================================================================================	
+-- BUILDS
+--==========================================================================================================================	
+-- Builds
+------------------------------	
+INSERT INTO Builds
+			(Type,					PrereqTech,				ImprovementType, 			Time, Recommendation,					Description,			Help,								CtrlDown,	OrderPriority,	IconIndex,	IconAtlas,				HotKey, EntityEvent)
+VALUES		('BUILD_TCM_PHROURIA',	'TECH_IRON_WORKING',	'IMPROVEMENT_TCM_PHROURIA',	1200, 'TXT_KEY_BUILD_TCM_PHROURIA_REC', 'TXT_KEY_TCM_PHROURIA',	'TXT_KEY_BUILD_TCM_PHROURIA_HELP',	1,			96,				0,			'TCM_PHROURIA_ATLAS',	'KB_F',	'ENTITY_EVENT_BUILD');
+------------------------------
+-- BuildFeatures
+------------------------------
+INSERT INTO BuildFeatures
+			(BuildType, 			FeatureType, PrereqTech, Time, Remove)
+SELECT		('BUILD_TCM_PHROURIA'),	FeatureType, PrereqTech, Time, 0
+FROM BuildFeatures WHERE BuildType = 'BUILD_FORT';
+------------------------------
+-- Unit_Builds
+------------------------------
+INSERT INTO Unit_Builds 	
+			(UnitType, 			BuildType)
+VALUES		('UNIT_WORKER', 	'BUILD_TCM_PHROURIA');
+--==========================================================================================================================	
+-- IMPROVEMENTS
+--==========================================================================================================================	
+-- Improvements
+------------------------------
+INSERT INTO Improvements
+			(Type,						 SpecificCivRequired, CivilizationType,				NoTwoAdjacent,	Description,						Civilopedia,									ArtDefineTag,						BuildableOnResources,	DestroyedWhenPillaged,	PillageGold,	DefenseModifier,	PortraitIndex,	IconAtlas)
+VALUES		('IMPROVEMENT_TCM_PHROURIA', 1,					  'CIVILIZATION_TCM_BACTRIA',	1,				'TXT_KEY_IMPROVEMENT_TCM_PHROURIA',	'TXT_KEY_CIV5_IMPROVEMENTS_TCM_PHROURIA_TEXT',	'ART_DEF_IMPROVEMENT_PHROURIA', 	0,						0,						50,				0,					3,				'TCM_BACTRIA_ATLAS');
+
+INSERT INTO Improvement_ValidTerrains
+			(ImprovementType, 				TerrainType)
+SELECT		('IMPROVEMENT_TCM_PHROURIA'),	TerrainType
+FROM Improvement_ValidTerrains WHERE ImprovementType = 'IMPROVEMENT_FORT';
+--==========================================================================================================================	
+--==========================================================================================================================
+--==========================================================================================================================	
+-- Policies
+--==========================================================================================================================
+INSERT INTO Policies
+			(Type, 										Description)
+VALUES		('POLICY_TCM_BACTRIA_DEFEAT_BARB_KING', 	'TXT_KEY_EVENT_TCM_BACTRIA_USURPER');
+--==========================================================================================================================	
+-- Diplomacy_Responses
+--==========================================================================================================================	
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_FIRST_GREETING',										'TXT_KEY_LEADER_TCM_DEMETRIUS_FIRSTGREETING%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_DEFEATED',												'TXT_KEY_LEADER_TCM_DEMETRIUS_DEFEATED%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_AGGRESSIVE_MILITARY_WARNING',							'TXT_KEY_LEADER_TCM_DEMETRIUS_AGGRESSIVE_MILITARY_WARNING%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_AGGRESSIVE_MILITARY_WARNING_BAD',						'TXT_KEY_LEADER_TCM_DEMETRIUS_AGGRESSIVE_MILITARY_WARNING_BAD%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_AGGRESSIVE_MILITARY_WARNING_GOOD',						'TXT_KEY_LEADER_TCM_DEMETRIUS_AGGRESSIVE_MILITARY_WARNING_GOOD%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_AI_DOF_BACKSTAB',										'TXT_KEY_LEADER_TCM_DEMETRIUS_DENOUNCING_FRIEND%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_ATTACKED_BETRAYED',										'TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_BETRAYED%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_ATTACKED_EXCITED',										'TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_EXCITED%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_ATTACKED_HOSTILE',										'TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_HOSTILE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_ATTACKED_MILITARY_PROMISE_BROKEN',						'TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_MILITARY_PROMISE_BROKEN%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_ATTACKED_PROTECTED_CITY_STATE',							'TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_PROTECTED_CITY_STATE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_ATTACKED_SAD',											'TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_SAD%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_ATTACKED_STRONG_EXCITED',								'TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_STRONG_EXCITED%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_ATTACKED_STRONG_HOSTILE',								'TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_STRONG_HOSTILE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_ATTACKED_WEAK_EXCITED',									'TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_WEAK_EXCITED%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_ATTACKED_WEAK_HOSTILE',									'TXT_KEY_LEADER_TCM_DEMETRIUS_ATTACKED_WEAK_HOSTILE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_BOOT_KISSING',											'TXT_KEY_LEADER_TCM_DEMETRIUS_BOOT_KISSING%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_BULLIED_PROTECTED_CITY_STATE',							'TXT_KEY_LEADER_TCM_DEMETRIUS_BULLIED_PROTECTED_CITY_STATE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_COOP_WAR_NO',											'TXT_KEY_LEADER_TCM_DEMETRIUS_DECLINE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_COOP_WAR_REQUEST',										'TXT_KEY_LEADER_TCM_DEMETRIUS_COOP_WAR_REQUEST%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_COOP_WAR_SOON',											'TXT_KEY_LEADER_TCM_DEMETRIUS_COOP_WAR_SOON%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_COOP_WAR_TIME',											'TXT_KEY_LEADER_TCM_DEMETRIUS_COOP_WAR_TIME%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_COOP_WAR_YES',											'TXT_KEY_LEADER_TCM_DEMETRIUS_COOP_WAR_YES%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_CULTURE_BOMBED',										'TXT_KEY_LEADER_TCM_DEMETRIUS_CULTURE_BOMBED%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_DECLARATION_ABANDON_CITY_STATE',						'TXT_KEY_LEADER_TCM_DEMETRIUS_DECLARATION_ABANDON_CITY_STATE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_DEMAND',												'TXT_KEY_LEADER_TCM_DEMETRIUS_DEMAND%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_DISAPPOINTED',											'TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_DISAPPOINTED%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_DOF_AI_DENOUNCE_REQUEST',								'TXT_KEY_LEADER_TCM_DEMETRIUS_DOF_AI_DENOUNCE_REQUEST%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_DOF_NOT_HONORED',										'TXT_KEY_LEADER_TCM_DEMETRIUS_DOF_NOT_HONORED%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_DONT_SETTLE_NO',										'TXT_KEY_LEADER_TCM_DEMETRIUS_DONT_SETTLE_NO%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_DONT_SETTLE_YES',										'TXT_KEY_LEADER_TCM_DEMETRIUS_DONT_SETTLE_YES%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_DOW_BETRAYAL',											'TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_BETRAYAL%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_DOW_DESPERATE',											'TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_DESPERATE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_DOW_LEADER_TCM_DEMETRIUS',								'TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_LEADER_TCM_DEMETRIUS%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_DOW_LAND',												'TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_LAND%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_DOW_OPPORTUNITY',										'TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_OPPORTUNITY%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_DOW_WEAK_BETRAYAL',										'TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_WEAK_BETRAYAL%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_DOW_WORLD_CONQUEST',									'TXT_KEY_LEADER_TCM_DEMETRIUS_DOW_WORLD_CONQUEST%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_EMBASSY_EXCHANGE',										'TXT_KEY_LEADER_TCM_DEMETRIUS_EMBASSY_EXCHANGE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_EMBASSY_EXCHANGE',										'TXT_KEY_LEADER_TCM_DEMETRIUS_EMBASSY_EXCHANGE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_EMBASSY_OFFER',											'TXT_KEY_LEADER_TCM_DEMETRIUS_EMBASSY_OFFER%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_EMBASSY_OFFER',											'TXT_KEY_LEADER_TCM_DEMETRIUS_EMBASSY_OFFER%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_EXPANSION_BROKEN_PROMISE',								'TXT_KEY_LEADER_TCM_DEMETRIUS_EXPANSION_BROKEN_PROMISE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_EXPANSION_SERIOUS_WARNING',								'TXT_KEY_LEADER_TCM_DEMETRIUS_EXPANSION_SERIOUS_WARNING%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_EXPANSION_WARNING',										'TXT_KEY_LEADER_TCM_DEMETRIUS_EXPANSION_WARNING%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_AGGRESSIVE_EXPANSION',							'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_AGGRESSIVE_EXPANSION%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_AGGRESSIVE_MILITARY',							'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_AGGRESSIVE_MILITARY%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_AGGRESSIVE_PLOT_BUYING',						'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_AGGRESSIVE_PLOT_BUYING%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_AT_WAR_HOSTILE',								'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_AT_WAR_HOSTILE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_AT_WAR_WANTS_PEACE',							'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_AT_WAR_WANTS_PEACE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_BROKEN_MILITARY_PROMISE',						'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_BROKEN_MILITARY_PROMISE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_COOP_WAR',										'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_COOP_WAR%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_DESTRUCTION_LOOMS',							'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_DESTRUCTION_LOOMS%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_FRIENDLY_STRONG_ECONOMY',						'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_FRIENDLY_STRONG_ECONOMY%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_FRIENDLY_STRONG_MILITARY',						'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_FRIENDLY_STRONG_MILITARY%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_HOSTILE_AGGRESSIVE_EXPANSION',					'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_AGGRESSIVE_EXPANSION%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_HOSTILE_AGGRESSIVE_MILITARY',					'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_AGGRESSIVE_MILITARY%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING',				'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_HOSTILE_HELLO',								'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_HELLO%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_HOSTILE_HUMAN_AT_WAR',							'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_HUMAN_AT_WAR%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_HOSTILE_HUMAN_FEW_CITIES',						'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_HUMAN_FEW_CITIES%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_HOSTILE_HUMAN_IS_WARMONGER',					'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_HUMAN_IS_WARMONGER%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_HOSTILE_HUMAN_SMALL_ARMY',						'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_HUMAN_SMALL_ARMY%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_HOSTILE_REPEAT',								'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HOSTILE_REPEAT%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_HUMAN_AT_WAR',									'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_HUMAN_AT_WAR%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_NEUTRAL_HELLO',								'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_NEUTRAL_HELLO%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_POLITE_HELLO',									'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_POLITE_HELLO%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_REPEAT',										'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_REPEAT%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_REPEAT_TOO_MUCH',								'TXT_KEY_LEADER_TCM_DEMETRIUS_REPEAT_TOO_MUCH%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_GREETING_WORKING_WITH',									'TXT_KEY_LEADER_TCM_DEMETRIUS_GREETING_WORKING_WITH%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING',					'TXT_KEY_LEADER_TCM_DEMETRIUS_HOSTILE_AGGRESSIVE_MILITARY_WARNING%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD',				'TXT_KEY_LEADER_TCM_DEMETRIUS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD',				'TXT_KEY_LEADER_TCM_DEMETRIUS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_HUMAN_DENOUNCED_ENEMY',									'TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DENOUNCED_ENEMY%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_HUMAN_DENOUNCED_FRIEND',								'TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DENOUNCED_FRIEND%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_HUMAN_DENOUNCE_SO_AI_DENOUNCE',							'TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DENOUNCE_SO_AI_DENOUNCE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_HUMAN_DENOUNCE_SO_AI_DOF',								'TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DENOUNCE_SO_AI_DOF%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_HUMAN_DOFED_ENEMY',										'TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DOFED_ENEMY%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_HUMAN_DOFED_FRIEND',									'TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DOFED_FRIEND%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_HUMAN_DOF_SO_AI_DENOUNCE',								'TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DOF_SO_AI_DENOUNCE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_HUMAN_DOF_SO_AI_DOF',									'TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_DOF_SO_AI_DOF%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_HUMAN_EXPANSION_WARNING_BAD',							'TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_BAD%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_HUMAN_EXPANSION_WARNING_GOOD',							'TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_EXPANSION_WARNING_GOOD%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_HUMAN_PLOT_BUYING_WARNING_BAD',							'TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_BAD%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_HUMAN_PLOT_BUYING_WARNING_GOOD',						'TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_PLOT_BUYING_WARNING_GOOD%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_INSULT_BULLY',											'TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_BULLY%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_INSULT_CITIES',											'TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_CITIES%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_INSULT_CULTURE',										'TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_CULTURE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_INSULT_LEADER_TCM_DEMETRIUS',							'TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_LEADER_TCM_DEMETRIUS%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_INSULT_MILITARY',										'TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_MILITARY%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_INSULT_NUKE',											'TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_NUKE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_INSULT_POPULATION',										'TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_POPULATION%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_INSULT_UNHAPPINESS',									'TXT_KEY_LEADER_TCM_DEMETRIUS_INSULT_UNHAPPINESS%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_KILLED_PROTECTED_CITY_STATE',							'TXT_KEY_LEADER_TCM_DEMETRIUS_KILLED_PROTECTED_CITY_STATE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_LETS_HEAR_IT',											'TXT_KEY_LEADER_TCM_DEMETRIUS_LETS_HEAR_IT%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_LUXURY_TRADE',											'TXT_KEY_LEADER_TCM_DEMETRIUS_LUXURY_TRADE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_NOW_UNFORGIVABLE',										'TXT_KEY_LEADER_TCM_DEMETRIUS_NOW_UNFORGIVABLE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_NO_PEACE',												'TXT_KEY_LEADER_TCM_DEMETRIUS_NO_PEACE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_OPEN_BORDERS_EXCHANGE',									'TXT_KEY_LEADER_TCM_DEMETRIUS_OPEN_BORDERS_EXCHANGE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_OPEN_BORDERS_OFFER',									'TXT_KEY_LEADER_TCM_DEMETRIUS_OPEN_BORDERS_OFFER%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_PEACE_OFFER',											'TXT_KEY_LEADER_TCM_DEMETRIUS_PEACE_OFFER%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_PEACE_WHAT_WILL_HUMAN_OFFER',							'TXT_KEY_LEADER_TCM_DEMETRIUS_PEACE_WHAT_WILL_HUMAN_OFFER%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_PLEASED',												'TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_PLEASED%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_PLOT_BUYING_BROKEN_PROMISE',							'TXT_KEY_LEADER_TCM_DEMETRIUS_PLOT_BUYING_BROKEN_PROMISE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_PLOT_BUYING_SERIOUS_WARNING',							'TXT_KEY_LEADER_TCM_DEMETRIUS_PLOT_BUYING_SERIOUS_WARNING%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_PLOT_BUYING_WARNING',									'TXT_KEY_LEADER_TCM_DEMETRIUS_PLOT_BUYING_WARNING%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_RENEW_DEAL',											'TXT_KEY_LEADER_TCM_DEMETRIUS_RENEW_DEAL%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_RENEW_DEAL',											'TXT_KEY_LEADER_TCM_DEMETRIUS_RENEW_DEAL%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_REPEAT_NO',												'TXT_KEY_LEADER_TCM_DEMETRIUS_REPEAT_NO%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_REPEAT_TRADE',											'TXT_KEY_LEADER_TCM_DEMETRIUS_REPEAT_TRADE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_REPEAT_TRADE_TOO_MUCH',									'TXT_KEY_LEADER_TCM_DEMETRIUS_REPEAT_TOO_MUCH%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_REQUEST',												'TXT_KEY_LEADER_TCM_DEMETRIUS_REQUEST_ITEM%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_RESPONSE_TO_BEING_DENOUNCED',							'TXT_KEY_LEADER_TCM_DEMETRIUS_RESPONSE_TO_BEING_DENOUNCED%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_RETURNED_CIVILIAN',										'TXT_KEY_LEADER_TCM_DEMETRIUS_RETURNED_CIVILIAN%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_SO_BE_IT',												'TXT_KEY_LEADER_TCM_DEMETRIUS_SO_BE_IT%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_THANKFUL',												'TXT_KEY_LEADER_TCM_DEMETRIUS_HUMAN_RESPONSE_THANKFUL%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_TOO_SOON_FOR_DOF',										'TXT_KEY_LEADER_TCM_DEMETRIUS_TOO_SOON_FOR_DOF%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_TOO_SOON_NO_PEACE',										'TXT_KEY_LEADER_TCM_DEMETRIUS_TOO_SOON_NO_PEACE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_WANT_MORE_RENEW_DEAL',									'TXT_KEY_LEADER_TCM_DEMETRIUS_WANT_MORE_RENEW_DEAL%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_WARMONGER',												'TXT_KEY_LEADER_TCM_DEMETRIUS_WARMONGER%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_WAR_DEMAND_REFUSED',									'TXT_KEY_LEADER_TCM_DEMETRIUS_WAR_DEMAND_REFUSED%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_WORK_AGAINST_SOMEONE',									'TXT_KEY_LEADER_TCM_DEMETRIUS_DENOUNCE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_WORK_WITH_US',											'TXT_KEY_LEADER_TCM_DEMETRIUS_DEC_FRIENDSHIP%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_WORK_WITH_US_NO',										'TXT_KEY_LEADER_TCM_DEMETRIUS_DECLINE%','500');
+INSERT INTO Diplomacy_Responses (LeaderType, ResponseType, Response, Bias) VALUES ('LEADER_TCM_DEMETRIUS','RESPONSE_WORK_WITH_US_YES',										'TXT_KEY_LEADER_TCM_DEMETRIUS_WORK_WITH_US_YES%','500');	
+--==========================================================================================================================			
+--==========================================================================================================================						

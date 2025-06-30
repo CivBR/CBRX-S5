@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d60aa321-07dc-4272-82dc-97b1029df6e6" version="2">
+  <Properties>
+    <Name>PorkBean's Lanfang Republic</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]Lanfang Republic[ENDCOLOR] (1777-1884), led by Luo Fangbo! Part of PorkBean's Rebellions and Failed States.</Teaser>
+    <Description>This mod adds the [COLOR_YIELD_GOLD]Lanfang Republic[ENDCOLOR] by Porkbean to the game as a playable civilization.
+[NEWLINE]
+[NEWLINE]
+[NEWLINE][COLOR_YIELD_GOLD]Leader: [ENDCOLOR]Luo Fangbo
+[NEWLINE]
+[NEWLINE][COLOR_YIELD_GOLD]Kongsi Federation: [ENDCOLOR]May construct Mines on flat, resource-less terrain without removing Forest or Jungle. When a City works four Mines for the first time, the next available Social Policy Branch is adopted.
+[NEWLINE]
+[NEWLINE][COLOR_YIELD_GOLD]Lansaai: [ENDCOLOR]Slightly stronger and heals fully on defeating an enemy Unit. Double [ICON_MOVES] Movement in rough terrain. Spawns a [ICON_RES_GOLD] Gold resource when clearing Ancient Ruins, Barbarian Encampments, or defeating an enemy in neutral territory. If a Settler is being produced when this happens, it is given a slight [ICON_PRODUCTION] Production boost. Replaces the Scout.
+[NEWLINE]
+[NEWLINE][COLOR_YIELD_GOLD]Zongting: [ENDCOLOR]+1 [ICON_PRODUCTION] Production on [ICON_RES_GOLD] Gold resources for every two adopted Social Policy Branches (including an Ideology). Replaces the Mint.</Description>
+    <Authors>PorkBean</Authors>
+    <SpecialThanks>DarthKyofu, RawSasquatch, TPangolin</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>2</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Pouakai's Enlightenment Era" />
+    <Mod id="f16460a3-aa5d-4384-9b10-ef34ba57ab8a" minversion="0" maxversion="999" title="JFD's Workforces" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="7B802E4DBE7102BCEFF848B364CFC131" import="1">Art/Alphas/Lanfang_Alpha128.dds</File>
+    <File md5="B3A9188F95A2236459995D279F484A33" import="1">Art/Alphas/Lanfang_Alpha16.dds</File>
+    <File md5="35804040688094C2FA00A09EBC80144D" import="1">Art/Alphas/Lanfang_Alpha24.dds</File>
+    <File md5="346708C40C196EEA103AF81D1CD4FAF9" import="1">Art/Alphas/Lanfang_Alpha256.dds</File>
+    <File md5="9736D191456CE8D109EEAAB1E3F1DE4E" import="1">Art/Alphas/Lanfang_Alpha32.dds</File>
+    <File md5="615C56B1DFC0142B1CE73CA3B7D7B31F" import="1">Art/Alphas/Lanfang_Alpha48.dds</File>
+    <File md5="FFEED37BAFC269EFE02A6085CD63E055" import="1">Art/Alphas/Lanfang_Alpha64.dds</File>
+    <File md5="8BB7872D32E524111E24C482055A2BD8" import="1">Art/Alphas/Lanfang_Alpha80.dds</File>
+    <File md5="48377CBDC872A1EE937652B4568FD620" import="1">Art/Atlases/Lanfang_Icon_Atlas_128.dds</File>
+    <File md5="BE2C7ADF4358D02AD6E3D460277B21A7" import="1">Art/Atlases/Lanfang_Icon_Atlas_256.dds</File>
+    <File md5="381BAD18302EC7451240D9280DC82C5A" import="1">Art/Atlases/Lanfang_Icon_Atlas_32.dds</File>
+    <File md5="EB3E2C02E837F2E4B7647EE2CB0E0CAE" import="1">Art/Atlases/Lanfang_Icon_Atlas_45.dds</File>
+    <File md5="895B045B4AE1DAD2D57143DA884AF6BA" import="1">Art/Atlases/Lanfang_Icon_Atlas_64.dds</File>
+    <File md5="C938CBB371C7FCEC63577E35C793240E" import="1">Art/Atlases/Lanfang_Icon_Atlas_80.dds</File>
+    <File md5="BA5ED21B393CEA67AED88419F9229F63" import="1">Art/LanfangMap.dds</File>
+    <File md5="1D3A5D0397EC2FF0A1419614283AF6EA" import="1">Art/Lanfang_DOM.dds</File>
+    <File md5="255E8F023FF1811FDA10582B33D73361" import="1">Art/Lansaai/flag_lansaai.dds</File>
+    <File md5="8BF356ED92EFF5CD70D4DC58CD80E0C2" import="1">Art/Lansaai/Lansaai.fxsxml</File>
+    <File md5="C7798F1AB6CBC6903E4CE18069BB63A5" import="1">Art/Lansaai/Lansaai.gr2</File>
+    <File md5="4CE89DE2C3536DF2804B32A8419F5AD4" import="1">Art/Lansaai/Lansaai_DIFF.dds</File>
+    <File md5="837FA89D1E4B65A24C67A3FEE42E8E5B" import="1">Art/Lansaai/Lansaai_SREF.dds</File>
+    <File md5="59F8A25C09EC0097EF1C9AD8840FB551" import="1">Art/Lansaai/Lansaai_SV.dds</File>
+    <File md5="1B22A4BEE43178561D3166395B47F2A0" import="1">Art/Music/FangboPeace.mp3</File>
+    <File md5="4FD57223572A29ED4900B2F2AE2FA6B2" import="1">Art/Music/FangboWar.mp3</File>
+    <File md5="E02C335595CC9E1330A1D058C8689B65" import="1">Art/scene_fangbo.dds</File>
+    <File md5="F3457350F038A0535318DD52419C8275" import="0">Core/ArtDefines.sql</File>
+    <File md5="48DB2004E8EEF858609FC83304E0E840" import="0">Core/DiplomacyDefines.sql</File>
+    <File md5="F31BFB59D753FEB14874EB70DA38BA48" import="0">Core/DiplomacyText.xml</File>
+    <File md5="A6972E859F51F24F0A7D3E74E8D0C7EA" import="1">Core/Fangbo_Scene.xml</File>
+    <File md5="127C2FBC2461FBBFB935EFBA9F6FE40E" import="0">Core/GameDefines.sql</File>
+    <File md5="D2DE7C610492AC0CC7D2DB65F1901EA4" import="0">Core/GameText.xml</File>
+    <File md5="F0C988AAF85F6DF8FA3178EE9004B36E" import="0">Core/ModSupport.sql</File>
+    <File md5="73F699A3FFF220A3704F9490089C45B1" import="1">Lua/C15_IteratorPack_v4.lua</File>
+    <File md5="098BB1683DE4108351DD1ACE2E434C03" import="0">Lua/LanfangFunctions.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/LanfangFunctions.lua">
+      <Name>LanfangFunctions</Name>
+      <Description>LanfangFunctions</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

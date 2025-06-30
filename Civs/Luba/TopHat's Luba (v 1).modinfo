@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e3d411e9-0f09-46e4-bfca-82611755410e" version="1">
+  <Properties>
+    <Name>TopHat's Luba</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Kingdom of Luba, led by Ilunga Sungu, to the game.</Teaser>
+    <Description>Adds the Kingdom of Luba, led by Ilunga Sungu, to the game as a custom civilization. Requires Brave New World.</Description>
+    <Authors>TopHatPaladin</Authors>
+    <SpecialThanks>Darth_Kyofu, Urdnot, Grant, Alga</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="0" maxversion="999" title="Additional Achievements" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD and Pouakai's Mercenaries" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="07E14A7EFB24E008167FDA8415CD1569" import="1">Art/IlungaSungu_DOM.dds</File>
+    <File md5="09D5F133600122E21881C6D2AA4634F4" import="1">Art/IlungaSungu_scene.dds</File>
+    <File md5="8D6457E9E370C25542BCE60360DD1C50" import="1">Art/Map_Luba.dds</File>
+    <File md5="70BC5CD9B14FFACF7B24D6AF50D56097" import="1">Art/sv_nzappazap.dds</File>
+    <File md5="7A396D71B3164F796ECB8E46AEA1C5E7" import="1">Art/THP_LubaAlpha128.dds</File>
+    <File md5="32B58EF5AA3FCEF13AD7955849926ABF" import="1">Art/THP_LubaAlpha16.dds</File>
+    <File md5="093F83C4D1788D056A13189FFC41BF2D" import="1">Art/THP_LubaAlpha24.dds</File>
+    <File md5="D8A9E325DE097ABBC0D11A7B346E85A9" import="1">Art/THP_LubaAlpha32.dds</File>
+    <File md5="96B1D5DB971ECC3FC4826D0027AFEB88" import="1">Art/THP_LubaAlpha48.dds</File>
+    <File md5="0761EB797A1429E1283F21AEE2EA6B0D" import="1">Art/THP_LubaAlpha64.dds</File>
+    <File md5="A8A1629CB013DA8F18BF212860A9928C" import="1">Art/THP_LubaAtlas128.dds</File>
+    <File md5="66E57A7E8113D972764668EF337AF0A9" import="1">Art/THP_LubaAtlas256.dds</File>
+    <File md5="2772AA62A927454C9F3215898732F0A3" import="1">Art/THP_LubaAtlas32.dds</File>
+    <File md5="9C990B34B80EF349D53D01C7B423531F" import="1">Art/THP_LubaAtlas45.dds</File>
+    <File md5="FA42CA72E12252EA71EEB043332D8421" import="1">Art/THP_LubaAtlas64.dds</File>
+    <File md5="42B4A024EBB2F71DDBC015DBE46A4D82" import="1">Art/THP_LubaAtlas80.dds</File>
+    <File md5="CB403CC3161D5BA8BA98EA83ACEB153D" import="1">Art/UnitModel/ZimbabweanGano.fxsxml</File>
+    <File md5="0B6AD05A300365350861E66A7FDEAFFB" import="1">Art/UnitModel/ZimbabweanGano.gr2</File>
+    <File md5="82D6CCFAC351CB2C15E564BDB4E66405" import="1">Art/UnitModel/ZimbabweanGano_Diff.dds</File>
+    <File md5="A35F9B538835C9938DD5A7AF6008CC0C" import="1">Art/UnitModel/ZimbabweanGano_Sref.dds</File>
+    <File md5="62A8D31C340A6AC7903061CEEF27B12C" import="1">Art/Unit_NzappaZap_Flag_32.dds</File>
+    <File md5="3F3853DD14A0C67BD7AC712D93217C56" import="1">Audio/Luba_Peace.mp3</File>
+    <File md5="5322EAD293A2DC7702FEFCAB4447B4B5" import="1">Audio/Luba_War.mp3</File>
+    <File md5="0C9AA65CCEC1F5848F769E1FE654053B" import="0">Core/DiploText.xml</File>
+    <File md5="D692478DE47EDDAEC44543BFB077F5E6" import="0">Core/GameText.xml</File>
+    <File md5="5980B2CC100AB2BCB07A799099E9698B" import="1">Core/Leaderhead_IlungaSungu.xml</File>
+    <File md5="CD6C14D24447A53C295896EB179F07E9" import="0">Core/Luba_ArtDef.sql</File>
+    <File md5="00879332AF36819144CD79D5351FE296" import="0">Core/Luba_GameDef.sql</File>
+    <File md5="4A4B94999DEEFE4F83BC1DED57BEFD17" import="0">Core/ModSupport_Luba.sql</File>
+    <File md5="1368ACF988CC8834BB7AD60585E8B936" import="1">Lua/AdditionalAchievementsUtility.lua</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/CultureOverview/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/CultureOverview/CultureOverview.xml</File>
+    <File md5="942DCD519C1019F39E450BA417D60CCB" import="0">Lua/Luba_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DiploText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Luba_ArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Luba_GameDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport_Luba.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Luba_Functions.lua">
+      <Name>TophatLubaFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

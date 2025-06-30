@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/9/2024 5:25:52 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Civilization-->
+		<Row Tag="TXT_KEY_BUILDING_PB_ZONGTING_GOLD_DUMMY">
+			<Text>Lanfang Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PB_LANFANG_UA_MARKER_HELP">
+			<Text>Lanfang Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PB_ZONGTING_GOLD_DUMMY_HELP">
+			<Text>Lanfang Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PB_LANFANG_UA_MARKER">
+			<Text>Lanfang Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PB_LANFANG_DESC">
+			<Text>Lanfang Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PB_LANFANG_SHORT_DESC">
+			<Text>Lanfang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PB_LANFANG_ADJECTIVE">
+			<Text>Lanfang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_HEADING_1">
+			<Text>Summary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_TEXT_1">
+			<Text>The Lanfang Republic was a Chinese kongsi federation established in 1777 in Western Borneo. Kongsi were private companies consisting of laborers that provided capital, shared profits, and participated in government. Lanfang's primary industry was mining, particularly of gold and tin, and the organization lasted as a tributary of the Qing Empire for over a hundred years until its eventual takeover by the Dutch.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_HEADING_2">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_TEXT_2">
+			<Text>Prior to the establishment of the Lanfang Kongsi was the Lanfang Hui, or "Lanfang Union", a small agricultural settlement comprised mainly of Hakka Chinese laborers. In 1772 they were joined by Luo Fangbo, who quickly became respected as a scholar and administrator. By 1777 Luo had become leader of the settlement and senior to the leader of a neighboring company, consolidating both and reorganizing into the "Lanfang Kongsi".[NEWLINE][NEWLINE]Through diplomatic negotiations and tributes, the Kongsi was able to establish positive relations with the adjacent Sultanate of Sambas and Sultanate of Pontianak, alliances which would secure the position of the Republic for over a century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_HEADING_3">
+			<Text>Kongsi Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_TEXT_3">
+			<Text>The Kongsi Wars were a series of conflicts in the mid-19th century between the Dutch colonial forces and the Chinese-led kongsis, including the Lanfang Republic, in West Kalimantan. The wars were fueled by the Dutch desire to assert control over the resource-rich region and suppress the autonomy of the kongsis. Despite initial resistance, the Lanfang Republic and other kongsis were gradually overpowered by the superior Dutch military. In 1884, the Lanfang Republic fell to the Dutch, marking the end of its nearly century-long existence and the complete absorption of the region into the Dutch colonial empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_PB_LANFANG_TEXT">
+			<Text>Salutations, President Luo Fangbo, pioneer of Asian democracy and leader of the Lanfang Republic! Your realm is one of the first such in Asia, founded as a Chinese mining company in Borneo towards the end of the 18th century. Your industrious people enjoyed autonomy from the local sultanates, and implemented a distinct system of democracy independent of those in Europe. The miners of the Lanfang kongsi enjoyed suffrage, elections, majority decision making and other such innovations for over a hundred years, until eventually being snuffed out by the winds of Dutch colonialism.[NEWLINE][NEWLINE]Chosen leader, you have been once again nominated to lead the Lanfang Republic to renewed greatness! Can you strike the earth, extract its valuables, and build a better life for your people? Can you withstand the tides of autocracy that threaten to extinguish your light of freedom? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_1">
+			<Text>Dongwanlu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_2">
+			<Text>Mao'en</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_3">
+			<Text>Minghuang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_4">
+			<Text>Senaman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_5">
+			<Text>Kunri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_6">
+			<Text>Longgang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_7">
+			<Text>Liufentou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_8">
+			<Text>Shanzhudaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_9">
+			<Text>Gaoping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_10">
+			<Text>Bakuwan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_11">
+			<Text>Kwala Sepata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_12">
+			<Text>Pamangkat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_13">
+			<Text>Sepang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_14">
+			<Text>Lumar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_15">
+			<Text>Sebawi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_16">
+			<Text>Lara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_17">
+			<Text>Sebalau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_18">
+			<Text>Ledo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_19">
+			<Text>Landuo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_20">
+			<Text>Peniti</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_1">
+			<Text>Wubo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_2">
+			<Text>Sibo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_3">
+			<Text>Chabo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_4">
+			<Text>Taiji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_5">
+			<Text>Guifang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_6">
+			<Text>Tenghui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_7">
+			<Text>Ganxing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_8">
+			<Text>Asheng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_9">
+			<Text>Liang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_10">
+			<Text>Goenang</Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO">
+			<Text>Luo Fangbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_PEDIA_HEADING_1">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_PEDIA_TEXT_1">
+			<Text>Luo Fangbo was born in Meixian Shifan Town, Guangdong, into a family of farmers and students. Known for his ambition and diligence, he earned recognition among his peers from a young age, excelling in literature, martial arts, and various practical skills like swordsmanship and farming. Despite his talents, Luo remained a poor and underappreciated scholar in Jiaying Prefecture, working hard in the fields while pursuing his studies until the age of 34.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_PEDIA_HEADING_2">
+			<Text>Lanfang Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_PEDIA_TEXT_2">
+			<Text>In 1772, at 35 years old, Luo Fangbo, disheartened by his failure in the rural examination and driven by his Confucian beliefs, decided to leave his life in Guangdong behind. Accompanied by a large party of friends and colleagues, he sailed to Borneo in search of greater opportunities. Upon arriving in Sanfa, Borneo, Luo initially made a living as a teacher in Kundin. His knowledge, decisiveness, and ability to connect with both the local Chinese and indigenous communities quickly earned him respect, particularly among the Hakka Chinese. In Dongwanlu (modern-day Mandor), Luo's reputation grew, and he was eventually elected leader by the local Lanfang Hui, an organization dedicated to protecting Chinese business interests, and successfully united the Chinese and native populations. In 1777, Luo's influence surpassed that of Wu Yuansheng, the leader of a neighboring company, and he reorganized the group under the name "Lanfang Kongsi."[NEWLINE][NEWLINE]Luo Fangbo's leadership of the Lanfang Kongsi was marked by strategic alliances and military successes. His alliance with the Pontianak Sultanate proved especially fruitful, as it led to the successful capture of territory from the Mempawah Sultanate in 1789. Luo Fangbo is believed to have persuaded Sultan Syarif Abdurrahman of Pontianak to attack Mempawah, which was then ruled by Abdurrahman's brother-in-law. The conflict resulted in the Mempawah Sultan's defeat, forcing him to retreat and eventually sign a peace treaty with Luo Fangbo after a prolonged siege. By 1793, Luo Fangbo's influence had grown so significantly that the Sultan of Pontianak granted him even broader authority over the Chinese communities. Luo's military strength and leadership made him a central figure in the region, with both locals and Chinese settlers seeking his protection and leadership.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_PEDIA_HEADING_3">
+			<Text>Death and Succession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_PEDIA_TEXT_3">
+			<Text>As his health declined, Luo ensured the future stability of the Lanfang Kongsi by decreeing that leadership should remain with someone from Jiaying Prefecture, and he recommended Jiang Wubo, a man of merit and martial prowess, as his successor. Luo Fangbo passed away in 1795 at the age of 58, leaving behind a legacy of wise leadership and unity among the diverse communities of Borneo. His final words reflected his humility and dedication to the greater good, expressing gratitude to his "brothers" and emphasizing the importance of wise governance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_PEDIA_LIVED">
+			<Text>1738 - 1795 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_PEDIA_NAME">
+			<Text>Luo Fangbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_PEDIA_SUBTITLE">
+			<Text>President of the Lanfang Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_PEDIA_TITLES_1">
+			<Text>President</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_PB_KONGSI_FEDERATION">
+			<Text>May construct Mines on flat, resource-less terrain without removing Forest or Jungle. When a City works four Mines for the first time, the next available Social Policy Branch is adopted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PB_KONGSI_FEDERATION_SHORT">
+			<Text>Kongsi Federation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PB_KONGSI_FEDERATION_NOTIFICATION_SHORT">
+			<Text>{1_PolicyName} unlocked!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PB_KONGSI_FEDERATION_NOTIFICATION">
+			<Text>Because of the booming industry around {1_CityName}, the miners have voted to adopt the {2_PolicyName} Social Policy Branch!</Text>
+		</Row>
+		<!--Units-->
+		<Row Tag="TXT_KEY_UNIT_PB_LANSAAI">
+			<Text>Lansaai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PB_LANSAAI_HELP">
+			<Text>Slightly stronger and heals fully on defeating an enemy Unit. Double [ICON_MOVES] Movement in rough terrain. Spawns a [ICON_RES_GOLD] Gold resource when clearing Ancient Ruins, Barbarian Encampments, or defeating an enemy in neutral territory. If a Settler is being produced when this happens, it is given a slight [ICON_PRODUCTION] Production boost. Only Lanfang may build it, and replaces the Scout.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PB_LANSAAI_STRATEGY">
+			<Text>The Lansaai is the Lanfang Unique Unit, replacing the Scout. Available from the start of the game, the Lansaai has excellent mobility in rough terrain (Forest, Jungle and Hills), making it an excellent unit for exploration. Whenever it clears Ancient Ruins, Barbarian Encampments, or defeats an enemy Unit outside of a civilization's territory, it will discover a [ICON_RES_GOLD] Gold resource on that tile. Doing so will also boost the production of any Settlers being trained in your cities. Use the Lansaai around your home territory and deploy it opportunistically in combat to discover Gold, then use your boosted Settlers to claim the Gold reserves for yourself.[NEWLINE][NEWLINE]By clearing Ancient Ruins, the Lansaai has a chance to upgrade into a Swordsman, keeping its abilities. This can make for an extremely strong early-game unit, so be sure to quickly research Bronze Working and secure a source of [ICON_RES_IRON] Iron to avoid its strategic resource penalty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PB_LANSAAI_TEXT">
+			<Text>Lansaai is a word derived from the Mandarin "lanzai", meaning "riff-raff". Within the kongsi republics of West Borneo, it was used to refer to the gold-mining population and village representatives of the settlements.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_PB_LANSAAI">
+			<Text>Lansaai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_LANSAAI_HELP">
+			<Text>Heals fully on defeating an enemy Unit. Double Movement in rough terrain. Reveals a [ICON_RES_GOLD] Gold resource by clearing Ancient Ruins, Encampments, and defeating enemies in neutral territory. Boosts the Production of Settlers by discovering Gold.</Text>
+		</Row>
+		<!-- Buildings -->
+		<Row Tag="TXT_KEY_BUILDING_PB_ZONGTING">
+			<Text>Zongting</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PB_ZONGTING_HELP">
+			<Text>Lanfang Unique Building, replacing the Mint. +1 [ICON_PRODUCTION] Production on [ICON_RES_GOLD] Gold resources for every two adopted Social Policy Branches (including an Ideology). [NEWLINE][NEWLINE]City must have an improved source of [ICON_RES_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PB_ZONGTING_STRATEGY">
+			<Text>The Zongting is the Lanfang Unique Building, replacing the Mint. Unlike the default building, the Zongting unlocks at Iron Working instead of Currency. The Zongting has the potential to turn your [ICON_RES_GOLD] Gold Resources into powerhouses of [ICON_PRODUCTION] Production, gaining +1 yield for every two Social Policy Branches unlocked. Unlocking all Social Policy Branches and adopting an Ideology will provides a bonus +5 [ICON_PRODUCTION] Production on [ICON_RES_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PB_ZONGTING_TEXT">
+			<Text>Zongting were assembly halls at the center of villages in the kongsi republics. Zongtings serves variously as the main executive, legislative bodies, courts, and financial authorities.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ZH_Hant_HK>
+		<!--Civilization-->
+		<Row Tag="TXT_KEY_CIV_PB_LANFANG_DESC">
+			<Text>蘭芳共和國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PB_LANFANG_SHORT_DESC">
+			<Text>蘭芳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PB_LANFANG_ADJECTIVE">
+			<Text>蘭芳</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_1">
+			<Text>東萬律</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_2">
+			<Text>茅恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_3">
+			<Text>明黃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_4">
+			<Text>沙喇蠻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_5">
+			<Text>坤日</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_6">
+			<Text>龍岡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_7">
+			<Text>六份頭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_8">
+			<Text>山豬打崖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_9">
+			<Text>高坪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_10">
+			<Text>木關</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_11">
+			<Text>沙壩達</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_12">
+			<Text>邦戛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_13">
+			<Text>昔邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_14">
+			<Text>爐末</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_15">
+			<Text>沙泊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_16">
+			<Text>嘮嘮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_17">
+			<Text>哇黎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_18">
+			<Text>義羅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_19">
+			<Text>爛多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_20">
+			<Text>勿黎</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_1">
+			<Text>戊伯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_2">
+			<Text>挿伯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_3">
+			<Text>四伯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_4">
+			<Text>台二</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_5">
+			<Text>六伯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_6">
+			<Text>騰輝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_7">
+			<Text>乾興</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_8">
+			<Text>阿生</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_9">
+			<Text>亮官</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_10">
+			<Text>阿生</Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO">
+			<Text>羅芳伯</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_PB_KONGSI_FEDERATION">
+			<Text>可以在平坦且無資源的地形上建造礦場，無需移除森林或叢林。當一座城市首次工作四座礦場時，自動採用下一個可用的社會政策分支。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PB_KONGSI_FEDERATION_SHORT">
+			<Text>公司民主國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PB_KONGSI_FEDERATION_NOTIFICATION_SHORT">
+			<Text>{1_PolicyName}已解鎖！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PB_KONGSI_FEDERATION_NOTIFICATION">
+			<Text>由於{1_CityName}周圍的產業蓬勃發展，礦工們已投票採用{2_PolicyName}社會政策分支！</Text>
+		</Row>
+		<!--Units-->
+		<Row Tag="TXT_KEY_UNIT_PB_LANSAAI">
+			<Text>金礦工</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PB_LANSAAI_HELP">
+			<Text>稍微強壯一點，並且在擊敗敵方單位後完全恢復。 在崎嶇地形中擁有雙倍[ICON_MOVES]移動力。 清理遠古遺跡、蠻族營地，或在中立領土擊敗敵人時會生成一個[ICON_RES_GOLD]黃金資源。 如果當時正在生產開拓者，則會獲得少量的[ICON_PRODUCTION]生產力提升。 只有蘭芳可以建造，並取代斥侯。</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_PB_LANSAAI">
+			<Text>懶仔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_LANSAAI_HELP">
+			<Text>擊敗敵方單位後完全恢復。 在崎嶇地形中擁有雙倍移動力。 清理遠古遺跡、營地，以及在中立領土擊敗敵人時顯示[ICON_RES_GOLD]黃金資源。 發現黃金時提升開拓者的生產力。</Text>
+		</Row>
+		<!-- Buildings -->
+		<Row Tag="TXT_KEY_BUILDING_PB_ZONGTING">
+			<Text>總廳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PB_ZONGTING_HELP">
+			<Text>蘭芳的特殊建築，取代鑄幣廠。 每採用兩個社會政策分支（包括意識形態），在[ICON_RES_GOLD]黃金資源上獲得+1[ICON_PRODUCTION]生產力。[NEWLINE][NEWLINE]城市必須擁有改良過的[ICON_RES_GOLD]黃金資源。</Text>
+		</Row>
+	</Language_ZH_Hant_HK>
+</GameData>

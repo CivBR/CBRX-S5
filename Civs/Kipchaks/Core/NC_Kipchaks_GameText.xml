@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_LUNG_KIPCHAKS_ADJECTIVE">
+			<Text>Kipchak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_LUNG_KIPCHAKS_DESC">
+			<Text>Kipchak Confederation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_LUNG_KIPCHAKS_SHORT_DESC">
+			<Text>The Kipchaks</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_LUNG_TAL_KIPCHAKS">
+			<Text>Kipchaks</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LUNG_KIPCHAKS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LUNG_KIPCHAKS_TEXT_1">
+			<Text>The Kipchaks, also known as Kipchak Turks or Polovtsians, were Turkic nomads who formed a confederation that existed in the Middle Ages, inhabiting parts of the Eurasian Steppe. First mentioned in the eighth century as part of the Second Turkic Khaganate, they most likely inhabited the Altai region from where they expanded over the following centuries, first as part of the Kimek–Kipchak confederation and later as part of a confederation with the Cumans. There were groups of Kipchaks in the Pontic–Caspian steppe, China, Syr Darya and Siberia. Cumania was conquered by the Mongol Empire in the early 13th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LUNG_KIPCHAKS_HEADING_2">
+			<Text>Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LUNG_KIPCHAKS_TEXT_2">
+			<Text>The Kipchaks were first unambiguously mentioned in Persian geographer ibn Khordadbeh's Book of Roads and Kingdoms as a northerly Turkic tribe. Kipchaks possibly appeared in the 8th-century Moyun Chur inscription as Türk-Qïbchaq, mentioned as having been part of the Turkic Khaganate for fifty years; even so, this attestation is uncertain as damages on the inscription leave only a small portion readable. It is unclear if the Kipchaks could be identified with, according to Klyashtorny, the Xuè-Yántuó attested in the Orkhon inscriptions, or with the Juéyuèshiin Chinese sources. Some Soviet scholars attempted to connect the Kipchaks to the Qushé, a people once conquered by the Xiongnu; however, this connection is considered unlikely, considering differences in pronunciation. The relationship between the Kipchaks and Cumans is unclear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LUNG_KIPCHAKS_HEADING_3">
+			<Text>Westward Migration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LUNG_KIPCHAKS_TEXT_3">
+			<Text>While part of the Turkic Khaganate, they most likely inhabited the Altai region. When the Khaganate collapsed, they became part of the Kimek confederation, with which they expanded to the Irtysh, Ishim and Tobol rivers. The Kimek confederation, probably spearheaded by the Kipchaks, moved into Oghuz lands, and Sighnaq in Syr Darya became the Kipchak urban centre. Kipchak remnants remained in Siberia, while others pushed westwards in the Qun migration. As a result, three Kipchak groups emerged: one on the Pontic-Caspian steppe, one on the Syr Darya which became associated with the Khwarazmian dynasty, and one in Siberia, which later became the Siberan Tatars.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LUNG_KIPCHAKS_HEADING_4">
+			<Text>Birth of the Cuman-Kipchaks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LUNG_KIPCHAKS_TEXT_4">
+			<Text>The early 11th century saw a massive Turkic nomadic migration towards the Islamic world. The first waves were recorded in the Kara-Khanid Khanate in 1017–18. It is unknown whether the Cumans conquered the Kipchaks or were simply the leaders of the confederacy of the Kipchak–Turkic tribes. What is certain is that the two peoples gradually mingled politically and that, from the second half of the 12th century onwards, the names Cumans and Kipchaks became interchangeable to refer to the whole confederacy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LUNG_KIPCHAKS_HEADING_5">
+			<Text>Mongol Conflicts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LUNG_KIPCHAKS_TEXT_5">
+			<Text>The Mongols defeated the Alans after convincing the Kipchaks to desert them through pointing at their likeness in language and culture. Nonetheless, the Kipchaks were defeated next. Under Köten Khan, Kipchaks fled to the Principality of Kiev, where the Kipchaks had several marriage relations, one of which was Köten's son-in-law Mstislav Mstislavich of Galicia. The Ruthenians and Kipchaks forged an alliance against the Mongols, and met at the Dnieper to locate them. After an eight-day pursuit, they met at the Kalka River. The Kipchaks, who were horse archers like the Mongols, served as the vanguard and scouts. The Mongols, who appeared to retreat, tricked the Ruthenian–Kipchak force into a trap after suddenly emerging behind the hills and surrounding them. The fleeing Kipchaks were closely pursued, and the Ruthenian camp was massacred.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LUNG_KIPCHAKS_HEADING_6">
+			<Text>Entering Europe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LUNG_KIPCHAKS_TEXT_6">
+			<Text>The nomadic Kipchaks were the main targets of the Mongols when they crossed the Volga in 1236. The defeated Kipchaks mainly entered the Mongol ranks, while others fled westward. Köten led 40,000 families into Hungary, where King Bela IV granted them refuge in return for their Christianization. The refugee Kipchaks fled Hungary after Köten was murdered. After their fall, Kipchaks and Cumans were known to have become mercenaries in Europe and taken as slave warriors. In Egypt, the Mamluks were in part drawn from Kipchaks and Cumans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LUNG_KIPCHAKS_HEADING_7">
+			<Text>Final Migrations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_LUNG_KIPCHAKS_TEXT_7">
+			<Text>In 1239–1240, a large group of Kipchaks fleeing from the Mongols crossed the Danube. This group, which has an estimated population of over 10 thousand, wandered for a long time to find a suitable place to settle in Thrace. In order to prevent the Kipchaks from plundering and to prevent the Seljuks, Mongols and Latin Empire from occupying the lands of the Empire of Nicaea and to benefit from their military capabilities, Emperor John III Doukas Vatatzes invited the Kipchaks from the Balkans to the service of the Empire of Nicaea. He settled some of them in Anatolia (what is now Turkey), to protect the Empire of Nicaea from foreign invasions. When the Ottomans conquered the lands they lived in, these Kipchaks intermixed with the Turkmen and were assimilated among Turks. The Kipchaks who settled in Western Anatolia during the reign of Nicea Emperor John III Doukas Vatatzes are the ancestors of a community called Manav living in Northwest Anatolia today.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_1">
+			<Text>Ulytau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_2">
+			<Text>Sighnaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_3">
+			<Text>Sarai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_4">
+			<Text>Kanjak Sangir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_5">
+			<Text>Kara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_6">
+			<Text>Kypsak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_7">
+			<Text>Ak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_8">
+			<Text>Suun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_9">
+			<Text>Gerey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_10">
+			<Text>Sankem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_11">
+			<Text>Karagay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_12">
+			<Text>Sary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_13">
+			<Text>Yete Yryu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_14">
+			<Text>Pusyrmanqul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_15">
+			<Text>Qaydauyl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_16">
+			<Text>Qyrymqozha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_17">
+			<Text>Bugaz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_18">
+			<Text>Qydyrbay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_19">
+			<Text>Qarsak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_20">
+			<Text>Qarta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_21">
+			<Text>Zhantiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_22">
+			<Text>Shumanaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_23">
+			<Text>Tanabuga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_24">
+			<Text>Köldeneñ Alatay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_25">
+			<Text>Qyzhyq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_26">
+			<Text>Bylgashy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_27">
+			<Text>Shandayak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_28">
+			<Text>Kökköz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_29">
+			<Text>Tasqor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_30">
+			<Text>Aryq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_31">
+			<Text>Nausha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_32">
+			<Text>Mimyq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_33">
+			<Text>Bibolat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_34">
+			<Text>Agys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_35">
+			<Text>Shuaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_36">
+			<Text>Kuleke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_37">
+			<Text>Qulshyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_38">
+			<Text>Qaz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_39">
+			<Text>Kelel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_40">
+			<Text>Kenzhebay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_41">
+			<Text>Qitaba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_42">
+			<Text>Tüyishke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_43">
+			<Text>Kökmuryn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_44">
+			<Text>Shash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_45">
+			<Text>Uäris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_46">
+			<Text>Begis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_47">
+			<Text>Zholaba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_48">
+			<Text>Kürleuit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_49">
+			<Text>Aldaberdi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_50">
+			<Text>Zhangeldi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_51">
+			<Text>Köselbas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_52">
+			<Text>Äbilqasym</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_53">
+			<Text>Qyzylshekpen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_54">
+			<Text>Yesenkeldi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_55">
+			<Text>Toqbolat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_56">
+			<Text>Aqbetey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_57">
+			<Text>Qädirqul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_58">
+			<Text>Qatygulaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_59">
+			<Text>Alquly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_60">
+			<Text>Ötep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_KIPCHAKS_61">
+			<Text>Äyten</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_KIPCHAKS_0">
+			<Text>Köten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_KIPCHAKS_1">
+			<Text>Bortz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_KIPCHAKS_2">
+			<Text>Kura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_KIPCHAKS_3">
+			<Text>Tolon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_KIPCHAKS_4">
+			<Text>Sokal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_KIPCHAKS_5">
+			<Text>Alpra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_KIPCHAKS_6">
+			<Text>Zeyhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_KIPCHAKS_7">
+			<Text>Arbuz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_KIPCHAKS_8">
+			<Text>Turtel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_KIPCHAKS_9">
+			<Text>Kemenche</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS">
+			<Text>Togortak</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LUNG_KIPCHAKS_NAME">
+			<Text>Togortak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LUNG_KIPCHAKS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LUNG_KIPCHAKS_TEXT_1">
+			<Text>Togortak, also known as Tugorkhan, was a Kipchak khan known for his alliance with Byzantine emperor Alexios Komnenos. Together with fellow khan Bonyak, he united under his authority several Western Kipchak hordes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LUNG_KIPCHAKS_HEADING_2">
+			<Text>Alliance With Byzantium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LUNG_KIPCHAKS_TEXT_2">
+			<Text>The earliest news about Togortak, as well as about Khan Bonyak, is found in the writings of Byzantine princess Anna Komnena. At that time the Pechenegs, advancing to the Balkans under the pressure of the Polovtsians, invaded the Byzantine possessions, not content with the lands assigned to them on the northern border of the empire. The Kipchak khans Togortak and Bonyak, who came with troops to Byzantium in 1091, responded to the appeal of Emperor Alexios I Komnenos for help. Neither the Byzantines nor the Kipchaks trusted each other, however, the battle between the Kipchaks and the Pechenegs ended in a complete rout of the latter. The Kipchaks, frightened by the cruelty of the battle displayed by both their enemies and their Byzantine allies, retreated to the Danube, where they were defeated by the Hungarians and left for the Dnieper steppes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LUNG_KIPCHAKS_HEADING_3">
+			<Text>Later Life and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LUNG_KIPCHAKS_TEXT_3">
+			<Text>In 1093, in alliance with Bonyak, Togortak waged a war with Svyatopolk Izyaslavich, which ended in the complete defeat of the Grand Prince of Kiev, who was forced to conclude peace in 1094 and marry Togortak's daughter. In 1095, together with Bonyak, Togortak went on a campaign to Byzantium, which ended in failure: more than half of the warriors who had gone to Byzantium perished, and all the booty was taken away in one of the battles with the imperial army pursuing them. Together with Kurya Khan he invaded the Principality of Pereyaslavl on May 30, 1096 and besieged it, but was defeated on July 19 by the troops of Svyatopolk and Vladimir Monomakh in the Battle of the Trubezh River. Togortak and his son both died in battle. Svyatopolk considered it his duty to find the corpse of his father-in-law on the battlefield and to bury him in a grave near Berestove.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LUNG_KIPCHAKS_LIVED">
+			<Text>??? - 1096 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LUNG_KIPCHAKS_SUBTITLE">
+			<Text>Leader of the Kipchaks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LUNG_KIPCHAKS_TITLES_1">
+			<Text>Khan</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_LUNG_KIPCHAKS_TEXT">
+			<Text>Fare thee well, Togortak, Khan of the western Kipchaks! Your people were a mighty one, and quite well-traveled, spanning from the edge of Siberia to the Pontic Steppe where you claimed your glory. Through your efforts, alongside those of your fellow Khan Bonyak, you brought many of the Cuman and Kipchak hordes under your command. When the ancient Byzantine Empire called for aid, you answered, and you even managed to defeat the mighty Principality of Kiev in battle. Though you may have eventually been slain in battle, your impact on the various states of eastern Europe certainly cannot be forgotten.[NEWLINE][NEWLINE]Mighty Togortak, your people are on the move once more, and now they find themselves in an unfamiliar land beset by enemies. It falls to you to unite the Kipchak hordes under your banner and lead them wherever they must go. Will you terrorize the steppes and destroy your enemies? Or will you perhaps use diplomacy to forge a mighty alliance? Will you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_FIRSTGREETING_1">
+			<Text>Oho, greetings, mighty one! I am Togortak, Khan of the Kipchaks. My people are mighty warriors, so please, don't hesitate to ask if you need our assistance... especially if you're willing to pay up.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_DEFEATED_1">
+			<Text>This is how you fight? Such brutality, such inhuman cruelty... What are you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_ATTACKED_HOSTILE_1">
+			<Text>Really? Rather than settling out a deal, you'd rather meet us on the battlefield? I suppose that's your mistake to make.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_DEC_FRIENDSHIP_1">
+			<Text>You've been wonderful to work with thus far. What would you say about making our partnership more official, with a public Declaration of Friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_DENOUNCE_1">
+			<Text>You've been a terrible business partner and a terrible host, and it is time the rest of the world learned of this as well.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_DENOUNCE_FRIEND_1">
+			<Text>Sorry, friend, it's nothing personal, but the tides of fortune have changed and I'm afraid you're just not worth keeping around.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_DOW_GENERIC_1">
+			<Text>Well, you've become quite the problem, and I'm afraid someone wants you gone. Sorry, but prepare to be crushed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_GREETING_HOSTILE_HELLO_1">
+			<Text>Oh, it's you. Whatever it is you need, you'd better be willing to pay well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_GREETING_NEUTRAL_HELLO_1">
+			<Text>What business brings you here, friend?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_GREETING_POLITE_HELLO_1">
+			<Text>Well hello! How wonderful it is to see you. What can I do for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Personally, I would say that land, like laughter and gold, is made to be shared. What do you say we let our people wander free by opening our borders to each other?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_REQUEST_1">
+			<Text>Would you perhaps be willing to lend me a favor?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You really think so lowly of me? What a shame.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_TOO_SOON_NO_PEACE_1">
+			<Text>Well, I'd hardly be upholding my end of the deal with my allies if I made peace so soon!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are wearing your masked helmets and building funerary stelae. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_KIPCHAKS_INFLUENTIAL_ON_HUMAN_1">
+			<Text>I'm glad to see that your people are wearing our masked helmets and building funerary stelae. They have wonderful taste.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_LUNG_KIPCHAKS_SHORT">
+			<Text>Sellswords of the Steppe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LUNG_KIPCHAKS">
+			<Text>Units garrisoned in Cities may become Mercenaries, disappearing from your control to join a foreign Civilization's army and granting you [ICON_GOLD] Gold. After 25 turns, they return to you with a large boost of XP and [ICON_GOLDEN_AGE] Golden Age Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LUNG_KIPCHAKS_SELLSWORD_TOOLTIP">
+			<Text>Send To Mercenary Work[NEWLINE]Sell this unit for [ICON_GOLD] Gold. It will return 25 turns later with extra XP and [ICON_GOLDEN_AGE] Golden Age Points.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_LUNG_KIPCHAKS_BONUS_HAPPINESS">
+			<Text>Kipchaks Happiness Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_LUNG_KIPCHAKS_BONUS_HAPPINESS_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILD_LUNG_BALBALS">
+			<Text>Construct a [LINK=IMPROVEMENT_LUNG_BALBALS]Balbals[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_LUNG_BALBALS_HELP">
+			<Text>+1 [ICON_MOVES] Movement for Units on this tile. Yields +1 [ICON_CULTURE] Culture, and may accumulate [ICON_HAPPINESS] Happiness yields when Mercenaries return to your control during [ICON_GOLDEN_AGE] Golden Ages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_LUNG_BALBALS_REC">
+			<Text>It will grant increased [ICON_MOVES] Movement and [ICON_CULTURE] Culture, and may accumulate [ICON_HAPPINESS] Happiness yields when Mercenaries return to your control during [ICON_GOLDEN_AGE] Golden Ages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_LUNG_BALBALS">
+			<Text>Balbals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_LUNG_BALBALS_TEXT">
+			<Text>Balbals, also known as Kurgan stelae, are anthropomorphic stone stelae, images cut from stone, installed atop, within or around kurgans (i.e. tumuli). These stelae are most often found in kurgan cemeteries, or in a double line extending from a kurgan. The stelae are also described as "obelisks" or "statue menhirs". Spanning more than three millennia, they are clearly the product of various cultures. The earliest are associated with the Pit Grave culture of the Pontic–Caspian steppe. The Iron Age specimens are identified with the Scythians and medieval examples with Turkic peoples. Anthropomorphic stelae were probably memorials to the honoured dead. They are found in the context of burials and funeral sanctuaries from the Eneolithic through to the Middle Ages. When used architecturally, stelae could act as a system of stone fences, frequently surrounded by a moat, with sacrificial hearths, sometimes tiled on the inside.</Text>
+		</Row>
+		
+		<!--UNIQUE 2-->>
+		<Row Tag="TXT_KEY_UNIT_LUNG_TARKHAN">
+			<Text>Tarkhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LUNG_TARKHAN_HELP">
+			<Text>Replaces the Catapult. Melee Mounted Unit, good at Pillaging and highly effective against Cities. Capturing Cities grants [ICON_GOLDEN_AGE] Golden Age Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LUNG_TARKHAN_STRATEGY">
+			<Text>The Tarkhan, completely unlike the Catapult it replaces, is a melee Mounted Unit, able to spread destruction throughout enemy lands to an unparalleled degree thanks to its combination of high mobility, free Pillaging, and bonus against Cities. Even better, the Takhan actually generates [ICON_GOLDEN_AGE] Golden Age Points on capturing cities - even if you've lent it out to another Civilization! Use your Tarkhans to tear through your enemies in the early game, or if you have better things to do than fight a war, send them off to do mercenary work and let them send home the spoils of somebody else's war, instead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LUNG_TARKHAN_TEXT">
+			<Text>The term "Tarkhan" is an ancient Central Asian title used by various Turkic, Hungarian, Mongolic, and Iranian peoples. Its use was common among the successors of the Mongol Empire and Turkic Khaganate. Tarkhans commanded military contingents (roughly of regimental size under the Turkic Khazars) and were, roughly speaking, generals. They could also be assigned as military governors of conquered regions. The title has different meanings in different times, however - In the Uyghur Khanate, it meant 'deputy, minister', and to the Oghuz Turks, it meant 'head constable'.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_LUNG_TARKHAN">
+			<Text>Tarkhan Promotion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LUNG_TARKHAN_HELP">
+			<Text>+100% Damage vs Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LUNG_KIPCHAK_MERCENARY">
+			<Text>Mercenary Unit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LUNG_KIPCHAK_MERCENARY_HELP">
+			<Text>This unit is a Kipchak Mercenary. It will return to Kipchak control in 25 turns.</Text>
+		</Row>
+		
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_LUNG_KIPCHAKS_DESCRIPTION">
+			<Text>KIPCHAKS (TOGORTAK)[NEWLINE][NEWLINE]UNIQUE TRAIT: SELLSWORDS OF THE STEPPE[NEWLINE]Units garrisoned in Cities may become Mercenaries, disappearing from your control to join a foreign Civilization's army and granting you [ICON_GOLD] Gold. After 30 turns, whether they survived or not, they return to you with a large boost of XP and [ICON_GOLDEN_AGE] Golden Age Points.[NEWLINE][NEWLINE]UNIQUE UNIT: TARKHAN (CATAPULT)[NEWLINE]The Tarkhan, completely unlike the Catapult it replaces, is a melee Mounted Unit, able to spread destruction throughout enemy lands to an unparalleled degree thanks to its combination of high mobility, free Pillaging, and bonus against Cities. Even better, the Takhan actually generates [ICON_GOLDEN_AGE] Golden Age Points on capturing cities - even if you've lent it out to another Civilization! Use your Tarkhans to tear through your enemies in the early game, or if you have better things to do than fight a war, send them off to do mercenary work and let them send home the spoils of somebody else's war, instead.[NEWLINE][NEWLINE]UNIQUE IMPROVEMENT: BALBALS[NEWLINE]+1 [ICON_MOVES] for Units on this tile. Yields +1 [ICON_CULTURE] Culture, and may accumulate [ICON_HAPPINESS] Happiness yields when Mercenaries return to your control during [ICON_GOLDEN_AGE] Golden Ages.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/19/2024 8:38:58 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_FIRSTGREETING_1">
+			<Text>I am Luo Fangbo, custodian of the Lanfang kongsi. What brings you to our federation?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_FIRSTGREETING_2">
+			<Text>Welcome, traveler. I am President Luo. The land of Lanfang is open to those who value knowledge and hard work.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_DEFEATED_1">
+			<Text>Lanfang may be lost, but our efforts will not be forgotten.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_ATTACKED_HOSTILE_1">
+			<Text>So, you choose violence. Lanfang will stand firm against your aggression.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_DEC_FRIENDSHIP_1">
+			<Text>Let us forge a friendship built on hard work and mutual respect, where both our peoples can thrive in freedom and prosperity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_DENOUNCE_1">
+			<Text>Those who neglect their duty to their people deserve neither respect nor courtesy.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_DOW_GENERIC_1">
+			<Text>Your disregard for justice has left me no choice but to take action.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Your words are misguided. Lanfang’s strength lies in our unity and the integrity of our people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_MINOR_CIV_COMPETITION_1">
+			<Text>{1_MinorCivName:textkey} values those who bring stability and progress. Lanfang will not back down easily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_TRADE_NEEDMORE_NEUTRAL">
+			<Text>This proposal must benefit both our peoples, or it is not worth considering.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ZH_Hant_HK>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_FIRSTGREETING_1">
+			<Text>我是羅芳伯，蘭芳公司的管理者。是什麼風把您帶到我們的聯邦來的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_FIRSTGREETING_2">
+			<Text>歡迎，旅人。我是羅總長。蘭芳之地對那些重視知識和勤勞的人敞開大門。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_DEFEATED_1">
+			<Text>蘭芳或許已失，但我們的努力不會被遺忘。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_ATTACKED_HOSTILE_1">
+			<Text>原來你選擇了暴力。蘭芳將堅決抵抗你的侵略。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_DEC_FRIENDSHIP_1">
+			<Text>讓我們建立一個以勤勞和互相尊重為基礎的友誼，讓我們的人民在自由和繁榮中共同成長。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_DENOUNCE_1">
+			<Text>那些忽視對人民責任的人，既不值得尊重也不配得到禮遇。[NEWLINE][NEWLINE]（[COLOR_WARNING_TEXT]他們竟公開指責我們！注意：您並未與之開戰。[ENDCOLOR]）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_DOW_GENERIC_1">
+			<Text>你對正義的漠視已迫使我不得不採取行動。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>你的話言不及義。蘭芳的力量在於我們的團結和人民的正直。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_LUO_FANGBO_MINOR_CIV_COMPETITION_1">
+			<Text>{1_MinorCivName} 重視帶來穩定與進步的人。蘭芳不會輕易退讓。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_TRADE_NEEDMORE_NEUTRAL">
+			<Text>這項提議必須對我們雙方都有所益，否則不值得考慮。</Text>
+		</Row>
+	</Language_ZH_Hant_HK>
+</GameData>

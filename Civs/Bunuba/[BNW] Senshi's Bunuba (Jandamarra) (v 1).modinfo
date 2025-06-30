@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f41706e1-0311-43bc-825f-3d50f373b991" version="1">
+  <Properties>
+    <Name>[BNW] Senshi's Bunuba (Jandamarra)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Bunuba people of northern Western Australia into the game, under the leadership of the bold Jandamarra!</Teaser>
+    <Description>Adds the Bunuba people of northern Western Australia into the game, under the leadership of the bold Jandamarra!
+
+Credits:
+Senshi: Code, Art (Map), Text, usual stuff y'know
+TopHatPaladin: Lua
+Arilasqueto: Art (Leaderscene, Leader Icon, Unit Icons)
+DarthKyofu: Art (Civ Icon &amp; Alpha, Misc.)
+Zharques: Pedias
+zwei833: Unit Models
+JTitan: Unit Models</Description>
+    <Authors>Senshi</Authors>
+    <SpecialThanks>TopHatPaladin, Arilasqueto, DarthKyofu</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="fa0a37be-dfd8-4bbd-9b9b-d339058d2d09" minversion="0" maxversion="999" title="Australian Religions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="3B630DCFE5BA48BCBDD880B9A7A67510" import="0">Art/Atlas/AtlasDefines.xml</File>
+    <File md5="C577511CD35697D1D6DC08B3763C67D2" import="1">Art/Atlas/BunubaAlpha128.dds</File>
+    <File md5="2F19CE5461A6072178D2B9EE91FFC546" import="1">Art/Atlas/BunubaAlpha16.dds</File>
+    <File md5="DBD0E64F048BD9F774F1FF03BFAF9F11" import="1">Art/Atlas/BunubaAlpha24.dds</File>
+    <File md5="103BAB104CEF05EF0FBBF402E1FDC158" import="1">Art/Atlas/BunubaAlpha256.dds</File>
+    <File md5="E62B16BA0039034712FAE260466DD716" import="1">Art/Atlas/BunubaAlpha32.dds</File>
+    <File md5="FC667AA67355B62AB2D5B949DEC10E6D" import="1">Art/Atlas/BunubaAlpha48.dds</File>
+    <File md5="18009EFC24074B8C1618EB2E965E59C7" import="1">Art/Atlas/BunubaAlpha64.dds</File>
+    <File md5="C90FBEC4C52514E7E98CD20577A57C28" import="1">Art/Atlas/BunubaAlpha80.dds</File>
+    <File md5="775CA7DFD5839C7C2839897C05CD55FB" import="1">Art/Atlas/BunubaAtlas128.dds</File>
+    <File md5="AC107BF427B1A956788D5294B161A2D9" import="1">Art/Atlas/BunubaAtlas256.dds</File>
+    <File md5="59375D65C252CA974364F16ED1826307" import="1">Art/Atlas/BunubaAtlas32.dds</File>
+    <File md5="9A820C81EFE5EEA3A3A0145CEB1B4046" import="1">Art/Atlas/BunubaAtlas45.dds</File>
+    <File md5="5F87F23B8FBA2BB658A4992ED990A442" import="1">Art/Atlas/BunubaAtlas48.dds</File>
+    <File md5="B8D8DA465098D8E3A3AAF699F96CEA72" import="1">Art/Atlas/BunubaAtlas64.dds</File>
+    <File md5="9CAFE188621927FEA69F77568B00DA25" import="1">Art/Atlas/BunubaAtlas80.dds</File>
+    <File md5="B052FFC1897CD7495C79A393AA47663A" import="1">Art/Atlas/JalgangurruFlag32.dds</File>
+    <File md5="E54CC8B0BE68907DF2B2FC6EA58ED83E" import="1">Art/Atlas/JilamaniFlag32.dds</File>
+    <File md5="507124EE30E74AF3AB5EEC47617CE67C" import="1">Art/JandamarraDoM.dds</File>
+    <File md5="76A3BFA4BC5BB202508A6E1803639DED" import="1">Art/JandamarraLS.dds</File>
+    <File md5="34585DBC03E2F0CB3A3F3BCCBEACC2ED" import="1">Art/JandamarraMap412.dds</File>
+    <File md5="0AC0DAAF163865A09F5C0DDE1D01E4AC" import="1">Art/Music/BunubaWar.mp3</File>
+    <File md5="B86C0D6568CAF170B88597965B15A9A8" import="1">Art/Music/BunubaPeace.mp3</File>
+    <File md5="178C7CA312FDF9BABAAE01A4A188205D" import="0">Art/Music/SoundRig.xml</File>
+    <File md5="477438CF41F2B6685308A80F2454AD45" import="0">Art/UnitModels/Jilamana.xml</File>
+    <File md5="1B47286B950F60747C8DC059C1CEBB18" import="0">Art/UnitModels/Jalgangurru.xml</File>
+    <File md5="6EDBA1B48D9E89CD8C02EAE4FBDB96B2" import="1">Art/UnitModels/Sahu_scout.fxsxml</File>
+    <File md5="2E9CF6A99ADA108DBF5EC6B905F02E41" import="1">Art/UnitModels/Sahu_scout.gr2</File>
+    <File md5="231A6F8B92F207E4CE56C8E23B14543B" import="1">Art/UnitModels/SAHU_scout_128.dds</File>
+    <File md5="D3D41EECCDD8D065BAAFBA54FB541E77" import="1">Art/UnitModels/SAHU_scout_128_serf.dds</File>
+    <File md5="0682DF7D289F97FE02A7FC337B3797EE" import="1">Art/UnitModels/Sahu_WARRIOR.fxsxml</File>
+    <File md5="88E0BC400FD5E94E6F0319EF61B9C344" import="1">Art/UnitModels/Sahu_WARRIOR.gr2</File>
+    <File md5="BF0AC8DECFBAF2EB8092F81B569ED2AC" import="1">Art/UnitModels/SonghaiScout.dds</File>
+    <File md5="49B23A11498792A0926C164227D1B4FE" import="1">Art/UnitModels/SonghaiScout.fbx</File>
+    <File md5="318FE752C0261026122150B3BED01C32" import="1">Art/UnitModels/SonghaiScout.fxsxml</File>
+    <File md5="7A21D15C3BFB60668B6C9401AED8E68C" import="1">Art/UnitModels/SonghaiScout.gr2</File>
+    <File md5="85CC97ED04CDA6A9C6472FE69B6BD678" import="1">Art/UnitModels/SonghaiScout_sref.dds</File>
+    <File md5="EE19B78E50C598252378FC69FA015131" import="1">Art/UnitModels/SonghaiScout_Template.blend</File>
+    <File md5="A2AE54CDE1043E42655B45AC5BDD5AE2" import="1">Art/UnitModels/sv_Jalgangurru.dds</File>
+    <File md5="972F55EFC6A2B460081FF747824E7669" import="1">Art/UnitModels/sv_Jilamani.dds</File>
+    <File md5="4B08D713E97C39062B03D5541E5CBC04" import="0">Core/Bunuba_Functions.lua</File>
+    <File md5="1E8EB8E5AAB8D3E79530B2A41EDA9E3E" import="0">Core/Civilizations.sql</File>
+    <File md5="5F7543AD54FB7E86D4BF4E459873E4F5" import="0">Core/DiplomacyResponses.xml</File>
+    <File md5="57526344C9D3077C65993A92BE90B7A4" import="0">Core/GameText.xml</File>
+    <File md5="C2079F246D3444B1353F6F0BCC15A579" import="0">Core/Jilamana.sql</File>
+    <File md5="608163C74D1BA73B9BBFD54E3CF87819" import="0">Core/Leaderhead.sql</File>
+    <File md5="DEAED6CB5F530DD3428D5ADD0FCBC308" import="0">Core/ModSupport.sql</File>
+    <File md5="481969B97A14F2601675CEFA67A75203" import="0">Core/PlayerColours.sql</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Core/PlotIterators.lua</File>
+    <File md5="F611202F4E18009D88BB7DBABC32C9BD" import="1">Core/Senshi_Jandamarra_Scene.xml</File>
+    <File md5="AF4F0379480FEF56BD7190144135742C" import="0">Core/Traits.sql</File>
+    <File md5="D1E18BAA6560D0BE66F291BF401D03A9" import="0">Core/Jalgangurru.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Atlas/AtlasDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Art/UnitModels/Jilamana.xml</UpdateDatabase>
+      <UpdateDatabase>Art/UnitModels/Jalgangurru.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Jilamana.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Jalgangurru.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Music/SoundRig.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/Bunuba_Functions.lua">
+      <Name>Bunuba Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

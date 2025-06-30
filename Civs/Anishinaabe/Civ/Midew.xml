@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/16/2015 5:14:26 PM -->
+<Context FontStyle="Shadow" Font="TwCenMT16" ColorSet="Beige_Black_Alpha">
+	<Instance Name="MidewTargets">
+		<Box ID="Base" Color="0,0,0,0" Size="250,30" Offset="100,0">
+			<Stack StackGrowth ="Right">
+				<Box Color="0,0,0,0" Size="250,30">
+					<Box Color="0,0,0,0" Size="45,45" Anchor="L,C" Offset="0,0">
+						<Image ID="CivilizationIconBG" Size="45,45" Offset="0,0" Texture="CivIconBGSizes.dds" TextureOffset="32,0" Anchor="C,C"/>
+						<Image ID="CivilizationIconShadow" Color="Black.128" Size="32,32" Offset="1,1" Texture="CivSymbolAtlas16.dds" Anchor="C,C"/>
+						<Image ID="CivilizationIcon" Size="32,32" Offset="0,0" Texture="CivSymbolsColor256.dds" Anchor="C,C"/>
+						<Image ID="CivilizationIconHighlight" Size="45,45" Offset="0,0" Texture="CivIconBGSizes_Highlight.dds" TextureOffset="32,0" Anchor="C,C"/>
+					</Box>
+					<GridButton Style="SmallButton" ID="Enemy" Anchor="C,C" Size="150,32" Offset="0,0" ToolTip="TXT_KEY_CLMIDEW_ENEMY_TOOLTIP" StateOffsetIncrement="0,0">
+						<Label Anchor="C,C" Offset="0,0" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" Font="TwCenMT18"/>
+					</GridButton>
+					<Label FontStyle="Shadow" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" ID="TargetCivilization" TruncateWidth="224" Offset="50,0" Anchor="L,C"></Label>
+				</Box>
+			</Stack>
+		</Box>
+	</Instance>
+	<Box Style="BGBlock_ClearTopBar"/>
+		<Grid Size="400,300" Offset="0,0" Anchor="C,C" Style="Grid9DetailFive140" Padding="0,0">
+			<Box ID="MidewPanel" Color="0,0,0,0" Size="953,180">
+				<Box Color="0,0,0,0" Size="100,24" Offset="75,20">
+					<Label FontStyle="Shadow" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_CHOOSE_WAR_TARGET"/>
+				</Box>
+				<Stack Size="280,100" Offset="0,0" StackGrowth="Right" Padding="20">
+					<Box Color="0,0,0,0" Size="365,165" Offset="0,60">
+						<ScrollPanel ID="MidewScrollPanel" Size="395,165" Offset="0,0" AutoScrollBar="0" Vertical="1">
+							<!-- Scroll Controls -->
+							<ScrollBar Anchor="R,C" Style="VertSlider" AnchorSide="O,I" Length="129"/>
+							<UpButton Anchor="R,T" Style="ScrollBarUp" AnchorSide="O,I"/>
+							<DownButton Anchor="R,B" Style="ScrollBarDown" AnchorSide="O,I"/>
+							<Stack ID="MidewTargetsStack" Size="948,100" StackGrowth="Bottom"/>
+						</ScrollPanel>
+						<Label FontStyle="Shadow" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" ID="MidewAtPeace" String="TXT_KEY_CLMIDEW_NONE"/>
+					</Box>
+				</Stack>
+			 <!--NO BUTTON--> 
+			<GridButton Style="SmallButton" ID="No" Anchor="C,B" Size="150,32" Offset="-355,-80" ToolTip="TXT_KEY_CLMIDEW_NO_TOOLTIP" StateOffsetIncrement="0,0">
+				<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_CLMIDEW_NO" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" Font="TwCenMT18"/>
+			</GridButton>
+			 <!--NEVER BUTTON-->
+				<GridButton Style="SmallButton" ID="Never" Anchor="C,B" Size="150,32" Offset="-195,-80" ToolTip="TXT_KEY_CLMIDEW_NEVER_TOOLTIP" StateOffsetIncrement="0,0">
+					<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_CLMIDEW_NEVER" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" Font="TwCenMT18"/>
+				</GridButton>
+		</Box>
+	</Grid>
+</Context>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/16/2014 11:54:41 PM -->
+<GameData>
+	<Language_en_US>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_AGLA_SCYTHIA_DESCRIPTION">
+			<Text>HUNGARY (STEPHEN I)[NEWLINE][NEWLINE]UNIQUE TRAIT: APOSTOLIC MAJESTY[NEWLINE][ICON_BULLET]Clearing Barbarian Encampments grants [ICON_PEACE] Faith. Spending [ICON_PEACE] Faith converts nearby cities to your Religion, triggering WLTKD turns per existing followers.[NEWLINE][NEWLINE]UNIQUE BUILDING: VEGVAR (CASTLE)[NEWLINE][ICON_BULLET]The Vegvar is the Hungarian replacement for the Castle. Like the Castle, the Vegvar boosts a city's Defensive Strength and Hit Points. In addition, the Vegvar decreases the amount of [ICON_FOOD] Food a city needs to increase in size by 10% and claims a new Tile for the city whenever a new [ICON_CITIZEN] Citizen is born. If a city with a Vegvar is occupied by an enemy civilization at war with Hungary, that city will continuously take 10 damage per turn until the city is re-taken or peace is brokered. This makes cities with Vegvars especially good at growing and difficult to retain should they be captured. However, the Vegvar costs 1 additional Maintenance.[NEWLINE][NEWLINE]UNIQUE UNIT: OATHSMAN (SWORDSMAN)[NEWLINE][ICON_BULLET]The unique Oathsman is Hungary's replacement for the Horseman. This unit is spawned whenever a Barbarian Encampment is cleared, beginning with bonus XP based upon the Level of the Unit that cleared it. It does not require [ICON_RES_HORSE] Horses, meaning Hungary can easily muster a powerful mounted force during the early game.</Text>
+		</Row>
+		<!--HUNGARY-->
+		<Row Tag="TXT_KEY_PROMOTION_AGLA_ENAREE">
+			<Text>Scythian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGLA_WEED_PRIEST_HELP">
+			<Text>Scythian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCYTHIAN_PLAINS_HELP">
+			<Text>Scythian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGLA_WEED_PRIEST">
+			<Text>Scythian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_AGLA_ENAREE_TEXT">
+			<Text>Scythian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCYTHIAN_PLAINS">
+			<Text>Scythian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AGLA_SCYTHIA_ADJECTIVE">
+			<Text>Scythian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AGLA_SCYTHIA_DESC">
+			<Text>Scythian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AGLA_SCYTHIA_SHORT_DESC">
+			<Text>Scythia</Text>
+		</Row>
+		<Replace Tag="TXT_KEY_CIV_TAL_JFD_HUNGARY_DESC">
+			<Text>Scythia</Text>
+		</Replace>
+		<Row Tag="TXT_KEY_CIV5_AGLA_SCYTHIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_AGLA_SCYTHIA_TEXT_1">
+			<Text>
+				The Scythians and sometimes also referred to as the Pontic Scythians, were an ancient Eastern Iranic equestrian nomadic people who had migrated during the 9th to 8th centuries BC from Central Asia to the Pontic Steppe in modern-day Ukraine and Southern Russia, where they remained established from the 7th century BC until the 3rd century BC.
+
+				Skilled in mounted warfare, the Scythians replaced the Agathyrsi and the Cimmerians as the dominant power on the western Eurasian Steppe in the 8th century BC. In the 7th century BC, the Scythians crossed the Caucasus Mountains and frequently raided West Asia along with the Cimmerians.
+
+				After being expelled from West Asia by the Medes, the Scythians retreated back into the Pontic Steppe in the 6th century BC, and were later conquered by the Sarmatians in the 3rd to 2nd centuries BC. By the 3rd century AD, last remnants of the Scythians were overwhelmed by the Goths, and by the early Middle Ages, the Scythians were assimilated and absorbed by the various successive populations who had moved into the Pontic Steppe.
+
+				After the Scythians' disappearance, authors of the ancient, mediaeval, and early modern periods used their name to refer to various populations of the steppes unrelated to them.
+			</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_01">
+			<Text>Gelonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_02">
+			<Text>Olbia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_03">
+			<Text>Neapolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_04">
+			<Text>Kul'Oba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_05">
+			<Text>Kam'Yanka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_06">
+			<Text>Kremnois</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_07">
+			<Text>Odessos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_08">
+			<Text>Theodosia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_09">
+			<Text>Kerkinitis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_10">
+			<Text>Nymphaion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_11">
+			<Text>Kepoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_12">
+			<Text>Panticapaeum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_13">
+			<Text>Tanais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_14">
+			<Text>Dionysopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_15">
+			<Text>Histria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_16">
+			<Text>Kallatis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_17">
+			<Text>Ogüz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_18">
+			<Text>Maikop</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_19">
+			<Text>Chertomlyk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGLA_SCYTHIA_20">
+			<Text>Seven Brothers</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_SCYTHIA_0">
+			<Text>Lykos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_SCYTHIA_1">
+			<Text>Eminakes </Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_SCYTHIA_2">
+			<Text>Agaros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_SCYTHIA_3">
+			<Text>Ataias </Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_SCYTHIA_4">
+			<Text>Octamasadas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_SCYTHIA_5">
+			<Text>Fran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_SCYTHIA_6">
+			<Text>Taxacis </Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_SCYTHIA_7">
+			<Text>Sauaios </Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_SCYTHIA_8">
+			<Text>Tomyris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AGLA_SCYTHIA_9">
+			<Text>Scopasis</Text>
+		</Row>
+		<!--STEPHEN I-->
+		<Row Tag="TXT_KEY_LEADER_AGLA_SCYTHIA">
+			<Text>Ateas </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_SCYTHIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_SCYTHIA_TEXT_1">
+			<Text>
+				Ateas (ca. 429 BC – 339 BC) was described in Greek and Roman sources as the most powerful king of Scythia, who lost his life and empire in the conflict with Philip II of Macedon in 339 BC.
+				It is not certain if Ateas was connected to the royal dynasty of Scythia; most historians view him as an usurper who ousted other Scythian kings from power and eliminated the traditional tripartite division of Scythian society. By the 340s, he had united under his power Scythian tribes inhabiting a vast territory between the Danube and the Maeotian marshes. His purported capital was excavated by Soviet archaeologists near the town of Kamianka on the Dnieper.
+				Plutarch relates several anecdotes about the character of Ateas and his attitude toward Greek culture: "Ateas took prisoner Ismenias, an excellent piper, and commanded him to play; and when others admired him, he swore it was more pleasant to hear a horse neigh... Ateas wrote to Philippus: You reign over the Macedonians, men that have learned fighting; and I over the Scythians, which can fight with hunger and thirst".
+				Towards the end of his life, Ateas increasingly encroached upon the Greek-Macedonian sphere of influence in the Balkans. Greek sources record his campaign against the tribe of the Histriani in Thrace. At first Ateas found it prudent to enlist the assistance of Macedon. When Philip's troops arrived to Scythia, they were dismissed with derision: the king of the Histriani had died and military action was no longer on the agenda. Another collision between Philip and Ateas arose during the former's siege of Byzantium, when the Scythians refused to provide Macedonian troops with supplies, citing the barrenness of their land as a pretext.
+
+				These petty conflicts with Ateas gave Philip a ground for invading his dominions. The final straw was the Scythians' reluctance to allow Philip to dedicate a statue of Heracles at the Danube estuary. In 339 BC, the two armies clashed on the plains of modern-day Dobruja. Ateas was killed in action and his army was routed. Philip seems to have been wounded as well and his horse was killed in the thick of the fray.
+
+				Peace was bought at the price of concession of 20,000 Scythian women and as many steppe mares to the Macedonians. In the wake of this defeat, the empire of Ateas fell to pieces. The Scythians are presumed to have lost their dominant position in the Pontic steppe for two centuries, until the reign of Scilurus in the 2nd century BC.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_SCYTHIA_LIVED">
+			<Text>429 BC – 339 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_SCYTHIA_NAME">
+			<Text>Ateas </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_SCYTHIA_SUBTITLE">
+			<Text>Leader of Scythia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGLA_SCYTHIA_TITLES_1">
+			<Text>King of Royal Scythia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_AGLA_SCYTHIA_TEXT">
+			<Text>
+				Brave King Ateas of the Royal Scythians, more riches are waiting beyond your far realm, your wide coast and its rugged mountains. Your the ruler of Scythia, an ancient name for many peoples in the past in plenty of regions before modern day Ukraine became the Heartland of your power. Master goldsmiths, promoters of undiluted wine and skilled on the horse back like no others, this once mysterious peoples yearn for a revival of its Golden Age. [NEWLINE][NEWLINE]
+				King Ateas, the horses are sattled, the quivers are full and glory is ready to be restored. Despite your first loss against the rising Macedonian Power, now is the time to rise again and conquer the hearts of them. Will you build a civilization that stands the test of time?
+			</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_AGLA_SCYTHIA_FIRSTGREETING_1">
+			<Text>Who is paying tribute to me? Me, King Ateas, ruler of the Royal Tribes. So, are you one of those fools thinning its wine?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_SCYTHIA_DEFEATED_1">
+			<Text>Farewell ye' olden time of yesterday, may I live further in the songs and tales within it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_SCYTHIA_ATTACKED_HOSTILE_1">
+			<Text>Your death be upon you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_SCYTHIA_DEC_FRIENDSHIP_1">
+			<Text>I like you, my friend, and I believe that a public Declaration of Friendship would do much good in this world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_SCYTHIA_DENOUNCE_1">
+			<Text>Your heresy has gone undenounced for too long.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_SCYTHIA_DENOUNCE_FRIEND_1">
+			<Text>You are wicked to have dishonoured our friendship so.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_SCYTHIA_DOW_GENERIC_1">
+			<Text>It is time to fight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGLA_SCYTHIA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Heh</Text>
+		</Row>
+		<!--APOSTOLIC MAJESTY-->
+		<Row Tag="TXT_KEY_TRAIT_AGLA_SCYTHIA_SHORT">
+			<Text>Royal Raiders beyond the Black Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_AGLA_SCYTHIA">
+			<Text>Gain +1 [ICON_PEACE]Faith for every three Flatland tiles adjacent to your city. Melee Cavalry gains additional Promotions at the second and fourth Level.</Text>
+		</Row>
+		<!--VEGVAR-->
+		<Row Tag="TXT_KEY_UNIT_AGLA_ENAREE">
+			<Text>Enaree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AGLA_ENAREE_HELP">
+			<Text>Unique Great Prophet, which heals adjacent damaged Units from its own Health, aswell nullifying weaknesses against cities. When expended by creating a Holy Site, spawns a luxury source of Hemp.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AGLA_ENAREE_STRATEGY">
+			<Text>Versatile for many strategies, be it in defense or offene, religion or trade, the choice is yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AGLA_ENAREE_TEXT">
+			<Text>The Enaree were affiliated to an orgiastic cult of the goddess Artimpasa and of the Scythians' ancestral Snake-Legged Goddess in their forms strongly influenced by Near Eastern fertility goddesses, and the rites of the Anarya thus combined indigenous Scythian religious practices of a shamanistic nature, which were themselves related to those of indigenous Siberian peoples, as well as ones imported from Levantine religions.</Text>
+		</Row>
+		<!--OATHSMAN-->
+		<Row Tag="TXT_KEY_UNIT_AGLA_SUCKERHONS">
+			<Text>Gorytos Archer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AGLA_SUCKERHONS_HELP">
+			<Text>Unique Chariot Archer. Slightly stronger range combat strength and even stronger melee defense. Gains access to the first Unique Scythian Trait promotion from the beginning.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AGLA_SUCKERHONS_STRATEGY">
+			<Text>Less fragile than the Chariot Archer the Gorytos Archers replace, it is the ideal companion for quick raids into enemy realms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AGLA_SUCKERHONS_TEXT">
+			<Text>
+				A gorytos is a type of leather bow-case for a short composite bow used by the Scythians in classical antiquity.They are a combination of bow case and quiver in one, and are worn on the archer's left hip with the opening tilted rearward. Many gorytoi were highly decorated, and at least one surviving specimen was determined via SEM examination to be made of human skin.[1]
+
+				Some have been found in Macedonian tombs, such as the so-called "Tomb of Philip" in Vergina of the 2nd half of the 4th century BCE. They were also used by the Persians. Indo-Greeks adopted the composite bow and the gorytos as part of their mounted archery equipment from around 100 BCE, as can be seen on their coins.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AGLA_WEED">
+			<Text>Hemp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_AGLA_WEED_TEXT">
+			<Text>
+				The Enaree may have used cannabis in their rituals, including both those of a communal and those of a funerary or psychopompic nature, thus being among the earliest spiritual practitioners to have used cannabis to achieve altered states of consciousness, implying that an ancient connection existed between gender non-conforming spiritual practitioners and the use of mind-altering substances.[6]
+
+				The Enaree may also have participated in Scythian funeral rituals, which included shamanic practises, and after the burial of the deceased, ritually cleansed themselves with the vapour of cannabis, which is attested archaeologically in Saka tombs from Siberia, which contained tripods, braziers, pelts, and charcoal containing remains of cannabis leaves and fruits, with one of the Pazyryk burials containing a pot, inside of which were cannabis fruits, as well as a copper censer used to burn cannabis.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AGLA_STEPPE_PROMO_1">
+			<Text>Masters of the Steppe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AGLA_STEPPE_PROMO_1_HELP">
+			<Text>Gain one extra movement and plunder improvements without loosing movements. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AGLA_STEPPE_PROMO_2">
+			<Text>Gold-plated Raiders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AGLA_STEPPE_PROMO_2_HELP">
+			<Text>Gain another extra movement point and the ability to perform Heavy Charges.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

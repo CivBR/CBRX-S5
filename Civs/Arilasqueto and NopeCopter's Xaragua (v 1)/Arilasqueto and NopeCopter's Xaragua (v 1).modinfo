@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="61f91a28-785e-4428-b918-9cf5a69d9f20" version="1">
+  <Properties>
+    <Name>Arilasqueto and NopeCopter's Xaragua</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Taino Cacicazgo of Xaragua under Anacaona to Civilization V.</Teaser>
+    <Description>Adds the Taino Cacicazgo of Xaragua under Anacaona to Civilization V.</Description>
+    <Authors>Arilasqueto, NopeCopter</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="75FE74DEF77BE2A5BDFDA7CBC128267D" import="1">Art/Leaderscene/anacaona_ls.dds</File>
+    <File md5="7BBEF83C110887F9C1C5FF7872BC2CA8" import="1">Art/Leaderscene/anacaona_ls.xml</File>
+    <File md5="3EA823AB24C1DD9F5A965EC3129353D1" import="1">Art/Model/chimu_general.ftsxml</File>
+    <File md5="7542302EFC994937C1376A3F6D0EB1A1" import="1">Art/Model/chimu_general.fxsxml</File>
+    <File md5="25DF1C27291C20C106A17E6AB9472E3C" import="1">Art/Model/chimu_general.gr2</File>
+    <File md5="92C801960B5F1E7F5F87D66DEE86C132" import="1">Art/Model/chimu_general_diff.dds</File>
+    <File md5="5F16C94A62EEBD36DDC6F89CB0658108" import="1">Art/Model/chimu_general_sref.dds</File>
+    <File md5="FD6E543B54A65E6C03440AB9AD8EAF9C" import="1">Art/tekina_alpha_32.dds</File>
+    <File md5="0C3F1B0C70F40821CC34C365D6407603" import="1">Art/tekina_alpha_sv.dds</File>
+    <File md5="BE8ADE64164BD22EF74086C329A70718" import="1">Art/UGP art/areito_image.dds</File>
+    <File md5="4F66940981A43C61D1B423BF84C0E512" import="1">Art/xaragua_alpha_128.dds</File>
+    <File md5="006C225A3F214E189D92F49AAEAC67DF" import="1">Art/xaragua_alpha_16.dds</File>
+    <File md5="04365BC278D8925A0A3412ADA67BE5F2" import="1">Art/xaragua_alpha_24.dds</File>
+    <File md5="E29BC4DA34174725814BC9156FBFE086" import="1">Art/xaragua_alpha_32.dds</File>
+    <File md5="7867B7DC05F8E18FF1BD4B38901421B0" import="1">Art/xaragua_alpha_45.dds</File>
+    <File md5="6AA71B36F1BFDF0179CC3FB4EEA47D93" import="1">Art/xaragua_alpha_48.dds</File>
+    <File md5="979B9953AC757AAB22DF9275B599DBF8" import="1">Art/xaragua_alpha_64.dds</File>
+    <File md5="719ECAE054D3EE0B4CA6F1D2A7BBC9E1" import="1">Art/xaragua_alpha_80.dds</File>
+    <File md5="80433BCE5CD37BBB7303A3A65262BC13" import="1">Art/xaragua_atlas_128.dds</File>
+    <File md5="933683559B1CF9500E6F6FD2D2715FFC" import="1">Art/xaragua_atlas_256.dds</File>
+    <File md5="DF608E48D0626EC47477DC800350E9A1" import="1">Art/xaragua_atlas_32.dds</File>
+    <File md5="C372D3F8F1E0C535707ADD3344D8B89F" import="1">Art/xaragua_atlas_45.dds</File>
+    <File md5="DDCE41BC24283409A511E006AB7C95B1" import="1">Art/xaragua_atlas_64.dds</File>
+    <File md5="3F1B4F5F9E626679BD042D859C1EF21D" import="1">Art/xaragua_atlas_80.dds</File>
+    <File md5="7C4AB6AE82C5BB2F6F1DB26113386C4A" import="1">Art/xaragua_dom.dds</File>
+    <File md5="CEA7F65563E74A58461F7087B6E673F1" import="1">Art/xaragua_map_small.dds</File>
+    <File md5="2E0B3B40BA3AF49F6035AC275E963961" import="1">Audio/XaraguaPeace.mp3</File>
+    <File md5="8707800AED84B066BCC81F8631D50215" import="1">Audio/XaraguaWar.mp3</File>
+    <File md5="96BCAEAB0FA5923A03D76C970DC56190" import="1">Audio/areitosound.mp3</File>
+    <File md5="6E11B7ED20713022A5A6A7091BD100A2" import="0">Core/ASQ_Xaragua_ArtDefines.sql</File>
+    <File md5="CE2E75001CC91A3B756636939BA09A75" import="0">Core/ASQ_Xaragua_GameDefines.sql</File>
+    <File md5="5FCBF6BD60A7822502C53C49540E1861" import="0">Core/ASQ_Xaragua_GameText.xml</File>
+    <File md5="3581AC994B388ACAABD0F39E1D4164F1" import="0">Core/ASQ_Xaragua_ModSupport.sql</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/CultureOverview/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/CultureOverview/CultureOverview.xml</File>
+    <File md5="9340107EAA9734416176CE89B219EE42" import="1">Lua/PlotIterators.lua</File>
+    <File md5="D7DE4B2129DBC68889FD67F3975AF483" import="0">Lua/XaraguaFunctions.lua</File>
+    <File md5="398A43906E8498553C854DBF81180C25" import="0">Lua/XaraguaFunctions.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/ASQ_Xaragua_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ASQ_Xaragua_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ASQ_Xaragua_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ASQ_Xaragua_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/XaraguaFunctions.lua">
+      <Name>Lua Functions</Name>
+      <Description>function deez nuts</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

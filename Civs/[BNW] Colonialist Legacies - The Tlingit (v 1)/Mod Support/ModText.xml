@@ -1,0 +1,16 @@
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GENERIC_CL_TLINGIT_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are wearing your blankets and marrying into your clans, I fear the rest of the world will succumb to such oddities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TRIBE_TITLE_LEADER_TLINGIT">
+			<Text>Chief Shakes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TLINGIT_1">
+			<Text>Chief Shakes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TLINGIT_2">
+			<Text>Chief</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

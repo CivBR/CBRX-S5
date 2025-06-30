@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="efb3d42b-99f1-4e02-8553-b7825691ffd3" version="1">
+  <Properties>
+    <Name>Leugi's Onondaga Civilization (Tadodaho)</Name>
+    <Teaser>Adds [COLOR_SELECTED_TEXT]The Onondaga[ENDCOLOR] under Tadodaho. [COLOR_SELECTED_TEXT]Last Version: December 2020[ENDCOLOR]</Teaser>
+    <Description>Adds [COLOR_SELECTED_TEXT]The Onondaga[ENDCOLOR] under Tadodaho.
+[NEWLINE][NEWLINE]
+[COLOR_SELECTED_TEXT]UA: Combing of the Snakes[ENDCOLOR]
+[NEWLINE]Melee units receive +25% XP and +15% Combat Strength when fighting in Hills tiles, and +10% XP otherwise. Upon declaring Peace receive a burst of [ICON_PEACE] Faith and [ICON_GOLDEN_AGE] Golden Age Points for every promotion of owned military units.
+[NEWLINE][NEWLINE]
+[COLOR_SELECTED_TEXT]UU: Fire Keeper[ENDCOLOR]
+[NEWLINE]Replacement for the Great General. Can be expended at City-States for a burst of [ICON_CULTURE] Culture and [ICON_INFLUENCE] Influence. Expending a Keeper of Fire while in a [ICON_GOLDEN_AGE] Golden Age doubles the [ICON_CULTURE] Culture earned.
+[NEWLINE][NEWLINE]
+[COLOR_SELECTED_TEXT]UB: Wampum House[ENDCOLOR]
+[NEWLINE]Replacement for the Temple. +1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith for every Allied City-State, doubled during [ICON_GOLDEN_AGE] Golden Ages. Having a Wampum House in all cities increases [ICON_GOLDEN_AGE] Golden Age duration by 25%.</Description>
+    <Authors>Leugi, JFD, DarthKyofu, Neirai, Zharques, Alga</Authors>
+    <SpecialThanks>To the lads, you know who you are.</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="EB92D841CFD5C531B40A4411648861BF" import="1">Art/Graphics/FireKeeper/firekeeper.fxsxml</File>
+    <File md5="F5A066CB49AAD2A6EE21690921D2F66E" import="1">Art/Graphics/FireKeeper/firekeeper.gr2</File>
+    <File md5="E13E5FFF5D07F7DE466B80D5806C7D65" import="1">Art/Graphics/FireKeeper/firekeeper_diff.dds</File>
+    <File md5="400967127ABDD55BE3ACDF3C3F40C173" import="1">Art/Icons/OnondagaAlpha128.dds</File>
+    <File md5="129EBE003B5E2918843430A6B095CC40" import="1">Art/Icons/OnondagaAlpha24.dds</File>
+    <File md5="492D58D2092154ADA02C26ED36197FEB" import="1">Art/Icons/OnondagaAlpha256.dds</File>
+    <File md5="D7FC98E6728BF617908203E95A10B283" import="1">Art/Icons/OnondagaAlpha32.dds</File>
+    <File md5="FE90E7608043A4EE0EAAF76763BC62CF" import="1">Art/Icons/OnondagaAlpha48.dds</File>
+    <File md5="DA8329B016DA2BB4B4D003F6C1253C23" import="1">Art/Icons/OnondagaAlpha64.dds</File>
+    <File md5="9CDACF4C3C8A0F1F5E482F57C0625A6E" import="1">Art/Icons/OnondagaAtlas128.dds</File>
+    <File md5="F098C236BC5EF6C0286D9F3BCBC7225F" import="1">Art/Icons/OnondagaAtlas256.dds</File>
+    <File md5="0A3D8EF66B5E2F4ACD1B034D6EB64773" import="1">Art/Icons/OnondagaAtlas32.dds</File>
+    <File md5="73240ECA2A8DDD65F1E10401651757F3" import="1">Art/Icons/OnondagaAtlas45.dds</File>
+    <File md5="5F501CFA089592E91D094C3AC5CB69F8" import="1">Art/Icons/OnondagaAtlas64.dds</File>
+    <File md5="3EE39B18A3876398A2127C9EA6EDC219" import="1">Art/Icons/OnondagaAtlas80.dds</File>
+    <File md5="BFA04C8B9B96149103BBABCCBF3EDCE2" import="1">Art/Icons/OnondagaUnit32.dds</File>
+    <File md5="433D976FE0221FEFB3D5A23C73A0A31C" import="1">Art/Icons/OnondagaUnitSV.dds</File>
+    <File md5="C30B324036469441E60479546CC85734" import="1">Art/Leaderscene/TadodahoLS.dds</File>
+    <File md5="3827DCF0D0A4979AD2775ECD812D7DE5" import="1">Art/Leaderscene/Tadodaho_Scene.xml</File>
+    <File md5="6D96730CA279949229677C1D3534220C" import="1">Art/Maps/OnondagaMapSmall.dds</File>
+    <File md5="5D9B8BC69C4CA559BD2390DD1921848B" import="1">Art/Maps/TADODADOM.dds</File>
+    <File md5="05AE93627AD677D041F05E83F6E01E64" import="1">Audio/TadodahoPeace.mp3</File>
+    <File md5="3D0A64E0686AA8CC2357602C592A3AB6" import="1">Audio/TadodahoWar.mp3</File>
+    <File md5="1E99405F5C331C2258EEE5E68B4CC4D0" import="0">Core/OnondagaTadodaho_ArtDefines.sql</File>
+    <File md5="58497EC3569868E2682A14CC5738B908" import="0">Core/OnondagaTadodaho_GameDefines.sql</File>
+    <File md5="5A8E0772349F7BE37608A45E832A9408" import="0">Core/OnondagaTadodaho_GameText.xml</File>
+    <File md5="BD69CF9DC71230BB62FE7193A490C29C" import="0">Core/OnondagaTadodaho_ModSupport.sql</File>
+    <File md5="162AF36A67589F8F048E4150DA9269A8" import="0">Lua/Leugi_Civs_OnondagaTadodaho_Functions.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/OnondagaTadodaho_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/OnondagaTadodaho_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/OnondagaTadodaho_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/OnondagaTadodaho_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Leugi_Civs_OnondagaTadodaho_Functions.lua">
+      <Name>Tadodaho Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

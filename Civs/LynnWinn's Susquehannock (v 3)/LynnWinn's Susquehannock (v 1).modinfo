@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="23b55e21-dea6-4535-8a52-4c1a1753de1d" version="1">
+  <Properties>
+    <Name>LynnWinn's Susquehannock</Name>
+    <Stability>Beta</Stability>
+    <Teaser>LynnWinn's [COLOR_WATER_TEXT]Susquehannock[ENDCOLOR], led by [COLOR_WARNING_TEXT]Old Sheehays[ENDCOLOR]</Teaser>
+    <Description>AMOGUS SUS-QUEHANNOCK</Description>
+    <Authors>LynnWinn</Authors>
+    <SpecialThanks>Orangechrisy</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="1FE880DD8EA48ACBFF31A30AED5E4B72" import="1">Art/Atlas Flag Map/SusquehannockAtlas128.dds</File>
+    <File md5="E8B3D4C599BA45339E8141E14D5FEDA3" import="1">Art/Atlas Flag Map/SusquehannockAtlas24.dds</File>
+    <File md5="2AEE37864E50BA90FF0D254EEEBF4719" import="1">Art/Atlas Flag Map/SusquehannockAtlas256.dds</File>
+    <File md5="FA37857E1A5913BCFBA40C01AF0E522D" import="1">Art/Atlas Flag Map/SusquehannockAtlas32.dds</File>
+    <File md5="07F6186A77CE314ABF26F077370AE365" import="1">Art/Atlas Flag Map/SusquehannockAtlas45.dds</File>
+    <File md5="53130DFC7B5D870E4BA50A888D7E1561" import="1">Art/Atlas Flag Map/SusquehannockAtlas48.dds</File>
+    <File md5="8DBC14B3D6E92ADA93AE296D51262AD5" import="1">Art/Atlas Flag Map/SusquehannockAtlas64.dds</File>
+    <File md5="F23B8CCC85FAB6141718CACBA72B3894" import="1">Art/Atlas Flag Map/SusquehannockAtlas80.dds</File>
+    <File md5="0C2D18DF96EF3864E70B992A49E4FD88" import="1">Art/Atlas Flag Map/SusquehannockFlag128.dds</File>
+    <File md5="0BB5D7B0355F569E527A4F8D34EA91BE" import="1">Art/Atlas Flag Map/SusquehannockFlag32.dds</File>
+    <File md5="D5DD76BDFBA9E1E36A05AC30A37C9FE6" import="1">Art/Atlas Flag Map/SusquehannockMap.dds</File>
+    <File md5="6A165C647DAA4773D8D2D8754E3E732F" import="1">Art/CharquinLS.dds</File>
+    <File md5="176B8BBB9B27CB1F46696ED3BD799143" import="1">Art/Charquin_DOM.dds</File>
+    <File md5="145A60A03A177CF5869F10DD1109E112" import="1">Art/Music/Sheehays_Peace.mp3</File>
+    <File md5="17B98D9A8BC1C84E390B5F14C92F758F" import="1">Art/Music/Sheehays_War.mp3</File>
+    <File md5="5DFFB2CCA467960E36AFD0228FDFAA37" import="1">Art/Palisade Village/iroqueseMarket_cm.dds</File>
+    <File md5="D3CB178C76E0361D4CCD6749B70A10F5" import="1">Art/Palisade Village/iroqueseWall_cm.dds</File>
+    <File md5="9D74329F2DDCC8B1AF698C632227CC1C" import="1">Art/Palisade Village/iroqueseWorkshop_cm.dds</File>
+    <File md5="FCA7035B4FF66B0794AC47D0C827D1BF" import="1">Art/Palisade Village/North American Encampment 1 B.fxsxml</File>
+    <File md5="0492BDE9C6E47F9373EE40F234FFF85E" import="1">Art/Palisade Village/North American Encampment 1 HB.fxsxml</File>
+    <File md5="2B5558043BF356A5C2B5387DEE6C4EFE" import="1">Art/Palisade Village/North American Encampment 1 HB.gr2</File>
+    <File md5="90389905F0D35D8B5A97321C2D05DFBC" import="1">Art/Palisade Village/North American Encampment 1 PL.fxsxml</File>
+    <File md5="9A8AF28A7075EDA17051194EE6CC6456" import="1">Art/Palisade Village/North American Encampment 1 PL.gr2</File>
+    <File md5="DD4B3B4232452B55506647E3BEDE59C5" import="1">Art/Palisade Village/North American Encampment 1.gr2</File>
+    <File md5="179740A3137941EB24BAD8670AE8C69F" import="1">Art/Iae'aetsin/civ5_irorm.fxsxml</File>
+    <File md5="82AC70741ED004E2AA8DB7CB0F2FCA08" import="1">Art/Iae'aetsin/civ5_irorm.gr2</File>
+    <File md5="B26CBA8857DAF08E104EF3FADBC2CEE6" import="1">Art/Iae'aetsin/civ5_irorm2.fxsxml</File>
+    <File md5="8AA245137E531BD0BFDED0146BC5F4DA" import="1">Art/Iae'aetsin/civ5_irorm2.gr2</File>
+    <File md5="475B927D7BD22EC650D3B2AFD38122A3" import="1">Art/Iae'aetsin/civ5_irorm_2.fxsxml</File>
+    <File md5="A56B71A65B065D23AD0CD669220E6D53" import="1">Art/Iae'aetsin/civ5_irorm_2.gr2</File>
+    <File md5="6E003A77606035B1D174D360FFCC18C2" import="1">Art/Iae'aetsin/irorm2.dds</File>
+    <File md5="56A8E88A0945810A278270870D0194B9" import="1">Art/Iae'aetsin/irorm_2.dds</File>
+    <File md5="CFBDE8C4CB2F4FE15D5B3D2DA31D7102" import="1">Art/Iae'aetsin/irorm_diff.dds</File>
+    <File md5="328C783F14BAFA217B573765070DDACA" import="1">Art/Iae'aetsin/irorm_sref.dds</File>
+    <File md5="E0B467D23C5EE855F6CA8DB20DC9AE62" import="1">Art/Iae'aetsin/irorm_sref2.dds</File>
+    <File md5="E33DD8E084893E6344CB842D621CAD15" import="1">Art/Iae'aetsin/irorm_sref_2.dds</File>
+    <File md5="5C320D816292C4A64D45360FC1F72962" import="1">Core/Charquin_Scene.xml</File>
+    <File md5="F259A44548C9509075CAC66122F7A99D" import="0">Core/LynnWinn_Susquehannock_ArtDefines.sql</File>
+    <File md5="571C29FB1AC4B979C6A65E8298852A7A" import="0">Core/LynnWinn_Susquehannock_DiplomacyResponses.xml</File>
+    <File md5="71E23C3FE8DAF499954932162D2DD5DB" import="0">Core/LynnWinn_Susquehannock_GameDefines.sql</File>
+    <File md5="9FAEEF4F40F7444CF470584395E932F9" import="0">Core/LynnWinn_Susquehannock_GameText.xml</File>
+    <File md5="B0E3EF8EB63A8C330FC74EBB85DA69A3" import="0">Core/LynnWinn_Susquehannock_ModSupport.sql</File>
+    <File md5="53D11470442BD623D51585E3C479CE04" import="0">LUA/SusquehannockFunctions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/LynnWinn_Susquehannock_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/LynnWinn_Susquehannock_DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Core/LynnWinn_Susquehannock_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/LynnWinn_Susquehannock_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/LynnWinn_Susquehannock_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/SusquehannockFunctions.lua">
+      <Name>SusFunction</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

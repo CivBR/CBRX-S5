@@ -1,0 +1,30 @@
+===========================================================================
+== Credits
+===========================================================================
+-- JakeWalrusWhale
+----------------
+Code
+Art (UU and UB Icons, Map, Unit Alpha, Unit Action)
+Text
+Design
+Research
+
+----------------
+-- Grant
+----------------
+ Art (Leaderscene and Leader Icon)
+
+----------------
+-- DarthKyofu
+----------------
+Art (Civ Icon)
+
+----------------
+-- "Ballades Seychellois En Sax" by Jean Quatre
+----------------
+Audio (Peace)
+
+----------------
+-- "Koste Seselwa" (Seychelles National Anthem) by David André and Georges Payet
+----------------
+Audio (War)

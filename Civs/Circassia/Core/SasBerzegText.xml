@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/30/2025 10:40:42 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_SAS_CIRCASSIAN_ANNEXER_STRATEGY">
+			<Text>Circassian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_CIRCASSIAN_ANNEXER_HELP">
+			<Text>Circassian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_CIRCASSIAN_ANNEXER_TEXT">
+			<Text>Circassian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_BERZEG_ADJECTIVE">
+			<Text>Circassian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_BERZEG_DESC">
+			<Text>Circassian Confederation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DAWN_SAS_BERZEG_TEXT">
+			<Text>Blessings be upon you, oh Hajji Thamade Ismail Berzeg. The Circassian Washington, you fought many times the Russians during their genocidal campaign against your people. It was you that declared the military confederation of the Circassian tribes in 1827, uniting most of Circassia by 1839 in order to provide a front against the invading force. You were born in the same year as the Russian invasion into your lands, and even as you grew old into your 80s, you were still leading the fight, taking Lazarevskoe, Velyaminovskoe and Mikhailovskoe on the Vulan River.[NEWLINE][NEWLINE]Oh brave Ismail Berzeg, your cause was not a successful one. Up to 3,500,000 Circassians were either killed or forcibly expelled to distant by the Russian Empire. Today is the day you can right those wrongs. Stand up for your people, put them on your backs and carry their worries. It will be a long struggle, and your belief may waver, but you must stand strong in the face of overwhelming force, and get back up again. Can you defeat the imperialists wishing to eliminate you and your people? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_BERZEG_SHORT_DESC">
+			<Text>Circassia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_BERZEG_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_BERZEG_TEXT_1">
+			<Text>Circassia, also known as Zichia, was a country and a historical region in Eastern Europe. It spanned the western coastal portions of the North Caucasus, along the northeastern shore of the Black Sea. Circassia was conquered by the Russian Empire during the Russo-Circassian War (1763–1864), after which approximately 99.5–99.8% of the Circassian people were either exiled or massacred in the Circassian Genocide. </Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_SAS_BERZEG">
+			<Text>Ismail Berzeg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_BERZEG_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_BERZEG_TEXT_1">
+			<Text>Ismail Dogomuqo Berzeg was a Circassian military commander and politician who served as the 2nd leader of the Circassian Confederation from 1827 to 1839. He was also the princely leader of the Ubykh tribe and member of House of Berzeg. He took part in both military and political capacity in the Russo-Circassian War, and acted as a diplomat Circassia and England from 1838.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_BERZEG_HEADING_2">
+			<Text>Commander of the Ubykhs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_BERZEG_TEXT_2">
+			<Text>Berzeg was born in 1763 in Ubykhia. English agent and traveler James Bell noted that each Berzeg family member could send 150 men to the battlefield, a combined 3,000 warriors. Saad-Girey Berzeg, Ismail's predecessor, was the Ubykh leader at the beginning of the 19th century. In 1823, after Saad-Girey's death, Ismail was elected leader of the Berzeg clan and the commander of all Ubykhs. Ismail lived in the valley of the Sochi River, on its right bank, two hours from the sea. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_BERZEG_HEADING_3">
+			<Text>Circassian Washington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_BERZEG_TEXT_3">
+			<Text>Beginning in 1827, Ismail engaged in organizing a military confederation of the tribes living on the Black Sea coast, officially declaring the military confederation of the Circassian tribes. By the end of 1839, he had united the population between Tuapse and Gagra into a union, declaring Bighuqal as their new capital. During this period Bell characterized him as, "Circassian Washington". At an old age, in 1835, during the assault on Gagra, Berzeg was seriously wounded. In 1836 he commanded the Ubykh detachment during another raid. In the war, Hajji Ismail lost all nine of his sons. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_BERZEG_HEADING_4">
+			<Text>Fighting Russia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_BERZEG_TEXT_4">
+			<Text>In 1840, Berzeg organized an attack on Russian coastal outposts. In February-March, the Ubykhs stormed the fortresses of Lazarevskoe, Velyaminovskoe and Mikhailovskoe on the Vulan River. Attempts were made to occupy Adler, Golovinskoe and Navaginskoe forts. Russian troops made great efforts to recapture these strongholds. Later that year, Berzeg organized a punitive campaign against the Abaza clans on the coast, who did not take part in the anti-Russian struggle.[NEWLINE][NEWLINE]In 1841, he participated in negotiations with Russian military leaders in Sochi, but the negotiations failed. Russian leaders stated that the Circassians were "poor villagers waiting for help from the English". Recorded in the memoirs of an attending Russian officer, Berzeg's response was quoted: "I must say, General, your statements truly astound me. If your master, the Tsar, is so wealthy, and we are so poor and barbaric, why does your master envy us and forbid us from living in our humble mountains? Your lord appears to be greedy and lustful. I'm afraid, sir, we won't be surrendering the Englishmen and Turkish pashas in our lands; we can not abandon them because they are our friends and visitors. No amount of gold or silver, I swear to God, will be able to deviate us from the path of honor."[NEWLINE][NEWLINE]In 1846, Berzeg, together with his nephew Qerandiqo Berzeg, fought many battles with the Russian armies before leaving for Hajj. He died that year returning home. Hawduqo Mansur was declared the new leader of the Circassian Confederation. He kept this title until his death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_BERZEG_LIVED">
+			<Text>1763 - 1846 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_BERZEG_NAME">
+			<Text>Ismail Dogomuqo Berzeg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_BERZEG_SUBTITLE">
+			<Text>Leader of Circassia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_BERZEG_TITLES_1">
+			<Text>Thamade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_BERZEG_TITLES_2">
+			<Text>Hajji</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_SAS_BERZEG_SHORT">
+			<Text>The Path Of Honor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SAS_BERZEG">
+			<Text>Religious Units, and any Units starting their turn stacked with one, move faster through Hills and may cross Mountains. While at War, Religious Units may be expended to annex City-States and their units outright.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAS_CIRCASSIA_BUTTON_TOOLTIP">
+			<Text>[COLOR_POSITIVE_TEXT]Incorporate City-State[ENDCOLOR]</Text>
+		</Row>
+		<!--Kilosh-->
+		<Row Tag="TXT_KEY_UNIT_SAS_DZHIGIT">
+			<Text>Dzhigit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_DZHIGIT_HELP">
+			<Text>Unique Cavalry for Circassia. Performs a Ranged Attack before entering melee combat, and gains [ICON_PEACE] Faith from kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_DZHIGIT_STRATEGY">
+			<Text>Unique Cavalry for Circassia. Performs a Ranged Attack before entering melee combat, and gains [ICON_PEACE] Faith from kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SAS_DZHIGIT_TEXT">
+			<Text>Dzhigit (also spelled jigit, yigit, zhigit or igid) is a is a word used in the North Caucasus and Central Asia to describe a skillful and brave equestrian, or a brave person in general. The word is of Turkic origin. The derived term 'dzhigitovka' (or jigiting) means the special style of trick riding that originated in those Caucasian and Central Asian cultures, also made famous by the Cossacks, who adopted it from the Circassians. When performing dzhigitovka, the riders at full gallop stand up, jump to the ground and back to the saddle, pick up objects from the ground (such as coins, hats, etc.), shoot targets with various weapons, ride hanging on the side or under the belly of the horse and do other acrobatic feats. Since the early 19th century dzhigitovka has been demonstrated in circuses and horse sport competitions, and made its way to popular Western culture, for instance, "Cossacks" (who were actually Georgian horsemen from the western part of Georgia, Guria) performed it as part of Buffalo Bill's Wild West Show. During the Russo-Circassian war, cavalry and other mounted units formed a vital part of the Circassian armies. For instance, Kizbech Tughuzhuqo, a Shapsug commander, also known as the "Lion of Circassia", wrought havok upon Russian forces with his persistent cavalry raids behind enemy lines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_CIRCASSIANLION">
+			<Text>Circassian Lion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_CIRCASSIANLION_HELP">
+			<Text>Fires a ranged attack before entering melee combat. Gains [ICON_PEACE] Faith from kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_CIRCASSIA_MOVEMENT">
+			<Text>Mountaineer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_CIRCASSIA_MOVEMENT_HELP">
+			<Text>Moves at double speed through Hills. May cross Mountains.</Text>
+		</Row>
+		<!--Kiva-->
+		<Row Tag="TXT_KEY_BUILDING_SAS_AUL">
+			<Text>Aul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_AUL_PEDIA">
+			<Text>Auls were fortified villages and towns found throughout the Caucasus and Central Asia. During the invasion of Circassia, as part of the greater Russian thrust to conquer the Caucasus, auls provided a significant defensive position, as they were very formidable defences and could be taken for the most part only by storming. They are generally built out of stone, on faces of ridges or against cliffs in order to provide protection against surprise attacks. Houses are usually two stories high, and they are staggered to make it virtually impossible for enemies to get anywhere on the roads. The houses usually have a southern aspect to take advantage of the sun in the winter and to be sheltered from the northern winds. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_AUL_HELP">
+			<Text>Unique Walls for Circassia. Yields +1 [ICON_PEACE] Faith per 10 [ICON_STRENGTH] City Strength. In addition to the normal City Strength and City HP provided by Walls, provides +1 [ICON_STRENGTH] Strength and +10 HP per Mountain owned by the City, doubled if directly adjacent to the City. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_CIRCASSIA_FAITH">
+			<Text>Circassia Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_CIRCASSIA_CITY_HP">
+			<Text>Circassia Strength</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_BERZEG_9">
+			<Text>Aytech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_BERZEG_8">
+			<Text>Qerandiqo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_BERZEG_7">
+			<Text>Saad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_BERZEG_6">
+			<Text>Hawduqo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_BERZEG_5">
+			<Text>Shuwpagwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_BERZEG_4">
+			<Text>Seferbiy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_BERZEG_3">
+			<Text>Muhammad-Amin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_BERZEG_2">
+			<Text>Kizbech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_BERZEG_1">
+			<Text>Sherelh'yqo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_BERZEG_0">
+			<Text>Jembulat</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_1">
+			<Text>Shache</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_2">
+			<Text>Bygurqal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_3">
+			<Text>Sudzhuk-Kale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_4">
+			<Text>Khadzhokh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_5">
+			<Text>Tuapse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_6">
+			<Text>Tsemez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_7">
+			<Text>Bzhedyguqale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_8">
+			<Text>Qbaada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_9">
+			<Text>Ubin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_10">
+			<Text>Khetuekheble</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_11">
+			<Text>Shetqale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_12">
+			<Text>Lebap</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_13">
+			<Text>Temryquay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_14">
+			<Text>Bylym</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_15">
+			<Text>Chetyun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_16">
+			<Text>Psyfab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_17">
+			<Text>Khulzhiy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_18">
+			<Text>Tram</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_19">
+			<Text>Shytkhele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_20">
+			<Text>Khydyzhi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_21">
+			<Text>Psykhuabe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_22">
+			<Text>Nartsane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_23">
+			<Text>Gumqale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_24">
+			<Text>Qaleklkh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_25">
+			<Text>Terchkale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_26">
+			<Text>Gagra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_27">
+			<Text>Burgusan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_28">
+			<Text>Tatartup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_29">
+			<Text>Sabl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_BERZEG_30">
+			<Text>Subashi</Text>
+		</Row>
+		<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_SAS_BERZEG_FIRSTGREETING_1">
+			<Text>Welcome, traveler, to the lands of the Circassian people. You are an honored guest, and so long as you come in peace, I swear to you on my honor that you will be safe and cared for during your stay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAS_BERZEG_DEFEATED_1">
+			<Text>Circassia's sons will never be tamed by the greedy and lustful.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

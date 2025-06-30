@@ -1,0 +1,124 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_CL_SHAKES">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_SHAKES_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CL_SHAKES">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_SHAKES_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CL_SHAKES">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_SHAKES_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CL_SHAKES">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_SHAKES_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CL_SHAKES">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_SHAKES_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CL_SHAKES">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_SHAKES_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CL_SHAKES">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_SHAKES_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CL_SHAKES">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_SHAKES_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CL_SHAKES">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_SHAKES_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CL_SHAKES">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_SHAKES_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CL_SHAKES">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_SHAKES_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CL_SHAKES">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_SHAKES_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_CL_SHAKES">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_SHAKES_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_CL_SHAKES">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_SHAKES_ATTACKED_HOSTILE</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_FIRSTGREETING_1">
+			<Text>Good day. You stand before Sheiyksh, the Chief of the Tlingit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_FIRSTGREETING_2">
+			<Text>How did you come to be here? I am Sheiyksh, who leads the Ravens and Eagles, the People of the Tides.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_DEFEATED_1">
+			<Text>Fine, take my hat. That's all you wanted, right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_POLITE_HELLO_1">
+			<Text>Good to see you, friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_POLITE_HELLO_2">
+			<Text>Excellent. You're just it time. I was on the verge of getting bored.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_POLITE_HELLO_3">
+			<Text>Oh, good! Someone to talk to. I was in the mood for a challenge of wits... assuming, of course, you're up to the challenge.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_NEUTRAL_HELLO_1">
+			<Text>Oh, hey. Want to go fishing?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_NEUTRAL_HELLO_2">
+			<Text>I'm good. You?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_NEUTRAL_HELLO_3">
+			<Text>It is good to see you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_HOSTILE_HELLO_1">
+			<Text>Oh, hey! I was just trying to figure out if your hat would fit on my head. It's so convenient that you've come to give it to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_HOSTILE_HELLO_2">
+			<Text>Welcome back to the lands of the Tlingit. You would do well to come live here. As a slave, of course.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_HOSTILE_HELLO_3">
+			<Text>You know, now that you're here I don't even want breakfast anymore. You should be ashamed of being such an eyesore.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>If I didn't know better, I'd say you wanted to try taking my hat. On my own land. Pity you can't possibly win such a fight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_EXPANSION_SERIOUS_WARNING">
+			<Text>Nice land around here, right? I see you really want to take a lot of it. Which is alright. I think. Except if it's land that us Tlingit want. Or coasts. You really shouldn't take the coastlands. People who take the coasts from the Tlingit often end up hurt. Or slaves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_REQUEST">
+			<Text>We don't have enough of this. Can you help?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_LUXURY_TRADE">
+			<Text>You know, I was just thinking about how nice this would be in my hut. What do you think? Does it go with my hat?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_OPEN_BORDERS_EXCHANGE">
+			<Text>You know what would be great? If we could go for walks and go hunting and fishing and pick berries without worrying that we might have crossed an invisible colored line and caused a war. Sound good?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_ATTACKED_BETRAYED">
+			<Text>What, you think you can take my hat? Mark my words, you will regret this mistake every day as you carry my water.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_ATTACKED_EXCITED">
+			<Text>Finally, you will carry my water and I will take your name and take your hat and it will be glorious and go down as a favorite story for firelight and a song for women to sing!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_SHAKES_ATTACKED_HOSTILE">
+			<Text>Oh, you think to make us your slaves, to slay our warriors and force us to carry your water? Today, you will beg to carry my water!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

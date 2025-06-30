@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--GAZEBO COMMUNITY BALANCE PATCH-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_KOBSTAD_HELP_CBO">
+			<Text>+1 [ICON_GOLD] Gold from Trading Posts and Customs Houses. [ICON_INTERNATIONAL_TRADE] Trade Routes to this City generate +1 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Nearby [ICON_RES_SPICES] Spices: +1 [ICON_FOOD] Food, +1 [ICON_PRODUCTION] Production.[NEWLINE]Nearby [ICON_RES_SUGAR] Sugar: +1 [ICON_FOOD] Food, +1 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<!--JFD PROVINCES-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_KOBSTAD_HELP_PROVINCES">
+			<Text>+1 [ICON_GOLD] Gold on Trading Posts, Towns, Villages, and Customs Houses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KOBSTAD_STRATEGY_PROVINCES">
+			<Text>The Kobstad is the unique Kalmar Union Market. It increases the amount of [ICON_GOLD] Gold a city generates, especially when working a Trading Posts, Towns, Villages, or Customs Houses. Trade routes other players make to a city with a Kobstad will generate an extra 1 [ICON_GOLD] Gold for the city owner and the trade route owner gains an additional 1 [ICON_GOLD] Gold for the trade route.</Text>
+		</Row>
+		<!--JFD SOVEREIGNTY-->
+		<!--Government-->
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_JFD_KALMAR_UNION">
+			<Text>Danehof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION">
+			<Text>Grand Chancellor</Text>
+		</Row>
+		<!--Heads of Govt.-->
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_1">
+			<Text>Conrad von Reventlow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_2">
+			<Text>Christian Christophersen Sehested</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_3">
+			<Text>Ulrik Adolf Holstein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_4">
+			<Text>Iver Rosenkrantz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_5">
+			<Text>Johan Ludvig Holstein-Ledreborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_6">
+			<Text>Johann Hartwig Ernst von Bernstorff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_7">
+			<Text>Ove Høegh-Guldberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_8">
+			<Text>Andreas Peter Bernstorff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_9">
+			<Text>Christian Günther von Bernstorff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_10">
+			<Text>Frederik Moltke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_11">
+			<Text>Joachim Godske Moltke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_12">
+			<Text>Fredrik Julius Kaas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_13">
+			<Text>Joachim Godske Moltke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_14">
+			<Text>Ernst Heinrich von Schimmelmann</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_15">
+			<Text>Otto Joachim Moltke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_16">
+			<Text>Poul Christian Stemann</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_17">
+			<Text>Adam Wilhelm Moltke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_18">
+			<Text>Christian Albrecht Bluhme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_19">
+			<Text>Anders Sandøe Ørsted</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_20">
+			<Text>Peter Georg Bang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_21">
+			<Text>Peter Georg Bang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_22">
+			<Text>Carl Christoffer Georg Andræ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_23">
+			<Text>Carl Christian Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_24">
+			<Text>Carl Edvard Rotwitt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_KALMAR_UNION_25">
+			<Text>Carl Christian Hall</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_GOVERNMENT_JFD_KALMAR_UNION">
+			<Text>{1_CivDesc}</Text>
+		</Row>
+		<!--SUKRITACT DECISIONS-->
+		<!--Issue Market Rights-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_KALMAR_UNION_MARKET_RIGHTS">
+			<Text>Issue Market Rights</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_KALMAR_UNION_MARKET_RIGHTS_DESC">
+			<Text>
+				It would be a great boon to not only our wealth, but also to our friendships, to extend those rights accorded to Danish merchants to those that flock to our towns with foreign goods to trade.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be the Kalmar Union.
+				[NEWLINE][ICON_BULLET]Must have at least one allied City-State.
+				[ICON_BULLET]May only be enacted from the beginning of the Medieval Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Gifts of [ICON_GOLD] Gold yield 20% more [ICON_INFLUENCE] Influence with City-States.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_KALMAR_UNION_MARKET_RIGHTS_DESC_CLAIMS">
+			<Text>
+				It would be a great boon to not only our wealth, but also to our friendships, to extend those rights accorded to Danish merchants to those that flock to our towns with foreign goods to trade.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be the Kalmar Union.
+				[NEWLINE][ICON_BULLET]Must have at least one allied City-State.
+				[ICON_BULLET]May only be enacted from the beginning of the Medieval Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE][ICON_BULLET]1 [ICON_JFD_DIGNITARY] Dignitaries.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Gifts of [ICON_GOLD] Gold yield 20% more [ICON_INFLUENCE] Influence with City-States.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_KALMAR_UNION_MARKET_RIGHTS_ENACTED_DESC">
+			<Text>
+				It would be a great boon to not only our wealth, but also to our friendships, to extend those rights accorded to Danish merchants to those that flock to our towns with foreign goods to trade.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Gifts of [ICON_GOLD] Gold yield 20% more [ICON_INFLUENCE] Influence with City-States.
+			</Text>
+		</Row>
+		<!--Dispatch a Magnate-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_KALMAR_UNION_MAGNATE">
+			<Text>Dispatch a Magnate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_KALMAR_UNION_MAGNATE_DESC">
+			<Text>
+				The noble lords of our privy council have little to do all day than to question our authority. So, let us send them on a diplomatic mission and perhaps they will finally be of some use to the realm.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be the Kalmar Union.
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per era.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET]2 {2_Resource}
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Receive a free Magnate, a unit that can be sent to a City-State to generate [ICON_INFLUENCE] Influence. It ignores borders.
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: The [ICON_CULTURE] Culture cost increases with era.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_KALMAR_UNION_MAGNATE_ENACTED_DESC">
+			<Text>
+				The noble lords of our privy council have little to do all day than to question our authority. So, let us send them on a diplomatic mission and perhaps they will finally be of some use to the realm.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Receive a free Magnate, a unit that can be sent to a City-State to generate [ICON_INFLUENCE] Influence. It ignores borders.
+			</Text>
+		</Row>
+		<!--MAGNATE-->
+		<Row Tag="TXT_KEY_UNIT_DECISIONS_JFD_MAGNATE">
+			<Text>Magnate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DECISIONS_JFD_MAGNATE_STRATEGY">
+			<Text>The Magnate is a unique unit only available via the 'Dispatch a Magnate' decision, unique to the Kalmar Union. It can be sent to a City-State to conduct a Diplomatic Mission in order to generate [ICON_INFLUENCE] Influence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_MAGNATE_TEXT">
+			<Text>A Magnate, from the Latin magnas, meaning a great man, designates a noble or other man in a high social position, by birth, wealth or other qualities. In reference to the Middle Ages, the term is often used to distinguish higher territorial landowners and warlords such as counts, earls, dukes, and territorial-princes from the baronage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_JFD_MAGNATE">
+			<Text>Diplomatic Mission</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_JFD_MAGNATE_HELP">
+			<Text>+100% [ICON_INFLUENCE] Influence and -100% [ICON_GOLD] Gold from a Diplomatic Mission with a City-State.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

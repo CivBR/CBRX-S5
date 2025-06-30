@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8b79dbdd-8810-4faf-93db-5217583f0e56" version="1">
+  <Properties>
+    <Name>[BNW] Sas's Kingdom of The Aures - Dihya</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>This mod adds the Kingdom of The Aures to the game, under legendary Berber soothsayer, Queen Dihya!</Teaser>
+    <Description>This mod adds the Kingdom of The Aures to the game, under legendary Berber soothsayer, Queen Dihya!</Description>
+    <Authors>Sasquatch (AKA Kramer), JFD</Authors>
+    <SpecialThanks>Arilasqueto</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="1b456011-7882-4f02-8184-5421e6a2b3fb" minversion="0" maxversion="999" title="Egyptian Denominations" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="073E19D39E62DA89B3F7DD2AE7503A12" import="1">Art/Atlases/Alpha/SasAuresAlpha_128.dds</File>
+    <File md5="3292E6488A0BE9F4A99FBFDDF4CA783F" import="1">Art/Atlases/Alpha/SasAuresAlpha_16.dds</File>
+    <File md5="F79DB9F267C4CD9640CF5C780A51343C" import="1">Art/Atlases/Alpha/SasAuresAlpha_24.dds</File>
+    <File md5="DB1B5E6B0B38D65F576AE8482EEEADF3" import="1">Art/Atlases/Alpha/SasAuresAlpha_32.dds</File>
+    <File md5="6735102B866D7161F40A226B12572079" import="1">Art/Atlases/Alpha/SasAuresAlpha_45.dds</File>
+    <File md5="533920DA60C0A116155786626DE79302" import="1">Art/Atlases/Alpha/SasAuresAlpha_48.dds</File>
+    <File md5="F143FF8530FCC83505F55BC591639359" import="1">Art/Atlases/Alpha/SasAuresAlpha_64.dds</File>
+    <File md5="0425D40C03430AE2A9D376C2D6911EE1" import="1">Art/Atlases/Alpha/SasAuresAlpha_80.dds</File>
+    <File md5="740D8014FFF0E4B2A3D32FEE34CC9B34" import="1">Art/Atlases/SasAuresIcons128.dds</File>
+    <File md5="C6F8FF047426F6AABE2FC0FFD2904875" import="1">Art/Atlases/SasAuresIcons256.dds</File>
+    <File md5="9F2F21BC272856C6B5E3EC172B9FA242" import="1">Art/Atlases/SasAuresIcons32.dds</File>
+    <File md5="FDFC7EFEE461EEA8F6319B72CC9207C6" import="1">Art/Atlases/SasAuresIcons45.dds</File>
+    <File md5="F9A22BCBEA2AF681822AF9D2E0B24A40" import="1">Art/Atlases/SasAuresIcons64.dds</File>
+    <File md5="B7B0949801691EE42D96416998871572" import="1">Art/Atlases/SasAuresIcons80.dds</File>
+    <File md5="8CBE163C64564D47BA8517598074B971" import="1">Art/Models/BrownHorse.dds</File>
+    <File md5="52EB6ED26165F131D245CAFECA629A9B" import="1">Art/Models/BrownHorse_sref.dds</File>
+    <File md5="D1C25B1ECA9A32BFCEC57283C05032CD" import="1">Art/Models/ZenataHorseman.br2</File>
+    <File md5="CB786E64D9B657A43CBAD1A98E2D5F39" import="1">Art/Models/ZenataHorseman.dds</File>
+    <File md5="C5803B5B2D3E6F23F5DA156669586806" import="1">Art/Models/ZenataHorseman.fxsxml</File>
+    <File md5="1DE30D16301DE3461B6B94836C186EF2" import="1">Art/Models/ZenataHorseman.gr2</File>
+    <File md5="5A701EC9F2BFBDB54F59445C059B8435" import="1">Art/Models/ZenataHorseman_sref.dds</File>
+    <File md5="9EBEEDFDE1C5792A1932DB1556D98ABC" import="1">Art/SasAures412.dds</File>
+    <File md5="AE4577A53971990FF7F9A43E8D0EAA11" import="1">Art/SasZenataHorsemanFlag.dds</File>
+    <File md5="BDD79D8D030631CC173524DD9B9F2D1E" import="1">Art/Sas_Dihya_DOM.dds</File>
+    <File md5="9EEA2B6756AFBD62CD5B2ED46CC01B52" import="1">Art/Sas_Dihya_Scene.dds</File>
+    <File md5="4793C00E7A6C2B8D26A874A0FB2B269A" import="1">Art/SV_SasZenataHorseman.dds</File>
+    <File md5="D1740C4655AD03D91815ED897BEF443E" import="0">Core/AuresArtDefs.sql</File>
+    <File md5="C76E7E7A42CDBE03701F694B3D065004" import="0">Core/AuresCore.sql</File>
+    <File md5="B55F91B203B2E37D4E7BCF247E865647" import="0">Core/AuresModSupport.sql</File>
+    <File md5="66824EF5B4692678B775DC26DB73489C" import="0">Core/AuresText.xml</File>
+    <File md5="D6565C8D4237C9E88C0A0DDD89EDCC53" import="0">Core/Sas_Aures_Dummies.sql</File>
+    <File md5="2E8A1E3BD68C35A4E2664F88CC38C32C" import="1">Core/Sas_Dihya_Scene.xml</File>
+    <File md5="72E24C04BE3B9DBB70BE35B88BEE2054" import="1">Lua/PlotIterators.lua</File>
+    <File md5="6330641DF4CF9050FED29B7580CC704A" import="0">Lua/Sas_Aures_Functions.lua</File>
+    <File md5="904CB5E74318BC59DF696A32841F37A7" import="1">Sound/Sas_Dihya_Peace.mp3</File>
+    <File md5="1A549B0218F7B6753DA082285F81C2CB" import="1">Sound/Sas_Dihya_War.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/AuresArtDefs.sql</UpdateDatabase>
+      <UpdateDatabase>Core/AuresCore.sql</UpdateDatabase>
+      <UpdateDatabase>Core/AuresModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/AuresText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sas_Dihya_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sas_Aures_Dummies.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sas_Aures_Functions.lua">
+      <Name>Sas Aures Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

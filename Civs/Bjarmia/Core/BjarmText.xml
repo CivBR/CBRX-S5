@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/15/2022 4:59:42 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_1">
+			<Text>Vina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_2">
+			<Text>Gandvik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_3">
+			<Text>Vinuskógr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_4">
+			<Text>Myrkviskógur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_5">
+			<Text>Glasisvellir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_6">
+			<Text>Koloperem'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_7">
+			<Text>Wegestaf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_8">
+			<Text>Malangen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_9">
+			<Text>Belomorje</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_10">
+			<Text>Uiku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_11">
+			<Text>Varzuga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_12">
+			<Text>Välijoki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_13">
+			<Text>Umpi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_14">
+			<Text>Kemi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_15">
+			<Text>Siti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_16">
+			<Text>Waka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_17">
+			<Text>Keno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_18">
+			<Text>Vuonto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_19">
+			<Text>Ukta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_20">
+			<Text>Juka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHO_BJARMIA_21">
+			<Text>Lop'</Text>
+		</Row>
+
+
+
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_BJARMIA_0">
+			<Text>Gusi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_BJARMIA_1">
+			<Text>Egther</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_BJARMIA_2">
+			<Text>Siggeir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_BJARMIA_3">
+			<Text>Hóketill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_BJARMIA_4">
+			<Text>Rondolfr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_BJARMIA_5">
+			<Text>Edda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_BJARMIA_6">
+			<Text>Edny</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_BJARMIA_7">
+			<Text>Ljufvinu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_BJARMIA_8">
+			<Text>Kolfrosta</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RHO_BJARMIA_9">
+			<Text>Thora</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<!--Basic Info-->
+		<Row Tag="TXT_KEY_LEADER_RHO_HAREKR">
+			<Text>Hárekr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_RHO_BJARMIA_ADJ">
+			<Text>Bjarmian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_RHO_BJARMIA">
+			<Text>Bjarmia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_RHO_BJARMIA_SHORT">
+			<Text>Bjarmia</Text>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="TXT_KEY_PEDIA_RHO_BJARMIA_HEADING_1">
+			<Text>Bjarmaland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_BJARMIA_TEXT_1">
+			<Text>Bjarmaland (also Biarmaland, Biarmia, Byarmia, Bjarmia) and its inhabitants (Bjarmar, Beormas, Biarmar) are known to us through c. 30 medieval written sources, most of them written in Norse, a few in Latin and one in Anglo-Saxon. The majority of the texts were written during the 13th century, but the stories they relate may nevertheless be of earlier date. The Kings’ Sagas in particular often refer to 10th century events. Oldest of the sources is the so-called Ohthere’s account, a 9th century Anglo-Saxon text relating a voyage to Bjarmaland. The rest of the sources are of NorseIcelandic origin including a number of konungasögur, a few chronicles and íslendingasögur, some texts of geographical nature, a couple of þáttr, and a number of fornaldarsögur as well as six annals. Additionally Haralds saga gráfeldar contains a few skaldic verses. Written sources locate Bjarmaland to the White Sea. The words Terfinna land connect the location with the Kola Peninsula and the environs of the Varzuga River whereas the name Gandvík guides our interest towards the Kantalahti Bay of the White Sea. The name ‘Vína’ tends to be connected with either the Northern Dvina River or Viena Karelia. Written sources portray the Bjarmians as permanently settled group of Baltic Fennic speaking people that lived in the north of Europe since the Viking Age (first mentioned in writing in the 9th century) until the early Middle Ages (mid-13th century). Involvement in the international fur trade is implied and continuous contacts with Norwegians with both looting and trade as integral part of interaction are present in the descriptions. The Bjarmians cannot be connected ethnically with any existing group of people but must be considered as a group of their own. The origin of the specific ethnic identity most likely lies in economic interaction (trade with furs and possibly other items) with neighbouring areas. Since the 12th-13th centuries Karelian and Russian settlers moved to the northern areas and many political and economic changes occurred in Northern Fennoscandia and Russia, all of which would have contributed to a change that left the Bjarmians out of written sources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_BJARMIA_HEADING_2">
+			<Text>This Depiction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RHO_BJARMIA_TEXT_2">
+			<Text>This mod chooses to identify the Bjarmians with a group of people on the lower Kola peninsula who have since been subsumed by Karelian identity. The Vina river is identified with the Umba. The modern popular placement of Bjarmaland in the Northern Dvina area does not stand up to scrutiny, in my opinion - being mostly reliant on relating the words Vina and Dvina, and Bjarmia with Perm'.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HAREKR_PEDIA_NAME">
+			<Text>Hárekr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HAREKR_PEDIA_SUBTITLE">
+			<Text>Leader of Bjarmia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HAREKR_PEDIA_TITLES_1">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HAREKR_PEDIA_LIVED">
+			<Text>perhaps ~9th century</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HAREKR_PEDIA_HEADING_1">
+			<Text>Story</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HAREKR_PEDIA_TEXT_1">
+			<Text>Hárekr is named as a king of Bjarmaland in three sagas - Bosa saga, Orvar-Odds saga, and Halfdanar saga Eysteinssonar. The name is Norse, and indicative of either a vaguely remembered Bjarmian leader who went by a norse byname, or of a character entirely fictional. In one saga, in order to avenge a norse attack on his country, he has a child with an 'ogress', who learns magic with the Ter Sami, and goes on to slay a viking. In another, Hárekr is at war with a Karelian king, and enlists the help of some shady norsemen - though how much help they were is of debate, seeing as he magically turns into a dragon when he's on the back foot. Unfortunately, he is then slain in dragon-form by another errant Norseman fighting for the Karelians. In the third, he serves as a villain, kidnapping a neighbouring princess to serve as the chief priestess in Jomali's temple. Predictably, she is rescued (and the temple looted and burned down) by some Norsemen, who then also kidnap Harekr's daughter. Hárekr, of course, sets out with an army for vengeance. Once again, he is impervious to normal weapons with his transformation into a dragon, and in this case then also transforms into a colossal boar, before still being slain nevertheless.</Text>
+		</Row>
+
+		<!--Gameplay-->
+		<Row Tag="TXT_KEY_CIV5_DAWN_RHO_BJARMIA_TEXT">
+			<Text>Oh, Hárekr, how they sing of you! To the rest of the faraway world, your people were the mysterious Beormas, spoken of in sagas and whispers, a strange people with alien rites and treasures desperate to be traded and plundered - but to you, they were your family. O dragon-king, even your own land has faded from memory, the Bjarmian language stifled from any of the lips who might have spoken it. Boots from the south have crushed your remains, the grand markets, temples, riverways and forest roads lost to time. [NEWLINE][NEWLINE]But you will not disappear forever! The people are thronging beneath the thin veil of history, crying out to be a mystery no more. Can you drive out the plunderers who violate your shores? Can you take your place in the world just as you did before? Can you build a civilization to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RHO_SEA_OF_SERPENTS_SHORT">
+			<Text>Light Beyond the Sea of Serpents</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RHO_SEA_OF_SERPENTS">
+			<Text>
+				Luxury Resources on Snow or Tundra fill [ICON_FOOD] Food equal to their [ICON_GOLD] Gold Yield when worked. Upon entering a [ICON_GOLDEN_AGE] Golden Age, up to three sources of [ICON_RES_FUR] Furs may spawn, based on the number of your trade partners.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_ASHSLAYER">
+			<Text>Ashen Slayer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_ASHSLAYER_HELP">
+			<Text>Replaces the Composite Bowman. Yields Golden Age Points from kills. Gains +1 Range whenever an enemy naval or civilian unit dies adjacent to it (up to +3).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_ASHSLAYER_STRATEGY">
+			<Text>Replaces the Composite Bowman. Yields Golden Age Points from kills. Gains +1 Range whenever an enemy naval or civilian unit dies adjacent to it (up to +3).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RHO_ASHSLAYER_TEXT">
+			<Text>The bow seems to have been the Bjarmian weapon of choice, enraged Beormas often said to be firing arrows after looters as they ran to the shore and sailed away. In particular, one Norse looter tries to use some magic ash which confers invisibility on him, but it seemed the magic of the Bjarmians was just as good, as the arrow-wielding guards of Jomali's temple can pierce his veil regardless (although not kill him).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_JOMALI">
+			<Text>Jómali Temple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_JOMALI_HELP">
+			<Text>Unique replacement for the Temple. Half of this city's Gold output contributes to building Defensive buildings, and those buildings provide +2 Golden Age Points. Enemies receive doubled gold plunder upon capturing this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_JOMALI_STRATEGY">
+			<Text>Unique replacement for the Temple. Half of this city's Gold output contributes to building Defensive buildings, and those buildings provide +2 Golden Age Points. Enemies receive doubled gold plunder upon capturing this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RHO_JOMALI_TEXT">
+			<Text>Religious complexes filled with loot are a frequent sight in sagas. The design is consistent - a burial mound filled with silver and jewellery, with a statue of the god Jomali next to it, often itself holding a bowl with more valuable offerings. These are both surrounded by a high and deadly palisade wall, doors locked and guarded.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_ASHSLAYERA">
+			<Text>Undeterred by Sorcery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_ASHSLAYERA_HELP">
+			<Text>+1 Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_ASHSLAYERB">
+			<Text>Veil Piercer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_ASHSLAYERB_HELP">
+			<Text>+2 Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_ASHSLAYERC">
+			<Text>Bane of Conquerers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RHO_ASHSLAYERC_HELP">
+			<Text>+3 Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ASHSLAYERA">
+			<Text>+3 Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ASHSLAYERB">
+			<Text>+3 Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ASHSLAYERC">
+			<Text>+3 Range</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_RHO_HAREKR_FIRSTGREETING_1">
+			<Text>More boats come to my fair kingdom! You're welcome to trade here, stranger - just keep your hands off our sacred treasures.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HAREKR_DEFEATED_1">
+			<Text>Even if you kill me, the name of Bjarmaland will live on forever! You hear me!?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HAREKR_DOWGENERIC_1">
+			<Text>Puny foe! I have come, and your armies will shatter before me!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HAREKR_ATTACKEDHOSTILE_1">
+			<Text>Hah! After my treasure, are you? The dark forest will swallow your men and spit out their bones.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HAREKR_DEC_FRIENDSHIP_1">
+			<Text>Let us join hands in friendship. Let our people find sanctuary in each other's lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HAREKR_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Don't think I haven't seen your people creeping ever closer. I'd advise you to remove them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RHO_HAREKR_LUXURYTRADE_1">
+			<Text>Another one after our furs, eh? We do have many other delights too, allow me to show you.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

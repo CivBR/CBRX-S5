@@ -1,0 +1,22 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SENSHI_JINNAH">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_JINNAH_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SENSHI_JINNAH">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_JINNAH_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_SENSHI_JINNAH_FIRSTGREETING_1">
+			<Text>I bid you welcome to Pakistan. God has given us a grand opportunity to show our worth as architects of a State; let it not be said that we will not prove equal to the task.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_JINNAH_DEFEATED_1">
+			<Text>The weak and the defenceless, in this imperfect world, invite aggression from others. I believed there to be no power on earth that could undo Pakistan, though it seems I was tragically mistaken.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

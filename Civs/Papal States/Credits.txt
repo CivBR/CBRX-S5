@@ -1,0 +1,53 @@
+==============================================
+--MAIN CREDITS
+==============================================
+----------------------------------------------
+--JFD:
+  Code; Design; Research; Writing
+----------------------------------------------
+--Arilasqueto: 
+  Art (Leaderscene)
+----------------------------------------------
+--DarthKyofu: 
+  Art (Civ Icon; Map)
+  Research (Cities)
+----------------------------------------------
+--Janboruta: 
+  Art (Unique Icons (Chapel; Swiss Guard))
+----------------------------------------------
+--Zharques: 
+  Pedias (Leader)
+==============================================
+--RESOURCE CREDITS (MODDERS)
+==============================================
+----------------------------------------------
+--Nutty:
+  Graphics (Unique Unit)
+  https://forums.civfanatics.com/resources/swiss-guard-pikeman.18235/
+----------------------------------------------
+--Typhlomence:
+  UniqueDiplomacyUtilsV2.lua
+  https://forums.civfanatics.com/threads/uniquediplomacyutils-a-set-of-lua-functions-to-enable-unique-diplomacy-responses.550294/
+==============================================
+--RESOURCE CREDITS (OTHER)
+==============================================
+----------------------------------------------
+--MUSIC
+----------------------------------------------
+--Andreas Waldetoft: 
+  Veni Vidi Vici from the soundtrack of Crusader Kings III
+  https://www.youtube.com/watch?v=77nll31D1vI&list=OLAK5uy_lNqQ2FL3HhdcXNneQ_YB2mYkfZq39J88Q&index=1
+  The Crusade Starts from the soundtrack of Crusader Kings III
+  https://www.youtube.com/watch?v=vSlhP-Y86bQ&list=OLAK5uy_lNqQ2FL3HhdcXNneQ_YB2mYkfZq39J88Q&index=8
+----------------------------------------------
+--PEDIAS
+----------------------------------------------
+--Britannica.com
+  Papal States
+  https://www.britannica.com/place/Papal-States
+----------------------------------------------
+--World History Encyclopedia
+  Mount Athos
+  https://www.worldhistory.org/Mount_Athos/
+==============================================
+==============================================

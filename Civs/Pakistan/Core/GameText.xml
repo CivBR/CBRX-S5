@@ -1,0 +1,386 @@
+﻿<GameData>
+	<Language_en_US>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_UNIT_CIV5_SENSHI_POLICE_RANGER_TEXT">
+			<Text>Karachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_01">
+			<Text>Karachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_02">
+			<Text>Lahore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_03">
+			<Text>Rawalpindi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_04">
+			<Text>Dhaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_05">
+			<Text>Lyallpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_06">
+			<Text>Peshawar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_07">
+			<Text>Quetta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_08">
+			<Text>Gujranwala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_09">
+			<Text>Multan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_10">
+			<Text>Chittagong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_11">
+			<Text>Hyderabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_12">
+			<Text>Bahawalpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_13">
+			<Text>Khulna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_14">
+			<Text>Sargodha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_15">
+			<Text>Sukkur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_16">
+			<Text>Sialkot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_17">
+			<Text>Sylhet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_18">
+			<Text>Larkana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_19">
+			<Text>Rajshahi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_20">
+			<Text>Rahim Yar Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_21">
+			<Text>Sheikhupura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_22">
+			<Text>Jhang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_23">
+			<Text>Talagang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_24">
+			<Text>Dera Ghazi Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_25">
+			<Text>Barishal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_26">
+			<Text>Gujrat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_27">
+			<Text>Sahiwal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_28">
+			<Text>Mardan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_29">
+			<Text>Rangpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_30">
+			<Text>Nawabshah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_31">
+			<Text>Mirpur Khas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_32">
+			<Text>Mymensingh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_33">
+			<Text>Kasur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_34">
+			<Text>Okara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_35">
+			<Text>Mingora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_36">
+			<Text>Chiniot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_37">
+			<Text>Kohat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_38">
+			<Text>Dera Ismail Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_39">
+			<Text>Turbat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_PAKISTAN_40">
+			<Text>Abbottabad</Text> <!--Abbott a bad Prime Minister, incidentally-->
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_PAKISTAN_0">
+			<Text>Fatima</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_PAKISTAN_1">
+			<Text>Liaquat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_PAKISTAN_2">
+			<Text>Khawaja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_PAKISTAN_3">
+			<Text>Malik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_PAKISTAN_4">
+			<Text>Iskander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_PAKISTAN_5">
+			<Text>Aga Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_PAKISTAN_6">
+			<Text>Shakil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_PAKISTAN_7">
+			<Text>Feroz Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_PAKISTAN_8">
+			<Text>A. K.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_PAKISTAN_9">
+			<Text>A. Q.</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_SENSHI_PAKISTAN_ADJECTIVE">
+			<Text>Pakistani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_PAKISTAN_DESC">
+			<Text>Islamic Republic of Pakistan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_PAKISTAN_SHORT_DESC">
+			<Text>Pakistan</Text>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_SENSHI_PAKISTAN_TEXT">
+			<Text>Stand proudly, oh Muhammad Ali Jinnah, First Governor-General of Pakistan, Great Leader and Father of the Nation. Educated in law in the United Kingdom, you returned to India to advocate independence, rising to prominence in the India National Congress and All-India Muslim League as a Muslim leader advocating for Hindu-Muslim unity. But as time marched on, you came to see that the only way forward was a separate state, for which you passed the Lahore Resolution, demanding a state for Muslims. It was this desire that led to the creation of Pakistan. Much debate was had about the borders, with various princely states having arguments made for joining either India or Pakistan. But on the publication of the Radcliffe Line, the partition of India and Pakistan sparked mass migration and ethnic cleansing. As Governor-General, you sought to assist the Muslim migrants relocate to Pakistan. The Governor-General was a powerful office, but you were extremely ill with tuberculosis. Even in your hour of triumph, you were dying.[NEWLINE][NEWLINE]Oh Baba-e-Qaum, your gains were hard fought, and you must not lose them. Corruption and violence are increasing. Can you restore the faith of the nation in the government? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_TEXT_1">
+			<Text>Pakistan, officially the Islamic Republic of Pakistan is a country in South Asia. It is the world's fifth-most populous country. Pakistan is the site of several ancient cultures, including the 8,500-year-old Neolithic site of Mehrgarh in Balochistan, and the Indus Valley civilisation of the Bronze Age. The regions that comprise the modern state of Pakistan were the realm of multiple empires and dynasties, including the Achaemenid, the Maurya, the Ghaznavids, the Delhi Sultanate, the Mughals, and most recently, the British Raj from 1858 to 1947. Spurred by the Pakistan Movement, which sought a homeland for the Muslims of British India, and election victories in 1946 by the All-India Muslim League, Pakistan gained independence in 1947 after the Partition of the British Indian Empire, which awarded separate statehood to its Muslim-majority regions and was accompanied by an unparalleled mass migration and loss of life. Pakistan officially drafted its constitution in 1956, and emerged as a declared Islamic republic. In 1971, the exclave of East Pakistan seceded as the new country of Bangladesh after a nine-month-long civil war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_HEADING_2">
+			<Text>Earliest Civilizations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_TEXT_2">
+			<Text>Some of the earliest ancient human civilisations in South Asia originated from areas encompassing present-day Pakistan. The earliest known inhabitants in the region were Soanian during the Lower Paleolithic, of whom stone tools have been found in the Soan Valley of Punjab. The Indus region, which covers most of present day Pakistan, was the site of several successive ancient cultures including the Indus Valley civilization. This was followed by the Vedic period, and then the western regions of Pakistan became part of Achaemenid Empire around 519 BCE. In 326 BCE, Alexander the Great conquered the region, followed by the Maurya, Indo-Greeks, and the Rai Dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_HEADING_3">
+			<Text>Influence of Islam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_TEXT_3">
+			<Text>The Arab conqueror Muhammad ibn Qasim conquered Sindh in 711 CE. The Early Medieval period witnessed the spread of Islam in the region. During this period, Sufi missionaries played a pivotal role in converting a majority of the regional Buddhist and Hindu population to Islam. Several successive Muslim empires ruled over the region, with the last being the Mughal Empire. The Mughals introduced Persian literature and high culture, establishing the roots of Indo-Persian culture in the region. In the region of modern-day Pakistan, key cities during the Mughal period were Lahore and Thatta, both of which were chosen as the site of impressive Mughal buildings. In the 18th century, the slow disintegration of the Mughal Empire was hastened by the emergence of the rival powers of the Maratha Confederacy and later the Sikh Empire, as well as invasions by Nader Shah from Iran in 1739 and the Durrani Empire of Afghanistan in 1759. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_HEADING_4">
+			<Text>The British Influence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_TEXT_4">
+			<Text>None of the territory of modern Pakistan was ruled by the British, or other European powers, until 1839, when Karachi, then a small fishing village with a mud fort guarding the harbour, was taken, and held as an enclave with a port and military base for the First Afghan War that soon followed. The rest of Sindh was taken in 1843, and in the following decades, the British took over most of the country partly through wars, and also treaties. By 1893, all modern Pakistan was part of the British Indian Empire, and remained so until independence in 1947. Under the British, modern Pakistan was mostly divided into the Sind Division, Punjab Province, and the Baluchistan Agency. There were various princely states, of which the largest was Bahawalpur. A rebellion in 1857 called the Sepoy mutiny of Bengal was the region's major armed struggle against the British. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_HEADING_5">
+			<Text>The All-India Muslim League</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_TEXT_5">
+			<Text>Divergence in the relationship between Hinduism and Islam created a major rift in British India that led to motivated religious violence in British India.The language controversy further escalated the tensions between Hindus and Muslims. The Hindu renaissance witnessed an awakening of intellectualism in traditional Hinduism and saw the emergence of more assertive influence in the social and political spheres in British India. A Muslim intellectual movement, founded by Sir Syed Ahmed Khan to counter the Hindu renaissance, envisioned as well as advocated for the two-nation theory and led to the creation of the All-India Muslim League in 1906. In contrast to the Indian National Congress's anti-British efforts, the Muslim League was a pro-British movement whose political program inherited the British values that would shape Pakistan's future civil society. The Muslim League slowly rose to mass popularity in the 1930s amid fears of under-representation and neglect by the British of the Indian Muslims in politics. The perceived neglect of Muslim interests by Congress led British provincial governments during the period of 1937–39 convinced Muhammad Ali Jinnah, the founder of Pakistan to espouse the two-nation theory and led the Muslim League to adopt the Lahore Resolution of 1940.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_HEADING_6">
+			<Text>The Partition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_TEXT_6">
+			<Text>The 1946 elections resulted in the Muslim League winning 90 percent of the seats reserved for Muslims. Thus, the 1946 election was effectively a plebiscite in which the Indian Muslims were to vote on the creation of Pakistan, a plebiscite won by the Muslim League. This victory was assisted by the support given to the Muslim League by the support of the landowners of Sindh and Punjab. The Indian National Congress, which initially denied the Muslim League's claim of being the sole representative of Indian Muslims, was now forced to recognise the fact. The British had no alternative except to take Jinnah's views into account as he had emerged as the sole spokesperson of the entirety of British India's Muslims. As the United Kingdom agreed to the partitioning of India in 1947, the modern state of Pakistan was established on 14 August 1947, amalgamating the Muslim-majority eastern and northwestern regions of British India. It comprised the provinces of Balochistan, East Bengal, the North-West Frontier Province, West Punjab, and Sindh. In the riots that accompanied the partition in Punjab Province, it is believed that between 200,000 and 2,000,000 people were killed in what some have described as a retributive genocide between the religions while 50,000 Muslim women were abducted and raped by Hindu and Sikh men, 33,000 Hindu and Sikh women also experienced the same fate at the hands of Muslims. Around 6.5 million Muslims moved from India to West Pakistan and 4.7 million Hindus and Sikhs moved from West Pakistan to India. It was the largest mass migration in human history. A subsequent dispute over the princely state of Jammu and Kashmir eventually sparked the Indo-Pakistani War of 1947–1948.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_HEADING_7">
+			<Text>Jinnah's Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_TEXT_7">
+			<Text>After independence in 1947, Jinnah, the President of the Muslim League, became the nation's first Governor-General as well as the first President-Speaker of the Parliament, but he died of tuberculosis on 11 September 1948. Meanwhile, Pakistan's founding fathers agreed to appoint Liaquat Ali Khan, the secretary-general of the party, the nation's first Prime Minister. From 1947 to 1956, Pakistan was a monarchy within the Commonwealth of Nations, and had two monarchs before it became a republic. The first formal step to transform Pakistan into an ideological Islamic state was taken in March 1949 when Liaquat Ali Khan introduced the Objectives Resolution in the Constituent Assembly. The Objectives Resolution declared that sovereignty over the entire universe belongs to Allah Almighty. Support for the Objectives Resolution and the transformation of Pakistan into an Islamic state was led by Maulana Shabbir Ahmad Usmani. Indian Muslims from the United Provinces, Bombay Province, Central Provinces and other areas of India continued migrating to Pakistan throughout the 1950 and 1960s. After gaining Independence, Pakistan vigorously pursued bilateral relations with other Muslim countries and made a wholehearted bid for leadership of the Muslim world, or at least for leadership in achieving its unity. During a massive political rally in 1951, Prime Minister Ali Khan was assassinated, and Nazimuddin became the second prime minister. Tensions in East Pakistan reached a climax in 1952, when the East Pakistani police opened fire on students protesting for the Bengali language to receive equal status with Urdu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_HEADING_8">
+			<Text>The Great Decade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_TEXT_8">
+			<Text>In October 1958 President Iskandar Mirza issued orders for a massive mobilisation of the Pakistan Armed Forces and appointed Chief of Army Staff General Ayub Khan as Commander-in-chief. President Mirza declared a state of emergency, imposed martial law, suspended the constitution, and dissolved both the socialist government in East Pakistan and the parliamentary government in West Pakistan. General Ayub Khan was Chief Martial Law Administrator, with authority throughout the country. Within two weeks President Mirza attempted to dismiss Khan, but the move backfired and President Mirza was relieved of the presidency and exiled to London. The presidency of Ayub Khan is often celebrated as the "Great Decade", highlighting the economic development plans and reforms executed. Under Ayub's presidency the country underwent a cultural shift when the pop music industry, the film industry and Pakistani drama became extremely popular during the 1960s. Rather than preferring neutrality, Ayub Khan worked closely to form an alliance with the United States and the western world. In 1961 the Pakistani space program was launched and the nuclear power program was continued. In 1960 Pakistan signed the Indus Waters Treaty with India in an attempt to normalise relations. In 1965, after Pakistan went ahead with its strategic infiltration mission in Kashmir codenamed Operation Gibraltar, India declared full-scale war against Pakistan. The war, which ended militarily in a stalemate, was mostly fought in the west. Controversially, the East Pakistani Army did not interfere in the conflict and this caused anger in West Pakistan against East Pakistan. Disagreeing with the signing of Tashkent agreement Foreign Minister Zulfikar Ali Bhutto was ousted from the ministry on the personal directive of President Khan in 1966. The dismissal of Bhutto caused spontaneous mass demonstrations and public anger against Khan, leading to major industrial and labour strikes in the country. Within weeks Ayub Khan lost the momentum in West Pakistan and his image was damaged in public circles. Khan resigned from the presidency in poor health and handed over his authority to the army commander, a little known personality and heavy alcoholic, General Yahya Khan, who imposed martial law.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_HEADING_9">
+			<Text>The Praetorian Society</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_TEXT_9">
+			<Text>President General Yahya Khan was aware of the explosive political situation in the country. Support for progressive and socialist groups was rising, and calls for a change of regime were gaining momentum. In a television address to the nation, President Khan announced his intention to hold nationwide elections the following year and to transfer power to the elected representatives. Civilians in Ayub Khan's administration were dismissed by the military government which replaced them with military officers. Operations Searchlight and Barisal led to a crackdown on East Pakistani politicians, civilians, and student activists. Sheikh Rahman was arrested and extradited to Islamabad, while the entire Awami League leadership escaped to India to set up a parallel government. A guerrilla insurgency was initiated by the Indian-organised and supported Mukti Bahini. Millions of Bengali Hindus and Muslims took refuge in eastern India leading to Indian Prime Minister Indira Gandhi announcing support for the Bangladesh liberation war and providing direct military assistance to the Bengalis. In March 1971 regional commander Major General Ziaur Rahman declared the independence of East Pakistan as the new nation of Bangladesh on behalf of Mujib. Pakistan launched pre-emptive air strikes on 11 Indian airbases on 3 December 1971, leading to India's entry into the war on the side of Bangladeshi nationalist forces. Untrained in guerrilla warfare, the Pakistani high command in the east collapsed under commanders General Amir Niazi and Admiral Muhammad Sharif. Independent researchers estimate that between 300,000 and 500,000 civilians died during this period.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_HEADING_10">
+			<Text>The Democratic Bhutto Regime and Military Sharia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_TEXT_10">
+			<Text>The 1971 war and the separation of East Pakistan demoralised the nation. With the PPP's assumption of power, democratic socialists and visionaries had authority for the first time in the country's history. Bhutto dismissed the chiefs of the army, navy and the air force and ordered house arrest for General Yahya Khan and several of his collaborators. 1971 to 1977 was a period of left-wing democracy and the growth of economic nationalisation, covert atomic bomb projects, promotion of science, literature, cultural activities and Pakistani nationalism. The PPP created the 1973 Constitution with the support of Islamists. The Constitution declared Pakistan an Islamic Republic and Islam the state religion. It also stated that all laws would have to be brought into accordance with the injunctions of Islam as laid down in the Quran and Sunnah and that no law repugnant to such injunctions could be enacted. In 1974 Bhutto succumbed to increasing pressure from religious parties and encouraged Parliament to declare adherents of Ahmadiyya to be non-Muslims. Relations with the United States deteriorated as Pakistan normalised relations with the Soviet Union, the Eastern Bloc, North Korea, China, and the Arab world. Alarmed by India's surprise nuclear test in 1974, Bhutto accelerated Pakistan's atomic bomb project. In early 1976 Bhutto's socialist alliance collapsed, forcing his left-wing allies to form an alliance with right-wing conservatives and Islamists to challenge the power of the PPP. There were protests against Bhutto and public disorder, causing Chief of the Army Staff General Muhammad Zia-ul-Haq to take power in a bloodless coup. Following this Bhutto and his leftist colleagues were dragged into a two-year-long political trial in the Supreme Court. Bhutto was executed in 1979. This period of military rule, lasting from 1977 to 1988, is often regarded as a period of persecution and the growth of state-sponsored religious conservatism. Zia-ul-Haq committed himself to establishing an Islamic state and enforcing sharia law. Offices, schools and factories were required to offer prayer space. Zia bolstered the influence of the Islamic clergy and the Islamic parties, whilst conservative scholars became fixtures on television. Zia's state-sponsored Islamization increased sectarian divisions in Pakistan between Sunnis and Shias due to his anti-Shia policies. President Zia's long eleven-year rule featured the country's first successful technocracy. Zia strove for strong relations with the United States. After the Soviet Union's intervention in Afghanistan President Ronald Reagan immediately moved to help Zia supply and finance an anti-Soviet insurgency. Under pressure from President Reagan, General Zia finally lifted martial law in 1985.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_HEADING_11">
+			<Text>Benazir and Nawaz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_TEXT_11">
+			<Text>Democracy returned again in 1988 with general elections which were held after President Zia-ul-Haq's death. The elections marked the return of the Peoples Party to power. Their leader, Benazir Bhutto, became the first female prime minister of Pakistan as well as the first female head of government in a Muslim-majority country. This period, lasting until 1999, introduced competitive two-party democracy to the country. It featured a fierce competition between centre-right conservatives led by Nawaz Sharif and centre-left socialists led by Benazir Bhutto. The far-left and the far-right disappeared from the political arena with the fall of global communism and the United States lessening its interests in Pakistan. Prime Minister Bhutto presided over the country during the penultimate period of the Cold war, and cemented pro-Western policies due to a common distrust of communism. the alliance with the US came to an end when Pakistan's atomic bomb project was revealed to the world, leading to the imposition of economic sanctions by the United States. The 1990 general election results allowed the right-wing conservative alliance the Islamic Democratic Alliance led by Nawaz Sharif to form a government under a democratic system for the first time. Attempting to end stagflation Sharif launched a program of privatisation and economic liberalisation. His government adopted a policy of ambiguity regarding atomic bomb programs. As a result of the 1993 general elections Benazir Bhutto secured a plurality and formed a government. She oversaw a tough stance to bring political stability, which with her fiery rhetoric earned her the nickname "Iron Lady" from her rivals. Her foreign policy made an effort to balance relations with Iran, the United States, the European Union and the socialist states. Benazir Bhutto continued her pressure on India, pushing India on to take defensive positions on its nuclear programme. Bhutto's clandestine initiatives modernised and expanded the atomic bomb programme after initiating missile system programs. Her policies resulted in growth in the rock and pop music industry, and the film industry made a comeback after introducing new talent. She exercised tough policies to ban Indian media in the country, while promoting the television industry to produce dramas, films, artistic programs and music. Public anxiety about the weakness of Pakistani education led to large-scale federal support for science education and research by both Bhutto and Sharif. Despite her tough policies, the popularity of Benazir Bhutto waned after her husband allegedly became involved in the controversial death of Murtaza Bhutto. The 1997 election resulted in conservatives receiving a large majority of the vote and winning enough seats in parliament to change the constitution to eliminate the checks and balances that restrained the prime minister's power. Under Sharif's leadership, Pakistan became the seventh declared nuclear-weapon state, the first in the Muslim world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_HEADING_12">
+			<Text>Return of the Military and Return of Nawaz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_TEXT_12">
+			<Text>The presidency of General Pervez Musharraf featured the arrival of liberal forces in national power for the first time in the history of Pakistan, after a coup in response to Sharif attempting to remove him from his military position. Early initiatives were taken towards the continuation of economic liberalisation, privatisation and freedom of the media in 1999. Intending the policy to create a counter-cultural attack on India, Musharraf personally signed and issued hundreds of licenses to the private sector to open new media outlets, free from government influence. Attempting to legitimise his presidency Musharraf held a controversial referendum in 2002, which allowed the extension of his presidential term to five years. The 2002 general elections resulted in the liberals, the Muttahida Qaumi Movement, the Third Way centrists and the Pakistan Muslim League (Q), winning the majority in parliament and forming a government. The far-right Muttahida Majlis-e-Amal mobilised in fierce opposition to Musharraf and Aziz and their support for the US intervention in Afghanistan. Over two years Musharraf and Aziz survived several assassination attempts by al-Qaeda, including at least two where they had inside information from a member of the military. In 2007 Sharif made a daring attempt to return from exile but was refrained from landing at Islamabad Airport. This did not deter another former prime minister, Benazir Bhutto, from returning on 18 October 2007 after an eight-year exile in Dubai and London to prepare for the 2008 parliamentary elections. While leading a massive rally of supporters, two suicide attacks were carried out in an attempt to assassinate her. Popular support for Musharraf declined when Nawaz Sharif successfully made a second attempt to return from exile, this time accompanied by his younger brother and his daughter. Departing an election rally in Rawalpindi on 27 December 2007, Benazir Bhutto was assassinated by a gunman who shot her in the neck and set off a bomb. Prime Minister Gilani headed a collective government with the winning parties from each of the four provinces. Pakistan's political structure was changed to replace the semi-presidential system into a parliamentary democracy. In 2010 and 2011 Pakistani-American relations worsened after a CIA contractor killed two civilians in Lahore and the United States killed Osama bin Laden at his home less than a mile from the Pakistan Military Academy. After the parliament completed its term, a first for Pakistan, elections held on 11 May 2013 changed the country's political landscape when the conservative Pakistan Muslim League (N) achieved a near supermajority in the parliament. Nawaz Sharif became prime minister on May 28. In 2015, the China-Pakistan Economic Corridor was initiated. In 2017, the Panama Papers case resulted in the disqualification of Sharif by verdict of the Supreme Court. Shahid Khaqan Abbasi became Prime Minister afterwards until mid-2018.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_HEADING_13">
+			<Text>The Imran Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_PAKISTAN_TEXT_13">
+			<Text>In 2018, popular former cricket icon Imran Khan was elected as Prime Minister. In domestic economic policy, Khan inherited a twin balance of payments and debt crisis with a large current account deficit and fiscal deficit in 2018, Khan's government sought a bailout from the IMF. Aside from IMF-mandated reforms, Khan's government introduced policies to improve the business operating climate. As a result, Pakistan climbed 28 places higher on the World Bank's ease of doing business index. In economic policy with respect to international trade, from January 2020 Khan's government implemented the second phase of the China–Pakistan Free Trade Agreement. In national security policy, Khan's government presided over an improved overall security climate with foreign investors expressing greater confidence in the security of their investments in Pakistan. In social policy, Khan's government has taken steps to restore religious sites belonging to religious minorities. Khan's government also instituted reforms to education and healthcare on a national and regional level respectively. Khan's government introduced reforms to Pakistan's social safety net and the system of welfare in Pakistan more broadly. This included broadening welfare payments which was initially for widows only, to include the disabled as well as provide health insurance coverage. Further efforts to combat climate change consisted of re-foresting Pakistan with over 10 billion trees under the Plant for Pakistan project. Khan's government introduced reforms to Pakistan's bloated public sector. The public sector consisted of state-owned enterprises that were consistently making losses and accumulating debt for decades. Under Khan's premiership, the performance of Pakistan's anti-corruption agency, the National Accountability Bureau improved significantly when measured in terms of recovery of money in cases involving plea bargains and/or convictions. During the COVID-19 pandemic, Khan's government rolled out the largest welfare programme in Pakistan's history, with a fund of almost $1 billion aimed at the country's poorest segment of the population. After Khan disclosed to the public, in violation of state secret legislation, a diplomatic cable from the US urging action be taken to remove Khan in a coup on 8 March 2022, opposition parties submitted a motion of no confidence against him to the National Assembly's secretariat. On 10 April, after a Supreme Court ruling that the no-confidence motion was illegally rejected, a no-confidence vote was conducted and he was ousted from office, becoming the first prime minister in Pakistan to be removed from office by a vote of no confidence. His removal led to protests from his supporters across Pakistan. On 11 April 2022, Pakistan’s parliament elected Shehbaz Sharif, younger brother of Nawaz, as the country’s new prime minister.</Text>
+		</Row>
+		
+		
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_LIVED">
+			<Text>1876 - 1948 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_NAME">
+			<Text>Muhammad Ali Jinnah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_SUBTITLE">
+			<Text>Father of Pakistan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_JINNAH">
+			<Text>Muhammad Ali Jinnah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_TITLES_1">
+			<Text>Governor-General</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_TEXT_1">
+			<Text>Muhammad Ali Jinnah was a barrister, politician and the founder of Pakistan. Jinnah served as the leader of the All-India Muslim League from 1913 until the inception of Pakistan on 14 August 1947, and then as the Dominion of Pakistan's first governor-general until his death. He is revered in Pakistan as the Quaid-e-Azam, or Great Leader, and Baba-e-Qaum, or Father of the Nation. His birthday is observed as a national holiday in Pakistan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_HEADING_2">
+			<Text>Boyhood and Education in England</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_TEXT_2">
+			<Text>Jinnah's given name at birth was Mahomedali Jinnahbhai, and he likely was born in 1876, to Jinnahbhai Poonja and his wife Mithibai, in a rented apartment on the second floor of Wazir Mansion near Karachi, now in Sindh, Pakistan but then within the Bombay Presidency of British India. He was of a Gujarati Khoja Nizari Isma'ili Shi’a Muslim background, though Jinnah later followed the Twelver Shi'a teachings. Jinnah was from a wealthy merchant background. His father was a merchant and was born to a family of textile weavers in the village of Paneli in the princely state of Gondal. As a boy, Jinnah lived for a time in Bombay. In 1892, Sir Frederick Leigh Croft, a business associate of Jinnahbhai Poonja, offered young Jinnah a London apprenticeship with his firm, Graham's Shipping and Trading Company. He accepted the position despite the opposition of his mother, who before he left, had him enter an arranged marriage with his cousin, two years his junior from the ancestral village of Paneli, Emibai Jinnah. Jinnah's mother and first wife both died during his absence in England. Soon after his arrival in London, Jinnah gave up the business apprenticeship in order to study law, enraging his father, who had, before his departure, given him enough money to live for three years. During his student years in England, Jinnah was influenced by 19th-century British liberalism, like many other future Indian independence leaders. His main intellectual references were peoples like Bentham, Mill, Spencer, and Comte. In 1895, at age 19, he became the youngest British Indian to be called to the bar in England.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_HEADING_3">
+			<Text>Legal Practice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_TEXT_3">
+			<Text>At the age of 20, Jinnah began his practice in Bombay, the only Muslim barrister in the city. English had become his principal language and would remain so throughout his life. His first three years in the law, from 1897 to 1900, brought him few briefs. As a lawyer, Jinnah gained fame for his skilled handling of the 1908 "Caucus Case". This controversy arose out of Bombay municipal elections, which Indians alleged were rigged by a "caucus" of Europeans to keep Sir Pherozeshah Mehta out of the council. Jinnah gained great esteem from leading the case for Sir Pherozeshah, himself a noted barrister. Although Jinnah did not win the Caucus Case, he posted a successful record, becoming well known for his advocacy and legal logic. Jinnah was also a supporter of working class causes and an active trade unionist. He was elected President of All India Postal Staff Union in 1925 whose membership was 70,000. Jinnah devoted much of his time to his law practice in the early 1900s, but remained politically involved. Jinnah began political life by attending the Indian National Congress's twentieth annual meeting, in Bombay in December 1904. He was a member of the moderate group in the Congress, favouring Hindu–Muslim unity in achieving self-government, and following such leaders as Mehta, Naoroji, and Gopal Krishna Gokhale. Although Jinnah initially opposed separate electorates for Muslims, he used this means to gain his first elective office in 1909, as Bombay's Muslim representative on the Imperial Legislative Council. He was a compromise candidate when two older, better-known Muslims who were seeking the post deadlocked.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_HEADING_4">
+			<Text>From the Congress to the League</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_TEXT_4">
+			<Text>In December 1912, Jinnah addressed the annual meeting of the Muslim League although he was not yet a member. He joined the following year, although he remained a member of the Congress as well and stressed that League membership took second priority to the "greater national cause" of an independent India. Jinnah's moderate faction in the Congress was undermined by the deaths of Mehta and Gokhale in 1915; he was further isolated by the fact that Naoroji was in London, where he remained until his death in 1917. Nevertheless, Jinnah worked to bring the Congress and League together. In 1916, with Jinnah now president of the Muslim League, the two organisations signed the Lucknow Pact, setting quotas for Muslim and Hindu representation in the various provinces. During the war, Jinnah joined other Indian moderates in supporting the British war effort, hoping that Indians would be rewarded with political freedoms. Jinnah played an important role in the founding of the All India Home Rule League in 1916. In 1918, Jinnah married his second wife Rattanbai Petit. Relations between Indians and British were strained in 1919 when the Imperial Legislative Council extended emergency wartime restrictions on civil liberties; Jinnah resigned from it when it did. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_HEADING_5">
+			<Text>Struggles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_TEXT_5">
+			<Text>Jinnah sought alternative political ideas, and contemplated organising a new political party as a rival to the Congress. In September 1923, Jinnah was elected as Muslim member for Bombay in the new Central Legislative Assembly. He showed much skill as a parliamentarian, organising many Indian members to work with the Swaraj Party, and continued to press demands for full responsible government. In 1925, as recognition for his legislative activities, he was offered a knighthood by Lord Reading, who was retiring from the Viceroyalty. Ramsay MacDonald desired a conference of Indian and British leaders in London to discuss India's future, a course of action supported by Jinnah. Three Round Table Conferences followed over as many years, none of which resulted in a settlement. Jinnah was a delegate to the first two conferences, but was not invited to the last. In 1931, Fatima Jinnah joined her brother in England. From then on, Muhammad Jinnah would receive personal care and support from her as he aged and began to suffer from the lung ailments which would eventually kill him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_HEADING_6">
+			<Text>The Pakistan Declaration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_TEXT_6">
+			<Text>The early 1930s saw a resurgence in Indian Muslim nationalism, which came to a head with the Pakistan Declaration. In 1933, Indian Muslims, especially from the United Provinces, began to urge Jinnah to return and take up again his leadership of the Muslim League, an organisation which had fallen into inactivity. He remained titular president of the League, but declined to travel to India to preside over its 1933 session in April, writing that he could not possibly return there until the end of the year. Muslims of Bombay elected Jinnah, though then absent in London, as their representative to the Central Legislative Assembly in October 1934. The Congress was much better prepared for the provincial elections in 1937, and the League failed to win a majority even of the Muslim seats in any of the provinces where members of that faith held a majority. It did win a majority of the Muslim seats in Delhi, but could not form a government anywhere, though it was part of the ruling coalition in Bengal. Despite his beliefs of twenty years that Muslims could protect their rights in a united India through separate electorates, provincial boundaries drawn to preserve Muslim majorities, and by other protections of minority rights, Muslim voters had failed to unite, with the issues Jinnah hoped to bring forward lost amid factional fighting. In the next two years, Jinnah worked to build support among Muslims for the League.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_HEADING_7">
+			<Text>The Pakistan Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_TEXT_7">
+			<Text>Until the late 1930s, most Muslims of the British Raj expected, upon independence, to be part of a unitary state encompassing all of British India, as did the Hindus and others who advocated self-government. In a speech given at Allahabad to a League session in 1930, Sir Muhammad Iqbal called for a state for Muslims in British India. Jinnah and Iqbal corresponded in 1936 and 1937; in subsequent years, Jinnah credited Iqbal as his mentor, and used Iqbal's imagery and rhetoric in his speeches. Balraj Puri in his journal article about Jinnah suggests that the Muslim League president, after the 1937 vote, turned to the idea of partition in "sheer desperation". Iqbal's influence also gave Jinnah a deeper appreciation for Muslim identity. In a speech in 1940, two years after the death of Iqbal, Jinnah expressed his preference for implementing Iqbal's vision for an Islamic Pakistan even if it meant he himself would never lead a nation. On 6 February, Jinnah informed the Viceroy that the Muslim League would be demanding partition instead of the federation contemplated in the 1935 Act. The Lahore Resolution embraced the Two-Nation Theory and called for a union of the Muslim-majority provinces in the northwest of British India, with complete autonomy. Similar rights were to be granted to the Muslim-majority areas in the east, and unspecified protections given to Muslim minorities in other provinces. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_HEADING_8">
+			<Text>Two-Nation Theory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_TEXT_8">
+			<Text>The resolution was passed by the League session in Lahore on 23 March 1940. Gandhi's reaction to the Lahore Resolution was muted; he called it "baffling", but told his disciples that Muslims, in common with other people of India, had the right to self-determination. Leaders of the Congress were more vocal; Jawaharlal Nehru referred to Lahore as "Jinnah's fantastic proposals". In September 1944, Jinnah hosted Gandhi, recently released from confinement, at his home on Malabar Hill in Bombay. Two weeks of talks between them followed, which resulted in no agreement. Jinnah insisted on Pakistan being conceded prior to the British departure and to come into being immediately, while Gandhi proposed that plebiscites on partition occur sometime after a united India gained its independence. In 1945, the Muslim League declared that they would campaign on a single issue: Pakistan. In the December 1945 elections for the Constituent Assembly of India, the League won every seat reserved for Muslims. In the provincial elections in January 1946, the League took 75% of the Muslim vote, an increase from 4.4% in 1937. The Congress dominated the central assembly nevertheless, though it lost four seats from its previous strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_HEADING_9">
+			<Text>Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_TEXT_9">
+			<Text>On 20 February 1947, Attlee announced Mountbatten's appointment, and that Britain would transfer power in India not later than June 1948. Mountbatten took office as Viceroy on 24 March 1947, two days after his arrival in India. By then, the Congress had come around to the idea of partition. Mountbatten had been warned in his briefing papers that Jinnah would be his "toughest customer" who had proved a chronic nuisance to him. Jinnah feared that at the end of the British presence in the subcontinent, they would turn control over to the Congress-dominated constituent assembly, putting Muslims at a disadvantage in attempting to win autonomy. He demanded that Mountbatten divide the army prior to independence, which would take at least a year. On 4 July 1947, Liaquat asked Mountbatten on Jinnah's behalf to recommend to the British king, George VI, that Jinnah be appointed Pakistan's first governor-general. This request angered Mountbatten, who had hoped to have that position in both dominions. Jinnah arranged to sell his house in Bombay and procured a new one in Karachi. On 7 August, Jinnah, with his sister and close staff, flew from Delhi to Karachi in Mountbatten's plane, and as the plane taxied, he was heard to murmur, "That's the end of that." On 14 August, Pakistan became independent; Jinnah led the celebrations in Karachi.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_HEADING_10">
+			<Text>The Governor-General</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_TEXT_10">
+			<Text>The Radcliffe Commission, dividing Bengal and Punjab, completed its work and reported to Mountbatten on 12 August; the last Viceroy held the maps until the 17th, not wanting to spoil the independence celebrations in both nations. There had already been ethnically charged violence and movement of populations; publication of the Radcliffe Line dividing the new nations sparked mass migration, murder, and ethnic cleansing. Many on the "wrong side" of the lines fled or were murdered, or murdered others, hoping to make facts on the ground which would reverse the commission's verdict. Radcliffe wrote in his report that he knew that neither side would be happy with his award; he declined his fee for the work. Jinnah did what he could for the eight million people who migrated to Pakistan; although by now over 70 and frail from lung ailments, he travelled across West Pakistan and personally supervised the provision of aid. Along with Liaquat and Abdur Rab Nishtar, Jinnah represented Pakistan's interests in the Division Council to appropriately divide public assets between India and Pakistan. Pakistan was supposed to receive one-sixth of the pre-independence government's assets, carefully divided by agreement, even specifying how many sheets of paper each side would receive. The new Indian state, however, was slow to deliver, hoping for the collapse of the nascent Pakistani government, and reunion. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_HEADING_11">
+			<Text>The Princely Problem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_TEXT_11">
+			<Text>The Indian Princely States were advised by the departing British to choose whether to join Pakistan or India. Most did so prior to independence, but the holdouts contributed to what have become lasting divisions between the two nations. Indian leaders were angered at Jinnah's attempts to convince the princes of Jodhpur, Udaipur, Bhopal and Indore to accede to Pakistan as the latter three princely states did not border Pakistan. Jodhpur bordered it and had both a Hindu majority population and a Hindu ruler. The coastal princely state of Junagadh, which had a majority-Hindu population, did accede to Pakistan in September 1947, with its ruler's dewan, Sir Shah Nawaz Bhutto, personally delivering the accession papers to Jinnah. The most contentious of the disputes was, and continues to be, that over the princely state of Kashmir. It had a Muslim-majority population and a Hindu maharaja, Sir Hari Singh, who stalled his decision on which nation to join. With the population in revolt in October 1947, aided by Pakistani irregulars, the maharaja acceded to India; Indian troops were airlifted in. Jinnah objected to this action, and ordered that Pakistani troops move into Kashmir. The Pakistani Army was still commanded by British officers, and the commanding officer, General Sir Douglas Gracey, refused the order, stating that he would not move into what he considered the territory of another nation without approval from higher authority, which was not forthcoming. Jinnah withdrew the order. This did not stop the violence there, which broke into Indo-Pakistani War of 1947. In January 1948, the Indian government finally agreed to pay Pakistan its share of British India's assets. They were impelled by Gandhi, who threatened a fast until death. Only days later, on 30 January, Gandhi was assassinated by Nathuram Godse, a Hindu nationalist, who believed that Gandhi was pro-Muslim. In March, Jinnah, despite his declining health, made his only post-independence visit to East Pakistan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_HEADING_12">
+			<Text>The Illness in the Hour of Triumph</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_JINNAH_TEXT_12">
+			<Text>From the 1930s, Jinnah suffered from tuberculosis; only his sister and a few others close to him were aware of his condition. Jinnah believed public knowledge of his lung ailments would hurt him politically. Many years later, Mountbatten stated that if he had known Jinnah was so physically ill, he would have stalled, hoping Jinnah's death would avert partition. In June 1948, he and Fatima flew to Quetta, in the mountains of Balochistan, where the weather was cooler than in Karachi. He could not completely rest there. On 6 July 1948, Jinnah returned to Quetta, but at the advice of doctors, soon journeyed to an even higher retreat at Ziarat. Jinnah had always been reluctant to undergo medical treatment but realising his condition was getting worse, the Pakistani government sent the best doctors it could find to treat him. Tests confirmed tuberculosis, and also showed evidence of advanced lung cancer. By 9 September, Jinnah had also developed pneumonia. Doctors urged him to return to Karachi, where he could receive better care, and with his agreement, he was flown there on the morning of 11 September. Jinnah died later that night at 10:20 pm at his home in Karachi on 11 September 1948 at the age of 71, just over a year after Pakistan's creation. In Pakistan, Jinnah is revered. </Text>
+		</Row>
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_PAKISTAN_SHORT">
+			<Text>Two-Nation Theory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_PAKISTAN">
+			<Text>Cities you control receive a [ICON_FOOD] Growth bonus equal to half the Religious Pressure from your primary Religion within them. Receive Tiles and [ICON_CITIZEN] Citizens from nearby foreign Cities converted from your Religion to another.</Text>
+		</Row>
+		<!-- C15 -->
+		<Row Tag="TXT_KEY_SENSHI_PAKISTAN_MIGRATION_TEXT">
+			<Text>Religious conversions in {1_City} have led to Citizens fleeing to your city of {2_City}!</Text>
+		</Row>
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_SENSHI_POLICE_RANGER">
+			<Text>Police Ranger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_POLICE_RANGER_STRATEGY">
+			<Text>Unique Pakistani replacement for the Paratrooper. Heals +15 HP and provides +1 [ICON_HAPPINESS_1] Local Happiness when beginning a turn garrisoned within a City. Heals +15 HP and provides +1 [ICON_INFLUENCE] Influence per turn when beginning a turn within the borders of a City-State following your Religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_POLICE_RANGER_HELP">
+			<Text>Unique Pakistani replacement for the Paratrooper. Heals +15 HP and provides +1 [ICON_HAPPINESS_1] Local Happiness when beginning a turn garrisoned within a City. Heals +15 HP and provides +1 [ICON_INFLUENCE] Influence per turn when beginning a turn within the borders of a City-State following your Religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_POLICE_RANGER_TEXT">
+			<Text>The Pakistan Rangers are paramilitary federal law enforcement corps' in Pakistan, officially the Punjab Rangers and the Sindh Rangers. They are both part of the Civil Armed Forces. The corps' operate administratively under the Interior Ministry of Pakistan but under separate command structures and wear distinctly different uniforms. In 1942, the British government established a special unit in Sindh known as the Sindh Police Rifles. After the independence of Pakistan in 1947, the name of the force was changed from "Sindh Police Rifles" to "Sindh Police Rangers" and the protection of eastern boundaries with India was allotted to various temporary forces, such as the Punjab Border Police Force, Bahawalpur State Police, Khairpur State Police and Sindh Police Rangers. Because the Rangers were neither correctly structured nor outfitted for a specific duty, on 7 October 1958 they were restructured and renamed to the West Pakistan Rangers. Following the independence of East Pakistan, they were renamed the Pakistan Rangers and put under control of the Ministry of Defence with its headquarters at Lahore. The West Pakistan Rangers fought alongside the Pakistan Army in several conflicts, namely the Indo-Pakistani War of 1965 and the Indo-Pakistani War of 1971. Aside from the primary objective of guarding the border with India, the Rangers are also responsible for maintaining internal security in Pakistan and serve as a major law enforcement organization in the country. Despite this, they do not possess the power to make arrests like the regular police with the exception of when the state temporarily sanctions them with such an authority in times of extreme crisis.</Text>
+		</Row>
+		
+		<!--Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_URDU_SOCIETY">
+			<Text>Urdu Society</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_URDU_SOCIETY_STRATEGY">
+			<Text>Unique Pakistani replacement for the Constabulary. It contains a Writer Specialist slot, which provides +25% Religious Pressure when filled. Additionally, this city will enter a short We Love The King Day whenever a nearby foreign City is converted from one Religion to another.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_URDU_SOCIETY_HELP">
+			<Text>Unique Pakistani replacement for the Constabulary. It contains a Writer Specialist slot, which provides +25% Religious Pressure when filled. Additionally, this city will enter a short We Love The King Day whenever a nearby foreign City is converted from one Religion to another.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_SENSHI_URDU_SOCIETY_TEXT">
+			<Text>The Urdu movement was a socio-political movement aimed at making the Urdu standard of the Hindostani language as the universal lingua-franca and symbol of the cultural and political identity of the Muslim communities of the Indian subcontinent during the British Raj. The movement began with the fall of the Mughal Empire in the mid-19th century, fuelled by the Aligarh movement of Sir Syed Ahmed Khan. It strongly influenced the All India Muslim League and the Pakistan movement. The Aligarh Movement was the push to establish a modern system of Western–style scientific education for the Muslim population of British India, during the later decades of the 19th century. The founder of the Muhammadan Anglo-Oriental College, and the other educational institutions that developed from it, was Sir Syed Ahmed Khan. Such Urdu Societies included the Old Boys Association, the Urdu Defence Association, Aligarh Muslim University, among others.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

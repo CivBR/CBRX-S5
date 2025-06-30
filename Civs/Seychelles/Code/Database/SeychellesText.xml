@@ -1,0 +1,392 @@
+<GameData>
+	<Language_en_US>
+	<!-- Civilization -->
+		<Row Tag="TXT_KEY_CIV5_JWW_SEYCHELLES_TITLE">
+			<Text>Seychelles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_SEYCHELLES_DESC">
+			<Text>Republic of Seychelles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_SEYCHELLES_SHORT_DESC">
+			<Text>Seychelles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_SEYCHELLES_ADJECTIVE">
+			<Text>Seychellois</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JWW_SEYCHELLES_TEXT">
+			<Text>Bonzour, France-Albert René, the well-respected leader of the Seychelles! You advocated for independence from Britain, after they neglected you and the people of Seychelles. Despite leading a coup and taking over Seychelles by force, you were able to improve the state of the country for the better, turning it into Africa's most developed country. You were able to keep your people and country in check through your guidance, preventing a Civil War that so many other countries fell victim to in the past. You lead a nation unlike any other modern African nation due to the lack of conflict you ensured. You were able to gain the trust of other nations, who have gifted you sea vessels in order to keep the sea safe. With your small yet efficient Coast Guard you protected the islands and detained some of the most fearsome pirates in the Indian Ocean. You even allowed democracy in your country at the end of your regime, granting people freedom for years to come.[NEWLINE][NEWLINE]Oh, benevolent René, can you yet again lead your country to succeed despite all odds? Can you protect the seas from aggressors, and gain the trust of your neighbors? Can you surpass can others economically and politically once again? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+	<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_JWW_FINIS_CORONAT_OPUS">
+			<Text>[ICON_RES_FISH] Sea Resources in your Territory are automatically upgraded, at no additional cost. Depending on the amount of [ICON_TOURISM] Tourism in the city, units will be trained with additional experience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JWW_FINIS_CORONAT_OPUS_SHORT">
+			<Text>Finis Coronat Opus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_SEYCHELLES_UA">
+			<Text>Sey UA Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_SEYCHELLES_UA_MCIS_DESC">
+			<Text>Finis Coronat Opus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_SEYCHELLES_UA_MCIS_HELP">
+			<Text>This city gives +{1_Num} Experience to every unit trained, due to our [ICON_TOURISM] output of {1_Num}.</Text>
+		</Row>
+	<!-- Leader -->
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE">
+			<Text>France-Albert René</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_FRANCE-ALBERT_RENE_LIVED">
+			<Text>1935-2019</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_FRANCE-ALBERT_RENE_NAME">
+			<Text>France-Albert René</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_FRANCE-ALBERT_RENE_SUBTITLE">
+			<Text>2nd President of Seychelles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_FRANCE-ALBERT_RENE_TITLES_1">
+			<Text>"The Boss"</Text>
+		</Row>
+	<!-- Building -->
+		<Row Tag="TXT_KEY_BUILDING_JWW_LOTEL">
+			<Text>Lotel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_LOTEL_STRATEGY">
+			<Text>The Lotel is the Seychelles unique building, which replaces the Hotel. With the Lotel, enemy naval units stationed within your territory will have a very small chance to convert to your side every turn. [ICON_RES_FISH] Sea Resources in this territory provide [ICON_TOURISM] Tourism.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_LOTEL_HELP">
+			<Text>Only Seychelles can build this. On top of what the normal Hotel does, enemy naval units stationed within your territory have a .5% chance to convert to your side every turn. Also, [ICON_RES_FISH] Sea Resources in this territory provide [ICON_TOURISM] Tourism.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_SEYCHELLES_UB">
+			<Text>Sey UB Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_SEYCHELLES_LOTEL_MCIS_DESC">
+			<Text>Lotel Ability</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_SEYCHELLES_LOTEL_MCIS_HELP">
+			<Text>This Lotel gives +{1_Num}% [ICON_TOURISM] in this City from Sea Resources.</Text>
+		</Row>
+	<!-- Unit -->
+		<Row Tag="TXT_KEY_UNIT_JWW_SCG_CRUISER">
+			<Text>SCG Cruiser</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JWW_SCG_CRUISER_STRATEGY">
+			<Text>The SCG Cruiser is the Seychelles unique unit. It replaces the Destroyer, After defeating an enemy in free territory, your closest city will gain [ICON_CITIZEN] population and the enemy might join your ranks. Can be expended to gain all adjacent unowned naval tiles if you’re in your territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JWW_SCG_CRUISER">
+			<Text>Only Seychelles may build this unit. It replaces the Destroyer, After defeating an enemy in free territory, your closest city will gain [ICON_CITIZEN] population and the enemy might join your ranks. Can be expended to gain all adjacent unowned naval tiles if you’re in your territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_CLAIM_THE_SEA_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Claim the Sea![ENDCOLOR][NEWLINE][NEWLINE]Expend this unit to capture all adjacent tiles regardless of owner.</Text>
+		</Row>
+	<!-- Civilopedia -->
+		<Row Tag="TXT_KEY_CIV5_JWW_SEYCHELLES_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_SEYCHELLES_TEXT_1">
+			<Text>The History of Modern Seychelles starts around 1903, when Seychelles became a British Crown Colony. In the Past, the Seychelles has swapped hands between the French and the British as a result of the Seven Years' War and Napoleanic Wars. Under the British, Seychelles became a place to send prisoners who've been exiled. However, many prisoners took a liking to the isles. In World War I, Seyhcelles suffered great losses as there were less goods imported. Due to the sharp population decline during WWI, the people of Seychelles started to dislike Britian, so they applied for greater representation in the governance of Seychelles affairs. And on top of that, they was an economic depression in the territory, with workers' wages falling. Governor Authur Drimble reformed the government to help workers, but that didn't come into effect until World War II. These struggles more or less kept hapenning until 1964, where new political movements where formed. Two important Parties were the Seychelles People's United Party (SPUP), later called the Seychelles People's Progressive Front (SPPF), and the Seychelles Democratic Party (SDP). The SPUP wanted independence from Britian, and the SDP wanted to stay with Britian. In 1966, elections were held, with the winner being the SDP. But it wasn't until 1970 when the representatives of these parties met to discuss the future of the Seychelles. That same year a new constitution was in effect with James Mancham (the leader of the SSP) as the Prime Minister. In 1874, more elections were held, but this time both parties wanted independence. An in June 25, 1976 Britian finally got the memo and granted the Seychelles independence, with James Mancham was the first president, and the Islands of Aldabra, Farquhar, and Desroches were given abck to Seychelles. However, on 5 June 1977, a coup deposed Mancham, and France-Albert René, the leader of the SPPF, became the President, making the Seychelles a one-party state. Later there were more coups, all of which failed (In 1981, 1982, 1985-1950, and 1977). During this one-party rule Numerous Seychellois were exiled and displaced if they opposed the Regime. On 4 Decmember 1991, René announced a return to Democracy, and allowed for other political parties. René won all of the elections he was in, until 2004, where he gave the presidency to James Michel. Over the years, Seychelles has become a tourist hot-spot and the most developed African country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_SEYCHELLES_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_SEYCHELLES_FACTOID_TEXT">
+			<Text>
+				[ICON_BULLET]Seychelles has the highest nominal per capita GDP in Africa, excluding french territories.
+				[NEWLINE][ICON_BULLET]Seychelles has a total of 155 named islands.
+				[NEWLINE][ICON_BULLET]The Inner Islands contains 98% of the population on only 44 islands.
+				[NEWLINE][ICON_BULLET]42% of the Seychelles' territory is used purely for conservation of wildlife.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_SCG_CRUISER_TEXT">
+			<Text>The SCG Cruiser represents the Seychelles Coast Guard, which is the maritime arm of the Seychelles People's Defence Force. The Coast Guard is known to arrest, try, and convict many pirates throughout the Indian Ocean. They have even recieved donations from other countries due to how well the Coast Guard has been doing in order to keep the pirates at bay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_JWW_LOTEL_TEXT">
+			<Text>The Lotel, Seycellois Creole for Hotel, represents a major part of Seychelles' economy: Tourism. It started in 1971 after the Seychelles International Airport was completed. Throughout the Inner Islands of Seychelles, numerous casinos, resorts, and businesses were completed while marketing the Seychelles as a "paradise" to tourists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_FRANCE-ALBERT_RENE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_FRANCE-ALBERT_RENE_TEXT_1">
+			<Text>France-Albert René was born on 16 November 1935, in Victoria, Crown Colony of Seychelles. He went to St. Mary's College in Southampton, England and King's College in London, England. He then became a lawyer from 1957 to 1961 before becoming heavily involved with socialism. In 1964, he formed the Seychelles People's United Party (SPUP). After fighting for Seychelles' Independence, he became the Prime Minister of Seychelles under James Mancham in 1976. But on 5 June 1977, he was able to take power from Mancham in a coup. He then made the country a One-Party state. Under his rule he was able to put down many coups until 1993 when he convert the country until a democracy. René became known as a benevolent dictator during his one-party state. He was able to make the country the most developed country in Africa, with one of the highest gross domestic products per capita, extensive education funding, healthcare, and an emphasis on saving the environment. Seychelles also had low infant mortality, high literacy rate, and a good economy, based on tourism and fishing. Under democratic rule he continued to be elected, while also continuing to keep the Seychelles in good shape. He stayed in power until 2004, where he stepped down and tranferred the power to James Michel. He died on 27 February 2019, on the island of Mahé.</Text>
+		</Row>
+	<!-- Diplomacy Responses -->
+		<!-- First Greeting -->
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_FIRSTGREETING_1">
+			<Text>Welcome to the Island nation of Seychelles! My name is France-Albert René, the President of this nation. You should relax and enjoy the ocean, the ocean's great this time of year.</Text>
+		</Row>
+
+		<!-- Defeated -->
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_DEFEATED_1">
+			<Text>So you show up just to steal the islands right form under my nose? You disrupt all this peace and tranquility? Shame on you.</Text>
+		</Row>
+
+		<!-- Diplomacy: Wars, Denunciations, and DoF -->
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_ATTACKED_GENERIC_1">
+			<Text>What did a small little island nation ever do to you? Eh, so be it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_DEC_FRIENDSHIP_1">
+			<Text>I know we might not seem like much use to you, but I'm telling you, we can really help each other out. The nation of Seychelles is worth more than it may look. What do you say?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_DENOUNCE_1">
+			<Text>Go any further and you'll seriously put other nations in harm's way. Don't be selfish and keep yourself in check. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_DOW_GENERIC_1">
+			<Text>I'm afraid I have to rid you pirates of the seas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I see you're settling close to our isles. Go back to the mainland.</Text>
+		</Row>
+
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_GREETING_AT_WAR_HOSTILE_1">
+			<Text>You really have the nerve to try to establish communication during our little battle? I'll show you how "insignificant" Seychelles really is. It'll surprise you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_GREETING_POLITE_HELLO_1">
+			<Text>Welcome back! While you're here, enjoy your stay!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_GREETING_NEUTRAL_HELLO_1">
+			<Text>Greetings. What business do you have on these isles?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_GREETING_HOSTILE_HELLO_1">
+			<Text>For some reason, whenever you're here, I feel uneasy. It's almost as if there's a cyclone brewing around you, disrupting anything that comes in your path.</Text>
+		</Row>
+
+		<!-- Misc -->
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Ah, I see you've stationed some pirates near my borders. Please, move them. Although, I could take care of that for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_LETS_HEAR_IT_1">
+			<Text>You got a good offer for the various resources of our seas?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_LOSEWAR_1">
+			<Text>Well, Seychelles defeat was to be expected. We never wanted to cause too much trouble in the first place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_LUXURY_TRADE_1">
+			<Text>Some resources are hard to come by in the vast seas surrounding the Seychelles. How about it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_NO_PEACE_1">
+			<Text>This is looking to be a war that could prove our worth. I cannot go for peace now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_OPEN_BORDERS_EXCHANGE">
+			<Text>The ability to traverse our waters would benefit you greatly. Care to accept?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_REPEAT_NO_1">
+			<Text>Please, take your foolish deals to some other place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_RESPONSE_REQUEST_1">
+			<Text>Hey there friend. Do you think you could spare some supplies? Of course, I'll use it for your benefit, too.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Not sure what a small island nation can do to displease the other nations of the world, so maybe you should just take your petty little denunciations elsewhere.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_TOO_SOON_NO_PEACE_1">
+			<Text>Already backing out of a war with a harmless island nation? Don't worry, we can say we're fighting for a little longer, to help disguise your cowardice from your people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_WINWAR_1">
+			<Text>I can't imagine the embarassment you must be facing from suffering a loss from such a tiny island nation.</Text>
+		</Row>
+	<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_0">
+			<Text>Victoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_1">
+			<Text>Anse Boileau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_2">
+			<Text>Baie Sainte Anne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_3">
+			<Text>Bel Ombre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_4">
+			<Text>Glacis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_5">
+			<Text>Beau Vallon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_6">
+			<Text>Grand'Anse Praslin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_7">
+			<Text>Cascade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_8">
+			<Text>La Passe Silhouette</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_9">
+			<Text>Anse Royale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_10">
+			<Text>La Passe La Digue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_11">
+			<Text>Pointe La Rue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_12">
+			<Text>Baie Lazare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_13">
+			<Text>Grand'Anse Mahé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_14">
+			<Text>Takamaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_15">
+			<Text>Coëtivy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_16">
+			<Text>Anse Aux Pins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_17">
+			<Text>Anse Etoile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_18">
+			<Text>Port Glaud</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_19">
+			<Text>English River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_20">
+			<Text>Mont Fleuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_21">
+			<Text>Plaisance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_22">
+			<Text>Mont Buxton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_23">
+			<Text>Bel Air</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_24">
+			<Text>Roche Caïman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_25">
+			<Text>North Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_26">
+			<Text>Desroches</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_27">
+			<Text>Marie Louise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_28">
+			<Text>Frégate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_29">
+			<Text>Eden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_30">
+			<Text>Cerf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_31">
+			<Text>Alphonse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_32">
+			<Text>Denis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_33">
+			<Text>D'Arros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_34">
+			<Text>Bird</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_35">
+			<Text>Farquhar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_36">
+			<Text>Félicité</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_37">
+			<Text>Cousine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_38">
+			<Text>Assumption</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_39">
+			<Text>Round Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_40">
+			<Text>Poivre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_41">
+			<Text>Aride</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_42">
+			<Text>Curieuse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_43">
+			<Text>Platte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_44">
+			<Text>Remire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_45">
+			<Text>Cousin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_SEYCHELLES_46">
+			<Text>Aldabra</Text>
+		</Row>
+	<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_SEYCHELLES_0">
+			<Text>James</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_SEYCHELLES_1">
+			<Text>Danny</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_SEYCHELLES_2">
+			<Text>Vincent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_SEYCHELLES_3">
+			<Text>Joseph</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_SEYCHELLES_4">
+			<Text>Jean-Marc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_SEYCHELLES_5">
+			<Text>Michel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_SEYCHELLES_6">
+			<Text>Antoine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_SEYCHELLES_7">
+			<Text>Kantilal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_SEYCHELLES_8">
+			<Text>Nirmal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_SEYCHELLES_9">
+			<Text>Patrick</Text>
+		</Row>
+	<!-- Additional Achievements -->
+		<!-- <Row Tag="TXT_KEY_MOD_JWW_SEYCHELLES_NAME">
+			<Text>JakeWalrusWhale's Seychelles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_JWW_SEYCHELLES_MODID">
+			<Text>e35c9941-233b-4432-92d2-47bf66d5c2ca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_JWW_SEYCHELLES_AUTHORS">
+			<Text>JakeWalrusWhale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_JWW_SEYCHELLES_VICTORY_HEADER">
+			<Text>Koste Seselwa!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_JWW_SEYCHELLES_VICTORY_TEXT">
+			<Text>Win as Seychelles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAB_JWW_CIVS_HEADER">
+			<Text>JakeWalrusWhale's Civilizations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAB_JWW_CIVS_DESCRIPTION">
+			<Text>Achievements for mods created by JakeWalrusWhale</Text>
+		</Row> -->
+	<!-- Cultural Influence -->
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_INFLUENTIAL_ON_HUMAN_1">
+			<Text>Our people are now going on island vacations and fending off pirates. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_INFLUENTIAL_ON_AI_1">
+			<Text>We are glad to see that your people are going on island vacations and fending off pirates. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2d364156-f7c7-428f-b1a0-cd1e59c7276e" version="2">
+  <Properties>
+    <Name>[BNW] Senshi's Pakistan (Muhammad Ali Jinnah)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Islamic Republic of Pakistan into the game, under its Baba-e-Qaum Muhammad Ali Jinnah!</Teaser>
+    <Description>Adds the Islamic Republic of Pakistan into the game, under its Baba-e-Qaum Muhammad Ali Jinnah!
+
+Credits:
+Senshi: Design, Art (Map), Additional Code &amp; Text
+Chrisy15: Lua
+TopHatPaladin: Lua
+Darth_Kyofu: Art (Leaderscene &amp; Icon, Urdu Society Icon)
+Arilasqueto: Art (Police Ranger Icon)
+Zharques: Text (Pedias and DoM)
+bernie14: Unit Models</Description>
+    <Authors>Senshi</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="33C099F0ED3D4FE400D69D9C0A571B72" import="1">Art/Atlas/AtlasDefines.xml</File>
+    <File md5="DFE713BD9FE0792E01FDDB6B274BB0F6" import="1">Art/Atlas/PakistanAlpha128.dds</File>
+    <File md5="1F20BC618F57AD546AF0D6F7719A7BC7" import="1">Art/Atlas/PakistanAlpha16.dds</File>
+    <File md5="DF6802B8FD8DE87162F543B43FFEDB3B" import="1">Art/Atlas/PakistanAlpha24.dds</File>
+    <File md5="262ADD96D0C5038AED4494406AABD4AB" import="1">Art/Atlas/PakistanAlpha256.dds</File>
+    <File md5="56D8382ACDFA14236117BE6998A2CE2A" import="1">Art/Atlas/PakistanAlpha256.png</File>
+    <File md5="682B5B845B1B93EA888983583AA2F238" import="1">Art/Atlas/PakistanAlpha32.dds</File>
+    <File md5="03DF463D4C06F7D913EF4FCC408E319A" import="1">Art/Atlas/PakistanAlpha48.dds</File>
+    <File md5="C1207632D6E66F3AED5C6359E7046820" import="1">Art/Atlas/PakistanAlpha64.dds</File>
+    <File md5="65A0D188693A23D83356D8EC410BD3C4" import="1">Art/Atlas/PakistanAlpha80.dds</File>
+    <File md5="0D8129B363129FBD09B2B2DBAFEAAD18" import="1">Art/Atlas/PakistanAtlas128.dds</File>
+    <File md5="2562FFC51A331FDA4C73E0D59979012A" import="1">Art/Atlas/PakistanAtlas256.dds</File>
+    <File md5="FA353115229DE13A87D5151ED3197F9F" import="1">Art/Atlas/PakistanAtlas256.png</File>
+    <File md5="A68AF5243762FD208409F8354CC80244" import="1">Art/Atlas/PakistanAtlas32.dds</File>
+    <File md5="08AAA846FEDBE68FB4728C204113213E" import="1">Art/Atlas/PakistanAtlas45.dds</File>
+    <File md5="D46BC4CFD640153CA3D61ED1F32938E4" import="1">Art/Atlas/PakistanAtlas48.dds</File>
+    <File md5="1CFA2ED6820031B4221692ACD05A4524" import="1">Art/Atlas/PakistanAtlas64.dds</File>
+    <File md5="E01D78F005A9264F1AD7884E8146B532" import="1">Art/Atlas/PakistanAtlas80.dds</File>
+    <File md5="B59C5426302D159508922A474A755805" import="1">Art/Atlas/PoliceRangerFlag32.dds</File>
+    <File md5="37627A6EC177F87DDF48BFF28C2C1154" import="1">Art/JinnahDoM.dds</File>
+    <File md5="99F0C0A1EE45E5D8ABDE8F1693FD7234" import="1">Art/JinnahLS.dds</File>
+    <File md5="284CD29A5F3DA914823EF890807CD81D" import="1">Art/Music/PakistanPeace.mp3</File>
+    <File md5="964D82BCF8813E03754A9EE3BAE933FA" import="1">Art/Music/PakistanWar.mp3</File>
+    <File md5="316BFBE1F954FF293D7A33500147E1AA" import="0">Art/Music/SoundRig.xml</File>
+    <File md5="8658B3DBDA44483BCAA8DE128053C735" import="1">Art/PakistanMap412.dds</File>
+    <File md5="F82E0B5FCBF1E46A45F2FA16540B9B09" import="0">Art/Units/ModelRig.xml</File>
+    <File md5="45E995F495560AE368F2700C389BA37E" import="1">Art/Units/indgw1.blend</File>
+    <File md5="287A792333EE59996DE5567F15DA1FEB" import="1">Art/Units/indgw1.dds</File>
+    <File md5="7BDEFBB38E73DA54248A94619E9C156A" import="1">Art/Units/indgw1.fxsxml</File>
+    <File md5="398831A583646E92E379CC1727A83D3D" import="1">Art/Units/indgw1.gr2</File>
+    <File md5="0C759F1CED95795CCFBE40C6BD9A963C" import="1">Art/Units/no_gloss.dds</File>
+    <File md5="A39463A4AE4F0C0B9610BEC225097BDF" import="1">Art/Units/sv_PoliceRanger.dds</File>
+    <File md5="0EEE0BA60D5B996634AAA38D80173379" import="0">Core/Buildings.sql</File>
+    <File md5="90D2FBA85AB7A19E57D94F258CDD7576" import="0">Core/Civilizations.sql</File>
+    <File md5="F784893CB48644800E647BB7456D0F9D" import="0">Core/DiplomacyResponses.xml</File>
+    <File md5="34849F4B03A2E5B23E657A80249B9835" import="0">Core/GameText.xml</File>
+    <File md5="D07E88A9ABD7A678CA883BD31185EADB" import="0">Core/Leaderhead.sql</File>
+    <File md5="C3C8B70B0D64B5A0D7024B230E245BF9" import="0">Core/ModSupport.sql</File>
+    <File md5="8F7B5135A8D24A44420B50F0F628ACD9" import="0">Core/PlayerColours.sql</File>
+    <File md5="ECEDE888FC5BABFF5F4BADC8A9A83F83" import="0">Core/SenshiPakistan.lua</File>
+    <File md5="147570A4A73576BF5EF3931662DAA7E1" import="1">Core/Senshi_Jinnah_Scene.xml</File>
+    <File md5="A9D9C8E6E764FA29D143DF468BCA4354" import="0">Core/Traits.sql</File>
+    <File md5="9CC54B3775D1E3BFDE4FB6BEBD03B078" import="0">Core/Units.sql</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Atlas/AtlasDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Units/ModelRig.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Music/SoundRig.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/SenshiPakistan.lua">
+      <Name>SenshiPakistan</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

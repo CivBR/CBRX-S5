@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/31/2015 3:12:07 AM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_URDNOT_TYRANTS_BLOOD</Type>
+			<Description>TXT_KEY_TRAIT_URDNOT_TYRANTS_BLOOD</Description>
+			<ShortDescription>TXT_KEY_TRAIT_URDNOT_TYRANTS_BLOOD_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

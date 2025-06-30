@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/4/2020 12:04:59 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- City names -->
+		<Row Tag="TXT_KEY_BUILDING_GT_ROURAN">
+			<Text>Mumo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_GT_AQUIFER_TEXT">
+			<Text>Mumo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_1">
+			<Text>Mumo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_2">
+			<Text>Huaishuo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_3">
+			<Text>Xihai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_4">
+			<Text>Nirun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_5">
+			<Text>Mayi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_6">
+			<Text>Woulouhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_7">
+			<Text>Gaochang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_8">
+			<Text>Hetulin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_9">
+			<Text>Woye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_10">
+			<Text>Ulansuhai Nur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_11">
+			<Text>Huaiyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_12">
+			<Text>Khermen Tal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_13">
+			<Text>Dubo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_14">
+			<Text>Tutuyshan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_15">
+			<Text>Rouxuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_16">
+			<Text>Yuyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_17">
+			<Text>Huaihuang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_18">
+			<Text>Hanhaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_19">
+			<Text>Kharaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_20">
+			<Text>Chuluut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_21">
+			<Text>Chultukov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_22">
+			<Text>Tatabi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_23">
+			<Text>Qushe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_24">
+			<Text>Tufa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_25">
+			<Text>Turkut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_26">
+			<Text>Olkhonud</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_27">
+			<Text>Kumo Xi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_28">
+			<Text>Gekun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_29">
+			<Text>Dubo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_ROURAN_30">
+			<Text>Muyun</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_GT_ROURAN_9">
+			<Text>Anagui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_ROURAN_8">
+			<Text>Wenheti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_ROURAN_7">
+			<Text>Heduohan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_ROURAN_6">
+			<Text>Pihouba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_ROURAN_5">
+			<Text>Tunugui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_ROURAN_4">
+			<Text>Cheluhui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_ROURAN_3">
+			<Text>Ruru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_ROURAN_2">
+			<Text>Duoze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_ROURAN_1">
+			<Text>Yungueti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_ROURAN_0">
+			<Text>Shelun</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIVILIZATION_GT_ROURAN">
+			<Text>Rouran Khaganate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GT_ROURAN_SHORT">
+			<Text>Rouran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GT_ROURAN_ADJECTIVE">
+			<Text>Rouran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GT_ROURAN_HEADING_1">
+			<Text>History</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CIV5_GT_ROURAN_TEXT_1">
+			<Text>The Rouran Khaganate was a tribal confederation and later state founded by a people of Proto-Mongolic Donghu origin. The Rouran supreme rulers are noted for being the first to use the title of "khagan", having borrowed this popular title from the Xianbei. The Rouran Khaganate lasted from the late 4th century until the middle 6th century, when they were defeated by a Göktürk rebellion which subsequently led to the rise of the Turks in world history. Their Khaganate overthrown, some Rouran remnants possibly became Tatars while others migrated west and became the Pannonian Avars (known by such names as Varchonites or Pseudo Avars), who settled in Pannonia (centred on modern Hungary) during the 6th century. However, this Rouran-Avars link remains a controversial theory. The Avars were pursued into the Byzantine Empire by the Göktürks, who referred to the Avars as a slave or vassal people, and requested that the Byzantines expel them. Other theories instead link the origins of the Pannonian Avars to peoples such as the Uar.[NEWLINE][NEWLINE]The founder of the Rouran Khaganate, Yujiulu Shelun, was descended from slaves of the Xianbei whose women were commonly taken as wives or concubines. The endonym Rouran itself was distorted by the Xianbei into exonyms Ruru or Ruanruan, meaning something akin to "wriggling worms". After the Xianbei migrated south and settled in Chinese lands during the late 3rd century AD, the Rouran made a name for themselves as fierce warriors. However they remained politically fragmented until 402 AD when Shelun gained support of all the Rouran chieftains and united the Rouran under one banner. Immediately after uniting, the Rouran entered a perpetual conflict with Northern Wei, beginning with a Wei offensive that drove the Rouran from the Ordos region. The Rouran expanded westward and defeated the neighboring Tiele people and expanded their territory over the Silk Roads, even vassalizing the Hephthalites which remained so until the beginning of the 5th century. The Hepthalites migrated southeast due to pressure from the Rouran and displaced the Yuezhi in Bactria, forcing them to migrate further south. Despite the conflict between the Hephthalites and Rouran, the Hephthalites borrowed much from their eastern overlords, in particular the title of "Khan" which was first used by the Rouran as a title for their rulers.[NEWLINE][NEWLINE]In 551, Bumin of the Ashina Göktürks quelled a Tiele revolt for the Rouran and asked for a Rouran princess for his service. The Rouran refused and in response Bumin declared independence. Bumin entered a marriage alliance with Western Wei, a successor state of Northern Wei, and attacked the Rouran in 552, killing Yujiulü Anagui. Bumin declared himself Illig Khagan of the Turkic Khaganate after conquering Otuken; Bumin died soon after and his son Issik Qaghan succeeded him. Issik continued attacking the Rouran but died a year later in 553. In 555, Turks invaded and occupied the Rouran and Yujiulü Dengshuzi led 3000 soldiers in retreat to Western Wei. He was later delivered to Turks by Emperor Gong with his soldiers under pressure from Muqan Qaghan. That same year, Muqan annihilated the Rouran.</Text>
+		</Row>
+		<!-- Bayan -->
+		<Row Tag="TXT_KEY_LEADER_GT_YUJIULU_MUGULU">
+			<Text>Yujiulü Mugulü</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_YUJIULU_MUGULU_HEADING_1">
+			<Text>History</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_YUJIULU_MUGULU_TEXT_1">
+			<Text>Yujiulü Mugulü was a Xianbei slave and the ancestor of the Yujiulü clan, from whom sprang the founders of the Rouran Khaganate. After reaching adulthood, Mugulü was noted for his strength and emancipated; then became a warrior in the Xianbei cavalry, during the reign of Tuoba Yilu of Dai (307-316), son of Tuoba Shamohan, who was head of the Tuoba clan, Duke of Dai, and later, Prince of Dai, being the founder of this Xianbei kingdom. However, he tarried past the deadline and was sentenced to death by beheading. He vanished and hid amidst the Yellow Desert's streams and valleys for a time, gathered and united up to and over one hundred of escapees. The escapees sought refuge under a Gaoche (Tiele) tribe called Hetulin. After Mugulü's death, his son Cheluhui became a courageous, rough hero, acquired his own tribal horde and either he was or his tribe were called Rouran. Cheluhui's government was marked by nomadism and peace, but they remained subjects to the Xianbei Tuobas. Later, he would be succeeded by his son, Tunugui, son of Cheluhui and grandson of Mugulü.[NEWLINE][NEWLINE]Around 330, Mugulü's descendants multiplied into the Yujiulü clan. Mugulü's son Cheluhui gathered and led an independent tribe, self-proclaimed Rouran. Much later, Yujiulü Shelun (or Jarun), turns his tribe into a vast nomadic empire, which would be overthrown in 551 by their subjects, the Göktürks, under the leadership of Ashina Tumen (real name Bumin). Bumin's second son Muqan Qaghan, allying with the Sinicized Xianbei Northern Zhou dynasty, completely annihilated the Rourans in 555, effectively replacing the dynastic rule of the Yujilü clan with the Ashina tribe's rule and establishing the first empire of the nomadic Turkic peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_YUJIULU_MUGULU_NAME">
+			<Text>Yujiulü Mugulü</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_YUJIULU_MUGULU_SUBTITLE">
+			<Text>Chief of the Rouran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_YUJIULU_MUGULU_TITLES_1">
+			<Text>Honoured among the Gaoche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_YUJIULU_MUGULU_LIVED">
+			<Text>265 - 330 A.D.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_GT_ROURAN_TEXT">
+			<Text>Even in the barren desert, you sowed the seeds of greatness. Great father of the Rouran Dynasty, father to the Rouran Khaganate, you broke the shackles of Chinese and Xianbei dominion and set out on an unshakable mission to free your people. While you were just a hardy tribe by the time of your death, you raised your son a great warrior, who raised his son a great warrior and his son until no man ever dared to question the Rouran Khagan. For the first time, the steppe had a leader - the khan - who would lead it to victory time and time again. What you set in motion came crashing down the world over nearly a thousand years later - the rule of the steppe was supreme.[NEWLINE][NEWLINE]Great rugged champion of the steppe, the hardy beetle who knows no limits, the time has come to assume your supremacy over the steppe. Empires north and south vie for power over the other. Will you be the khagan who can confound both and destroy them all? Can you rally your people in multitude in the face of unthinkable odds? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GT_ROURAN_SHORT">
+			<Text>Empire Of The Hidden River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GT_ROURAN">
+			<Text>Units become invisible to enemy units if traversing along Desert near to a source of Fresh Water. While at war with a City-State, mounted units claim any tiles of theirs they move into.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_GT_WRIGGLING_RIDER_DESC">
+			<Text>Wriggling Rider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_WRIGGLING_RIDER_TEXT">
+			<Text>The Jin and Sui dynasties often denigrated the Rouran as 'locusts' or 'wriggling worms', which perhaps originated from the history of the Rouran clan dynasty, with its founder escaping from Xianbei and Chinese captivity and hiding for thirty years with a small tribe of Tiele Turks in the Gobi desert. It might have also come from the battle tactics of the Rouran, who became notorious for their raiding prowess and speed at which they outran the enemy. After establishing and allying with several states in the northern Chinese plain - Later Zhao and Northern Wei among them - they became the sworn enemy of China. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_WRIGGLING_RIDER_HELP">
+			<Text>Replaces the Horseman. +1 Movement during Golden Ages. On Fresh Water and next to Barbarians, the Wriggling Rider's movement points are refreshed. May dig Wells in Plains and Desert that provide Fresh Water.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_WRIGGLING_RIDER_STRATEGY">
+			<Text>On Fresh Water and next to Barbarians, the Wriggling Rider's movement points are refreshed.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_PROMOTION_GT_ROURAN">
+			<Text>Empire of the Hidden River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_ROURAN_HELP">
+			<Text>Units become invisible to enemy units if traversing along Desert near to a source of Fresh Water. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_WRIGGLING_RIDER">
+			<Text>Wriggling Rider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_WRIGGLING_RIDER_HELP">
+			<Text>On Fresh Water and next to Barbarians, the Wriggling Rider's movement points are refreshed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_NONOR">
+			<Text>Companions of the Khagan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_NONOR_HELP">
+			<Text>Upon capturing a Great General or City-State, the Nönör can choose to upgrade into a Khan, who may construct Citadels and yield Golden Age Points when moving in enemy territory, increased if stacked.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_ORTEGE">
+			<Text>Örtege Relay Stations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_ORTEGE_HELP">
+			<Text>During a [ICON_GOLDEN_AGE] Golden Age, mounted units may recover half their movement points and health while stationed on a Örtege.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GT_NONOR">
+			<Text>Nönör</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GT_NONOR_TEXT">
+			<Text>The personal companions of the Rouran Khagan, similar to the comitates of a Roman caesar or general, were known as nönör. This was eventaully to lead to the name of the Rouran Khaganate, with Nönör translated by the Chinese first to ńu-ńan, then to ruǎnruǎn, intentionally as that also meant 'wriggling worm' in the Han language. The Nönör were considered socially untouchable in Rouran society, as them and their ancestors had helped the early Rouran khagans, the first of whom fled from slavery into the desert, followed by a motley band of fellow slaves and errant mercenaries, grow from a small tribe to a formidable steppe empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GT_NONOR_HELP">
+			<Text>Replaces the Great General. May attack units, but only when within 4 tiles of another Nönör or Khan. Upon capturing a Great General or City-State, the Nönör can choose to upgrade into a Khan, who may construct Citadels and yield Golden Age Points when moving in enemy territory, increased if stacked.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GT_NONOR_STRATEGY">
+			<Text>Upon capturing a Great General or City-State, the Nönör can choose to upgrade into a Khan, who may construct Citadels and yield Golden Age Points when moving in enemy territory, increased if stacked.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_GT_ORTEGE">
+			<Text>Örtege</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_GT_ORTEGE_TEXT">
+			<Text>Örtege were a system of horse relay stations, where horses and their supplies would be kept temporarily to be picked up by the next cavalry leader or bannerman. This innovation existed before Genghis Khan, but its widespread application across the Mongol Empire allowed for the rapid conquest he is associated with today, as well as with the relative economic stability and prosperity in the first century of Mongol and Yuan rule, particulary under Ogedei Khan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_GT_ORTEGE_HELP">
+			<Text>Unlocked at Currency. May only be built on Plains and Desert. +1 [ICON_GOLD] Gold for every Pasture and Trade Route that passes over or adjacent it. During a [ICON_GOLDEN_AGE] Golden Age, mounted units may recover half their movement points and health while stationed on a Örtege.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_GT_ORTEGE_STRATEGY">
+			<Text>During a [ICON_GOLDEN_AGE] Golden Age, mounted units may recover half their movement points and health while stationed on a Örtege.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_BUILD_GT_ORTEGE_REC">
+			<Text>Build an Örtege here!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_GT_ORTEGE_HELP">
+			<Text>May only be built on Plains and Desert. +3 [ICON_GOLD] Gold for every Pasture and Trade Route adjacent to it.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_FEATURE_GT_AQUIFER">
+			<Text>Aquifer</Text>
+		</Row> 	
+		<Row Tag="TXT_KEY_FEATURE_GT_AQUIFER_TEXT">
+			<Text>Provides a source of Fresh water.</Text>
+		</Row> 	
+		<Row Tag="TXT_KEY_IMPROVEMENT_GT_AQUIFER">
+			<Text>Aquifer</Text>
+		</Row> 	
+		<Row Tag="TXT_KEY_IMPROVEMENT_GT_AQUIFER_HELP">
+			<Text>Provides a source of Fresh water. Unique to the Rouran</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_BUILD_GT_AQUIFER_HELP">
+			<Text>Provides a source of Fresh water. Unique to the Rouran. May only be built in Plains and Desert.</Text>
+		</Row> 		
+		<Row Tag="TXT_KEY_BUILD_GT_AQUIFER_REC">
+			<Text>Build a Well here!</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_BUILDING_GT_WRIGGLING_WATER">
+			<Text>Rouran: The Hidden River</Text>
+		</Row> 	
+		<Row Tag="TXT_KEY_BUILDING_GT_WRIGGLING_WATER_HELP">
+			<Text>Provides a source of Fresh Water</Text>
+		</Row> 			
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_1">
+			<Text>Wuti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_2">
+			<Text>Nagai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_3">
+			<Text>Cheluhui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_4">
+			<Text>Disunyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_5">
+			<Text>Pihouba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_6">
+			<Text>Wenheti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_7">
+			<Text>Bati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_8">
+			<Text>Anagui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_9">
+			<Text>Chounu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_10">
+			<Text>Tiefa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_11">
+			<Text>Anlouchen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_12">
+			<Text>Dengzhu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_13">
+			<Text>Kangti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_14">
+			<Text>Mouhanheshenggai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_15">
+			<Text>Tuohan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_16">
+			<Text>Chiliantoubingdoufa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_17">
+			<Text>Mioukesheju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_18">
+			<Text>Aikugai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_19">
+			<Text>Qiudoufa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_KHAN_20">
+			<Text>Houqifudaikezhe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_1">
+			<Text>Bati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_2">
+			<Text>Hedouhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_3">
+			<Text>Tuoba Liuxiu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_4">
+			<Text>Mouhanheshenggai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_5">
+			<Text>Chilian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_6">
+			<Text>Shouluobuzhen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_7">
+			<Text>Fumingdun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_8">
+			<Text>Chiliantoubingdoufa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_9">
+			<Text>Mioukesheju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_10">
+			<Text>Douluofubadoufa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_11">
+			<Text>Shiping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_12">
+			<Text>Anluochen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_13">
+			<Text>Kangti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_14">
+			<Text>Afuti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_15">
+			<Text>Qilifa Shifa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_16">
+			<Text>Poluomen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_17">
+			<Text>Guangmu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_18">
+			<Text>Tunugui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_19">
+			<Text>Mugului</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GT_NONOR_20">
+			<Text>Tuoba Yilu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ROURAN_DESC">
+			<Text>Rouran Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ROURAN_HELP">
+			<Text>Rouran Trait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ORTEGE">
+			<Text>Ortege Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_ORTEGE_HELP">
+			<Text>Ortege Dummy</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_GT_YUJIULU_MUGULU_FIRSTGREETING_1">
+			<Text>So you found my hiding place! For that, I welcome you to our Hetulin guests. They'll be staying until I find a way to finish them off.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_YUJIULU_MUGULU_DEFEATED_1">
+			<Text>You have triumphed over the steppe. I will ride west in search of pastures for my people. The land of Da Qin looks promising, but I know not what they possess.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_YUJIULU_MUGULU_ATTACKED_HOSTILE_1">
+			<Text>You think you have attacked a small contigent of men. You are mistaken! You have awoken the entire steppe! The steppe thunders towards you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_YUJIULU_MUGULU_DEC_FRIENDSHIP_1">
+			<Text>A pact of mutual friendship between use might come of use in these times. That's if you've got enough gifts on offer, of course.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_YUJIULU_MUGULU_DENOUNCE_1">
+			<Text>What I denounce you with is only a fraction of what others have degraded me with. Consider yourself lucky.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_YUJIULU_MUGULU_DENOUNCE_FRIEND_1">
+			<Text>I cannot let your thousands of transgressions pass. Betraying me feels worse than if you opposed me from the start.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_YUJIULU_MUGULU_DOW_GENERIC_1">
+			<Text>The steppe thunders towards you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_YUJIULU_MUGULU_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Very well. I should have known how to tell apart friend and foe long ago. I want to thank you for making your intentions clear, then I can at least deal with you first.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

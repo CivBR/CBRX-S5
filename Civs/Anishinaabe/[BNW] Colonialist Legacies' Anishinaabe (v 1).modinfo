@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7f240771-44f6-4f49-9869-ff0afcc8f72e" version="1">
+  <Properties>
+    <Name>[BNW] Colonialist Legacies' Anishinaabe</Name>
+    <Teaser>In this mod you'll play as Pontiac, the legendary leader of the Anishinaabe.</Teaser>
+    <Description>In this mod you'll play as Pontiac, the legendary leader of the Anishinaabe. You'll step into his role as military and spiritual leader of a people on the brink of war, reliving a brief period of sudden bloodshed, when the Anishinaabe used cunning and determination to strike at the strongholds of their enemy.</Description>
+    <Authors>Neirai the Forgiven, TPangolin, Leugi, reedstilt, Sukritact</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="E97D1FCD38AFBFDB568E8DCD990DC8F4" import="1">Art/AnishinaabeAlpha_128.dds</File>
+    <File md5="B5655667E5A7E55A11FE6838BDEEE41E" import="1">Art/AnishinaabeAlpha_16.dds</File>
+    <File md5="0EB65479835919CEBAD8B6155460B8D6" import="1">Art/AnishinaabeAlpha_24.dds</File>
+    <File md5="DDA7B462FC0046B0DCB56B0DC59E8391" import="1">Art/AnishinaabeAlpha_32.dds</File>
+    <File md5="3C2C7FD8A94613A902467D369B832389" import="1">Art/AnishinaabeAlpha_45.dds</File>
+    <File md5="2D5C53389E2B75F38BA0BA39F3941404" import="1">Art/AnishinaabeAlpha_48.dds</File>
+    <File md5="2377925317563D329069A476DA805900" import="1">Art/AnishinaabeAlpha_64.dds</File>
+    <File md5="873211A179059690BF4D72649909D798" import="1">Art/AnishinaabeAlpha_80.dds</File>
+    <File md5="F706A6B65FD1A510BB6ADDC28CEA6B89" import="1">Art/AnishinaabeDoM.dds</File>
+    <File md5="5E6D227D0FBA221D84BD50786B7BD5DD" import="1">Art/AnishinaabeIcon_128.dds</File>
+    <File md5="AE845BFA81626AF107375B7ECAC35EA0" import="1">Art/AnishinaabeIcon_16.dds</File>
+    <File md5="F6D8785EA0C6182F889C5441851767DA" import="1">Art/AnishinaabeIcon_24.dds</File>
+    <File md5="CB34FB9BCF012CED80C8197F01A19114" import="1">Art/AnishinaabeIcon_256.dds</File>
+    <File md5="A68C5B92FACED96B9A652BF56CA36FB4" import="1">Art/AnishinaabeIcon_32.dds</File>
+    <File md5="45047702196800881DD8FCE1F25FD13F" import="1">Art/AnishinaabeIcon_45.dds</File>
+    <File md5="B6B664374AB95F4D1D338BB7F1F2C308" import="1">Art/AnishinaabeIcon_48.dds</File>
+    <File md5="53D4A0A1384F5407E61BA0E99EA5C162" import="1">Art/AnishinaabeIcon_64.dds</File>
+    <File md5="E9BE3EE9872E79ADFC1602538F0C579E" import="1">Art/AnishinaabeIcon_80.dds</File>
+    <File md5="7509AD56B050A8B487CA33FBE778DF74" import="1">Art/AnishinaabeMap.dds</File>
+    <File md5="5706BF34E2C4E028663AE1AD53339227" import="1">Art/black_4x4.dds</File>
+    <File md5="338F6B4CB2D7CCAC56BAD64098C8A676" import="1">Art/CL_Ogichidaa.dds</File>
+    <File md5="4405D08D71154A6EF8080BC9939D7B12" import="1">Art/CL_Ogichidaa.fxsxml</File>
+    <File md5="765072D82D6BE794B3F0B6CF3B823483" import="1">Art/CL_Ogichidaa.gr2</File>
+    <File md5="FF44842298C3220F093EDE79355EFAC6" import="0">Art/AnishinaabeAtlases.sql</File>
+    <File md5="82605D63CBFAFAFF9572CA1C26646FE2" import="1">Art/MidewFlag.dds</File>
+    <File md5="6D892B2B3CDD7D6AB0805BD6ECB075B5" import="1">Art/OgichiidaFlag.dds</File>
+    <File md5="49ABABC0F9B19E445412A560FF5BB4CF" import="1">Art/PontiacDiploScreen.dds</File>
+    <File md5="C0A850D0D42EDFC19BABB865D8402A15" import="1">Art/SV_Midew.dds</File>
+    <File md5="F280B804C61BBE03A553769384256706" import="1">Art/SV_Ogichiida.dds</File>
+    <File md5="159D2BAB4C9DFAA9C6731FC8C01B7658" import="1">Art/u_anishinaabe_medicine_man.fxsxml</File>
+    <File md5="5F1EB213A1EAC20CC1DA06F24C173A89" import="1">Art/u_anishinaabe_medicine_man.gr2</File>
+    <File md5="BA0D13FB897EFEA0E85613C0C522463D" import="1">Art/u_anishinaabe_medicine_man_diff.dds</File>
+    <File md5="5125E12E4B8C52B03BCE8895D0BE8FF0" import="0">Civ/Anishinaabe.sql</File>
+    <File md5="84BBB6A4C71936399AE8648935F1C08B" import="1">Civ/CLPontiac_Scene.xml</File>
+    <File md5="8328C70916933AB0EEF6C25566CE7E62" import="0">Civ/CL_ANISHINAABE_COLONIES.xml</File>
+    <File md5="3511EFD542D1801C8995673689E6ABB8" import="0">Civ/CL_ANISHINAABE_EXCE.sql</File>
+    <File md5="3F20DD8B5837663DE949F08A88E69BBB" import="0">Civ/CL_ANISHINAABE_ML.sql</File>
+    <File md5="5D542990578CC71897985A7456293B52" import="0">Civ/CL_ANISHINAABE_THR.sql</File>
+    <File md5="86BD4E120054A47322BC4695044117D0" import="0">Civ/Pontiac_Talks.sql</File>
+    <File md5="63CFAAEB85022D7F9981C4587DA09189" import="1">Civ/Midew.xml</File>
+    <File md5="D04337834F61797D41F458138E4E4F63" import="0">Civ/GhostHunters.sql</File>
+    <File md5="227C303917EE54D920CE67E45164B319" import="0">Civ/GhostHunters.lua</File>
+    <File md5="2B1D56DFF0F4A29D9274F2ED531F97F5" import="0">Civ/Midew.lua</File>
+    <File md5="EF92CD4CC8053712B9C88492BCAC275E" import="0">Civ/Midew.sql</File>
+    <File md5="2B8906FCF2BEC333D4791A8376908780" import="0">Civ/Ogichida.sql</File>
+    <File md5="A2EF96C8F12B3070ACAE44BBCC784889" import="0">Civ/Pontiac.sql</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Civ/Sukritact_SaveUtils.lua</File>
+    <File md5="6EF914837344095421169EE38A2091AC" import="1">Decisions/Anishinaabe_Decisions.lua</File>
+    <File md5="D6C3CFE54E6DB2347B62BC37382E3C13" import="0">Decisions/Decisions.sql</File>
+    <File md5="BC940312C02433C0BFD40290ED14D49E" import="0">Music/AnishinaabeMusic.sql</File>
+    <File md5="A79E9E0879C12B9451BF37C1200FC4D3" import="1">Music/AnishinaabePeace.mp3</File>
+    <File md5="7598EA419E9B8B6EEE47F180C76F6AA1" import="1">Music/AnishinaabeWar.mp3</File>
+    <File md5="E72382A689461F08DC05163854233F2E" import="1">Music/AnishinaabeDOM.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Music/AnishinaabeMusic.sql</UpdateDatabase>
+      <UpdateDatabase>Art/AnishinaabeAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>Civ/Midew.sql</UpdateDatabase>
+      <UpdateDatabase>Civ/Ogichida.sql</UpdateDatabase>
+      <UpdateDatabase>Civ/GhostHunters.sql</UpdateDatabase>
+      <UpdateDatabase>Civ/Pontiac_Talks.sql</UpdateDatabase>
+      <UpdateDatabase>Civ/Pontiac.sql</UpdateDatabase>
+      <UpdateDatabase>Civ/Anishinaabe.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Civ/CL_ANISHINAABE_EXCE.sql</UpdateDatabase>
+      <UpdateDatabase>Civ/CL_ANISHINAABE_ML.sql</UpdateDatabase>
+      <UpdateDatabase>Civ/CL_ANISHINAABE_THR.sql</UpdateDatabase>
+      <UpdateDatabase>Civ/CL_ANISHINAABE_COLONIES.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Civ/GhostHunters.lua">
+      <Name>GhostHunters</Name>
+      <Description>SpyPowers</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Civ/Midew.lua">
+      <Name>Midew</Name>
+      <Description>Allows you to incite city-states</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

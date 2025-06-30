@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a66886c0-c7ab-4497-9fab-76e540b607f8" version="1">
+  <Properties>
+    <Name>DMS' Civilizations - Ma'in (Waqah'il Sadiq I)</Name>
+    <Teaser>This adds [COLOR_POSITIVE_TEXT]The Minaeans[ENDCOLOR] led by Waqah'il Sadiq I to the game.</Teaser>
+    <Description>See more on civfanatics.com</Description>
+    <Authors>DMS</Authors>
+    <SpecialThanks>durth</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="32B637D4384D715D85D65DCB5256F397" import="1">Art/Diplomacy/DMS_waqah_il_sadiq_scene.xml</File>
+    <File md5="88DA6170F64CAACE9B9562002A95AA59" import="1">Art/Diplomacy/DMS_waqah_il_sadiq_scene.dds</File>
+    <File md5="643ADA61B963D59978BC4C6B81A6B3B5" import="1">Art/Graphics/DMS_sv_u_kabir.dds</File>
+    <File md5="600B357F98D5EC31F3E2F8C4D59813E7" import="1">Art/Icon Atlas/DMS_MinaeansAlphaAtlas_128.dds</File>
+    <File md5="A726A39E3368D3E880AEFDC91F943C86" import="1">Art/Icon Atlas/DMS_MinaeansAlphaAtlas_16.dds</File>
+    <File md5="2FB5EB7945136459D2909E464460C475" import="1">Art/Icon Atlas/DMS_MinaeansAlphaAtlas_24.dds</File>
+    <File md5="36411EDF057F871C0C76B29181349932" import="1">Art/Icon Atlas/DMS_MinaeansAlphaAtlas_256.dds</File>
+    <File md5="A0C9B49FCFA959622C7ADB24FE76F5C6" import="1">Art/Icon Atlas/DMS_MinaeansAlphaAtlas_32.dds</File>
+    <File md5="EEF6739727B3681C6243D423E552992D" import="1">Art/Icon Atlas/DMS_MinaeansAlphaAtlas_45.dds</File>
+    <File md5="230E9F50295501D65DE02BD1497081FC" import="1">Art/Icon Atlas/DMS_MinaeansAlphaAtlas_48.dds</File>
+    <File md5="6C68845DAF337B1147821495EEE3C4CA" import="1">Art/Icon Atlas/DMS_MinaeansAlphaAtlas_64.dds</File>
+    <File md5="D62C5E8B2FC7E1709B15B1D92393A78A" import="1">Art/Icon Atlas/DMS_MinaeansAlphaAtlas_80.dds</File>
+    <File md5="E0FD29C1E1E6ECD1F2A49224D4414F00" import="1">Art/Icon Atlas/DMS_MinaeansAtlas_128.dds</File>
+    <File md5="446E2F2EA0B58AE84D6D8504A2B1F27C" import="1">Art/Icon Atlas/DMS_MinaeansAtlas_256.dds</File>
+    <File md5="9C831021B7702A9BECE4145B3BE67A0D" import="1">Art/Icon Atlas/DMS_MinaeansAtlas_32.dds</File>
+    <File md5="81105D24B29E33A90AA60A3A6E974DC8" import="1">Art/Icon Atlas/DMS_MinaeansAtlas_45.dds</File>
+    <File md5="DBBEB51B76AA38A7A33292FC46DADD6E" import="1">Art/Icon Atlas/DMS_MinaeansAtlas_64.dds</File>
+    <File md5="1C445F93C30F4CE84403AFE09D7875D5" import="1">Art/Icon Atlas/DMS_MinaeansAtlas_80.dds</File>
+    <File md5="5674510049AE909627F79983F9984393" import="1">Art/Icon Atlas/DMS_UnitFlag_Kabir_32.dds</File>
+    <File md5="0D300E211549A89DBABF891CBF88D3A4" import="1">Art/Map/DMS_MinaeansMap512.dds</File>
+    <File md5="BE22C93E68290867300BBDD551993AF1" import="1">Art/Map/DMS_waqah_il_sadiq_dom.dds</File>
+    <File md5="B9887D9923217000E0D6B7E48AAFABF2" import="1">Audio/DMS_Minaeans_Peace.mp3</File>
+    <File md5="5BBFC63D97E902B445D9716B6DBD4B59" import="1">Audio/DMS_Minaeans_War.mp3</File>
+    <File md5="BDB3643EBDF6E520437DA5DDE3134847" import="0">Core/DMS_Minaeans_ArtDefines.sql</File>
+    <File md5="F97C3F51ACFFDBDDA028105BBDC6B1C7" import="0">Core/DMS_Minaeans_GameDefines.sql</File>
+    <File md5="657C5C62C162FCE0CE2F4015C0167A92" import="0">Core/DMS_Minaeans_GameDefines_Diplomacy.sql</File>
+    <File md5="0274B5D6F6FB6AF76A6A8209B7C24597" import="0">Core/DMS_Minaeans_GameDefines_ModSupport.sql</File>
+    <File md5="E3CC1FBAB8FEAEF0410936043532DB1F" import="0">Core/DMS_Minaeans_GameText.xml</File>
+    <File md5="7711FDB589707AF2A6A3A2013791870B" import="0">Core/DMS_Minaeans_GameText_Diplomacy.xml</File>
+    <File md5="F98871D3E1FB984A6E7AFFB51F64E20F" import="0">Core/DMS_Minaeans_GameText_ModSupport.xml</File>
+    <File md5="390D6E1159A7D8CBAE45AB80A328A857" import="0">DMS_Minaeans_UserSettings.sql</File>
+    <File md5="FC4D2C7F61A5359FAA6E656F20C11784" import="0">Lua/DMS_Minaeans_Functions.lua</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/UI/Overrides/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/UI/Overrides/CultureOverview.xml</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DMS_Minaeans_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Minaeans_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Minaeans_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Minaeans_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Minaeans_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Minaeans_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Minaeans_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DMS_Minaeans_UserSettings.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DMS_Minaeans_Functions.lua">
+      <Name>DMS_Minaeans_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

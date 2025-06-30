@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/21/2019 3:33:59 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_ER_PEGU_15GOLDDUMMY">
+			<Text>Pegu Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ER_PEGU_15GOLDDUMMY_HELP">
+			<Text>Pegu Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ER_PEGU_DESC">
+			<Text>Pegu Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ER_PEGU_SHORT_DESC">
+			<Text>Pegu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ER_PEGU_ADJECTIVE">
+			<Text>Peguan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DAWN_ER_PEGU_TEXT">
+			<Text>Hail to the Old Queen, Banyar Htaw, Mi Caobu. The Daughter of Rajadhiraj, who outshone her predecessors and brought true peace and prosperity to the Mon people. You took the reins of power from your squabbling brothers and cousins who murdered each other over the lust for the throne. Your dedication to the Sangha not only brought you back from the court of Ava, but also stabilised the dynasty through your successor, Dhammazedi. Glorious and Rightful queen, you brought the holy Kyaik Dagon Pagoda to new heights and glory at the 2000th anniversary of the Parinirvana. From the days of Sadhuim, Ramannyadesa finally shone forth with the prosperity of the Mon people.[NEWLINE][NEWLINE]O Noble Queen, your people have long remained suppressed under Burmese rule and seek your help in these times of hardship. Your ability to stabilise the succession and usher a golden age remains inspirational. Pegu is once again in troubling times. Will you step in to restore stability to Hongsawatoi? Can the Dhamma shine forth once more? Can you build a civilisation that can stand the test of time?</Text>
+		</Row>
+		<!--UA-->		
+		<Row Tag="TXT_KEY_TRAIT_ER_VECTOR_CIV_DESC">
+			<Text>
+				Receive +5% [ICON_RESEARCH] Science and +5% [ICON_PEACE] Faith in your empire per foreign civilisation trading with you. Trade Routes with City States following the same Religion produce +3 [ICON_INFLUENCE] Influence per turn
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ER_VECTOR_CIV">
+			<Text>Vector of Civilisation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ER_PEGU_UADUMMY">
+			<Text>+5% Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ER_PEGU_UADUMMY_HELP">
+			<Text>+5% [ICON_RESEARCH] Research</Text>
+		</Row>
+		<!--UB-->
+		<Row Tag="TXT_KEY_BUILDING_ER_CETIYA_HELP">
+			<Text>
+				[NEWLINE]+15% [ICON_GOLD] Gold per sea [ICON_INTERNATIONAL_TRADE] trade route and +5% [ICON_GOLD] Gold per land [ICON_INTERNATIONAL_TRADE] trade route from this city going to a city with the same [ICON_RELIGION] religion. No maintenence fee.	
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ER_CETIYA_DESC">
+			<Text>Ceti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ER_CETIYA_STRATEGY">
+			<Text>Replaces Temple. Provides 2 [ICON_PEACE] Faith. Increases [ICON_GOLD] Gold yields in the city per [ICON_INTERNATIONAL_TRADE] Trade Route with a city following the same [ICON_RELIGION] Religion.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_ER_CETIYA_TEXT">
+			<Text>Replaces Temple.
+				The Mon people have always been highly religious people since the time of the Buddha himself. Legends say that two Mon traders, Tapuu and Tabaw met the Lord Gautama Buddha while trading in modern-day northern India and were graciously given eight of the Buddha's hairs to take back as relics. Although some were lost to the Naga (dragon) king along the way, the two traders made it back to Ramannyadesa. With the help of the local Sule spirit and King Okkalapa, they located the Singuttara Hill where relics of three previous Buddhas had been enshrined in the past. On it, they enshrined the hairs under a stupa, the glorious Kyaik Dagon Pagoda which would become the centre of Mon religiosity putting Dagon as an important non-political centre. [NEWLINE][NEWLINE]The story of the Kyaik Dagon simply illustrates the rich tradition of Mon history, where the most concrete sources we have are records of pagodas in the humid jungles of Rammanyadesa. Cetiyas are these stupas that the Mon people built across their lands to store significant relics of the Buddha for safekeeping and worship. The designs of these stupas were built to mirror the representation of the Mandala, where power emanates from the city to control vast swathes of land based on the glory of the ruler. The style would be adopted across Burma; in Burmese, equivalent buildings are called Zedis.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ER_PEGU_20GOLDDUMMY">
+			<Text>+20% Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ER_PEGU_20GOLDDUMMY_HELP">
+			<Text>+20% [ICON_GOLD] Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ER_PEGU_5GOLDDUMMY">
+			<Text>+5% Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ER_PEGU_5GOLDDUMMY_HELP">
+			<Text>+5% [ICON_GOLD] Gold</Text>
+		</Row>
+		<!--UU-->
+		<Row Tag="TXT_KEY_UNIT_ER_KBBANG">
+			<Text>Glung Kbbang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ER_KBBANG_STRATEGY">
+			<Text>Replaces Galleass. Unlocked at Compass. +25% [ICON_STRENGTH] Defence against Ranged Attacks, +50% [ICON_STRENGTH] Combat Strength when defending from melee attacks.[NEWLINE]Will not retreat when attacked. Has 1 less sight than the Caravel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ER_KBBANG_HELP">
+			<Text>Replaces Galleass. Unlocked at Compass. Has more [ICON_STRENGTH] Defence against Ranged Attacks, and more Combat Strength when defending from melee attacks.[NEWLINE]Will not retreat when attacked. Has 1 less sight than the Caravel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_ER_KBBANG">
+			<Text>
+				Glung Kbbangs are stately ships that are intended towards going out to sea. The Mon people have many different words for boats and nautical terms that we find in other Southeast Asian languages, indicating their earlier conquests of the sea. Although not Austronesian, there were significant technological exchanges in regards to seafaring between the Austronesians and the Mon people. The Mon were masters of learning to use the winds to traverse the deadly Bay of Bengal directly towards India and were famed for creating sturdy boats to withstand the rough seas. Mon ships, especially more sophisticated ceremonial ones, were often double-hulled wooden ships carried forth by the wind, currents and its sailors. The Mon ship was manned with a complex hierarchy with captains, officers and helmsmen.[NEWLINE][NEWLINE]Glung Kbbangs were, more specifically boats used by the state to either protect trade or to go to war with. Glung Chala Kbbang were specifically kinds of war boats built by the later Mon, around the time of Pegu, to sail along the coasts and inland up the mouths of rivers to attack coastal fortifications. This was a niche later filled by Portuguese frigate mercenaries. The word Glung is roughly translated to boats as they tend to be for river or coastal navigation while Kbbang translates as ships as they tend to be larger vessels for seafaring. Steamships, for example, are called Kbbang Kamot.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ER_KBBANG_MONSAILORS">
+			<Text>Mon Sailors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ER_KBBANG_CAMPHORWOOD">
+			<Text>Martaban Camphor</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_PROMOTION_ER_KBBANG_EXTRA_SIGHT">
+			<Text>Extra Sight</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ER_KBBANG_MONSAILORS_HELP">
+			<Text>+50% [ICON_STRENGTH] Combat Strength when defending from melee attacks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ER_KBBANG_CAMPHORWOOD_HELP">
+			<Text>+25% [ICON_STRENGTH] Combat Strength when defending from ranged attacks</Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_DESC">
+			<Text>Shin Sawbu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_TITLE">
+			<Text>Binyaa Thau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_SUBTITLE">
+			<Text>Queen of Rammanyadesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_LIVED">
+			<Text>November 1395- 1470</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_NAME">
+			<Text>Shin Sawbu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_FIRSTGREETING_1">
+			<Text>
+				Mangerat Ao. This is Rammanyadesa, the land of the Mon people. We come in peace, to learn, to trade and preach. 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_FIRSTGREETING_2">
+			<Text>
+				Welcome to Hongsawatoi, new trader. I am its queen Shin Sawbu. If you seek prosperity, we seek it too.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_DEFEATED_1">
+			<Text>
+				Unfotunate that our time as been cut short, squabbling politics have finally caught up to me.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_DEFEATED_2">
+			<Text>
+				I was old when I took the throne, I'm not surprised. I'm only sad to see my father's work destroyed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_ATTACKED_1">
+			<Text>Ha! You take us for peace-lovers. How wrong you will find yourselves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_ATTACKED_2">
+			<Text>Is that it? What a measly threat against the Mon people. We will strike you righteously.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_DECLAREWAR_1">
+			<Text>I'm sorry to say that you have been a bit burdensome to work with. It leaves me no choice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_DECLAREWAR_2">
+			<Text>Prosperity comes from peaceful trade, but sometimes prosperity must be ensured with violence.</Text>
+		</Row>		
+		<!--Civlopedia-->
+		<Row Tag="TXT_KEY_ER_PEGU_PEDIA">
+			<Text>Pegu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_TITLE">
+			<Text>Kingdom of Hongsawatoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_HEADING_1">
+			<Text>Early Mon People and Protostates</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_TEXT_1">
+			<Text>The Mon people spell the word Mon in three different ways in the Mon language, all pronounced the same (usually). Part of this is due to the the prehistoric migrations into Southeast Asia, long before any of the other great civilisations of Southeast Asia came. There were three peoples who called themselves Mon, coming from the Ganges, the Godaveri and Telingana, all of whom found themselves on Bilugyun near modern day Mat Maluim (Mawlamyine/Moulmein). The earliest recorded history of the Mon are around the fifth and sixth century through inscriptions in Thailand and Burma, although they had lived in these lands for centuries before. The people here had domesticated rice, taro and pigs nearly 10000 years before, with the earliest solid traces left behind from 7000 BC. By 1000 BC, protostates were forming along the area, although we have little to go by for this period as it is still over one millenium before most Southeast Asian history starts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_HEADING_2">
+			<Text>Dvaravati and Funan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_TEXT_2">
+			<Text>The first kingdom, or proper state, is typically given to Funan through Chinese records. However the record of diplomatic missions is lost to history and most historians speculate that it was more of a federation of small states rather than the first Khmer empire. It's also uncertain if Funan was Mon or of another people group, but Funan fell from the third century to the fifth making way for Dvaravati. [NEWLINE][NEWLINE]Dvaravati was a Mon kingdom in modern day Central Thailand and the precursor to Mon civilisation. Its name is Sanskrit for a term used in the Chinese classic Journey to the West. The Kingdom was very Indianized and in many ways brought civilisation from South Asia to Southeast Asia. We know it to be a Mong kingdom as all inscriptions from this period are in Old Mon, but it had close kinships with later Khmer kingdoms to its east. Historians speculate that the capital was in Nakhon Pathom and had various large cities of the type to be found in Southeast Asia a thousand years later. The Kingdom also spurred Mon settlements in Burma, including forgotten settlements along the Malaysian peninsula.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_HEADING_3">
+			<Text>Sudhammavati and Sadhuim/Thaton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_TEXT_3">
+			<Text>The Kingdom of Sudhammavati stemed from a city-state like every civilisation to follow after the Mon. Although many associate it with the modern city of Sadhuim/Thaton, it's possible that the location of Sahduim, the capital of Sudhammavati, was more northerly than Thaton is today.  Sadhuim was the host for the fleeing Mon after the conquests of Srivijaya and the collapse of Dvaravati and their northern Thai counterpart, Haripunchal. The city of Hongsawatoi was founded in the 9th century through the fleeing Mon from Thailand to be welcomed in Pegu.[NEWLINE][NEWLINE]Sadhuim formed the bridge between the old Mon civilisation and the burgeoning Pyu and Burmese civilisations to the North, a vector of Indianisation. As we move from the murky pasts of the Southeast Asian jungle, we arrive at the story of a Mon monk preaching Buddhism to the Burmese king of Bagan, Anawrahta. Having been converted and wanting the Tripitaka, or so the story goes, Anawrahta conquered Thaton through trickery and brought the Mon court brahmans and monks back to begin the glorious Burmese Buddhist civilisation. While Buddhism was on the retreat in the eleventh century, this part of the world would strengthen in its Buddhism from the civilising force of the Mon people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_HEADING_4">
+			<Text>The Spread of Civilisation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_TEXT_4">
+			<Text>Having been subjugated into the Bagan Kingdom was not as tragic as later instances of conquest for the Mon. Many of the artisans, higher nobles in court and religious scholars were Mon and Mon remained a prestige language within the Bagan period. Words for royalty were derived from Mon. The Mon in Lower Burma were the source of religious reforms towards the tail end of this period and they were, of course, the source of the spread of Buddhism to the Burmese, Tai and Karen scripts were derived from Mon with lasting vestiges of the Mon language. The Old Mon idea of the Ramadhipati (Lord of Rama) evolved into the quintessential Southeast Asian idea of the Chakravati, the king of kings who ruled the universe in diminishing influence from the capital. Other political ideas like the Buddhist ideal of a monarch as a model of merit and protector of the Law was adopted and spread. The Mon also advanced the naval world both in terms of irrigative waterways and in terms of long-distance trade. Nearly every language in the area can find a naval term based from Mon. The Mon sailors achieved this by using the tradewinds to sail across the deep Bay of Bengal well before technology would allow consistent travel. Mon art also seeped its way into various civilisations and left a lasting cultural presence, especially in the design of Cetis, or pagodas.[NEWLINE][NEWLINE]That being said, this idea of the Mon as a civilising force or the civilising force is based mostly in two later accounts of this period, and does not have external verification. Many scholars believe it was the other way around; Bagan civilised the Mon, but later Mon kings created this narrative to bolster their own historical significance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_HEADING_5">
+			<Text>The Three Kingdoms of the Delta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_TEXT_5">
+			<Text>By the thirteenth century, we start getting record histriographies of the Mon. The glorious renaissance of the Mon and a breakaway from the Bagan Dynasty started with Razadarit/Rajadhiraj who, through the help of the Kingdom of Sukhothai and the last remanants of Haripunchal, took over Muttama (Martaban). The Three Kingdoms were Pegu, Muttama and Kusima or Myaungmya. In 1287, a sudden shift in the region's geopolitics as Mongol invaders ransacked the North and cause the collapse of Pagan. The conquest of Haripunchal also created a new Thai Thailand with Lanna. The power vaccuum allowed Razadarit to take control through vassalage of the other three kingdoms. Struggles for power after the end of Razadarit's rule, which involves assassination in dramatized hisstories.[NEWLINE][NEWLINE]This early period of renewed Mon rule saw some other famous figures like Banya U, or Shinphyuhsin to the Burmese, who fended off Lanna invasions after the Lanna tried to cursh any attempt for Mon resurgence in their lands. This period also saw the renewed interest in Thereavadan Buddhism, religous reforms, and building up the great Kyaik Lagun Pagoda, now know as Shwedagon. After the Burmese had recovered and stabilised from the hectic conquests of the early 14th century and established a new capital in Ava, Banya U decided to transfer the seat of power for the Mon Kingdom from Muttam to Hongsawatoi, forming the Kingdom of Pegu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_HEADING_6">
+			<Text>Golden Age of Pegu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_TEXT_6">
+			<Text>After the reign of Banya U, which was full of domestic troubles, the new Kingdom of Pegu entered a peaceful period where it flourished on trade. Several descendants of Razadarit, sons, brothers, grandsons and nephews took the throne for short periods with little quibble on succession as the country grew into a commercial and religious hub. Thirty years after the death of the founder of this new Kingdom, Razadarit, the male line had been exhausted completely that his old daughter, now sixty years old. She had been married off to keep Ava at bay from conquering the kingdom in its infancy, but now she was one of the only no-strings-attached female leaders in ancient Southeast Asian history. During her reign she consolidated the Western provinces of Bassein and Myaungmya as the city of Dagon (spelt Lagun then), west of Pegu, was the traditional home of the queen of Pegu. Her influence grew the city of Dagon, setting it up to become the predominant city of Myanmar today. The succession of the monarchy was given to a monk through an elaborate procedure calling upon the ideal of a Buddhist monarch. Shin Sawbu resigned early for the monk Dhammazedi to take over the Kingdom, ruling with significant influence while focusing her attention on religious matters around the 2000th anniversary of nirvana.[NEWLINE][NEWLINE]The golden age continued after her reign as European contact grew in the region and diplomatic ties and trade alliances were established with Portugal in the 15th century. Several kings succeeded Dhammazedi and the Mon people floursihed in new innovations in civics, culture, religion and science, bringing civilisation back during the Renaissance. However, by the 16th century, the weak Burmese state was weakened thouroughly by the Shan and a new Burmese power was growing in Taungoo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_HEADING_7">
+			<Text>Taungoo and the Restored Hanthawaddy Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_TEXT_7">
+			<Text>Taungoo wars against Pegu were horrendous for Pegu, as they managed to break through forts even with more advanced European support on the Pegu side and pillaged and plundered the wealth from the cosmpolitan community of merchants from all over the world within the Mon cities. The explosive energy of Taungoo continued forth conquering Prome, Thailand, Lanna before collapsing and being restored by King Nyaungyan. The Mon were still subjugated by then, but their lands would never be whole again the Thai took many Mon lands in the mess. Several assassinations and rebellions happened in Pegu and Dagon, but eventually all was consolidated into the Taungoo Dynasty. The last king of the Shin Sawbu's dynasty died with the end of the bloodline 270 years after Razadarit around 1550. The Mon remained part of the Taungoo society, although with less of a prestiguous post than during Bagan. Their wealth and lands had been pillaged and ransacked and their trade networks largely broken. Many fleed to Thailand who was more welcoming; Thailand today has more prestiguous connotations for the Mon. They had been completely subjugated in the 17th century.[NEWLINE][NEWLINE]However by 1740, the Taungoo kings in Ava had declined in influence all over and the Mon population had recovered. French attempts to outcompete the British efforts in India pushed the Mon towards rebellion in 1742. Numerous raids began a long Taungoo-Hanthawaddy war. A decade later in 1752, the war ended with a decisive Mon victory with the capture of Ava and the end of the Taungoo Dynasty. However, the restored Hanthawaddy Kingdom was short-lived as an upstart chieftain from Shwebo, Alaungpaya, started the Konbaung Dynasty and waged a series of incredibly effective wars agaisn the Mon. By 1755, Alaungpaya had made moved into his large southern offensive and retook Lower Burma and the capital at Pegu, ending the shorted lived resurgence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_HEADING_8">
+			<Text>The Mon Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_PEGU_TEXT_8">
+			<Text>Since then the Mon have been sent on a downwards spiral. The great queens' city of Dagon was renamed by Alaungpaya to Yangon: The enemy [mons] are gone and ended the traditional of cultural autonomy of Burmese kings past. The Konbaung dynasty waged racial oppresion, in part as retaliation for the persecution of Burmese under the restored Hanthawaddy Kingdom. The British colonial autorities put the first capital of British Burma in Mat Maluim (Moulmein) and then in Rangoon (Dagon), but did not use the Mon in their administration so much as the Karen and were similarly oppressed as before. [NEWLINE][NEWLINE]After independence, there were ethnic conflicts as with any group in the Union of Burma, but U Nu's defining characteristic of vehement Buddhism earned the respect of Mon elders, although Mon ethnic groups fight for autonomy and independence to this day. Many Mon also teamed up with Karen nationalists as the Karen had historically been subjects to the Mon in the first Pegu Kingdoms, and managed to get very close to taking Yangon. Vestiges of the ancient kingdom survives in Mon villgaes, but the greatest influence of this long civilisation is in the civilisations around them: Burma, Thailand and many more. "We taught the Burmese and Thai how to read, look how they treat their teachers now"</Text>
+		</Row>
+		<!--Shin Sawbu-->
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_PEDIA">
+			<Text>Shin Sawbu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_HEADING_1">
+			<Text>Introduction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_TEXT_1">
+			<Text>Shin Sawbu was the Queen of the Kingdom of Pegu, or as she would have been known at the type, Mi Caobu, Banyaa Thau of Rammanyadesa. Banyaa Thau roughly means the Old Queen, as she was 60 years old when she ascended to the throne of Rammanyadesa, the general Mon term for the Mon lands in Lower Burma. Beyond being one of the only queens in Southeast Asian history, she is also known for being the stabilising force that reigned in the conquests of her father 30 years ago and cemented a Mon rebellion into a century-spanning kingdom prospering off of the Golden Age of Trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_HEADING_2">
+			<Text>Rajadhiraj and the founding of the Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_TEXT_2">
+			<Text>Shin Sawbu's father was Rajadhiraj, who ushered in a resurgance of autonomous Mon control of Rammanyadesa after the reign of the Burmese Bagan dynasty began to collapse from Mongol invasions. This new kingdom later to known to the West as Pegu, resumed a Mon tradition and culture that had very much remained alive during the Bagan dynasty. Rajadhiraj was born with the name Magadu, and later took the name Wareru after capturing the important Mon city of Muttama through trickery. It's from this name that the Wareru dynasty of the Pegu lineage is derived. Rajadhiraj's capture of Muttama continued on towards eliminating Bagan rule of southern Burma by eliminating the Bagan governor of southern Burma (who himself had started a rebellion against Bagan) and consolidating his rule in the region. Despite the fame of Rajadhiraj and other kings at this time, we know very little about his rule due to the turbulence of the times; what we do know is derived from comparing contradictory legends and tales from different cultures about the same person.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_HEADING_3">
+			<Text>The Succession of Three Brothers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_TEXT_3">
+			<Text>Upon Rajadhiraj's death in an accident hunting elephants, his three sons contested the throne for he had not created any succession rules or plan for the newly formed Kingdom. The eldest son, Binya Dhammaraza (Prince Dhammaraza) was given the throne by the court of Pegu, but his brothers did not recognise his rule and were actively in rebellion for his 3 short years on the throne. Dhammaraza never controlled more than the capital, and after the new Burmese state of Ava began invadng Pegu, his leadership was jeopardizing the nation. One of his queens poisoned him in 1424, making way for the second son, Binya Ran, to succeed the throne.[NEWLINE][NEWLINE]Binya Ran eneded the war with Ava and kept Pegu at peace for his 20 year reign by opportunistically influencing the smaller Burmese provinces between Pegu and the Avan capital, like Taungoo. The third son of Rajadhiraj shared the power by governing Muttama whilst his brother governed Pegu itself. He died with no male heirs in 1442, 4 years before his brother and king Binya Ran died</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_HEADING_4">
+			<Text>Early Life and Ava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_TEXT_4">
+			<Text>Before even the succession of her three brothers, Shin Sawbu had been born to Rajadhiraj himself and had been married off to her first cousin, Smin Chesao at the age of 20, well before her father's death. With Smin Chesao, she had three children, one of them a son named Binya Waru. Her father died when she was 29, beginning the succession crisis. When Dhammaraza was poisoned, the next brother Binya Ran presented her to the Avan king Thihathu in an exchange of princesses to ensure peace. Shin Sawbu was sent to Ava where she gained her name Shin Sawbu as a burmese form of her Mon name Mi Caobu. She never had any children in Ava and her husband, the king, Thihathu died 2 years after she was sent to Ava. [NEWLINE][NEWLINE]Now a two time widow, Shin Sawbu gained the patronage of Avan monasteries, which were still heavily Mon as a leftover of the Bagan period.In 1429, 4 years after her arrival at the Avan court, she escaped back to Pegu with the help of two Mon monks, who would later play a major role in her riegn. She spent several years in Pegu before the succession crisis would boil over into her hands. In 1446, after her brother's death, the crown would pass to her old son, Binya Waru as he was the oldest male in the dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_HEADING_5">
+			<Text>Succession of the Three Cousins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_TEXT_5">
+			<Text>Binya Waru's acension to the throne had be pre-arranged, but 's son Binya Kyan felt cheated that the crown went to his cousin over him. Binya Kyan assassinated Binya Waru only 5 years after Waru's ascendance and became paranoid of the same happening to him. He murdered so many of his rivals during his short 2-3 year reign that by the time he himself was assassinated, there was only one male descendent of Rajadhiraj left: Leik Munhtaw, a son of Binya Ran. Many suspect that after becoming the only male left, Munhtaw himself assassinated Kyan. In line with the same paranoia of his cousin, Leik Munhtaw started killing his rivals: having run out of dynastic rivals, he began killing nobility with any shred of claim to the throne. As such the court of Pegu had him secretly assassinated and created the end of the crisis with no male heirs left at all.[NEWLINE][NEWLINE]Luckily for the Kingdom, the era had been generally peaceful. As such, in 1454, the eldest living descendent of Rajadhiraj or Rajadhiraj's father, Shin Sawbu ascended the throne thirty years after her father's death, taking on the regnal name Banyaa Thau. Her ascenion, despite her gender, ended the succession crisis as she enjoyed great prestige as a direct daughter of Rajadhiraj and having been uninvolved in any of the political scheming.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_HEADING_6">
+			<Text>The Queen of Kings' reign at Pegu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_TEXT_6">
+			<Text>Historians believe her prestige and acceptance might also be compounded with the fact that the queens of prior Kings of Pegu after Rajadhiraj enjoyed considerable power and were potentially even the true head of state. Kings of Pegu after Rajadhiraj styled themselves as Princes (Banya), indicated that perhaps their mother was the head of state and sovereign while they were the head of the government as the Prince. [NEWLINE][NEWLINE]Her full regnal title showed her popularity with the court and the people, regardless of gender. She was the Sun of the Three Worlds, Sovereign Lady of the Three Worlds under the Most Excellent Law, Divinity who is the Great Queen of the Kings Devoted to the Good Law, Supreme Female King. The tradition of Southeastasian monarchs styling themselves as king of kings transferred to her as the queen of kings. The stability she offered to the Kingdom of Pegu was also compounded by her presence in the Burmese dynasty,despite never having children, which led to a stable peace between the two former enemies. In many ways, this was a major reason for Ava to be the only major Burmese dynasty not to conquer the Mon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_HEADING_7">
+			<Text>The Kyaik Dagon and Dagon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_TEXT_7">
+			<Text>Perhaps adding even more to her legitimacy was that a monumentous event in the Buddhist world occurred 3 years after her ascension to the throne: the 2000th anniversary of the Buddha's entrance to nirvana. Much of her reign would be marked by religious activity, which only bolstered her claim as an ideal Buddhist monarch. For the occasion of the anniversary, Shin Sawbu completed repairs to the mighty Kyaik Dagon Pagoda, a central point of Buddhism for not just the Mon but also for the vector of Buddhism. She added her own weight in gold to the mighty golden stupa and surrounded it with a terrace 275 meters wide 16.75 meters above the hill's slope, a stone alustrade and a cocentric series of stone lamps all of which would remain until the 19th century when Burmese kings would enlarge it.[NEWLINE][NEWLINE]Kyaik Dagon was located in the fief of Dagon, the traditional abode of the Mon queens. Under Shin Sawbu's rule, the primacy of Dagon grew even stronger. She expanded the reach of Dagon and began to consolidate the three regions of Rammanyadesa into her domain. At the same time, she ushered in such and an age of peace and was such a stark contrast to her bickering brothers that her memory as the peak of Pegu's golden age continued with the Mon people well into modernity when they encountered another powerful queen: Victoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_HEADING_8">
+			<Text>Dhammazedi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SHIN_SAWBU_TEXT_8">
+			<Text>In 1470, 7 years into her 17 year reign, she formally abdicated the throne to resolve the succession crisis. Reaffirming her faith as the prime legitimiser of the monarchy, she conducted a spiritual test, the account of which varies into the realm of folktalkes. One of the two monks who accompanied Shin Sawbu in her escape from Ava, Dhammazedi was appointed king. She famously compared him to a common wood fashioned into an image of the Buddha: common blood fashioned into a righteous and religiously ordained ruler. Her son-in-law Binya Ein rebelled, upset that he was not appointed king, who remarked that Shin Sawbu was just a delusional old queen. It is said that this irreverance was met with humility when Shin Sawbu styled herself as "The Old Queen", Banyaa Thau.[NEWLINE][NEWLINE]After her formal abdication, Shin Sawbu did not stop reigning. She moved to a palace constructed in Dagon in the view of the Kyaik Dagon, where she continued to wear a crown and rule over Dagon and influence the actions of her successor Dhammazedi. In doing so, she ensured both the legitimacy of her chosen successor and Dhammazedi's ability to become one of the great Mon kings. In Dagon, she focused herself on religion as she had done for the years before her succession and kept one hand on the politics of the kingdom and ensured peace and prosperity for Pegu, not just until her death in 1471 but also throughout her successor Dhammazedi's reign.</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_ER_PEGU_0">
+			<Text>Mi Nadi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_PEGU_1">
+			<Text>Mi Jompa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_PEGU_2">
+			<Text>Mi Khonlawa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_PEGU_3">
+			<Text>Mi Htaw Chan</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_PEGU_4">
+			<Text>Mi Kun Chan</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_PEGU_5">
+			<Text>Nai Chan Mon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_PEGU_6">
+			<Text>Nai Seik Chan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_PEGU_7">
+			<Text>Nai Ma Ngay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_PEGU_8">
+			<Text>Nai Chan Lon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_PEGU_9">
+			<Text>Nai Htaw Paing</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_HONGSAWATOI">	
+			<Text>Hongsawatoi</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_LAGON">	
+			<Text>Dagon</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_MUTTMA">	
+			<Text>Muttama</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_SADHUIM">	
+			<Text>Sadhuim</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_REW">	
+			<Text>Rew</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_MAT_MALUIM">	
+			<Text>Mat Maluim</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_KUSIMA">	
+			<Text>Bassein</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_LAGANPAHUN">	
+			<Text>Laganpahun</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_TNANGSI">	
+			<Text>Tanangsi</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_VAAN">	
+			<Text>Vaan</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_BIK">	
+			<Text>Bik</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_KYAIK_HTO">	
+			<Text>Kyaik Hto</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_WAW">	
+			<Text>Waw</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_DALA">	
+			<Text>Dala</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_IBUIP">	
+			<Text>Ibuip</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_TAMOA">	
+			<Text>Tamoa</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_TUIK_GALA">	
+			<Text>Tuik Gala</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_MUHSMA">	
+			<Text>Muhsama</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_GU_HTUT">
+			<Text>Gu Htut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_YAN_TMIM">	
+			<Text>Yan Tamim</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_KYAIK_PARO">	
+			<Text>Kyaik Paro</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_JRA">	
+			<Text>Jra</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_HTAWAAI">	
+			<Text>Htawaai</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_LMAIN">	
+			<Text>Lamain</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_PAUNG">	
+			<Text>Paung</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_BRAWATI">	
+			<Text>Brawati</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_DUWOP">	
+			<Text>Duwop</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_SEANG">	
+			<Text>Seang</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_BIKALEANG">	
+			<Text>Bikaleang</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_MUDEUNG">	
+			<Text>Mudeung</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_DANOK">	
+			<Text>Danok</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_KYAIK_KAMI">	
+			<Text>Kyaik Kami</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_HARIPHUNJAYA">	
+			<Text>Hariphunjaya</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_KYAIK_KATHA">	
+			<Text>Kyaik Katha</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_LAWAPURA">	
+			<Text>Lawapura</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_HENZADA">	
+			<Text>Henzada</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_KISSERAING">	
+			<Text>Kisseraing</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_SUPHABURI">	
+			<Text>Suphaburi</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_ER_PEGU_U_THONG">	
+			<Text>U Thong</Text>
+		</Row>
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_ER_PEGU_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now eating khao chae and playing the khong mon. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

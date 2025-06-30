@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Pomo -->
+		<Row Tag="TXT_KEY_CIV_ASQ_XARAGUA_ADJECTIVE">
+			<Text>Xaragua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ASQ_XARAGUA_DESC">
+			<Text>Xaragua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ASQ_XARAGUA_SHORT_DESC">
+			<Text>Xaragua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_ASQ_XARAGUA_TEXT">
+			<Text>Many blessings upon you, Anacaona, benevolent cacica of Xaragua! Overseeing the height of not one but two powerful Taíno chiefdoms, you nevertheless were forced to navigate a brutal and terrifying new reality as strangers from the east arrived and slaughtered their way across Quisqueya. Through careful diplomacy and compromise, you attempted to spare your lands from the fate that had befallen all four other chiefdoms on the island, including that of your husband, who had bravely yet futilely challenged the Spanish - perhaps biding your time and gathering information for a more successful revolt of your own. Unfortunately, however, even your best was not enough. The gold-hungry Spaniards took advantage of your hospitality and festivities, and slaughtered your people to the last man, though you fought to your last breath to make them see reason and end their senseless violence.[NEWLINE][NEWLINE]Anacaona, you now find yourself once again in a tumultuous time and an unfamiliar environment, with your people in need of your guidance. Will you grow your humble chiefdom into a thriving metropolis? And when trouble inevitably comes knocking once more, will you again tread the path of peace, or will you go down another road? Will you build a civilization that will stand the test of time?</Text>
+		</Row>
+		
+		<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_ASQ_XARAGUA_SHORT">
+			<Text>Flower of Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ASQ_XARAGUA">
+			<Text>Expending Cultural Great People starts a WLTKD in the nearest city. Gain [ICON_GREAT_PEOPLE] Tekina points when adopting Beliefs, finishing Policy Trees, and reaching certain [ICON_CITIZEN] Population thresholds in a city.</Text>
+		</Row>
+		
+		<!-- Essie Parrish -->
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA">
+			<Text>Anacaona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASQ_ANACAONA_LIVED">
+			<Text>c. 1474 - 1504</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASQ_ANACAONA_NAME">
+			<Text>Anacaona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASQ_ANACAONA_SUBTITLE">
+			<Text>Cacica of Xaragua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASQ_ANACAONA_TITLES_1">
+			<Text>Cacica</Text>
+		</Row>
+		
+		
+		<!-- Tekina -->
+		<Row Tag="TXT_KEY_UNIT_ASQ_TEKINA">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASQ_TEKINA_HELP">
+			<Text>Replaces Great Musician. Creates Areítos, which yield +2 [ICON_PEACE] Faith in addition to the standard bonuses. May also instead be expended to increase the yields of all existing Areítos in your empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASQ_TEKINA_STRATEGY">
+			<Text>The Tekina is slightly more Faith-based than the Great Musician it replaces, producing Areítos that produce +2 [ICON_PEACE] Faith in addition to the normal +2 [ICON_CULTURE] Culture and [ICON_TOURISM] Tourism. However, they also have another utility: rather than producing a new Areíto, they can also be expended to boost the yields of all your existing Areítos. Build up a solid collection of Areítos in your empire with your first few Tekinas, then use your others to turn them into [ICON_CULTURE] Culture and [ICON_PEACE] Faith juggernauts!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ASQ_TEKINA_TEXT">
+			<Text>A Tekina is a leader of an areíto, a traditional ceremony in Taíno culture. The areíto was a ceremonial act that was believed to narrate and honor the heroic deeds of Taíno ancestors, chiefs, gods, and cemis. Areítos involved lyrics and choreography and were often accompanied by varied instrumentation. They were performed in the central plazas of the villages and were attended by the local community members as well as members of neighboring communities. The cacique was responsible for organizing areítos, which sometimes involved the whole community, with men and women combined, or sometimes just included men or women. Areítos were held in designated spaces, specifically the public plaza or dance ground outside the chief's house.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_XARAGUA_ENHANCE_AREITO_TOOLTIP">
+			<Text>[COLOR_POSITIVE_TEXT]Enhance Areítos[NEWLINE][ENDCOLOR]Enhance all Areítos in your Empire, causing them to yield +1 [ICON_CULTURE]Culture and +1 [ICON_PEACE]Faith.</Text>
+		</Row>
+
+		<!-- Dummy Buildings -->
+		<Row Tag="TXT_KEY_BUILDING_ASQ_AREITO_BONUS_COUNT">
+			<Text>Areíto Bonus Counter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_AREITO_BONUS_COUNT_HELP">
+			<Text>Tracks the number of times your Areítos have been enhanced.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_AREITO_DUMMY">
+			<Text>Areíto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_AREITO_DUMMY_HELP">
+			<Text>+2 [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_AREITO_BONUS_DUMMY">
+			<Text>Areíto Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_AREITO_BONUS_DUMMY_HELP">
+			<Text>+1 [ICON_CULTURE] Culture. +1 [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_BATEY_DUMMY">
+			<Text>Batey Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_BATEY_DUMMY_HELP">
+			<Text>+1 [ICON_CULTURE] Culture for every 5 Citizens in this City.</Text>
+		</Row>
+		
+		<!-- Batey -->
+		<Row Tag="TXT_KEY_BUILDING_ASQ_BATEY">
+			<Text>Batey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_BATEY_HELP">
+			<Text>Replaces Colosseum. Contains a slot for a Great Work of Music. +1 [ICON_CULTURE] Culture for every 5 [ICON_CITIZEN] Citizens in the City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ASQ_BATEY_STRATEGY">
+			<Text>The Batey, in addition to providing [ICON_HAPPINESS_1] Happiness, also serves as an early-game holder of Great Works of Music, allowing you to safely store all your Areítos. It has a tertiary purpose, as well, producing additional [ICON_CULTURE] Culture for every 5 [ICON_CITIZEN] Citizens in the City it's built in - perfect for allowing large, tall Cities to thrive. Build Bateys quickly in your core Cities to not only keep your people happy but allow your Civilization to rapidly grow toward cultural dominance!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ASQ_BATEY_TEXT">
+			<Text>The Batey was a special plaza in Taino settlements where events would occur. The most famous of these was the ball game, also called Batey. The game was played by two teams which could have anywhere from ten to thirty players. Women played occasionally, but most teams were composed of only men. Caciques and players would make bets on the game and sometimes Batey was used to peacefully resolve conflict between tribes. These same plazas would often be used to host areítos, or religious celebrations.</Text>
+		</Row>
+
+		<!-- Civilopedia -->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_ASQ_XARAGUA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_ASQ_XARAGUA_TEXT_1">
+			<Text>The cacicazgo or chiefdom of Xaragua, also written as Jaragua, was one of the five chiefdoms in the island of Quisqueya (now known as Hispaniola), stretching across the southwest; delimited to the north by the cacicazgo of Marién, to the south by the Caribbean Sea, to the east by the cacicazgo of Maguana, and to the west by the Jamaica Channel. Jaragua emerged as the union of two previous cacicazgos, Zui and Yáquimo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_ASQ_XARAGUA_HEADING_2">
+			<Text>Position in the Caribbean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_ASQ_XARAGUA_TEXT_2">
+			<Text>Xaragua was ruled at the time of European contact by the cacique Bohechío. It had the largest area of the chiefdoms on the island, and was seemingly a dominant force among the Taíno. He had his seat at a place called Guava, near the present-day city of Léogâne, Haiti; it was divided into 26 nitaínos. The situation among the native people was that Bohechío, the brother of Anacaona, had to reside within the subchiefdom of Yáquimo, which was waging a war against two earlier, more culturally primitive native settlers of Quisqueya, one of them located in the region of Yuboa and the other in the extreme southwest of the island called Guacayarima. Xaragua was most likely the most powerful cacicazgo in Quisqueya, possessing significant wealth and natural resources based on contemporary accounts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_ASQ_XARAGUA_HEADING_3">
+			<Text>Downfall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_ASQ_XARAGUA_TEXT_3">
+			<Text>Xaragua was the last of the Quisqueyan cacicazgos to be conquered by the Spanish. Perhaps intimidated by the destruction of the other cacicazgos or perhaps plotting to discover the secrets of European technology before revolting, Xaragua agreed to pay tribute to the Spaniards despite being more than powerful enough to defeat the Spanish forces present on the island. Unfortunately, this was not enough to secure Xaragua's safety, as before long, the Spanish ambushed the Xaragua in the midst of an areíto celebration and killed over 80 nobles alongside the cacica Anacaona, spelling the end of the state. Xaragua's capital was resettled by the Spanish, and the remaining people of Xaragua were either killed or married off.</Text>
+		</Row>
+
+		<!-- Civilopedia -->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASQ_ANACAONA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASQ_ANACAONA_TEXT_1">
+			<Text>Anacaona, whose name means Golden Flower, was a Taíno cacica, or female cacique (chief), religious expert, poet, and areíto composer born in Xaragua. During her reign, she and her people were ambushed and massacred by the Spanish while hosting a festival. Since her demise, however, she has become an important figure in Haitian culture and contemporary Taino culture in particular, who celebrate her efforts to resist the Spanish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASQ_ANACAONA_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASQ_ANACAONA_TEXT_2">
+			<Text>Anacaona was born in Yaguana (present-day Léogâne, Haiti), the capital of Xaragua, around 1474. Anacaona's brother Bohechío was a local chieftain. He extended his rule in 1475 to include all territories west of Xaragua. Through consolidation of his influence and power, Bohechío married Anacaona to Caonabo, cacique of Maguana. Together they had one daughter, Higüemota.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASQ_ANACAONA_HEADING_3">
+			<Text>Spanish Troubles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASQ_ANACAONA_TEXT_3">
+			<Text>In 1493, Caonabo was arrested for ordering the destruction of La Navidad (a Spanish colony in the northwestern part of the island) and its people. He was shipped to Spain and died in a shipwreck during the journey. When Caonabo was captured, Anacaona returned to Xaragua and served as an advisor to Bohechío. In 1498, Bohechío was confronted by Bartholomew Columbus, brother of Christopher Columbus and founder of the city of Santo Domingo, who arrived in Xaragua with his troops to subdue Bohechío and conquer his territory. The purpose of the Spaniards in so doing was to acquire gold. With his power weakened, Bohechío, advised by Anacaona, decided to recognize the sovereignty of the Catholic Monarchs. Instead of fighting, he committed himself to pay the tribute levied by the Spaniards with products such as cotton, bread, corn, and fish. Bohechío died before 1503 and Anacaona succeeded him and ruled as cacica.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASQ_ANACAONA_HEADING_4">
+			<Text>The Xaragua Massacre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASQ_ANACAONA_TEXT_4">
+			<Text>In the fall of 1503, Governor Nicolás Ovando and his party of 300 traveled on foot to Xaragua. They were received in a lavish ceremony by Anacaona, her nobles, and several Taíno chiefs. While the Taíno presented the reception as a gesture of welcome, the Spanish saw it as being an elaborate distraction. Ovando's party was under the impression that Anacaona and the Taíno chiefs present at the reception were planning an insurrection. Ovando lured the chiefs into a caney (large hut) for a Spanish tournament and gave the signal for the Spaniards to seize and bind the caciques. They were burned in the caney while other Taínos of lower rank were slaughtered outside. Las Casas records that there were children among the massacred. He writes that the Spanish slashed the legs off boys as they ran, and that even when some Spaniards tried to save a child by pulling them onto their horses, that another would come and "pierce the child with a lance." Anacaona herself was hanged, purportedly after refusing to become a concubine. Because of the massacre, King Ferdinand V deposed and recalled Ovando back to Spain in 1509. He died two years later, on 29 May 1511.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASQ_ANACAONA_HEADING_5">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASQ_ANACAONA_TEXT_5">
+			<Text>Anacaona, as a poet and composer, is accordingly memorialized in contemporary art and literature across the Caribbean region. A statue commemorating her legacy is in Léogâne, Haiti. The tallest building in the Caribbean, Torre Anacaona 27, is named after her, in the Dominican Republic. The song Anacaona, lead vocals by Cheo Feliciano, popularizes her story.</Text>
+		</Row>
+
+		<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_FIRSTGREETING">
+			<Text>Greetings, stranger. I am Anacaona, cacica of this fine land. Don't cause any trouble, and you're welcome to visit whenever you please.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_DEFEATED">
+			<Text>After all my efforts to keep the peace, all my work to bring our people together, you murder us all in cold blood regardless... you sicken me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_GREETING_POLITE_HELLO">
+			<Text>My, how wonderful it is to see you! What brings you here? I could put on some festivities if you'll be staying a while.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_GREETING_NEUTRAL_HELLO">
+			<Text>Well, hello, there. What business do you have here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_GREETING_HOSTILE_HELLO">
+			<Text>You are not welcome here. State your business and then get out of my sight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>I have seen what horrors you can unleash with those soldiers of yours. Please, remove them from our borders at once, or I will be forced to act.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_EXPANSION_SERIOUS_WARNING">
+			<Text>I will give you what goods you request, but our land is our own. You are not welcome to take it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_REQUEST">
+			<Text>Times have been difficult lately. Would you perhaps be willing to lend us aid?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_DOW_GENERIC">
+			<Text>I've tried everything I could think of to avoid conflict, to avoid bloodshed.. but you've left me no choice. Now, we must fight for our safety.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_ATTACKED_HOSTILE">
+			<Text>I urge you to reconsider, violence can only beget more violence and we have no reason to fight... but if you insist on attacking, then we will defend ourselves as we must.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_DEC_FRIENDSHIP">
+			<Text>Would you perhaps be interested in a public Declaration of Friendship to bring our people closer together? Ooh, perhaps we could even host a festival!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_DENOUNCE">
+			<Text>Your reckless behavior and endangerment of my people is unacceptable, and I believe the world at large deserves to know what terrible things you're capable of.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_DENOUNCE_FRIEND">
+			<Text>I can't believe that I considered you somebody I could trust. You'd slaughter us all if I had the opportunity.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_RESPONSE_TO_BEING_DENOUNCED">
+			<Text>Why? What reason do you have to be our enemy? I hope you come to your senses soon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_INFLUENTIAL_ON_AI">
+			<Text>Our people are eating your yuca and playing batey. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASQ_ANACAONA_INFLUENTIAL_ON_HUMAN">
+			<Text>I'm glad to see that your people are eating our yuca and playing batey. They have wonderful taste.</Text>
+		</Row>
+		
+		<!-- Cities -->
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_01">
+			<Text>Yaguana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_02">
+			<Text>Guava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_03">
+			<Text>Gonaibo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_04">
+			<Text>Mamey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_05">
+			<Text>Yaquimel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_06">
+			<Text>Miraguano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_07">
+			<Text>Bohoma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_08">
+			<Text>Yakimo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_09">
+			<Text>Guanabo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_10">
+			<Text>Ximani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_11">
+			<Text>Tiburon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_12">
+			<Text>Amani-y</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_13">
+			<Text>Cayaha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_14">
+			<Text>Neyba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_15">
+			<Text>Yainagua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_16">
+			<Text>Bani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_17">
+			<Text>Anigua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_18">
+			<Text>Azua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_19">
+			<Text>Banique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_20">
+			<Text>Dondon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_21">
+			<Text>Jarabacoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_22">
+			<Text>Ocoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASQ_XARAGUA_23">
+			<Text>Jatibonico</Text>
+		</Row>
+
+		<!-- Spies -->
+		<Row Tag="TXT_KEY_SPY_NAME_ASQ_XARAGUA_0">
+			<Text>Bohechío</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASQ_XARAGUA_1">
+			<Text>Caonabo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASQ_XARAGUA_2">
+			<Text>Acanorex</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASQ_XARAGUA_3">
+			<Text>Biautex</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASQ_XARAGUA_4">
+			<Text>Guababo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASQ_XARAGUA_5">
+			<Text>Guaora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASQ_XARAGUA_6">
+			<Text>Iguanamá</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASQ_XARAGUA_7">
+			<Text>Maniquatex</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASQ_XARAGUA_8">
+			<Text>Inamoca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASQ_XARAGUA_9">
+			<Text>Nibagua</Text>
+		</Row>
+		
+		<!-- Areito and Tekina Names -->
+		<Row Tag="TXT_KEY_GREAT_WORK_ASQ_AREITO">
+			<Text>Areito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_1">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_2">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_3">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_4">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_5">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_6">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_7">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_8">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_9">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_10">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_11">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_12">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_13">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_14">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_15">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_16">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_17">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_18">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_19">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_20">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_21">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_22">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_23">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_24">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_25">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_26">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_27">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_28">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_29">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_30">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_31">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_32">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_33">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_34">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_35">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_36">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_37">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_38">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_39">
+			<Text>Tekina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASQ_TEKINA_40">
+			<Text>Tekina</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

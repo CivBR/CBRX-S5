@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1d594c89-3db1-438e-a36a-9b4b7419a3d6" version="2">
+  <Properties>
+    <Name>JakeWalrusWhale's Qara Khitai</Name>
+    <Teaser>Adds [COLOR_PROJECT_TEXT]Qara Khitai/Western Liao[ENDCOLOR] under Yelü Dashi.</Teaser>
+    <Description>Qara Khitai (Yelü Dashi)[NEWLINE][NEWLINE]
+
+UA: Battle of Qatwan[NEWLINE]
+Losing influence with a city state will grant a combat bonus to all nearby troops.* All cities gain additional happiness, gold, and culture for each city in the empire with a different original owner.[NEWLINE][NEWLINE]
+
+UU: Ordo Cavalryman (Knight)[NEWLINE]
+Weaker. Gains more combat strength the further it gets from its origin plot. Starts with Survivalism I.[NEWLINE][NEWLINE]
+
+UU2: Shaojian (Great Merchant)[NEWLINE]
+Trade Missions conducted grant double the gold, but lose influence instead of gaining influence. If adjacent friendly combat units are nearby, more influence will be lost and the city will be damaged.</Description>
+    <Authors>JakeWalrusWhale</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="CBP" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Rise to Power" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="CulDiv" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="Mercenaries" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="284C2D34344BD215EB02E2A0467B7AC1" import="1">Art/Atlas/OrdoCavalrymanAlpha32.dds</File>
+    <File md5="AB32BE84668FDC71AFEE93C89AF2CB15" import="1">Art/Atlas/QaraKhitaiIconAtlas_128.dds</File>
+    <File md5="FF0A5FA20498908241DC82E39DC054B6" import="1">Art/Atlas/QaraKhitaiIconAtlas_24.dds</File>
+    <File md5="E33A70288098B5DD31CC279FC1C596CD" import="1">Art/Atlas/QaraKhitaiIconAtlas_256.dds</File>
+    <File md5="73F6020CC4AB881F43882DAF26147A1E" import="1">Art/Atlas/QaraKhitaiIconAtlas_32.dds</File>
+    <File md5="7DCC35AA32294CBB6A377075D524DFC0" import="1">Art/Atlas/QaraKhitaiIconAtlas_45.dds</File>
+    <File md5="36D803F4718F2AA799C54B10A1E1EFC6" import="1">Art/Atlas/QaraKhitaiIconAtlas_48.dds</File>
+    <File md5="58EE3BDCD8269F4747740B0C12F0364B" import="1">Art/Atlas/QaraKhitaiIconAtlas_64.dds</File>
+    <File md5="227ECC7AF267333F59D87428E5B1279A" import="1">Art/Atlas/QaraKhitaiIconAtlas_80.dds</File>
+    <File md5="E9835EA09F183CF9A158AB337B955181" import="1">Art/Atlas/ShaojianAlpha32.dds</File>
+    <File md5="045C418A92A633D993849716FCFA8926" import="1">Art/Atlas/sv_OrdoCavalryman.dds</File>
+    <File md5="DE09A8EC0864AD165E1A24E20690078E" import="1">Art/Atlas/sv_Shaojian.dds</File>
+    <File md5="BA2A0B749F9E92785C1C48E119082183" import="1">Art/JWWQaraKhitaiMap.dds</File>
+    <File md5="C863EDB00317CA0E5C42A855D11778EB" import="1">Art/Model/er_ordo_cavalry.fxsxml</File>
+    <File md5="81A525993C2444263D03CAECA7633EBD" import="1">Art/Model/er_ordo_cavalry.gr2</File>
+    <File md5="6C4B38AB9FC93FDBED6CF235DCAEEB05" import="1">Art/Model/er_ordo_cavalry_diff.dds</File>
+    <File md5="8575CE36903EF9D40B5D9A8C73869E95" import="1">Art/Model/er_ordo_cavalry_sref.dds</File>
+    <File md5="CF3DBD793B13D7C8BA478AB44C10B241" import="1">Art/Model/er_shaojian.fxsxml</File>
+    <File md5="D67CABCE7BC13FAD4999F4AFA6A1E55A" import="1">Art/Model/er_shaojian.gr2</File>
+    <File md5="EDF32975CAF4EA4D46CF77C62108C205" import="1">Art/Model/er_shaojian_diff.dds</File>
+    <File md5="3605D2F1A4E43D51E9A398363E947E3E" import="1">Art/Model/er_shaojian_sref.dds</File>
+    <File md5="66EB21651FBB509BD826D0B387396B90" import="1">Art/YeluDashiDoM.dds</File>
+    <File md5="D17E42550E4AF6A83F4591992A228B00" import="1">Art/YeluDashiScene.dds</File>
+    <File md5="F84C89E6F21127C3E99619DC7A24E6C0" import="0">Code/Database/QaraKhitaiArtDefines.sql</File>
+    <File md5="6537060DDAB87698B78F42EF7B692E8E" import="0">Code/Database/QaraKhitaiGameDefines.sql</File>
+    <File md5="AC6F121BBCCC0A3CE21057C4DA1FA823" import="0">Code/Database/QaraKhitaiModSupport.sql</File>
+    <File md5="83BB879ADC32765A29B335824EF2A0AC" import="0">Code/Database/QaraKhitaiText.xml</File>
+    <File md5="740A3A5F3C740CFFB6C248A552EA2FC8" import="1">Code/Database/YeluDashiScene.xml</File>
+    <File md5="94A70D234A4F0E72F81A44BA8A4A88B4" import="0">Code/Lua/QaraKhitaiFunctions.lua</File>
+    <File md5="CAED9249FEF9AFB2F1DE9D71728FB87E" import="0">Credits.txt</File>
+    <File md5="8BD918D2D00E222334BBFC788AD621AC" import="1">Music/QaraKhitai_Peace.mp3</File>
+    <File md5="4A3B4A96CBA2FF2BF88790829CA9109A" import="1">Music/QaraKhitai_War.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/Database/QaraKhitaiArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/QaraKhitaiGameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/QaraKhitaiModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/QaraKhitaiText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/QaraKhitaiFunctions.lua">
+      <Name>QK function</Name>
+      <Description>yep</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

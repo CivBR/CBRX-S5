@@ -1,0 +1,79 @@
+<GameData>
+    <Language_en_US>
+        <!-- First Greeting -->
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_FIRSTGREETING_1">
+            <Text>You have stumbled into the land of the Guaycuru! I advise that you leave, before our raiders find you.</Text>
+        </Row>
+
+        <!-- Defeated -->
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_DEFEATED_1">
+            <Text>Kill me if you wish, but my people will resist you forevermore.</Text>
+        </Row>
+
+        <!-- Diplomacy: Wars, Denunciations, and DoF -->
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_ATTACKED_GENERIC_1">
+            <Text>We will meet on the battlefield, then.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_DEC_FRIENDSHIP_1">
+            <Text>It is rare for me to hold a non-Guaycuru warrior in high regard... but it is not impossible. Let us make a public Declaration of Friendship to honor this occasion.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_DENOUNCE_1">
+            <Text>I will not be silent about your offenses. [NEWLINE] [NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_DOW_GENERIC_1">
+            <Text>My men will strip your land of any food or weapons worth using. This is not an empty threat - it has already begun.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_EXPANSION_SERIOUS_WARNING_1">
+            <Text>If you encroach upon our hunting grounds, we will reclaim them by force.</Text>
+        </Row>
+
+        <!-- Greetings -->
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_GREETING_AT_WAR_HOSTILE_1">
+            <Text>Bold of you to show your face here! Are you trying to get killed?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_GREETING_POLITE_HELLO_1">
+            <Text>Welcome back to our camp! Perhaps we will throw a nimatáq feast in your honor.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_GREETING_NEUTRAL_HELLO_1">
+            <Text>Good timing - I've only just returned from the bush.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_GREETING_HOSTILE_HELLO_1">
+            <Text>Don't get too comfortable here.</Text>
+        </Row>
+
+        <!-- Misc -->
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+            <Text>Your military composition is interesting... very interesting. Perhaps I should visit your cities and steal their innovations.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_LETS_HEAR_IT_1">
+            <Text>What's caught your eye, then?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_LOSEWAR_1">
+            <Text>Impossible... I will have my revenge before long.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_LUXURY_TRADE_1">
+            <Text>You do have some truly rare goods... perhaps there is merit in peaceful trade after all.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_NO_PEACE_1">
+            <Text>I will not rest until you are destroyed.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_OPEN_BORDERS_EXCHANGE">
+            <Text>My people have been wandering into your land. I hope you do not find this objectionable.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_REPEAT_NO_1">
+            <Text>If you can't make me a better offer than that, I will simply rob you on the spot.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_RESPONSE_REQUEST_1">
+            <Text>Harvests have been poor in the bush. I hope there is some charity to be found in you.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_RESPONSE_TO_BEING_DENOUNCED_1">
+            <Text>Keep running your mouth like that, and someone may shut it by force.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_TOO_SOON_NO_PEACE_1">
+            <Text>It is too late. The raiders are already mobilized.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ESO_WINWAR_1">
+            <Text>Excellent. I'll be off to survey the spoils I have gathered, then.</Text>
+        </Row>
+    </Language_en_US>
+</GameData>

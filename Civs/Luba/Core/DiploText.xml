@@ -1,0 +1,79 @@
+<GameData>
+    <Language_en_US>
+        <!-- First Greeting -->
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_FIRSTGREETING_1">
+            <Text>You have arrived at the Luba Kingdom! I hope you have had a chance to see our markets, for we have the most splendid trade goods in this world.</Text>
+        </Row>
+
+        <!-- Defeated -->
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_DEFEATED_1">
+            <Text>I may have been defeated, but I will never be forgotten.</Text>
+        </Row>
+
+        <!-- Diplomacy: Wars, Denunciations, and DoF -->
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_ATTACKED_GENERIC_1">
+            <Text>You dare challenge me? I will let the historians explain how poor of a decision that is.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_DEC_FRIENDSHIP_1">
+            <Text>You are that rare breed of ruler who I can consider my equal. Shall we mark this occasion with a public Declaration of Friendship?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_DENOUNCE_1">
+            <Text>Your poor behavior will be immortalized in our histories. [NEWLINE] [NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_DOW_GENERIC_1">
+            <Text>I have decided to make you one of my tributaries. Do not resist too fiercely; this will benefit you as much as it does me.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_EXPANSION_SERIOUS_WARNING_1">
+            <Text>Your reckless expansion has displaced my tributaries! Thanks to you, they crowd my cities and dirty my streets.</Text>
+        </Row>
+
+        <!-- Greetings -->
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_GREETING_AT_WAR_HOSTILE_1">
+            <Text>What brings you here? You intend to surrender, I presume?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_GREETING_POLITE_HELLO_1">
+            <Text>It is a pleasure to see you. Come, we have carved a stool for you to sit upon.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_GREETING_NEUTRAL_HELLO_1">
+            <Text>Greetings! I hope you've been able to purchase all of the salt and metalworks that you desire.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_GREETING_HOSTILE_HELLO_1">
+            <Text>Oh, it's you, from the... hm... give me a second. I need to call the bambudye and have them remind me who you were.</Text>
+        </Row>
+
+        <!-- Misc -->
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+            <Text>Your military puts on an impressive showing! But my own axes are for more than just show.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_LETS_HEAR_IT_1">
+            <Text>Make your offer... but be warned, I am well aware of the value of my goods.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_LOSEWAR_1">
+            <Text>...Perhaps I will urge the bambudye to omit this episode from our official histories.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_LUXURY_TRADE_1">
+            <Text>Your fineries have captured my interest. I would like to introduce them to my own markets; shall we strike a deal?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_NO_PEACE_1">
+            <Text>I will not rest until my triumph is complete.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_OPEN_BORDERS_EXCHANGE">
+            <Text>What resources do your people command? I would like to make an Open Borders treaty and explore them for myself.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_REPEAT_NO_1">
+            <Text>Do you think you can out-negotiate me? Ridiculous.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_RESPONSE_REQUEST_1">
+            <Text>Times are lean for my tributaries. If you would be willing to help us out, your generosity would be long remembered.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_RESPONSE_TO_BEING_DENOUNCED_1">
+            <Text>Centuries from now, my kingdom will be remembered, but your angry words will be long forgotten.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_TOO_SOON_NO_PEACE_1">
+            <Text>If you cower so easily at the prospect of battle, you will never be remembered.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_ILUNGA_SUNGU_WINWAR_1">
+            <Text>This triumph shall be recorded in the "long hand of the pigeon!" I look forward to seeing how my bana balute will speak of it.</Text>
+        </Row>
+    </Language_en_US>
+</GameData>
