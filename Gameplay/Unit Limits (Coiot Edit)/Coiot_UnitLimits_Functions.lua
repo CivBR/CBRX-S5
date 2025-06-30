@@ -61,7 +61,7 @@ local function Coiot_UnitLimits_Check(playerID)
 
 	-- Adjust unit limits based on owned plots
 	local plotCount = GetOwnedPlotCount(player)
-	local plotLimit = math.ceil(1.5 * plotCount)
+	local plotLimit = math.ceil(1.25 * plotCount)
 
 	landCap = math.min(landCap, plotLimit)
 	airCap = math.min(airCap, plotLimit)
@@ -103,11 +103,6 @@ local function Coiot_UnitLimits_Check(playerID)
 		carrierCount, submarineCount, cityCount, missileCap, missileCount
 end
 
-local function EW_UnitLimits_Roundabout(playerID)
-	Coiot_UnitLimits_Check(playerID)
-end
-GameEvents.PlayerDoTurn.Add(EW_UnitLimits_Roundabout)
-
 local function Coiot_UnitLimits_CanTrain(playerID, cityID, unitType)
 	local landCap, airCap, seaCap, hoverCap, carrierCap, submarineCap, landCount, airCount, seaCount, hoverCount, carrierCount, submarineCount, cityCount, missileCap, missileCount =
 		Coiot_UnitLimits_Check(playerID)
@@ -132,11 +127,3 @@ local function Coiot_UnitLimits_CanTrain(playerID, cityID, unitType)
 end
 GameEvents.CityCanTrain.Add(Coiot_UnitLimits_CanTrain)
 print("Unit Limits Can Train")
-
-local function Coiot_UnitLimits_GameLoad()
-	Coiot_UnitLimits_Check(Game.GetActivePlayer())
-end
-Events.SequenceGameInitComplete.Add(Coiot_UnitLimits_GameLoad)
-Events.SerialEventUnitInfoDirty.Add(Coiot_UnitLimits_GameLoad)
-
-print("Unit Limits Loading End")

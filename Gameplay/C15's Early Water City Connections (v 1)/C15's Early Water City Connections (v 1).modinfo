@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ac317fd1-6b7d-4ed1-bc26-692108c0bd23" version="1">
+  <Properties>
+    <Name>C15's Early Water City Connections</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Allows City Connections by Water before The Wheel</Teaser>
+    <Description>Allows City Connections by Water before The Wheel is researched, by adding a new unbuildable Route at the game's outset and thus informing the game that that City Connections are immediately possible. This lets Carthage's free Harbour slash Harbor work instantly. These are called Trade Routes if you're playing vanilla. This mod probably doesn't require DLC, I tested without BNW but couldn't test vanilla cus it's broke w/o mods for some reason :/ Did you even know this was a thing? Probably idk.</Description>
+    <Authors>Chrisy15</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="6AC89D07515B5EE1A049074023EE8BAA" import="0">C15_AddNewRoute.sql</File>
+    <File md5="D5DFA5EFC66DA2FA8B788E5B92A92CC2" import="0">C15_MoveTheRoad.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>C15_AddNewRoute.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
