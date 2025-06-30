@@ -128,7 +128,7 @@ function Senshi_Bunuba_SerialEventUnitCreated(playerID, unitID)
 	if (not player:IsAlive()) then return end
 	local unit = player:GetUnitByID(unitID)
 	
-	if player:GetCivilizationType() == iCiv and unit:GetUnitType() == iProphetID then
+	if (player:GetCivilizationType() == iCiv) and unit and (unit:GetUnitType() == iProphetID) then
 		unit:Kill(-1)
 		player:InitUnit(iJalgangurru, unit:GetX(), unit:GetY())
 	end
