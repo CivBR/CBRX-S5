@@ -19,79 +19,40 @@ and hours of hard work they have put in.
 A huge thanks to all of these individuals
 for their hard work in making this possible.
 
----
+### Coiot
 
-## Coiot
-
-```md
 Project Lead
-Debugging, Testing, Code Rewrites
-Website Manager
-```
 
----
+### Lacsirax Ariscal
 
-## Lacsirax Ariscal
+Gamerunner
 
-```md
-    Gamerunner
-    Project Advisor
-    Map Refinement, City Lists, TSL Start Locations
-```
+### JFD
 
----
+Project Advisor
 
-## JFD
+### TopHatPaladin
 
-```md
-Project and Modding Advisor
-Debugging, Testing, Code Rewrites
-```
+Code Advisor
 
-```
+### DarthKyofu
 
-```
-
----
-
-## TopHatPaladin
-
-```md
-Debugging, Testing, Code Rewrites
-```
-
----
-
-## DarthKyofu
-
-```md
 Art Advisor
-Debugging, Testing
-```
 
-## Support Team
+### Support Team
 
 -   Arilasqueto
--   Admiral_Cloudberg
 -   FionaDanger
 -   EmeraldRange
 -   Leman
 -   NopeCopter
 -   Iris
 -   E.C.H.
+-   Admiral_Cloudberg
 -   Nathanmasse
 -   Emu Spy
 -   shaggysnorlax
 -   Doc Ido
-
-# Modders
-
-Each and every one of our modders makes
-this possible, without them the CBR could
-not exist. Many of them had assistance
-that we could not cover here, please visit
-their respective pages for more detailed
-credits for each individual mod.
 
 ## Civilizations
 
@@ -102,117 +63,191 @@ credits for each individual mod.
 ## Gameplay Mods
 
 -   Wonder Expansion
+
     Pouakai and Sukritact
+
     Modifications by Lacsirax_Ariscal, Coiot, Limaeus
+
 -   Enlightenment Era
+
     Pouakai, Tomatekh, janboruta, COF, Sukritact, JFD
+
     Modifications by Coiot
+
 -   Future Worlds
+
     bounchymischa
+
     Modifications by Limaeus, Coiot
+
 -   JFD's RTP - Dark Ages, Epithets, Sovereignty, and Neutrality Ideology
+
     JFD
+
 -   Religion Expansion
+
     Coiot
+
 -   Future Tech Tree Rework
+
     Random Strategy and Coiot
+
 -   Unit Limits
-    Coiot
+
+    Coiot and EW
+
 -   Additional Great People
-    ECH, Limaeus
+
+    ECH and Limaeus
+
 -   Global - Capture Great People
+
     whoward69
--   Global - Jungle Production
-    whoward69
--   Scouts ignore Borders
-    whoward69
--   Submarines ignore Borders
-    whoward69
--   War - Less Damaged Captured Cities
-    whoward69
--   Scouts ignore Borders
-    whoward69
--   Submarines ignore Borders
-    whoward69
+
 -   Backup Religion Choices
+
     JFD
+
 -   NotificationLogger
-    LastSword, Limaeus
+
+    LastSword and Limaeus
+
 -   Backup Religion Choices
+
     JFD
+
 -   TSL Script
+
     Limaeus
+
     Modifications by Coiot and JFD
+
 -   DLL - Various Mod Components - 61 Civs
+
     whoward69
+
 -   Faster Aircraft
+
     Gedemon
+
 -   InfoAddict
+
     robk
+
     Modifications by Limaeus, Coiot, and EW
+
 -   InGame Editor
+
     DonQuiche
+
     Modifications by JFD
+
 -   AI Observer Interface
+
     JFD
+
 -   Coastal City Settling Distance
+
     JFD
+
 -   Really Advanced Setup
+
     General Tso
+
     Modifications by JFD
+
 -   UI - Religion Spread
+
     whoward69
+
 -   Single Unit Graphics
+
     Nutty
+
     Modifications by Coiot
+
 -   Low Resolution Improvements
+
     whoward69
+
 -   Workforces
+
     JFD
+
 -   Early Water City-Connections
+
     Chrisy
+
 -   AI No City Razing When Happy
+
     JFD
+
 -   Historical Religions Complete
+
     Tomatekh
+
 -   Japanese Religions
+
     Homusubi
+
 -   Lungoria's Religions
+
     FionaDanger / Lungoria
+
 -   California Religions
+
     Orangechrisy
+
 -   Australia Religions
+
     SeroSedSerio
+
 -   Heathen Religions
+
     Grant
+
 -   More Luxuries
+
     Barathor
+
 -   Honor + Piety Classical Era Rework
+
     Coiot
+
 -   Holy Wars
+
     Coiot
+
 -   Holy City Founder Usurping
+
     Coiot
+
 -   No Strat Resource + Strat Resource Bonus Unit Production
+
     Coiot
+
 -   Early Game City Gifting Saftey Net
+
     Coiot
--   Honor + Piety Classical Era Rework
-    Coiot
+
 -   Future Tech Unit Gifting
+
     Limaeus and Coiot
+
 -   Total War Script
+
     JFD and Coiot
+
 -   No Damage Numbers
+
     EW
+
 -   CBRX Gameplay SQL Updates
+
     Coiot, Limaeus, JFD, TopHatPaladin, whoward
 
 ## Special Thanks
 
-The r/civbattleroyale Moderation Team
-The CBRD Discord Staff
-
-```
-
-```
+-   The r/civbattleroyale Moderation Team
+-   The CBRD Discord Staff
+-   Each and every one of our modders makes this possible, without them the CBR could not exist. Many of them had assistance that we could not cover here, please visit their respective pages for more detailed credits for each individual mod
