@@ -33,11 +33,11 @@ Website Manager
 
 ## Lacsirax Ariscal
 
-````md
+```md
     Gamerunner
     Project Advisor
     Map Refinement, City Lists, TSL Start Locations
-    ```
+```
 
 ---
 
@@ -47,7 +47,10 @@ Website Manager
 Project and Modding Advisor
 Debugging, Testing, Code Rewrites
 ```
-````
+
+```
+
+```
 
 ---
 
@@ -209,3 +212,7 @@ credits for each individual mod.
 
 The r/civbattleroyale Moderation Team
 The CBRD Discord Staff
+
+```
+
+```
