@@ -186,51 +186,66 @@ GameEvents.PlayerDoTurn.Add(UnitProductionChange)
 -- Early Game City Gifting Saftey Net
 local lock = false
 local maxCapitalDistance = 15
-local minCitiesToAcquire = 4
+local minCitiesToBeLeftWith = 4
 local maxTurn = 100
 
 function CityGiftingSafetyNet(from_player, _, x, y, to_player, _, is_conquered)
+	-- end function if the city wasn't gifted
 	if is_conquered then return end
 
+	-- handle multi-firing of the function
 	if lock then
 		lock = false
 		return
 	end
 
+	-- if it's past the turn limit, the city gift can stay
 	if Game.GetGameTurn() >= maxTurn then
 		return
 	end
 
+	local bCanTheCityStay = true
+	
+	-- retrieve the city
 	local plot = Map.GetPlot(x, y)
 	if not plot or not plot:IsCity() then
 		return
 	end
 	local city = plot:GetPlotCity()
-	local originalOwner = city:GetOriginalOwner()
+	local oldOwner = Players[from_player]
 
-	local losingPlayerCities = Players[to_player]:GetNumCities()
-	if losingPlayerCities < minCitiesToAcquire then
-		return
+	-- the city must be given back if the old owner has too few cities remaining
+	local losingPlayerCities = oldOwner:GetNumCities()
+	if losingPlayerCities < minCitiesToBeLeftWith then
+		bCanTheCityStay = false
 	end
 
-	local fromCapital = Players[from_player]:GetCapitalCity()
-	local toCapital = Players[to_player]:GetCapitalCity()
+	if bCanTheCityStay then
+		local fromCapital = Players[from_player]:GetCapitalCity()
+		local toCapital = losingPlayers:GetCapitalCity()
 
-	if not fromCapital or not toCapital then
-		return
+		if not fromCapital or not toCapital then
+			return
+		end
+
+		local fromCapitalPlot = fromCapital:Plot()
+		local toCapitalPlot = toCapital:Plot()
+
+		-- if the civs' capitals are too far apart, the city should be given back
+		local capitalDistance = Map.PlotDistance(fromCapitalPlot:GetX(), fromCapitalPlot:GetY(), toCapitalPlot:GetX(),
+			toCapitalPlot:GetY())
+
+		if capitalDistance >= maxCapitalDistance then
+			bCanTheCityStay = false
+		end
 	end
 
-	local fromCapitalPlot = fromCapital:Plot()
-	local toCapitalPlot = toCapital:Plot()
-
-	local capitalDistance = Map.PlotDistance(fromCapitalPlot:GetX(), fromCapitalPlot:GetY(), toCapitalPlot:GetX(),
-		toCapitalPlot:GetY())
-
-	if capitalDistance <= maxCapitalDistance then
+	-- give back the city if needed
+	if not bCanTheCityStay then
 		print("Acquiring city back from Peace Deal")
-		Players[originalOwner]:AcquireCity(city, false, true)
+		oldOwner:AcquireCity(city, false, true)
 	end
-
+	
 	lock = true
 end
 
