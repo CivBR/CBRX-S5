@@ -133,7 +133,7 @@ local function Coiot_UnitLimits_CanTrain(playerID, cityID, unitType)
 	local landCap, airCap, seaCap, hoverCap, carrierCap, submarineCap, landCount, airCount, seaCount, hoverCount, carrierCount, submarineCount, cityCount, missileCap, missileCount =
 		Coiot_UnitLimits_Check(playerID)
 
-	if civilians[unitType] then return true end
+	if civilians[unitType] and (not tNukes[unitType]) then return true end
 	if landUnits[unitType] and landCount >= landCap then return false end
 	if airUnits[unitType] and airCount >= airCap then return false end
 	if hoverUnits[unitType] and hoverCount >= hoverCap then return false end
