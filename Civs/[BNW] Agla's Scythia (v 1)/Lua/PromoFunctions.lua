@@ -23,7 +23,7 @@ end
 --HasTrait
 ----------------------------------------------------------------------------------------------------------------------------
 function HasTrait(player, traitID)
-	if isCPDLL then 
+	if Player.HasTrait then 
 		return player:HasTrait(traitID)
 	else
 		local leaderType = GameInfo.Leaders[player:GetLeaderType()].Type
