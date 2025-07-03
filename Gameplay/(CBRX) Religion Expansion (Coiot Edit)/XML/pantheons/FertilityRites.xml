@@ -27,6 +27,7 @@
 
 	<Language_en_US>
 	<Delete Tag="TXT_KEY_BELIEF_FERTILITY_RITES" />
+	<Delete Tag="TXT_KEY_BELIEF_FERTILITY_RITES_SHORT" />
 		<Row Tag="TXT_KEY_BELIEF_FERTILITY_RITES">
 			<Text>+1 [ICON_FOOD] Food from Aqueducts and Water Mills. +1 [ICON_HAPPINESS_1] Happiness from Cities on Rivers.</Text>
 		</Row>
