@@ -32,7 +32,7 @@ function CallToWarSpyEffect(pPlayer, iTeam)
 	local tSpies = pPlayer:GetEspionageSpies()
 	for k, spy in pairs(tSpies) do
 		-- print("Testing")
-		tprint(tSpies, 1)
+		--tprint(tSpies, 1)
 		for i, pEnemy in pairs(Players) do
 			if pEnemy:GetTeam() == iTeam then
 				for pCity in pEnemy:Cities() do
