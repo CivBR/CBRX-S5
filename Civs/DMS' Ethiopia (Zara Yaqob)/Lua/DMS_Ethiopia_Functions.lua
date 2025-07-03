@@ -80,15 +80,13 @@ local isCPDLL = IsCPDLL()
 --HasTrait
 ----------------------------------------------------------------------------------------------------------------------------
 function HasTrait(player, traitID)
-	if isCPDLL then 
+	if Player.HasTrait then 
 		return player:HasTrait(traitID)
 	else
-		if player then
-			local leaderType = GameInfo.Leaders[player:GetLeaderType()].Type
-			local traitType  = GameInfo.Traits[traitID].Type
-			for row in GameInfo.Leader_Traits("LeaderType = '" .. leaderType .. "' AND TraitType = '" .. traitType .. "'") do
-				return true
-			end
+		local leaderType = GameInfo.Leaders[player:GetLeaderType()].Type
+		local traitType  = GameInfo.Traits[traitID].Type
+		for row in GameInfo.Leader_Traits("LeaderType = '" .. leaderType .. "' AND TraitType = '" .. traitType .. "'") do
+			return true
 		end
 	end
 	return false
