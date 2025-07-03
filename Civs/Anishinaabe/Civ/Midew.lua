@@ -50,29 +50,29 @@ g_Tabs = {
 local g_AtWarEnemies = InstanceManager:new( "MidewTargets", "Base", Controls.MidewTargetsStack);
 
 function MidewRefresh(pPopupUnit, iPlotOwner)
-	print("MidewRefresh() was triggered")
+	--print("MidewRefresh() was triggered")
 	g_AtWarEnemies:ResetInstances()
 	local midewTargets = {}
 	local activePlayer = Players[Game.GetActivePlayer()];
 	local activeTeam = Teams[activePlayer:GetTeam()]
 	local pPlotOwner = Players[iPlotOwner]
-	print(pPlotOwner)
+	--print(pPlotOwner)
 	for k, pPlayer in pairs(Players) do	
 		if pPlayer:IsEverAlive() then
-			print(pPlayer:GetName())
+			--print(pPlayer:GetName())
 		end
 		if pPlayer:IsAlive() and activeTeam:IsAtWar(pPlayer:GetTeam()) and not pPlayer:IsBarbarian() then
 			--if Teams[pPlotOwner:GetTeam()]:IsHasMet(pPlayer:GetTeam()) then
-			print("We got this far")
+			--print("We got this far")
 			local civName = pPlayer:GetCivilizationShortDescription()
-			print(civName)
+			--print(civName)
 			local civID = k
-			print(civID)
+			--print(civID)
 			local color = pPlayer:GetPlayerColors()
 			if (color == nil) then
 				color = GameInfo.Colors.COLOR_WHITE.ID
 			end
-			print(civName.." is added to the list")
+			--print(civName.." is added to the list")
 			table.insert(midewTargets, {
 				Civilization = Locale.Lookup(civName),
 				CivilizationID = civID,
@@ -84,7 +84,7 @@ function MidewRefresh(pPopupUnit, iPlotOwner)
 	end
 	
 	if(#midewTargets > 0) then
-		tprint(midewTargets)
+		--tprint(midewTargets)
 		Controls.MidewScrollPanel:SetHide(false);
 		Controls.MidewAtPeace:SetHide(true);
 				
@@ -97,34 +97,34 @@ function MidewRefresh(pPopupUnit, iPlotOwner)
 			CivIconHookup(v.CivilizationID, 45, entry.CivilizationIcon, entry.CivilizationIconBG, entry.CivilizationIconShadow, true, true );
 			entry.Enemy:RegisterCallback(Mouse.eLClick, function()
 				local pTarget = Players[v.CivilizationID]
-				print(pTarget)
+				--print(pTarget)
 				if pTarget:IsAlive() then
-					print("pTarget is Alive")
+					--print("pTarget is Alive")
 					if pPlotOwner:IsAlive() then
-						print("pPlotOwner is Alive")
+						--print("pPlotOwner is Alive")
 						UIManager:DequeuePopup(ContextPtr)
 						bIsPopupOpen = false
 						if Teams[pPlotOwner:GetTeam()]:CanDeclareWar(pTarget:GetTeam()) then
 							pPopupUnit:SetDamage(999)
-							print("I killed the unit.")
+							--print("I killed the unit.")
 							LuaEvents.GreatPersonExpended(activePlayer:GetID(), iMidew)
-							print("A Great Person was Expended")
+							--print("A Great Person was Expended")
 							Teams[pPlotOwner:GetTeam()]:DeclareWar(pTarget:GetTeam())
-							print("A Declaration of War!")
+							--print("A Declaration of War!")
 						else
-							print("Error! Trying Change WarPeace")
+							--print("Error! Trying Change WarPeace")
 							if Teams[pPlotOwner:GetTeam()]:CanChangeWarPeace(pTarget:GetTeam()) then
 								pPopupUnit:SetDamage(999)
-								print("I killed the unit.")
+								--print("I killed the unit.")
 								LuaEvents.GreatPersonExpended(activePlayer:GetID(), iMidew)
-								print("A Great Person was Expended")
+								--print("A Great Person was Expended")
 								Teams[pPlotOwner:GetTeam()]:DeclareWar(pTarget:GetTeam())
-								print("A Declaration of War!")
+								--print("A Declaration of War!")
 							else
-								print("Error! ")
+								--print("Error! ")
 							end
 						end
-						print("Our work here is done.")
+						--print("Our work here is done.")
 					end
 				end
 			end)
@@ -155,7 +155,7 @@ end
 ButtonPopupTypes.BUTTONPOPUP_KHMERUA = "BUTTONPOPUP_CLMIDEW"
 g_PopupInfo = {["Type"] = ButtonPopupTypes.BUTTONPOPUP_CLMIDEW}
 
-tprint(g_PopupInfo, 1)
+--tprint(g_PopupInfo, 1)
 
 function CLMidewShowHideHandler(bIsHide, bInitState)
     if(not bInitState) then
@@ -232,13 +232,13 @@ function AnishMidewCode(iPlayer, iUnit, iX, iY)
 	if iUnitType ~= iMidew then
 		return
 	end
-	print("Unit is a Midew")
+	--print("Unit is a Midew")
 	--check if I'm at peace with everyone
 	if Teams[pPlayer:GetTeam()]:GetAtWarCount() == 0 then
-		print("The world is a peaceful place")
+		--print("The world is a peaceful place")
 		return
 	end
-	print("We have enemies")
+	--print("We have enemies")
 	--check if trigger enabled
 	local bTrigger = load(pPlayer, iUnit)
 	if bTrigger == nil then
@@ -252,22 +252,22 @@ function AnishMidewCode(iPlayer, iUnit, iX, iY)
 	-- Check for CityState and do things.
 	local iPlotOwner = pPlot:GetOwner()
 	local pPlotOwner = Players[iPlotOwner]
-	print(pPlotOwner)
+	--print(pPlotOwner)
 	local bEstablished = nil
 	if pPlotOwner and pPlotOwner:IsMinorCiv() then
 		--populating this will take and need a bit more work than what is here right now.
 		if Teams[pPlotOwner:GetTeam()]:IsAtWar(Teams[pPlayer:GetTeam()]) then
-			print("Hostile City-State!")
+			--print("Hostile City-State!")
 			return
 		end
-		print("City-State is a sucker")
+		--print("City-State is a sucker")
 		if (bTrigger) then
 			--Disable trigger for next time
 			save(pPlayer, iUnit, false)
 			--Trigger
 			if pPlayer:IsHuman() then
 				bIsPopupOpen = true
-				print("Triggering MidewPopup!")
+				--print("Triggering MidewPopup!")
 				MidewPopup(iPlayer, iPlotOwner, iUnit)
 			else
 				local iTarg = AIDetermineMidewTarget(pPlayer, pPlotOwner)
@@ -414,7 +414,7 @@ function MidewIntoleranceEarn(iPlayer)
 			iMidewsBorn = 0
 		end
 		local iMidewTH = ((100 + (200 * iMidewsBorn)) * vSpeed[Game.GetGameSpeedType()])
-		print("Current level of Intolerance for "..pPlayer:GetName().." is "..iMPoints..". "..iMidewTH.." points are needed for the next Midew.")
+		--print("Current level of Intolerance for "..pPlayer:GetName().." is "..iMPoints..". "..iMidewTH.." points are needed for the next Midew.")
 		if iMPoints > iMidewTH then
 			pCap = pPlayer:GetCapitalCity()
 			pPlayer:InitUnit(GameInfoTypes.UNIT_CLMIDEW, pCap:GetX(), pCap:GetY(), UNITAI_INQUISITOR)
@@ -427,7 +427,7 @@ end
 for i = 0, GameDefines.MAX_MAJOR_CIVS - 1, 1 do
 	local pPlayer = Players[i]
 	if pPlayer:IsEverAlive() and pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_CLANISHINAABE then
-		print("Beothuk Mythic Emblem lua loaded!")
+		--print("Beothuk Mythic Emblem lua loaded!")
         GameEvents.PlayerDoTurn.Add(MidewIntoleranceEarn)
 		Events.SerialEventUnitDestroyed.Add(UnitDestroyed)
 		GameEvents.UnitSetXY.Add(AnishMidewCode)
