@@ -319,6 +319,7 @@ end;
 
 function BuildView(view)
 	-- logger:debug("Building view: " .. view);
+	--[[
 	local totaltimer = os.clock();
 
 	showVisibleCivIcons();
@@ -335,6 +336,7 @@ function BuildView(view)
 
 	lastView = view;
 	logger:info("Total time to build " .. view .. " view: " .. elapsedTime(totaltimer));
+	--]]
 end;
 
 -- Switch to the political relations view
