@@ -41,7 +41,7 @@ local g_IsCPActive = Game_IsCPActive()
 ----------------------------------------------------------------------------------------------------------------------------
 --HasTrait
 function HasTrait(player, traitID)
-	if g_IsCPActive then 
+	if Player.HasTrait then 
 		return player:HasTrait(traitID)
 	else
 		local leaderType = GameInfo.Leaders[player:GetLeaderType()].Type
