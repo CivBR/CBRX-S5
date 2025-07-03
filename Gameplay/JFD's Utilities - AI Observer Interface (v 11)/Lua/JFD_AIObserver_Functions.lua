@@ -55,7 +55,6 @@ Controls.OverlayMapsButton:RegisterCallback( Mouse.eLClick, OnOverlayMapsButton 
 function OnIGEButton()
 	LuaEvents.IGE_ShowHideMainButton()
 end
-
 if Game_IsIGEActive() then
 	Controls.IGEButton:RegisterCallback( Mouse.eLClick, OnIGEButton );
 else
@@ -66,17 +65,17 @@ end
 ----------------------------------------------------------------------------------------------------------------------------
 --JFD_AIObserver_NotificationAdded
 function JFD_AIObserver_NotificationAdded(notification, notificationType)
-	if (notificationType == NotificationTypes.NOTIFICATION_GOODY) then
+	if( notificationType == NotificationTypes.NOTIFICATION_GOODY ) then
 		LuaEvents.ClearNotification("AncientRuins")
-	elseif (notificationType == ButtonPopupTypes.NOTIFICATION_CHOOSE_ARCHAEOLOGY) then
+	elseif( notificationType == ButtonPopupTypes.NOTIFICATION_CHOOSE_ARCHAEOLOGY ) then
 		LuaEvents.ClearNotification("ChooseArchaeology")
-	elseif (notificationType == NotificationTypes.NOTIFICATION_EXPLORATION_RACE) then
+	elseif( notificationType == NotificationTypes.NOTIFICATION_EXPLORATION_RACE)  then
 		LuaEvents.ClearNotification("NaturalWonder")
-	elseif (notificationType == NotificationTypes.NOTIFICATION_SPY_CREATED_ACTIVE_PLAYER) then
+	elseif( notificationType == NotificationTypes.NOTIFICATION_SPY_CREATED_ACTIVE_PLAYER ) then
 		LuaEvents.ClearNotification("NewSpy")
+
 	end
 end
-
 if opSupressNotifs then
 	Events.NotificationAdded.Add(JFD_AIObserver_NotificationAdded);
 end
@@ -107,7 +106,6 @@ function JFD_AIObserver_SerialEventGameMessagePopup( popupInfo )
 		UIManager:DequeuePopup(ContextPtr:LookUpControl("/InGame/WonderPopup"));
 	end
 end
-
 if opSupressPopups then
 	Events.SerialEventGameMessagePopup.Add(JFD_AIObserver_SerialEventGameMessagePopup);
 end

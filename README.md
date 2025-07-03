@@ -2,6 +2,10 @@
 
 Master Credits List for the Development of CBRX S5
 
+Everyone listed here has been an integral part of this community and this list
+does not adequately recognize everyone for the hours
+and hours of hard work they have put in.
+
 ## Updates
 
 ```md
@@ -9,10 +13,6 @@ March 2025 - Gameplay mod updates from post Season 4
 June 29 - June 2025 updates for civilization roster, mod additions, cleanup, bug fixes
 June 30 – Early Water City-Connections, credits / readme, Unit Chart graphic, Texture Optimizer
 ```
-
-Everyone listed here has been an integral part of this community and this list
-does not adequately recognize everyone for the hours
-and hours of hard work they have put in.
 
 ## Development Team
 

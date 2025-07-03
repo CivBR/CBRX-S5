@@ -14,5 +14,17 @@
 		<Row Tag="TXT_KEY_TECH_CBR_OBSERVER_QUOTE">
 			<Text>Welcome! Colonialist Legacies is a modding endeavour started by TPangolin and Neirai, but has since grown into a community of dozens of modders striving towards producing high-quality Colonial themed custom Civilizations. Starting from relatively humble beginnings, Colonialist Legacies released their first mod in January of 2014 - the Australian Civilization, lead by the jovial Henry Parkes. Since then, many civilizations have been completed, with some being featured on sites such as PC Gamer and Kotaku. Colonialist Legacies mods have become undoubtedly popular on the Steam Workshop, and none of this would be possible without the help from the amazing community here at civfanatics.</Text>
 		</Row>
+		<Row Tag="TXT_KEY_TECH_CBR_OBSERVER_2_TITLE">
+			<Text>Babylonian Terraforming</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CBR_OBSERVER_2_DESC">
+			<Text>Babylonian Terraforming</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CBR_OBSERVER_2_HELP">
+			<Text>Gives terraforming power to Babylon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CBR_OBSERVER_2_QUOTE">
+			<Text>Welcome! Colonialist Legacies is a modding endeavour started by TPangolin and Neirai, but has since grown into a community of dozens of modders striving towards producing high-quality Colonial themed custom Civilizations. Starting from relatively humble beginnings, Colonialist Legacies released their first mod in January of 2014 - the Australian Civilization, lead by the jovial Henry Parkes. Since then, many civilizations have been completed, with some being featured on sites such as PC Gamer and Kotaku. Colonialist Legacies mods have become undoubtedly popular on the Steam Workshop, and none of this would be possible without the help from the amazing community here at civfanatics.</Text>
+		</Row>
 	</Language_en_US>
 </GameData>

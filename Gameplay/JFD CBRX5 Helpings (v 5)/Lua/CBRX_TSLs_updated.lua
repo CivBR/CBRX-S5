@@ -67,17 +67,26 @@
 --g_Civilization_CBRX_TSLs_Table
 local g_Civilization_CBRX_TSLs_Table = {}
 local g_Civilization_CBRX_TSLs_Count = 1
+local g_Civilization_CBRX_TerrainChanges_Table = {}
 local g_Civilization_CBRX_Visibilities_Table = {}
-for row in DB.Query("SELECT * FROM Civilization_CBRX_TSLs;") do
+for row in DB.Query("SELECT * FROM Civilization_CBRX_TSLs;") do 
 	g_Civilization_CBRX_TSLs_Table[g_Civilization_CBRX_TSLs_Count] = row
 	g_Civilization_CBRX_TSLs_Count = g_Civilization_CBRX_TSLs_Count + 1
-
+	
 	g_Civilization_CBRX_Visibilities_Table[row.CivilizationType] = {}
 	local g_Civilization_CBRX_Visibilities_Count = 1
 	--g_Civilization_CBRX_Visibilities_Table
-	for row2 in DB.Query("SELECT * FROM Civilization_CBRX_Visibilities WHERE CivilizationType = '" .. row.CivilizationType .. "';") do
+	for row2 in DB.Query("SELECT * FROM Civilization_CBRX_Visibilities WHERE CivilizationType = '" .. row.CivilizationType .. "';") do 
 		g_Civilization_CBRX_Visibilities_Table[row.CivilizationType][g_Civilization_CBRX_Visibilities_Count] = row2
 		g_Civilization_CBRX_Visibilities_Count = g_Civilization_CBRX_Visibilities_Count + 1
+	end
+
+	g_Civilization_CBRX_TerrainChanges_Table[row.CivilizationType] = {}
+	local g_Civilization_CBRX_TerrainChanges_Count = 1
+	--g_Civilization_CBRX_TerrainChanges_Table
+	for row2 in DB.Query("SELECT * FROM Civilization_CBRX_TerrainChanges WHERE CivilizationType = '" .. row.CivilizationType .. "';") do 
+		g_Civilization_CBRX_TerrainChanges_Table[row.CivilizationType][g_Civilization_CBRX_TerrainChanges_Count] = row2
+		g_Civilization_CBRX_TerrainChanges_Count = g_Civilization_CBRX_TerrainChanges_Count + 1
 	end
 end
 
@@ -132,12 +141,12 @@ function setTSLs()
 
 		local civType = GameInfo.Civilizations[player:GetCivilizationType()].Type
 		local Team = Teams[player:GetTeam()]
-
+		
 		local hasTSL = false
 		local startX = -1
 		local startY = -1
 		local isIsland = false
-
+		
 		--g_Civilization_CBRX_TSLs_Table
 		local civTSLTable = g_Civilization_CBRX_TSLs_Table
 		for index = 1, #civTSLTable do
@@ -146,18 +155,21 @@ function setTSLs()
 				hasTSL = true
 				startX = row.X
 				startY = row.Y
-				isIsland = row.IsIsland
+				isIsland = row.IsIsland	
 			end
 		end
-
+		
 		if hasTSL then
 			print("TSL Set: " .. civType)
+
+			-- local startX = cbrxTSLs[civType].X
+			-- local startY = cbrxTSLs[civType].Y
 
 			-- Give starting base techs
 			for _, tech in ipairs(observerTechs) do
 				Team:SetHasTech(tech, true)
 			end
-
+			
 			-- Spawn default extra units
 			local unitList = { Units.Worker, Units.Archer, Units.Archer }
 			for _, unit in ipairs(unitList) do
@@ -176,6 +188,13 @@ function setTSLs()
 						unit:Kill(-1)
 					end
 				end
+				
+				-- for _ = 1, 2 do
+					-- local warrior = player:InitUnit(Units.Warrior, startX, startY)
+					-- local newTrireme = player:InitUnit(Units.Trireme, warrior:GetX(), warrior:GetY())
+					-- newTrireme:JumpToNearestValidPlot()
+					-- warrior:Kill(-1)
+				-- end
 
 				-- Replace Workers with Workboats
 				for unit in player:Units() do
@@ -209,7 +228,7 @@ function setTSLs()
 					end
 				end
 			end
-
+			
 			--Gib new Visibilities
 			--g_Civilization_CBRX_Visibilities_Table
 			local civVisibTable = g_Civilization_CBRX_Visibilities_Table[civType]
@@ -265,5 +284,63 @@ function setTSLs()
 	Game.UpdateFOW(true)
 	UI.RequestMinimapBroadcast()
 end
+if Game.CountKnownTechNumTeams(observerTHETechTHE) == 0 then
+	Events.SequenceGameInitComplete.Add(setTSLs)
+end
 
-Events.SequenceGameInitComplete.Add(setTSLs)
+local civilizationObserverID = GameInfoTypes["CIVILIZATION_BABYLON"]
+local observerTerrainChangesTechID = GameInfoTypes["TECH_CBR_OBSERVER_2"]
+local function setTerrainChanges(playerID, plotX, plotY)
+	local player = Players[playerID]
+	if (not player:IsAlive()) then return end
+
+	if Game.CountKnownTechNumTeams(observerTerrainChangesTechID) > 0 then
+		GameEvents.PlayerCityFounded.Remove(setTerrainChanges)
+		return
+	end
+
+	for currentPlayer = 0, GameDefines.MAX_MAJOR_CIVS - 1, 1 do
+		local player = Players[currentPlayer]
+		if player:IsAlive() then
+			if (not player:GetCapitalCity()) then
+				return
+			end
+		end
+	end	
+	
+	local playerObserverID = -1
+	for currentPlayer = 0, GameDefines.MAX_MAJOR_CIVS - 1, 1 do
+		local player = Players[currentPlayer]
+		if player:IsAlive() then
+			if player:GetCivilizationType() == civilizationObserverID then
+				playerObserverID = currentPlayer
+			end
+			local civType = GameInfo.Civilizations[player:GetCivilizationType()].Type
+			--g_Civilization_CBRX_TerrainChanges_Table
+			local terrainChangesTable = g_Civilization_CBRX_TerrainChanges_Table[civType]
+			if terrainChangesTable then
+				for index = 1, #terrainChangesTable do
+					local row = terrainChangesTable[index]
+					if row.CivilizationType == civType then
+						local plot = Map.GetPlot(row.X, row.Y)
+						if plot then
+							local terrainID = GameInfoTypes[row.TerrainType]
+							if plot:GetTerrainType() ~= terrainID then
+								plot:SetTerrainType(terrainID)
+							end
+						end
+					end
+				end
+			end
+		end
+	end
+	if playerObserverID > -1 then
+		local playerObserver = Players[playerObserverID]
+		local Team = Teams[playerObserver:GetTeam()]
+		local teamTechs = Team:GetTeamTechs()
+		teamTechs:SetHasTech(observerTerrainChangesTechID, true)
+	end
+end
+if Game.CountKnownTechNumTeams(observerTerrainChangesTechID) == 0 then
+	GameEvents.PlayerCityFounded.Add(setTerrainChanges)
+end

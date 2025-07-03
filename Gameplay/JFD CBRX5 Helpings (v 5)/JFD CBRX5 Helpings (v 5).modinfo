@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8447d4fd-2a52-48eb-87ee-0d3b0dede701" version="5">
+  <Properties>
+    <Name>JFD CBRX5 Helpings</Name>
+    <Teaser>Helpful things for CBRX5</Teaser>
+    <Description>Does helpful things that helpfully help.</Description>
+    <Authors>JFD</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="d789e5d9-7c5a-4bbe-9678-04bc4c0433ca" minversion="0" maxversion="999" title="(CBRX) Gameplay Changes" />
+  </Dependencies>
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="DLL - Various Mod Components" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="9d9f6aba-ddd5-4b8e-b533-3c3a0fc367c6" minversion="0" maxversion="999" title="Grant's Heathen Religions" />
+    <Mod id="13f870e4-4322-4e15-8e71-35885905c420" minversion="0" maxversion="999" title="Lungora's Religions" />
+    <Mod id="1aa2bf35-58f2-4310-8167-363c11532375" minversion="0" maxversion="999" title="Maravi" />
+    <Mod id="fa0a37be-dfd8-4bbd-9b9b-d339058d2d09" minversion="0" maxversion="999" title="Australian Religions" />
+    <Mod id="1423200e-b8ce-4eb6-9814-9ed92fb81336" minversion="0" maxversion="999" title="Homusubi's Japanese Religions" />
+    <Mod id="9c0f0f18-26d3-41ea-9691-c5886299575e" minversion="0" maxversion="999" title="Orangechrisy's California Religions" />
+  </References>
+  <Blocks>
+    <Mod id="57bdc268-8212-47ca-815b-948bb03b6a59" minversion="0" maxversion="999" title="CBRX TSLs (v 4)" />
+  </Blocks>
+  <Files>
+    <File md5="E6779D89D74FD3EE4A288E932FCE1075" import="0">Bak/CBRX_Visibilities.lua</File>
+    <File md5="EA438C6BEEA77522E06AF331760B21F2" import="0">Bak/totalwar.lua</File>
+    <File md5="6DCFB8FF795D3DDEF38A4562DAED65F8" import="0">CBRX_TerrainChanges.sql</File>
+    <File md5="C0AE32E3C8C5B01425D0394F741B9CA9" import="0">CBRX_TSLs.sql</File>
+    <File md5="08E0F93C52C8C0CC8EC60140762D5FC3" import="0">CBRX_Visibilities.sql</File>
+    <File md5="F88B1685D25807B80537A40ED279882A" import="0">Core/CBRX_Defines.sql</File>
+    <File md5="D9F4E5ADFC4B0C62AE3CFE78700A4981" import="0">Core/CBRX_GameText.xml</File>
+    <File md5="E583C679A001EE46EB656F017FA9BA54" import="0">Core/CBRX_Master.sql</File>
+    <File md5="D41D8CD98F00B204E9800998ECF8427E" import="0">Core/JFD_CitySettleDistance.sql</File>
+    <File md5="05D06EB3B7EAC975AB71195EAD2B8431" import="0">Core/ReligionIDRemapper.sql</File>
+    <File md5="39289FA2D864887851B53F357463A3E1" import="0">Core/SV_Removals.sql</File>
+    <File md5="1DD28A170378D35DF29FB5A8B81F8E5D" import="0">Lua/CBRX_TSLs_updated.lua</File>
+    <File md5="4BCFDCBEDD5024A4E5C57F5CE6919741" import="0">Lua/JFD_CityRazingNoNoNo.lua</File>
+    <File md5="054BB5CF51B07B50CBE97AF957C1FF88" import="0">Lua/JFD_CitySettleDistance.lua</File>
+    <File md5="3B7B1EE92949FC3B7B9308074F036BEB" import="0">Lua/Utilities/NewSaveUtils.lua</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/CBRX_Master.sql</UpdateDatabase>
+      <UpdateDatabase>Core/CBRX_Defines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/CBRX_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_CitySettleDistance.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ReligionIDRemapper.sql</UpdateDatabase>
+      <UpdateDatabase>Core/SV_Removals.sql</UpdateDatabase>
+      <UpdateDatabase>CBRX_TSLs.sql</UpdateDatabase>
+      <UpdateDatabase>CBRX_Visibilities.sql</UpdateDatabase>
+      <UpdateDatabase>CBRX_TerrainChanges.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/CBRX_TSLs_updated.lua">
+      <Name>CBRX_TSLs_updated.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_CityRazingNoNoNo.lua">
+      <Name>JFD_CityRazingNoNoNo.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_CitySettleDistance.lua">
+      <Name>JFD_CitySettleDistance.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

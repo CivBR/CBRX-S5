@@ -123,7 +123,7 @@ function OnAlphaAnim()
 	if (Controls.Anim:IsStopped() and Controls.Anim:GetAlpha() == 0.0) then
 		Controls.Anim:SetHide( true );
 		ContextPtr:SetHide( true );
-		print("Hiding TurnProcessing");
+		--print("Hiding TurnProcessing");
 	end
 end
 Controls.Anim:RegisterAnimCallback( OnAlphaAnim );
