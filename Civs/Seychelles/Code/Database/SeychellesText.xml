@@ -112,78 +112,78 @@
 		</Row>
 	<!-- Diplomacy Responses -->
 		<!-- First Greeting -->
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_FIRSTGREETING_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_FIRSTGREETING_1">
 			<Text>Welcome to the Island nation of Seychelles! My name is France-Albert René, the President of this nation. You should relax and enjoy the ocean, the ocean's great this time of year.</Text>
 		</Row>
 
 		<!-- Defeated -->
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_DEFEATED_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_DEFEATED_1">
 			<Text>So you show up just to steal the islands right form under my nose? You disrupt all this peace and tranquility? Shame on you.</Text>
 		</Row>
 
 		<!-- Diplomacy: Wars, Denunciations, and DoF -->
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_ATTACKED_GENERIC_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_ATTACKED_GENERIC_1">
 			<Text>What did a small little island nation ever do to you? Eh, so be it.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_DEC_FRIENDSHIP_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_DEC_FRIENDSHIP_1">
 			<Text>I know we might not seem like much use to you, but I'm telling you, we can really help each other out. The nation of Seychelles is worth more than it may look. What do you say?</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_DENOUNCE_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_DENOUNCE_1">
 			<Text>Go any further and you'll seriously put other nations in harm's way. Don't be selfish and keep yourself in check. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_DOW_GENERIC_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_DOW_GENERIC_1">
 			<Text>I'm afraid I have to rid you pirates of the seas.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_EXPANSION_SERIOUS_WARNING_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_EXPANSION_SERIOUS_WARNING_1">
 			<Text>I see you're settling close to our isles. Go back to the mainland.</Text>
 		</Row>
 
 		<!-- Greetings -->
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_GREETING_AT_WAR_HOSTILE_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_GREETING_AT_WAR_HOSTILE_1">
 			<Text>You really have the nerve to try to establish communication during our little battle? I'll show you how "insignificant" Seychelles really is. It'll surprise you.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_GREETING_POLITE_HELLO_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_GREETING_POLITE_HELLO_1">
 			<Text>Welcome back! While you're here, enjoy your stay!</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_GREETING_NEUTRAL_HELLO_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_GREETING_NEUTRAL_HELLO_1">
 			<Text>Greetings. What business do you have on these isles?</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_GREETING_HOSTILE_HELLO_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_GREETING_HOSTILE_HELLO_1">
 			<Text>For some reason, whenever you're here, I feel uneasy. It's almost as if there's a cyclone brewing around you, disrupting anything that comes in your path.</Text>
 		</Row>
 
 		<!-- Misc -->
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
 			<Text>Ah, I see you've stationed some pirates near my borders. Please, move them. Although, I could take care of that for you.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_LETS_HEAR_IT_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_LETS_HEAR_IT_1">
 			<Text>You got a good offer for the various resources of our seas?</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_LOSEWAR_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_LOSEWAR_1">
 			<Text>Well, Seychelles defeat was to be expected. We never wanted to cause too much trouble in the first place.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_LUXURY_TRADE_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_LUXURY_TRADE_1">
 			<Text>Some resources are hard to come by in the vast seas surrounding the Seychelles. How about it?</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_NO_PEACE_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_NO_PEACE_1">
 			<Text>This is looking to be a war that could prove our worth. I cannot go for peace now.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_OPEN_BORDERS_EXCHANGE">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_OPEN_BORDERS_EXCHANGE">
 			<Text>The ability to traverse our waters would benefit you greatly. Care to accept?</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_REPEAT_NO_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_REPEAT_NO_1">
 			<Text>Please, take your foolish deals to some other place.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_RESPONSE_REQUEST_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_RESPONSE_REQUEST_1">
 			<Text>Hey there friend. Do you think you could spare some supplies? Of course, I'll use it for your benefit, too.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_RESPONSE_TO_BEING_DENOUNCED_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_RESPONSE_TO_BEING_DENOUNCED_1">
 			<Text>Not sure what a small island nation can do to displease the other nations of the world, so maybe you should just take your petty little denunciations elsewhere.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_TOO_SOON_NO_PEACE_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_TOO_SOON_NO_PEACE_1">
 			<Text>Already backing out of a war with a harmless island nation? Don't worry, we can say we're fighting for a little longer, to help disguise your cowardice from your people.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_WINWAR_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_WINWAR_1">
 			<Text>I can't imagine the embarassment you must be facing from suffering a loss from such a tiny island nation.</Text>
 		</Row>
 	<!-- City Names -->
@@ -382,10 +382,10 @@
 			<Text>Achievements for mods created by JakeWalrusWhale</Text>
 		</Row> -->
 	<!-- Cultural Influence -->
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_INFLUENTIAL_ON_HUMAN_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_INFLUENTIAL_ON_HUMAN_1">
 			<Text>Our people are now going on island vacations and fending off pirates. I worry the rest of the world will also succumb to the influence of your culture.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE-ALBERT_RENE_INFLUENTIAL_ON_AI_1">
+		<Row Tag="TXT_KEY_LEADER_JWW_FRANCE_ALBERT_RENE_INFLUENTIAL_ON_AI_1">
 			<Text>We are glad to see that your people are going on island vacations and fending off pirates. The amazing works of our civilization are truly inspiring!</Text>
 		</Row>
 	</Language_en_US>
