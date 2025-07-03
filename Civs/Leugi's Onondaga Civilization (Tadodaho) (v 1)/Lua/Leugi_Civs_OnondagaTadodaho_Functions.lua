@@ -204,9 +204,9 @@ local function Leu_OnondagaTadodaho_MakePeace(teamID, otherTeamID)
 
 	--UA
 	if HasTrait(player, traitLeuOnondagaTadodahoID) then
-		print("Tadodaho is player and made peace")
+		--print("Tadodaho is player and made peace")
 	elseif HasTrait(otherPlayer, traitLeuOnondagaTadodahoID) then
-		print("Tadodaho is otherPlayer and made peace")
+		--print("Tadodaho is otherPlayer and made peace")
 		player = otherPlayer
 	else
 		return
@@ -227,12 +227,12 @@ local function Leu_OnondagaTadodaho_MakePeace(teamID, otherTeamID)
 				if unit:IsHasPromotion(row.ID) then
 					if row.CannotBeChosen == false and row.LostWithUpgrade == false then
 						numPromos = numPromos + 1
-						print(row.Type)
+						--print(row.Type)
 					end
 				end
 			end
 			--if unit:GetLevel() > 1 then numPromos = unit:GetLevel - 1 end
-			print("Total promotions found:" .. numPromos .. "")
+			--print("Total promotions found:" .. numPromos .. "")
 			numFaith = (numFaith*numPromos)
 			numGAP = (numGAP*numPromos)
 			totalFaith = totalFaith + numFaith
