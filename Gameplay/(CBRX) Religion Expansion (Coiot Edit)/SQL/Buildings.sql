@@ -1,6 +1,8 @@
 -- Author: Limaeus/Limerickarcher
 -- Date: 5/30/2020
 -- Ensure text entries exist for building descriptions and help text
+-- commenting out the text insert as it's all duplicative with the GameText.xml file these days –THP, 7/3/2025
+/*
 INSERT INTO
 	Language_en_US (Tag, Text)
 VALUES
@@ -49,6 +51,7 @@ VALUES
 		'TXT_KEY_BUILDING_CBRX_FOLLOWER_TORII_GATES_HELP',
 		'Provides culture and tourism bonuses, increasing faith-based influence.'
 	);
+*/
 
 -- Ensure Building Classes exist
 INSERT INTO
