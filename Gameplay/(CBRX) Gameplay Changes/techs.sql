@@ -1,16 +1,11 @@
---Sailing
 UPDATE Technologies
 SET
-	AllowsEmbarking = 0;
-
-UPDATE Technologies
-SET
-	AllowsEmbarking = 1
+	Era = 'ERA_ANCIENT'
 WHERE
-	Type = 'TECH_SAILING';
+	Type = 'TECH_OPTICS';
 
 UPDATE Buildings
 SET
-	PrereqTech = 'TECH_SAILING'
+	AllowsWaterRoutes = 1
 WHERE
-	Type = 'BUILDING_HARBOR';
+	(Type = 'BUILDING_LIGHTHOUSE');
