@@ -221,8 +221,8 @@ function CityGiftingSafetyNet(from_player, _, x, y, to_player, _, is_conquered)
 	end
 
 	if bCanTheCityStay then
-		local fromCapital = Players[from_player]:GetCapitalCity()
-		local toCapital = losingPlayers:GetCapitalCity()
+		local fromCapital = oldOwner:GetCapitalCity()
+		local toCapital = Players[to_player]:GetCapitalCity()
 
 		if not fromCapital or not toCapital then
 			return
