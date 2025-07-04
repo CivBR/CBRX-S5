@@ -18,7 +18,7 @@ PopulateUnitTypeTable("SELECT * FROM Units WHERE Domain = 'DOMAIN_AIR'", airUnit
 PopulateUnitTypeTable("SELECT * FROM Units WHERE Domain = 'DOMAIN_SEA'", seaUnits)
 PopulateUnitTypeTable("SELECT * FROM Units WHERE Domain = 'DOMAIN_HOVER'", hoverUnits)
 
-local tCarriers, tSubmarines, tNukes = {}
+local tCarriers, tSubmarines, tNukes = {}, {}, {}
 PopulateUnitTypeTable("SELECT * FROM Units WHERE Class = 'UNITCLASS_CARRIER' UNION SELECT * FROM Units WHERE Class = 'UNITCLASS_FW_SUPERCARRIER'", tCarriers)
 PopulateUnitTypeTable("SELECT * FROM Units WHERE Class = 'UNITCLASS_SUBMARINE' UNION SELECT * FROM Units WHERE Class = 'UNITCLASS_NUCLEAR_SUBMARINE' UNION SELECT * FROM Units WHERE Class = 'UNITCLASS_FW_CYBERSUB'", tSubmarines)
 PopulateUnitTypeTable("SELECT * FROM Units WHERE NukeDamageLevel > 0", tNukes)
