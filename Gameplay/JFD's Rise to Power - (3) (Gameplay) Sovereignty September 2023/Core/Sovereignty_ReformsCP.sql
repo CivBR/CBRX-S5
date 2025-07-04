@@ -4,7 +4,8 @@
 --------------------------------------------------------------------------------------------------------------------------				
 -- JFD_Reforms				
 --------------------------------------------------------------------------------------------------------------------------					
---ALLIANCES					
+--ALLIANCES	
+/*
 UPDATE Policies
 SET MissionInfluenceModifier = 15
 WHERE Type = 'REFORM_JFD_ALLIANCES_MARRIAGE';
@@ -176,5 +177,6 @@ WHERE Type = 'REFORM_JFD_FESTIVALS_STATE';
 UPDATE JFD_Reforms
 SET HelpBonus = 'TXT_KEY_JFD_REFORM_FESTIVALS_RELIGIOUS_HELP_BONUS_CP', HelpPenalty = 'TXT_KEY_JFD_REFORM_FESTIVALS_RELIGIOUS_HELP_PENALTY_CP'
 WHERE Type = 'REFORM_JFD_FESTIVALS_RELIGIOUS';	
+*/
 --==========================================================================================================================
 --==========================================================================================================================
