@@ -121,7 +121,7 @@
 			<Tag>TXT_KEY_RELIGION_WAAQEFFANNAA_PEDIA</Tag>
 			<Text>Waaqeffannaa</Text>
 		</Row>
-		<Row>
+		<!--<Row>
 			<Tag>TXT_KEY_RELIGION_BON</Tag>
 			<Text>Bon</Text>
 		</Row>
@@ -132,7 +132,7 @@
 		<Row>
 			<Tag>TXT_KEY_RELIGION_BON_PEDIA</Tag>
 			<Text>Bon</Text>
-		</Row>
+		</Row>-->
 		<Row>
 			<Tag>TXT_KEY_RELIGION_SERGIANISM</Tag>
 			<Text>Sergianism</Text>
