@@ -132,6 +132,7 @@ end
 ----------------------------------------------------------------------------------------------------------------------------
 -- DMS_GetWriterCity
 ----------------------------------------------------------------------------------------------------------------------------
+local buildingWritersGuildID = GameInfoTypes["BUILDING_WRITERS_GUILD"]
 function DMS_GetWriterCity(pPlayer)
 	local pWriterCity = nil
 	local pCapital = pPlayer:GetCapitalCity()
@@ -140,7 +141,6 @@ function DMS_GetWriterCity(pPlayer)
 	end
 	for pCity in pPlayer:Cities() do
 		if pCity and pCity ~= pWriterCity then
-			local buildingWritersGuildID = GameInfoTypes["BUILDING_WRITERS_GUILD"]
 			if pCity:IsHasBuilding(buildingWritersGuildID) then
 				pWriterCity = pCity
 				
@@ -219,14 +219,15 @@ local isEthiopiaZaraYaqobActivePlayer 		= activePlayer:GetCivilizationType() == 
 -- traits
 local traitSeedOfJacobID					= GameInfoTypes["TRAIT_DMS_SEED_OF_JACOB"]
 
--- buildings, units, improvements
+-- improvements
 local improvementMonolithicChurchID			= GameInfoTypes["IMPROVEMENT_DMS_MONOLITHIC_CHURCH"]
-local improvementMonolithicChurch1ID		= GameInfoTypes["IMPROVEMENT_DMS_MONOLITHIC_CHURCH_1"]
-local improvementMonolithicChurch2ID		= GameInfoTypes["IMPROVEMENT_DMS_MONOLITHIC_CHURCH_2"]
-local improvementMonolithicChurch3ID		= GameInfoTypes["IMPROVEMENT_DMS_MONOLITHIC_CHURCH_3"]
-local improvementMonolithicChurch4ID		= GameInfoTypes["IMPROVEMENT_DMS_MONOLITHIC_CHURCH_4"]
-local improvementMonolithicChurch5ID		= GameInfoTypes["IMPROVEMENT_DMS_MONOLITHIC_CHURCH_5"]
 
+local tExtraChurches = {}
+for i = 1, 5 do
+	tExtraChurches[i] = GameInfoTypes["IMPROVEMENT_DMS_MONOLITHIC_CHURCH_" .. i]
+end
+
+-- units and buildings
 local unitDebteraID							= GameInfoTypes["UNIT_DMS_DEBTERA"]
 local iProphetID							= GameInfo.Units.UNIT_PROPHET.ID
 local iProphetOverride						= GameInfo.Units.UNIT_DMS_DEBTERA.ID
@@ -236,13 +237,13 @@ local specialistWriter						= GameInfoTypes["SPECIALIST_WRITER"]
 local unitWriterID							= GameInfoTypes["UNIT_WRITER"]
 
 -- dummy buildings
-local buildingZaraYaqobGreatWorksWriting1ID	= GameInfoTypes["BUILDING_DMS_ZY_GREAT_WORKS_WRITING_1"]
-local buildingZaraYaqobGreatWorksWriting2ID	= GameInfoTypes["BUILDING_DMS_ZY_GREAT_WORKS_WRITING_2"]
-local buildingZaraYaqobGreatWorksWriting3ID	= GameInfoTypes["BUILDING_DMS_ZY_GREAT_WORKS_WRITING_3"]
-local buildingZaraYaqobGreatWorksWriting4ID	= GameInfoTypes["BUILDING_DMS_ZY_GREAT_WORKS_WRITING_4"]
-local buildingZaraYaqobGreatWorksWriting5ID	= GameInfoTypes["BUILDING_DMS_ZY_GREAT_WORKS_WRITING_5"]
 local buildingDefenseFromFaithID		= GameInfoTypes["BUILDING_DMS_ZY_DEFENSE"]
 local buildingReligiousPressureWriterID		= GameInfoTypes["BUILDING_DMS_ZY_RELIGIOUS_PRESSURE"]
+
+local tGreatWritingDummies = {}
+for i = 1, 5 do
+	tGreatWritingDummies[i] = GameInfoTypes["BUILDING_DMS_ZY_GREAT_WORKS_WRITING_" .. i]
+end
 
 -- promotions
 local tSeedPromos = {}
@@ -553,34 +554,22 @@ function DMS_ZY_MonolithicChurches_GreatWorksWritingSlot(iPlayer, iX, iY)
 		if pPlot then
 			if pPlot:GetImprovementType() == improvementMonolithicChurchID then
 				DMS_ZYPrint("DMS_ZY_MonolithicChurches_GreatWorksWritingSlot: improvement is a Monolithic church..") 
-				if pCity:IsHasBuilding(buildingZaraYaqobGreatWorksWriting6ID) then
+				
+				local iNumGreatWritingDummies = 0
+				for kNum, vBuilding in ipairs(tGreatWritingDummies) do
+					if pCity:IsHasBuilding(vBuilding) then
+						iNumGreatWritingDummies = iNumGreatWritingDummies + 1
+					else break end
+				end
+				if iNumGreatWritingDummies >= 5 then
 					-- city cannot receive more great works of writing from monolithic churches
 					DMS_ZYPrint("DMS_ZY_MonolithicChurches_GreatWorksWritingSlot: city has max Great Writer slots from monolithic churches..")
-				elseif pCity:IsHasBuilding(buildingZaraYaqobGreatWorksWriting5ID) then
-					DMS_ZYPrint("DMS_ZY_MonolithicChurches_GreatWorksWritingSlot: city has 5 Great Writer slots from monolithic churches..")
-					pCity:SetNumRealBuilding(buildingZaraYaqobGreatWorksWriting6ID, 1)
+				else
+					DMS_ZYPrint("DMS_ZY_MonolithicChurches_GreatWorksWritingSlot: city has " .. iNumGreatWritingDummies .. " Great Writer slots from monolithic churches..")
+					pCity:SetNumRealBuilding(tGreatWritingDummies[iNumGreatWritingDummies + 1], 1)
 					DMS_ZYPrint("DMS_ZY_MonolithicChurches_GreatWorksWritingSlot: added one more..")
-				elseif pCity:IsHasBuilding(buildingZaraYaqobGreatWorksWriting4ID) then
-					DMS_ZYPrint("DMS_ZY_MonolithicChurches_GreatWorksWritingSlot: city has 4 Great Writer slots from monolithic churches..")
-					pCity:SetNumRealBuilding(buildingZaraYaqobGreatWorksWriting5ID, 1)
-					DMS_ZYPrint("DMS_ZY_MonolithicChurches_GreatWorksWritingSlot: added one more..")
-				elseif pCity:IsHasBuilding(buildingZaraYaqobGreatWorksWriting3ID) then
-					DMS_ZYPrint("DMS_ZY_MonolithicChurches_GreatWorksWritingSlot: city has 3 Great Writer slots from monolithic churches..")
-					pCity:SetNumRealBuilding(buildingZaraYaqobGreatWorksWriting4ID, 1)
-					DMS_ZYPrint("DMS_ZY_MonolithicChurches_GreatWorksWritingSlot: added one more..")
-				elseif pCity:IsHasBuilding(buildingZaraYaqobGreatWorksWriting2ID) then
-					DMS_ZYPrint("DMS_ZY_MonolithicChurches_GreatWorksWritingSlot: city has 2 Great Writer slots from monolithic churches..")
-					pCity:SetNumRealBuilding(buildingZaraYaqobGreatWorksWriting3ID, 1)
-					DMS_ZYPrint("DMS_ZY_MonolithicChurches_GreatWorksWritingSlot: added one more..")
-				elseif pCity:IsHasBuilding(buildingZaraYaqobGreatWorksWriting1ID) then
-					DMS_ZYPrint("DMS_ZY_MonolithicChurches_GreatWorksWritingSlot: city has 1 Great Writer slot from monolithic churches..")
-					pCity:SetNumRealBuilding(buildingZaraYaqobGreatWorksWriting2ID, 1)
-					DMS_ZYPrint("DMS_ZY_MonolithicChurches_GreatWorksWritingSlot: added one more..")
-				elseif (not pCity:IsHasBuilding(buildingZaraYaqobGreatWorksWriting1ID)) then
-					DMS_ZYPrint("DMS_ZY_MonolithicChurches_GreatWorksWritingSlot: city does not have any Great Writer slots from monolithic churches..")
-					pCity:SetNumRealBuilding(buildingZaraYaqobGreatWorksWriting1ID, 1)
-					DMS_ZYPrint("DMS_ZY_MonolithicChurches_GreatWorksWritingSlot: added one..")
 				end
+
 			end
 		end
 	end
@@ -592,6 +581,20 @@ end
 ----------------------------------------------------------------------------------------------------------------------------
 -- DMS_ZY_MonolithicChurches_ExtraYields
 ----------------------------------------------------------------------------------------------------------------------------
+function DMS_ZY_PlotHasAnyChurch(pPlot)
+	local iImprovement = pPlot:GetImprovementType()
+	if iImprovement == improvementMonolithicChurchID then
+		return true
+	else
+		for kNum, vChurch in pairs(tExtraChurches) do
+			if iImprovement == vChurch then
+				return true
+			end
+		end
+	end
+	return false
+end
+
 function DMS_ZY_MonolithicChurches_ExtraYields(iPlayer)
 	local pPlayer = Players[iPlayer]	
 	if HasTrait(pPlayer, traitSeedOfJacobID) then
@@ -602,27 +605,18 @@ function DMS_ZY_MonolithicChurches_ExtraYields(iPlayer)
 				local iNumGreatWorks = CountDemGreatWorks(pCity, gwTable)
 				DMS_ZYPrint("DMS_ZY_MonolithicChurches_ExtraYields: iNumGreatWorks = " .. iNumGreatWorks .. "..")
 				if iNumGreatWorks > 0 then
-				DMS_ZYPrint("DMS_ZY_MonolithicChurches_ExtraYields: city of " .. pCity:GetName() .. " has " .. iNumGreatWorks .. " Great Work of Writing slots..")
+					DMS_ZYPrint("DMS_ZY_MonolithicChurches_ExtraYields: city of " .. pCity:GetName() .. " has " .. iNumGreatWorks .. " Great Work of Writing slots..")
 					for nearbyPlot in PlotAreaSweepIterator(pCity:Plot(), 3, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
 						if nearbyPlot and nearbyPlot:GetOwner() == iPlayer and nearbyPlot:GetWorkingCity() == pCity then
 							DMS_ZYPrint("DMS_ZY_MonolithicChurches_ExtraYields: city of " .. pCity:GetName() .. " is working plot (" .. nearbyPlot:GetX() .. "," .. nearbyPlot:GetY() .. ")..")
-							if nearbyPlot:GetImprovementType() == improvementMonolithicChurchID or nearbyPlot:GetImprovementType() == improvementMonolithicChurch1ID or nearbyPlot:GetImprovementType() == improvementMonolithicChurch2ID or nearbyPlot:GetImprovementType() == improvementMonolithicChurch3ID or nearbyPlot:GetImprovementType() == improvementMonolithicChurch4ID or nearbyPlot:GetImprovementType() == improvementMonolithicChurch5ID then
+							if DMS_ZY_PlotHasAnyChurch(nearbyPlot) then
 								DMS_ZYPrint("DMS_ZY_MonolithicChurches_ExtraYields: plot has monolithic church improvement..")
-								if iNumGreatWorks == 1 then
-									nearbyPlot:SetImprovementType(improvementMonolithicChurch1ID)
-									DMS_ZYPrint("DMS_ZY_MonolithicChurches_ExtraYields: set improvement monolithic church 1..")
-								elseif iNumGreatWorks == 2 then
-									nearbyPlot:SetImprovementType(improvementMonolithicChurch2ID)
-									DMS_ZYPrint("DMS_ZY_MonolithicChurches_ExtraYields: set improvement monolithic church 2..")
-								elseif iNumGreatWorks == 3 then
-									nearbyPlot:SetImprovementType(improvementMonolithicChurch3ID)
-									DMS_ZYPrint("DMS_ZY_MonolithicChurches_ExtraYields: set improvement monolithic church 3..")
-								elseif iNumGreatWorks == 4 then
-									nearbyPlot:SetImprovementType(improvementMonolithicChurch4ID)
-									DMS_ZYPrint("DMS_ZY_MonolithicChurches_ExtraYields: set improvement monolithic church 4..")
-								elseif iNumGreatWorks >= 5 then
-									nearbyPlot:SetImprovementType(improvementMonolithicChurch5ID)
+								if iNumGreatWorks >= 5 then
+									nearbyPlot:SetImprovementType(tExtraChurches[5])
 									DMS_ZYPrint("DMS_ZY_MonolithicChurches_ExtraYields: set improvement monolithic church 5..")
+								else
+									nearbyPlot:setImprovementType(tExtraChurches[iNumGreatWorks])
+									DMS_ZYPrint("DMS_ZY_MonolithicChurches_ExtraYields: set improvement monolithic church " .. iNumGreatWorks .. "..")
 								end
 							end
 						end
