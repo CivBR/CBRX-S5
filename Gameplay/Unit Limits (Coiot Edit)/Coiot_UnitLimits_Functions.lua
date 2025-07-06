@@ -96,7 +96,7 @@ local function Coiot_UnitLimits_Check(playerID)
 
 	-- Function to count non-combat units
 	local function ConsolidatedCountNonCombatUnits()
-		local landCount, airCount, seaCount, hoverCount, carrierCount, submarineCount, missileCount = 0, 0, 0, 0
+		local landCount, airCount, seaCount, hoverCount, carrierCount, submarineCount, missileCount = 0, 0, 0, 0, 0, 0, 0
 		for unit in player:Units() do
 			if unit:IsCombatUnit() then
 				local unitDomain = unit:GetDomainType()
