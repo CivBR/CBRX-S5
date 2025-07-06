@@ -1,9 +1,3 @@
-
-CREATE TABLE IF NOT EXISTS CustomModOptions(Name Text, Value INTEGER, Class INTEGER, DbUpdates INTEGER);
-CREATE TABLE IF NOT EXISTS JFD_GlobalUserSettings (Type text, Value integer default 1);
-
-INSERT OR REPLACE INTO CustomModOptions(Name, Value) VALUES('EVENTS_BARBARIANS', 1);
-
 INSERT INTO BuildingClasses
 		(Type, 										DefaultBuilding, 					 Description)
 VALUES	('BUILDINGCLASS_AGLA_SCYTHIA', 	'BUILDING_AGLA_SCYTHIA',	 'TXT_KEY_BUILDING_AGLA_SCYTHIA');
