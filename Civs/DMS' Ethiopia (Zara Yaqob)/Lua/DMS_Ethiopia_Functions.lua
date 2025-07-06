@@ -241,35 +241,14 @@ local buildingZaraYaqobGreatWorksWriting2ID	= GameInfoTypes["BUILDING_DMS_ZY_GRE
 local buildingZaraYaqobGreatWorksWriting3ID	= GameInfoTypes["BUILDING_DMS_ZY_GREAT_WORKS_WRITING_3"]
 local buildingZaraYaqobGreatWorksWriting4ID	= GameInfoTypes["BUILDING_DMS_ZY_GREAT_WORKS_WRITING_4"]
 local buildingZaraYaqobGreatWorksWriting5ID	= GameInfoTypes["BUILDING_DMS_ZY_GREAT_WORKS_WRITING_5"]
-local buildingDefenseFromFaithID			= GameInfoTypes["BUILDING_DMS_ZY_DEFENSE"]
+local buildingDefenseFromFaithID		= GameInfoTypes["BUILDING_DMS_ZY_DEFENSE"]
 local buildingReligiousPressureWriterID		= GameInfoTypes["BUILDING_DMS_ZY_RELIGIOUS_PRESSURE"]
 
 -- promotions
-local promotionSeedOfJakob1ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_1"]
-local promotionSeedOfJakob2ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_2"]
-local promotionSeedOfJakob3ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_3"]
-local promotionSeedOfJakob4ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_4"]
-local promotionSeedOfJakob5ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_5"]
-local promotionSeedOfJakob6ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_6"]
-local promotionSeedOfJakob7ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_7"]
-local promotionSeedOfJakob8ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_8"]
-local promotionSeedOfJakob9ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_9"]
-local promotionSeedOfJakob10ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_10"]
-local promotionSeedOfJakob11ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_11"]
-local promotionSeedOfJakob12ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_12"]
-local promotionSeedOfJakob13ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_13"]
-local promotionSeedOfJakob14ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_14"]
-local promotionSeedOfJakob15ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_15"]
-local promotionSeedOfJakob16ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_16"]
-local promotionSeedOfJakob17ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_17"]
-local promotionSeedOfJakob18ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_18"]
-local promotionSeedOfJakob19ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_19"]
-local promotionSeedOfJakob20ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_20"]
-local promotionSeedOfJakob21ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_21"]
-local promotionSeedOfJakob22ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_22"]
-local promotionSeedOfJakob23ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_23"]
-local promotionSeedOfJakob24ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_24"]
-local promotionSeedOfJakob25ID				= GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_25"]
+local tSeedPromos = {}
+for i = 1, 25 do
+	tSeedPromos[i] = GameInfoTypes["PROMOTION_DMS_SEED_OF_JACOB_" .. i]
+end
 
 -- combat types
 local unitCombatTypeRecon					= GameInfoTypes["UNITCOMBAT_RECON"]
@@ -349,11 +328,16 @@ function DMS_ZY_ExpendedDebtera(iPlayer, iUnit, iUnitType, iX, iY, bDelay, iByPl
 								end
 								if (pAdjUnit:GetUnitCombatType() == unitCombatTypeMelee) or (pAdjUnit:GetUnitCombatType() == unitCombatTypeRecon) or (pAdjUnit:GetUnitCombatType() == unitCombatTypeMounted) or (pAdjUnit:GetUnitCombatType() == unitCombatTypeGun) or (pAdjUnit:GetUnitCombatType() == unitCombatTypeArmor) then
 									DMS_ZYPrint("DMS_ZY_ExpendedDebtera: unit is correct type to get Seed of Jacob promotion..")
-									if	(not pAdjUnit:IsHasPromotion(promotionSeedOfJakob1ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob2ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob3ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob4ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob5ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob6ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob7ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob8ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob9ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob10ID)) or
-										(not pAdjUnit:IsHasPromotion(promotionSeedOfJakob11ID)) or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob12ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob13ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob14ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob15ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob16ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob17ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob18ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob19ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob20ID)) or
-										(not pAdjUnit:IsHasPromotion(promotionSeedOfJakob21ID)) or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob22ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob23ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob24ID)) 	or (not pAdjUnit:IsHasPromotion(promotionSeedOfJakob25ID)) then
+									local bNeedsFirstPromo = true
+									for kNum, vPromo in pairs(tSeedPromos) do
+										if pAdjUnit:IsHasPromotion(vPromo) then
+											bNeedsFirstPromo = false
+											break
+										end
+									end
+									if bNeedsFirstPromo then
 										DMS_ZYPrint("DMS_ZY_ExpendedDebtera: unit does not  already have Seed of Jacob promotion..")
-										pAdjUnit:SetHasPromotion(promotionSeedOfJakob1ID, true)
+										pAdjUnit:SetHasPromotion(tSeedPromos[1], true)
 										Events.AddPopupTextEvent(HexToWorld(ToHexFromGrid(Vector2(pAdjPlot:GetX(), pAdjPlot:GetY()))), "'Seed of Jacob' Promotion granted", 0)
 										DMS_ZYPrint("DMS_ZY_ExpendedDebtera: Seed of Jacob promotion granted..")
 									end
@@ -381,154 +365,18 @@ function DMS_ZY_SeedOfJacobPromotion(iPlayer)
 	if HasTrait(pPlayer, traitSeedOfJacobID) then
 		for pUnit in pPlayer:Units() do
 			if pUnit and pUnit:IsCombatUnit() and pUnit:GetDomainType() == domainLandID then
-				if pUnit:IsHasPromotion(promotionSeedOfJakob1ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 1 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob2ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 2 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob1ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 1 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob2ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 2 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob3ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 3 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob2ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 2 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob3ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 3 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob4ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 4 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob3ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 3 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob4ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 4 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob5ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 5 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob4ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 4 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob5ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 5 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob6ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 6 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob5ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 5 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob6ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 6 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob7ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 7 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob6ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 6 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob7ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 7 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob8ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 8 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob7ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 7 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob8ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 8 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob9ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 9 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob8ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 8 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob9ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 9 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob10ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 10 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob9ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 9 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob10ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 10 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob11ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 11 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob10ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 10 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob11ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 11 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob12ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 12 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob11ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 11 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob12ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 12 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob13ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 13 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob12ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 12 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob13ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 13 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob14ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 14 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob13ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 13 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob14ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 14 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob15ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 15 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob14ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 14 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob15ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 15 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob16ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 16 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob15ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 15 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob16ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 16 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob17ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 17 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob16ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 16 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob17ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 17 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob18ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 18 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob17ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 17 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob18ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 18 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob19ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 19 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob18ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 18 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob19ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 19 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob20ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 20 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob19ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 19 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob20ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 20 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob21ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 21 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob20ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 20 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob21ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 21 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob22ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 22 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob21ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 21 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob22ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 22 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob23ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 23 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob22ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 22 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob23ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 23 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob24ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 24 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob23ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 23 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob24ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 24 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob25ID, true)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob 25 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob24ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 24 promotion..")
-				elseif pUnit:IsHasPromotion(promotionSeedOfJakob25ID) then
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob 25 promotion..")
-					pUnit:SetHasPromotion(promotionSeedOfJakob25ID, false)
-					DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob 25 promotion..")
+				for kNum, vPromo in pairs(tSeedPromos) do
+					if pUnit:IsHasPromotion(vPromo) then
+						DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: unit at plot (" .. pUnit:GetPlot():GetX() .. "," .. pUnit:GetPlot():GetY() .. ") has the Seed of Jacob " .. kNum .. " promotion..")
+						pUnit:SetHasPromotion(vPromo, false)
+						if kNum < 25 then
+							local iNextNum = kNum + 1
+							pUnit:SetHasPromotion(tSeedPromos[iNextNum], true)
+							DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: granted Seed of Jacob " .. iNextNum .. " promotion..")
+						end
+						DMS_ZYPrint("DMS_ZY_SeedOfJacobPromotion: removed Seed of Jacob " .. kNum .. " promotion..")
+						break
+					end
 				end
 			end
 		end
@@ -577,7 +425,14 @@ function DMS_ZY_SeedOfJacobKill(iOwner, iUnit, iUnitType, iX, iY, bDelay, iKille
 				local iPlotUnitType = pUnit:GetUnitType()
 
 				if pUnit ~= pUnitKilled then
-					if pUnit:IsHasPromotion(promotionSeedOfJakob1ID) or pUnit:IsHasPromotion(promotionSeedOfJakob2ID) or pUnit:IsHasPromotion(promotionSeedOfJakob3ID) or pUnit:IsHasPromotion(promotionSeedOfJakob4ID) or pUnit:IsHasPromotion(promotionSeedOfJakob5ID) or pUnit:IsHasPromotion(promotionSeedOfJakob6ID) or pUnit:IsHasPromotion(promotionSeedOfJakob7ID) or pUnit:IsHasPromotion(promotionSeedOfJakob8ID) or pUnit:IsHasPromotion(promotionSeedOfJakob9ID) or pUnit:IsHasPromotion(promotionSeedOfJakob10ID) or pUnit:IsHasPromotion(promotionSeedOfJakob11ID) or pUnit:IsHasPromotion(promotionSeedOfJakob12ID) or pUnit:IsHasPromotion(promotionSeedOfJakob13ID) or pUnit:IsHasPromotion(promotionSeedOfJakob14ID) or pUnit:IsHasPromotion(promotionSeedOfJakob15ID) or pUnit:IsHasPromotion(promotionSeedOfJakob16ID) or pUnit:IsHasPromotion(promotionSeedOfJakob17ID) or pUnit:IsHasPromotion(promotionSeedOfJakob18ID) or pUnit:IsHasPromotion(promotionSeedOfJakob19ID) or pUnit:IsHasPromotion(promotionSeedOfJakob20ID) or pUnit:IsHasPromotion(promotionSeedOfJakob21ID) or pUnit:IsHasPromotion(promotionSeedOfJakob22ID) or pUnit:IsHasPromotion(promotionSeedOfJakob23ID) or pUnit:IsHasPromotion(promotionSeedOfJakob24ID) or pUnit:IsHasPromotion(promotionSeedOfJakob25ID) then
+					local bKilledByAnySeedOfJacob = false
+					for kNum, vPromo in pairs(tSeedPromos) do
+						if pUnit:IsHasPromotion(vPromo) then
+							bKilledByAnySeedOfJacob = true
+							break
+						end
+					end
+					if bKilledByAnySeedOfJacob then
 						DMS_ZYPrint("DMS_ZY_SeedOfJacobKill: unit killed by unit with a Seed of Jacob promotion..")
 						local pCity = DMS_GetWriterCity(pKillerPlayer)
 						if pCity then
@@ -923,68 +778,16 @@ function DMS_ZY_CityDefenseFromTerrainFaith(iPlayer)
 				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: pCity:GetFaithPerTurnFromReligion() = " .. pCity:GetFaithPerTurnFromReligion() .. "..")
 				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: pCity:GetFaithPerTurnFromTraits() = " .. pCity:GetFaithPerTurnFromTraits() .. "..")
 				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: iFaithFromTerrainAndImprovements = " .. iFaithFromTerrainAndImprovements .. "..")
-               
-                if iFaithFromTerrainAndImprovements > 0 and iFaithFromTerrainAndImprovements <= 2 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 1)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 1 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 2 and iFaithFromTerrainAndImprovements <= 4 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 2)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 2 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 4 and iFaithFromTerrainAndImprovements <= 6 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 3)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 3 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 6 and iFaithFromTerrainAndImprovements <= 8 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 4)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 4 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 8 and iFaithFromTerrainAndImprovements <= 10 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 5)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 5 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 10 and iFaithFromTerrainAndImprovements <= 12 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 6)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 6 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 12 and iFaithFromTerrainAndImprovements <= 14 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 7)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 7 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 14 and iFaithFromTerrainAndImprovements <= 16 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 8)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 8 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 16 and iFaithFromTerrainAndImprovements <= 18 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 9)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 9 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 18 and iFaithFromTerrainAndImprovements <= 20 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 10)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 10 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 20 and iFaithFromTerrainAndImprovements <= 22 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 11)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 11 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 22 and iFaithFromTerrainAndImprovements <= 24 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 12)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 12 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 24 and iFaithFromTerrainAndImprovements <= 26 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 13)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 13 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 26 and iFaithFromTerrainAndImprovements <= 28 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 14)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 14 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 28 and iFaithFromTerrainAndImprovements <= 30 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 15)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 15 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 30 and iFaithFromTerrainAndImprovements <= 32 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 16)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 16 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 32 and iFaithFromTerrainAndImprovements <= 34 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 17)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 17 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 34 and iFaithFromTerrainAndImprovements <= 36 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 18)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 18 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 36 and iFaithFromTerrainAndImprovements <= 38 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 19)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 19 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                elseif iFaithFromTerrainAndImprovements > 38 then
-                    pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 20)
-				DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 20 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
-                end
+
+		if iFaithFromTerrainAndImprovements > 38 then
+			pCity:SetNumRealBuilding(buildingDefenseFromFaithID, 20)
+			DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: 20 buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
+		else
+			local iReducedFaith = math.ceil(iFaithFromTerrainAndImprovements / 2)
+			-- if iFaithFromTerrainAndImprovements is within (0, 2], iReducedFaith will be 1; if within (2, 4], it'll be 2; and so on and so on
+			pCity:SetNumRealBuilding(buildingDefenseFromFaithID, iReducedFaith)
+			DMS_ZYPrint("DMS_ZY_CityDefenseFromTerrainFaith: " .. iReducedFaith .. " buildingDefenseFromFaithID in " .. pCity:GetName() .. "..")
+		end
             end
         end
     end
