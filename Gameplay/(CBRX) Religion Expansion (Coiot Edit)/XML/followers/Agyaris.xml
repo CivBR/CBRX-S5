@@ -34,7 +34,7 @@
 			<FaithCost>225</FaithCost>
 			<UnlockedByBelief>true</UnlockedByBelief>
 			<Description>TXT_KEY_BUILDING_AGYARIS</Description>
-			<Civilopedia>Text</Civilopedia>
+			<Civilopedia>TXT_KEY_BUILDING_AGYARIS_STRATEGY</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_AGYARIS_STRATEGY</Strategy>
 			<ArtDefineTag>TEMPLE</ArtDefineTag>
 			<MinAreaSize>-1</MinAreaSize>
