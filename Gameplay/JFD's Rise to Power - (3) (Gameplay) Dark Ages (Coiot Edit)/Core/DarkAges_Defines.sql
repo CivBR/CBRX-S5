@@ -23,7 +23,7 @@ WHERE Name = 'VERY_UNHAPPY_GROWTH_PENALTY';
 -- Policies
 --------------------------------------------------------------------------------------------------------------------------	
 INSERT INTO Policies
-		(Type,						GreatPeopleRateModifier,	CityGrowthMod)
-VALUES	('POLICY_JFD_DARK_AGE',		100,						-25);
+	(Type,				Description, 					GreatPeopleRateModifier,	CityGrowthMod)
+VALUES	('POLICY_JFD_DARK_AGE',		'TXT_KEY_JFD_DARK_AGES_HEADING1_TITLE',		100,						-25);
 --==========================================================================================================================
 --==========================================================================================================================
