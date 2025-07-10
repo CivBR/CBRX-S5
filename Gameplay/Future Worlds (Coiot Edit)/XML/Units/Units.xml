@@ -215,13 +215,13 @@
 			<Class>UNITCLASS_FW_MECH_ARTILLERY</Class>
 			<Type>UNIT_FW_MECH_ARTILLERY</Type>
 			<PrereqTech>TECH_QUANTUM_COMPUTERS</PrereqTech>
-			<Combat>60</Combat>
-			<RangedCombat>90</RangedCombat>
+			<Combat>90</Combat>
+			<RangedCombat>120</RangedCombat>
 			<Cost>500</Cost>
 			<FaithCost>1000</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>3</Moves>
-			<Range>4</Range>
+			<Range>3</Range>
 			<CombatClass>UNITCOMBAT_SIEGE</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_CITY_BOMBARD</DefaultUnitAI>
@@ -453,9 +453,9 @@
 			<PrereqTech>TECH_GRID_COMPUTING</PrereqTech>
 			<Combat>100</Combat>
 			<RangedCombat>100</RangedCombat>
-			<Cost>400</Cost>
+			<Cost>425</Cost>
 			<Moves>3</Moves>
-			<Range>3</Range>
+			<Range>2</Range>
 			<CombatClass>UNITCOMBAT_GUN</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
