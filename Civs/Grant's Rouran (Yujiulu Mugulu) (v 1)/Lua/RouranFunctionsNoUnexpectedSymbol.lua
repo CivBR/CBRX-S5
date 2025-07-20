@@ -203,8 +203,7 @@ function GT_Nonor_UnitSetXY(playerID, unitID, unitX, unitY)
 	local player = Players[playerID]
 	local unit = player:GetUnitByID(unitID)
 	local plot = unit:GetPlot()
-	if not unit:GetUnitType() == unitNonorID then return end
-	if HasTrait(player, traitRouranID) then
+	if HasTrait(player, traitRouranID) and (unit:GetUnitType() == unitNonorID) then
 		for adjacentPlot in PlotAreaSpiralIterator(plot, 4, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
 			local adjacentUnit = adjacentPlot:GetUnit()
 			if adjacentUnit then
