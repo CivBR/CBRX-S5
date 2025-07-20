@@ -119,6 +119,7 @@ local isRouranActive = activePlayer:GetCivilizationType() == civilizationID
 --------------------------------
 -- EMPIRE OF THE HIDDEN RIVER --
 --------------------------------
+--[[
 local promotionInvisibilityID = GameInfoTypes["PROMOTION_GT_ROURAN"]
 local unitCombatMounted = GameInfoTypes["UNITCOMBAT_MOUNTED"]
 local terrainDesertID = GameInfoTypes["TERRAIN_DESERT"]
@@ -156,6 +157,7 @@ function GT_Rouran_EmpireOfTheHiddenRiver_UnitSetXY(playerID, unitID, unitX, uni
 	end
 end
 GameEvents.UnitSetXY.Add(GT_Rouran_EmpireOfTheHiddenRiver_UnitSetXY)
+--]]
 ---------------------
 -- WRIGGLING RIDER --
 ---------------------
