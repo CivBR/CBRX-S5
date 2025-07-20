@@ -165,12 +165,13 @@ function GT_WrigglingRider_UnitSetXY(playerID, unitID, unitX, unitY)
 	local player = Players[playerID]
 	local unit = player:GetUnitByID(unitID)
 	local plot = unit:GetPlot()
-	if not unit:GetUnitType() == unitWrigglingRiderID then return end
+	if (unit:GetUnitType() ~= unitWrigglingRiderID) then return end
 	if HasTrait(player, traitRouranID) then
+		local iMax = unit:MaxMoves()
 		for adjacentPlot in PlotAreaSpiralIterator(plot, 1, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
 			local adjacentUnit = adjacentPlot:GetUnit()
-			if (adjacentUnit and (adjacentUnit:IsBarbarian())) or (plot:IsFreshWater())  then
-				unit:ChangeMoves(300)
+			if (adjacentUnit and (adjacentUnit:IsBarbarian())) or (plot:IsFreshWater()) then
+				unit:SetMoves(iMax)
 			end
 		end
 	end
@@ -181,7 +182,7 @@ local improvementAquiferID = GameInfoTypes["IMPROVEMENT_GT_AQUIFER"]
 function GT_WrigglingRider_AquifierBuildFinished(playerID, x, y, improvementType)
 	if improvementType == improvementAquiferID then
 		local player = Players[playerID]
-		local plot = Map.GetPlot(x,	y)
+		local plot = Map.GetPlot(x, y)
 		local ownerID = plot:GetOwner()
 		if ownerID > -1 then
 			local owner = Players[ownerID]
@@ -346,7 +347,7 @@ function GT_Nonor_UnitPreKill(capturedPlayerID, unitID, unitType, iX, iY, isDela
 		if not HasTrait(capturingPlayer, traitRouranID) then return end
 		local unit = capturedPlayer:GetUnitByID(unitID)
 		if unit and not unit:IsCombatUnit() then
-			if not unit:GetUnitClassType() == unitClassGreatGeneralID then return end
+			if unit:GetUnitClassType() ~= unitClassGreatGeneralID then return end
 			for ID = 0,(plot:GetNumUnits() - 1) do
 				local plotUnit = plot:GetUnit(ID)
 				if plotUnit and plotUnit:GetUnitType() == unitNonorID then
@@ -377,7 +378,7 @@ function GT_Khan_UnitSetXY(playerID, unitID, unitX, unitY)
 	local player = Players[playerID]
 	local unit = player:GetUnitByID(unitID)
 	local plot = unit:GetPlot()
-	if not unit:GetUnitType() == unitKhanID then return end
+	if unit:GetUnitType() ~= unitKhanID then return end
 	if HasTrait(player, traitRouranID) and plot then
 		local owner = plot:GetOwner()
 		if owner ~= playerID and owner > -1 then
