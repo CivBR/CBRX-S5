@@ -84,14 +84,14 @@ VALUES	('PLAYERCOLOR_NC_WASSOULOU',	'COLOR_PLAYER_NC_WASSOULOU_ICON',	'COLOR_PLA
 ------------------------------------------------------------------------------------------------------------------------
 INSERT INTO IconTextureAtlases 
 		(Atlas, 									IconSize, 	Filename, 										IconsPerRow, 	IconsPerColumn)
-VALUES	('NC_WASSOULOU_ALPHA_ATLAS', 		128, 		'NC_Wassoulou_AlphaAtlas_128.dds',		1, 				1),
-		('NC_WASSOULOU_ALPHA_ATLAS', 		80, 		'NC_Wassoulou_AlphaAtlas_80.dds',		1, 				1),
-		('NC_WASSOULOU_ALPHA_ATLAS', 		64, 		'NC_Wassoulou_AlphaAtlas_64.dds',		1, 				1),
-		('NC_WASSOULOU_ALPHA_ATLAS', 		48, 		'NC_Wassoulou_AlphaAtlas_48.dds',		1, 				1),
-		('NC_WASSOULOU_ALPHA_ATLAS', 		45, 		'NC_Wassoulou_AlphaAtlas_45.dds',		1, 				1),
-		('NC_WASSOULOU_ALPHA_ATLAS', 		32, 		'wass_alpha32.dds',		1, 				1),
-		('NC_WASSOULOU_ALPHA_ATLAS', 		24, 		'NC_Wassoulou_AlphaAtlas_24.dds',		1, 				1),
-		('NC_WASSOULOU_ALPHA_ATLAS', 		16, 		'NC_Wassoulou_AlphaAtlas_16.dds',		1, 				1),
+VALUES	('NC_WASSOULOU_ALPHA_ATLAS', 		128, 		'Wassoulou_Icon_128.dds',		1, 				1),
+		('NC_WASSOULOU_ALPHA_ATLAS', 		80, 		'Wassoulou_Icon_80.dds',		1, 				1),
+		('NC_WASSOULOU_ALPHA_ATLAS', 		64, 		'Wassoulou_Icon_64.dds',		1, 				1),
+		('NC_WASSOULOU_ALPHA_ATLAS', 		48, 		'Wassoulou_Icon_48.dds',		1, 				1),
+		('NC_WASSOULOU_ALPHA_ATLAS', 		45, 		'Wassoulou_Icon_45.dds',		1, 				1),
+		('NC_WASSOULOU_ALPHA_ATLAS', 		32, 		'Wassoulou_Icon_32.dds',		1, 				1),
+		('NC_WASSOULOU_ALPHA_ATLAS', 		24, 		'Wassoulou_Icon_24.dds',		1, 				1),
+		('NC_WASSOULOU_ALPHA_ATLAS', 		16, 		'Wassoulou_Icon_16.dds',		1, 				1),
 		('NC_WASSOULOU_ICON_ATLAS', 		256, 		'NC_Wassoulou_IconAtlas_256.dds',		2, 				2),
 		('NC_WASSOULOU_ICON_ATLAS', 		128, 		'NC_Wassoulou_IconAtlas_128.dds',		2, 				2),
 		('NC_WASSOULOU_ICON_ATLAS', 		80, 		'NC_Wassoulou_IconAtlas_80.dds',			2, 				2),

@@ -200,7 +200,7 @@ end
 local tTradeRoutesOfCivsAtWar = {}
 
 function NC_Wassoulou_CountEnemyRoutesOnGameStart()
-	-- print("NC_Wassoulou_CountEnemyRoutesOnGameStart: Running...")
+	print("NC_Wassoulou_CountEnemyRoutesOnGameStart: Running...")
 	for i = 0, iPracticalNumCivs, 1 do -- TODO: Is there a better way to do this
 		
 		local playerID = i -- Just to make it easier to read the code
@@ -265,14 +265,14 @@ end
 -- Also update the table when a new war is declared
 
 function NC_Wassoulou_UA_DeclareWar(fromTeamID, toTeamID)
-	-- print("NC_Wassoulou_UA_DeclareWar: Running...")
+	print("NC_Wassoulou_UA_DeclareWar: Running...")
 	local fromPlayerHasTrait = GetTraitPlayerFromTeam(fromTeamID, traitWassoulouID)
 	local toPlayerHasTrait = GetTraitPlayerFromTeam(toTeamID, traitWassoulouID)
 	
 	local fromPlayerTeam = Teams[fromTeamID]
 	local toPlayerTeam = Teams[toTeamID]
 	if fromPlayerHasTrait then
-		-- print("NC_Wassoulou_UA_DeclareWar: From player is Wassoulou")
+		print("NC_Wassoulou_UA_DeclareWar: From player is Wassoulou")
 		local otherPlayerID = toPlayerTeam:GetLeaderID()
 		local pOtherPlayer = Players[otherPlayerID]
 		for city in pOtherPlayer:Cities() do
@@ -282,7 +282,7 @@ function NC_Wassoulou_UA_DeclareWar(fromTeamID, toTeamID)
 		end
 	end
 	if toPlayerHasTrait then
-		-- print("NC_Wassoulou_UA_DeclareWar: To player is Wassoulou")
+		print("NC_Wassoulou_UA_DeclareWar: To player is Wassoulou")
 		local otherPlayerID = fromPlayerTeam:GetLeaderID()
 		local pOtherPlayer = Players[otherPlayerID]
 		for city in pOtherPlayer:Cities() do
@@ -486,7 +486,7 @@ function NC_Wassoulou_NewTechResearched(teamID, techID, bool)
 			if cCity:IsHasBuilding(buildingDyulaGunsmithID) then
 				if cCity:GetProductionTurnsLeft() > 0 and cCity:GetProductionUnit() > 0 then
 					cCity:ChangeProduction(iQuantity)
-					-- print("NC_Wassoulou_NewTechResearched: Adding Production: " .. iQuantity)
+					print("NC_Wassoulou_NewTechResearched: Adding Production: " .. iQuantity)
 				end
 			end
 		end

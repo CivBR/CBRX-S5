@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="9cf97418-39b2-45ed-8f4b-2f75c9dc8e8a" version="1">
+  <Properties>
+    <Name>Urdnot's Revolutionary France - Robespierre</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Republic of Virtue, [COLOR_POSITIVE_TEXT]Revolutionary France[ENDCOLOR] to the game as a playable civilisation.</Teaser>
+    <Description>Adds the Republic of Virtue, [COLOR_POSITIVE_TEXT]Revolutionary France[ENDCOLOR] to the game as a playable civilisation. Birth your nation anew with France's unique ability to gain yields not through slowly building your cities up, but by radically tansforming them! Sell buildings for massive gains of culture and happiness, and sacrifice your citizens at the glorious altar of madame la guillotine for even greater yields! All the while, make sure your national guards are watching on, gaining massive xp bonuses as you tear down the stifling edifice of the past!</Description>
+    <Authors>Urdnot</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Pouakai's Enlightenment Era" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="A59390783544093E74233E38177A0DD2" import="1">Art/Graphics/Rev Guard/civ5_fremm1.fxsxml</File>
+    <File md5="909F3F86A67F31A929BE201DA1AD7880" import="1">Art/Graphics/Rev Guard/civ5_fremm1.gr2</File>
+    <File md5="07AB022ACB8C10A944D1013B8DB75711" import="1">Art/Graphics/Rev Guard/fremm1.dds</File>
+    <File md5="4947CFACB4573339EB47C815939C0440" import="1">Art/Graphics/Rev Guard/fremm1_sref.dds</File>
+    <File md5="1434B5AB6F554F094104D62754854FCB" import="1">Art/Graphics/Rev Guard/sv_NationalGuard.dds</File>
+    <File md5="8E8415DE186325A2CB633FE283710E27" import="1">Art/Icons/GuardFlag32.dds</File>
+    <File md5="57E09CF48FC614146AC83C55DFE3C326" import="1">Art/Icons/Religion/Supreme_Being_128.dds</File>
+    <File md5="6F28EEC929FFA8A4870E635DBE22EAFA" import="1">Art/Icons/Religion/Supreme_Being_16.dds</File>
+    <File md5="678D742884F003430E871EFBEC7B7554" import="1">Art/Icons/Religion/Supreme_Being_214.dds</File>
+    <File md5="74A804178AF7D52A6F0ADE4CF62ECD57" import="1">Art/Icons/Religion/Supreme_Being_22.dds</File>
+    <File md5="3FE0DF9E51DEB6B119FBCF75A885FE11" import="1">Art/Icons/Religion/Supreme_Being_24.dds</File>
+    <File md5="D9AA752BCA7059606F3E9D5EA505213E" import="1">Art/Icons/Religion/Supreme_Being_256.dds</File>
+    <File md5="FEF64B8652492F03F5886B697C56DD4B" import="1">Art/Icons/Religion/Supreme_Being_32.dds</File>
+    <File md5="4604602F8B8B2FDDEE0457163F4CBF7E" import="1">Art/Icons/Religion/Supreme_Being_45.dds</File>
+    <File md5="221EEBD64B6484B25CFBC3DF3C23F7F9" import="1">Art/Icons/Religion/Supreme_Being_64.dds</File>
+    <File md5="285A0389E29DF100A130C7DEAEE36B1A" import="1">Art/Icons/Religion/Supreme_Being_80.dds</File>
+    <File md5="9C22ED804C73174BB1D437019AE4AC6F" import="1">Art/Icons/RevFrance_Alpha_24.dds</File>
+    <File md5="575433EFCC62553B3957F909CCE96AC8" import="1">Art/Icons/RevFrance_Alpha_32.dds</File>
+    <File md5="C9417FDC1DD03F4532FA1EB56837E7AB" import="1">Art/Icons/RevFrance_Alpha_48.dds</File>
+    <File md5="939772AD7F500ECF6AAD951B3C903872" import="1">Art/Icons/RevFrance_Alpha_64.dds</File>
+    <File md5="50D7B2E1425997A5EA2F8B1621391A91" import="1">Art/Icons/RevFrance_Atlas_128.dds</File>
+    <File md5="598B79F0A8E9E35A784590C925D43515" import="0">Art/Icons/RevFrance_Atlas_24.dds</File>
+    <File md5="ADC88E4C510657341EEC49537E26F51D" import="1">Art/Icons/RevFrance_Atlas_256.dds</File>
+    <File md5="1301E9A1C77445B4399781D374315305" import="1">Art/Icons/RevFrance_Atlas_32.dds</File>
+    <File md5="2C923E3A5DD60CC2A889E979DB4C7305" import="1">Art/Icons/RevFrance_Atlas_45.dds</File>
+    <File md5="17FE6B513468BD61EACBDE6F292700DE" import="0">Art/Icons/RevFrance_Atlas_48.dds</File>
+    <File md5="2B0F9BE45222952147DCE542CA498B86" import="1">Art/Icons/RevFrance_Atlas_64.dds</File>
+    <File md5="CA45DAC07B9C736FE62535894F8B4BAB" import="1">Art/Icons/RevFrance_Atlas_80.dds</File>
+    <File md5="09E008DBC252F4577D01B0B9E990A454" import="1">Art/Leaderscene/robey_dom.dds</File>
+    <File md5="B01DC847120178BD0237ECC27503AA41" import="1">Art/Leaderscene/Robespierre_Diplo.dds</File>
+    <File md5="40643FF8A1CAE85B4D7E37E8EFE74E4C" import="1">Art/Leaderscene/US_France_Diplo.xml</File>
+    <File md5="80602A69C2119D6BF59B61EEB54D5824" import="1">Art/Maps/Urdnot_France_Map.dds</File>
+    <File md5="EE5C153A594B302DA9C397702E71F6ED" import="1">Core/Religion/SupremeBeingFontIcon22.ggxml</File>
+    <File md5="71A86151F9C1CBA09D1818791601FC79" import="1">Core/Religion/SupremeBeingFontIcon22.dds</File>
+    <File md5="D93124B202609A7362243AF87BB344E5" import="0">Core/RevFrance_Text.xml</File>
+    <File md5="7251EA66601427A1535C2BFEBFF9B911" import="0">Core/Support.sql</File>
+    <File md5="5163604CEC9D7292473DB4913560E400" import="0">Core/Urdnot_France_ArtDefines.sql</File>
+    <File md5="B0EAC1A32661D94BD65196B562D8A2A3" import="0">Core/Urdnot_France_GameDefines.sql</File>
+    <File md5="EFD808416C11608A5F05F7109062F324" import="0">Lua/RevFranceHappinessSQL.sql</File>
+    <File md5="43792E6C388C177A199140F7A8669AD0" import="0">Lua/RevFrance_functions.lua</File>
+    <File md5="BE7A284B2A41A3EA7F60EFDC7E66B2EB" import="1">Lua/RevFrance_functions.xml</File>
+    <File md5="73F699A3FFF220A3704F9490089C45B1" import="0">Lua/Utilities/C15_IteratorPack_v4.lua</File>
+    <File md5="72E24C04BE3B9DBB70BE35B88BEE2054" import="1">Lua/Utilities/Plotiterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/Utilities/SaveUtils.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/RevFrance_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Urdnot_France_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Urdnot_France_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Support.sql</UpdateDatabase>
+      <UpdateDatabase>Lua/RevFranceHappinessSQL.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Leaderscene/US_France_Diplo.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/RevFrance_functions.lua">
+      <Name>Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
