@@ -4,7 +4,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 -- Civilization_CBRX_TSLs
 ----------------------------------------------------------------------------------------------------------------------------
-INSERT INTO Civilization_CBRX_TSLs 
+INSERT INTO Civilization_CBRX_TSLs
 		(CivilizationType,								X,		Y,		IsIsland)
 VALUES	('CIVILIZATION_BABYLON',						9,		0,		0), --0 (default) = false, 1 = true
 		('CIVILIZATION_AGLA_ESTONIA',					32,		76,		0),
