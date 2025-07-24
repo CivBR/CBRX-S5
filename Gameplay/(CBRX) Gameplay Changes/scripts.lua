@@ -205,7 +205,7 @@ function CityGiftingSafetyNet(from_player, _, x, y, to_player, _, is_conquered)
 	end
 
 	local bCanTheCityStay = true
-	
+
 	-- retrieve the city
 	local plot = Map.GetPlot(x, y)
 	if not plot or not plot:IsCity() then
@@ -245,7 +245,7 @@ function CityGiftingSafetyNet(from_player, _, x, y, to_player, _, is_conquered)
 		print("Acquiring city back from Peace Deal")
 		oldOwner:AcquireCity(city, false, true)
 	end
-	
+
 	lock = true
 end
 

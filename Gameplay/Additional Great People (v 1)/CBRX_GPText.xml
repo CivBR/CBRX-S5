@@ -2,6 +2,351 @@
 <!-- Created by ModBuddy on 4/15/2018 12:33:05 PM -->
 <GameData>
 	<Language_en_US>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_1">
+			<Text>Jose Maria Velasco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_2">
+			<Text>El Anatsui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_3">
+			<Text>Yayoi Kusama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_4">
+			<Text>Oswaldo Guayasamín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_5">
+			<Text>Tarsila do Amaral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_6">
+			<Text>Ibrahim El-Salahi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_7">
+			<Text>Fernando Botero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_8">
+			<Text>Esther Mahlangu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_9">
+			<Text>Chéri Samba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_10">
+			<Text>Shirin Neshat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_11">
+			<Text>Ben Enwonwu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_12">
+			<Text>Amrita Sher-Gil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_13">
+			<Text>Wifredo Lam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_14">
+			<Text>Xu Bing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_15">
+			<Text>Hassan Hajjaj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_16">
+			<Text>Fela Kuti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_17">
+			<Text>Heitor Villa-Lobos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_18">
+			<Text>Ravi Shankar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_19">
+			<Text>Caetano Veloso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_20">
+			<Text>Miriam Makeba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_21">
+			<Text>Astor Piazzolla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_22">
+			<Text>Ali Farka Touré</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_23">
+			<Text>Angélique Kidjo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_24">
+			<Text>Youssou N'Dour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_25">
+			<Text>José de San Martín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_26">
+			<Text>Samori Touré</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_27">
+			<Text>Nguyễn Huệ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_28">
+			<Text>Togo Heihachiro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_29">
+			<Text>Mario J. Molina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_30">
+			<Text>Tu Youyou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_31">
+			<Text>Ahmed Zewail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_32">
+			<Text>Wangari Maathai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_33">
+			<Text>Abdus Salam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_34">
+			<Text>Fazlur Rahman Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_35">
+			<Text>Wang Shu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_36">
+			<Text>Eladio Dieste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_37">
+			<Text>Cheong Fatt Tze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_38">
+			<Text>Kanhoji Angre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_39">
+			<Text>Laksamana Hang Tuah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_40">
+			<Text>Julie Mehretu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_41">
+			<Text>Beatriz Milhazes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_42">
+			<Text>Abdoulaye Konaté</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_43">
+			<Text>Zanele Muholi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_44">
+			<Text>Wu Man</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_45">
+			<Text>Rodrigo y Gabriela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_46">
+			<Text>Seong-Jin Cho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_47">
+			<Text>Angélique Kidjo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_48">
+			<Text>Tsitsi Dangarembga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_49">
+			<Text>Nzinga Ana de Sousa Mbande</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_50">
+			<Text>Omar Mukhtar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_51">
+			<Text>Gholamreza Takhti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_52">
+			<Text>Siti Fatimah binti Abdullah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_53">
+			<Text>Wang Zhongcheng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_54">
+			<Text>Lý Bôn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_55">
+			<Text>Laksamana Hang Nadim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_56">
+			<Text>Maria Tallchief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_57">
+			<Text>Oscar Howe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_58">
+			<Text>Norval Morrisseau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_59">
+			<Text>Buffy Sainte-Marie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_60">
+			<Text>Robbie Robertson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_61">
+			<Text>N. Scott Momaday</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_62">
+			<Text>Louise Erdrich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_63">
+			<Text>Chief Joseph</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_64">
+			<Text>Osceola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_65">
+			<Text>Sequoyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_66">
+			<Text>Mary G. Ross</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_67">
+			<Text>William Holland Thomas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_68">
+			<Text>Louis Riel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_69">
+			<Text>Maquinna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_70">
+			<Text>Chief Comcomly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_71">
+			<Text>John Herrington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_72">
+			<Text>Elouise Cobell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_73">
+			<Text>Martín Chambi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_74">
+			<Text>Cecilia Vicuña</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_75">
+			<Text>Francisco Tito Yupanqui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_76">
+			<Text>Atahualpa Yupanqui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_77">
+			<Text>Domingo Cura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_78">
+			<Text>Lila Downs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_79">
+			<Text>Rigoberta Menchú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_80">
+			<Text>José María Arguedas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_81">
+			<Text>Natalia Toledo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_82">
+			<Text>Lempira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_83">
+			<Text>Ynes Mexía</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_84">
+			<Text>Manuela Sáenz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_85">
+			<Text>Guaman Poma de Ayala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_86">
+			<Text>Tomasa Tito Condemayta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_87">
+			<Text>Moctezuma Ilhuicamina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_88">
+			<Text>Pachacuti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_89">
+			<Text>Caupolicán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_90">
+			<Text>Trisong Detsen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_91">
+			<Text>Thonmi Sambhota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_92">
+			<Text>Danzanravjaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_93">
+			<Text>Milarepa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_94">
+			<Text>Mandukhai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_95">
+			<Text>Zanabazar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_96">
+			<Text>Galdan Boshugtu Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_97">
+			<Text>Sukhbaatar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_98">
+			<Text>Phagpa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_99">
+			<Text>Choiji Odser</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_100">
+			<Text>Tsendiin Damdinsüren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_101">
+			<Text>Chanakya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_102">
+			<Text>Sushruta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_103">
+			<Text>Abul Fazl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_104">
+			<Text>Sir Syed Ahmad Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_105">
+			<Text>Lal Bahadur Shastri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_106">
+			<Text>Mirza Ghalib</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_107">
+			<Text>Zahiruddin Muhammad Babur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_108">
+			<Text>Sher Shah Suri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_109">
+			<Text>Al-Farabi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_110">
+			<Text>Ulugh Beg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_111">
+			<Text>Ahmad Yasawi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_112">
+			<Text>Mahmud Kashgari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_113">
+			<Text>Abai Kunanbayev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_114">
+			<Text>Toktogul Satylganov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CBRX_SEASON_5_GP_115">
+			<Text>Ali-Shir Nava'i</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CBRX_GP_1">
 			<Text>H. G. Wells</Text>
 		</Row>
@@ -90,34 +435,49 @@
 			>In the end, she got her hands on nearly everything in the world! Just look at her window! There by the pair of old overshoes were Jamey Hankins's ice skates. There was old Walt Spoon's elk's tooth. There—his mother's own wedding ring! There was a world in that window of this remarkable old woman. And it was probable that when Miz Cunningham like an ancient barn owl fluttered and flapped to earth at last, they would take her away and pluck her open and find her belly lined with fur and feathers and the tiny mice skulls of myriad dreams.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CBRX_GP_10">
+			<Text>Chanakya</Text>
 			<Text>Ian Fleming</Text>
 		</Row>
+		<Text>Sushruta</Text>
 		<Row Tag="TXT_KEY_CBRX_GP_GW_NAME_10">
 			<Text>Casino Royale</Text>
+			<Text>Abul Fazl</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CBRX_GP_QUOTE_10">
+			<Text>Sir Syed Ahmad Khan</Text>
 			<Text
 			>“Today we are fighting Communism. Okay. If I'd been alive fifty years ago, the brand of Conservatism we have today would have been damn near called Communism and we should have been told to go and fight that. History is moving pretty quickly these days and the heroes and villains keep on changing parts.”</Text>
+			<Text>Lal Bahadur Shastri</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CBRX_GP_11">
+			<Text>Mirza Ghalib</Text>
 			<Text>Ken Kesey</Text>
 		</Row>
+		<Text>Zahiruddin Muhammad Babur</Text>
 		<Row Tag="TXT_KEY_CBRX_GP_GW_NAME_11">
 			<Text>One Flew Over the Cuckoo’s Nest</Text>
+			<Text>Sher Shah Suri</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CBRX_GP_QUOTE_11">
+			<Text>Al-Farabi</Text>
 			<Text
 			>"You know, that's the first thing that got me about this place, that there wasn't anybody laughing. I haven't heard a real laugh since I came through that door, do you know that? Man, when you lose your laugh you lose your footing."</Text>
+			<Text>Ulugh Beg</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CBRX_GP_12">
+			<Text>Ahmad Yasawi</Text>
 			<Text>William Goldman</Text>
 		</Row>
+		<Text>Mahmud Kashgari</Text>
 		<Row Tag="TXT_KEY_CBRX_GP_GW_NAME_12">
 			<Text>The Princess Bride</Text>
+			<Text>Abai Kunanbayev</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CBRX_GP_QUOTE_12">
+			<Text>Toktogul Satylganov</Text>
 			<Text>“Life isn't fair, it's just fairer than death, that's all.”</Text>
 		</Row>
+		<Text>Ali-Shir Nava'i</Text>
 		<Row Tag="TXT_KEY_CBRX_GP_13">
 			<Text>Thomas Harris</Text>
 		</Row>
