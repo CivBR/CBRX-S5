@@ -105,7 +105,7 @@ function JWW_DiversityHire(iPlayer) --working
 	local iNumOwners = 0
 	if pPlayer:IsAlive() and pPlayer:GetCivilizationType() == iQaraKhitai then
 		for i = 0, GameDefines.MAX_PLAYERS - 1, 1 do
-			if i then
+			if i and (i ~= iPlayer) then
 				local pNextPlayer = Players[i]
 				if pNextPlayer:IsEverAlive() then
 					for pCity in pPlayer:Cities() do
