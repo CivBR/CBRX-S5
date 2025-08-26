@@ -1,5 +1,5 @@
--- JFD_Civs_AfghanistanZahirShah_Functions
--- Author: JFD
+-- Xaragua_Functions
+-- Author: 
 -- DateCreated: 2/15/2014 6:33:36 PM
 --==========================================================================================================================
 -- INCLUDES
@@ -196,6 +196,7 @@ function ASQ_Xaragua_UA_UnitPrekill(unitOwnerID, unitID, unitType, plotX, plotY,
 	if unitOwnerID == killingPlayerID then return end
 	if (not player) then return end
 	if (not player:IsAlive()) then return end
+	if (player:GetCivilizationType() ~= civilizationID) then return end
 	if not isDelay then return end
 
 	local playerCapital = player:GetCapitalCity()
@@ -432,7 +433,7 @@ end
 Controls.UnitActionButton:RegisterCallback(Mouse.eLClick, ASQ_Xaragua_UUUnit_UnitActionButton);
 IconHookup(54, 45, "UNIT_ACTION_ATLAS", Controls.UnitActionIcon)
 GameEvents.PlayerDoTurn.Add(ASQ_Xaragua_UU_AI_DoTurn)
-Initialize();
+--Initialize();
 
 --------------------------------------------------------------
 -- The Areito bonus effects code -- adapted from Chrisy15 and Vice Virtuoso's code in Emerald's Thayae Khittaya (the two Pomo_ functions are my own)
