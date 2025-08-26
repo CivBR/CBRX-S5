@@ -135,27 +135,33 @@ local improvementCustomsHouseID = GameInfoTypes["IMPROVEMENT_CUSTOMS_HOUSE"]
 local improvementTradingPostID  = GameInfoTypes["IMPROVEMENT_TRADING_POST"]
 function JFD_KalmarUnion_Kobstad_DoTurn(playerID)
 	local player = Players[playerID]
-	if (not player:IsAlive()) then return end
-	for city in player:Cities() do
-		if city:IsHasBuilding(buildingKobstadID) then
-			local numTradingPosts = 0 
-			local cityPlot = Map.GetPlot(city:GetX(), city:GetY())
-			for loopPlot in PlotAreaSweepIterator(cityPlot, 3, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
-				if (loopPlot:GetImprovementType() == improvementTradingPostID and city:IsWorkingPlot(loopPlot)) then
-					numTradingPosts = numTradingPosts + 1
-				elseif (loopPlot:GetImprovementType() == improvementCustomsHouseID and city:IsWorkingPlot(loopPlot)) then
-					numTradingPosts = numTradingPosts + 1
+	if not player:IsAlive() then return end
+	if player:CountNumBuildings(buildingKobstadID) > 0 then
+		for city in player:Cities() do
+			if city:IsHasBuilding(buildingKobstadID) then
+				local numTradingPosts = 0 
+				local cityPlot = Map.GetPlot(city:GetX(), city:GetY())
+				for loopPlot in PlotAreaSweepIterator(cityPlot, 3, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
+					if (loopPlot:GetImprovementType() == improvementTradingPostID and city:IsWorkingPlot(loopPlot)) then
+						numTradingPosts = numTradingPosts + 1
+					elseif (loopPlot:GetImprovementType() == improvementCustomsHouseID and city:IsWorkingPlot(loopPlot)) then
+						numTradingPosts = numTradingPosts + 1
+					end
 				end
+				city:SetNumRealBuilding(buildingKobstadGoldID, numTradingPosts)
+			else
+				city:SetNumRealBuilding(buildingKobstadGoldID, 0)
 			end
-			city:SetNumRealBuilding(buildingKobstadGoldID, numTradingPosts)
-		else
+		end
+	elseif player:CountNumBuildings(buildingKobstadGoldID) > 0 then
+		for city in player:Cities() do
 			city:SetNumRealBuilding(buildingKobstadGoldID, 0)
 		end
 	end
 end
-if (not isCPDLL) then
+--if (not isCPDLL) then
 	GameEvents.PlayerDoTurn.Add(JFD_KalmarUnion_Kobstad_DoTurn)
-end
+--end
 --==========================================================================================================================
 -- UI FUNCTIONS
 --==========================================================================================================================
@@ -176,7 +182,7 @@ function JFD_KalmarUnion_OnEnterCityScreen()
 		Controls.MainGrid:SetHide(true)
 	end
 end
-Events.SerialEventEnterCityScreen.Add(JFD_KalmarUnion_OnEnterCityScreen)
+--Events.SerialEventEnterCityScreen.Add(JFD_KalmarUnion_OnEnterCityScreen)
  
 --JFD_KalmarUnion_OnExitCityScreen
 function JFD_KalmarUnion_OnExitCityScreen()
@@ -184,7 +190,7 @@ function JFD_KalmarUnion_OnExitCityScreen()
 		Controls.MainGrid:SetHide(false)
 	end
 end
-Events.SerialEventExitCityScreen.Add(JFD_KalmarUnion_OnExitCityScreen)
+--Events.SerialEventExitCityScreen.Add(JFD_KalmarUnion_OnExitCityScreen)
  
 --JFD_KalmarUnion_ActivePlayerTurnStart
 function JFD_KalmarUnion_ActivePlayerTurnStart()
@@ -198,7 +204,7 @@ function JFD_KalmarUnion_ActivePlayerTurnStart()
     if isHidden then Controls.MainGrid:SetHide(false) end
     Controls.LabelText:LocalizeAndSetToolTip("TXT_KEY_JFD_KALMAR_UNION_CITY_VIEW_HELP", JFD_GetKalmarUnionList(activePlayerID))
 end
-Events.ActivePlayerTurnStart.Add(JFD_KalmarUnion_ActivePlayerTurnStart)
+--Events.ActivePlayerTurnStart.Add(JFD_KalmarUnion_ActivePlayerTurnStart)
 
 --JFD_KalmarUnion_SequenceGameInitComplete
 function JFD_KalmarUnion_SequenceGameInitComplete()
@@ -211,6 +217,6 @@ function JFD_KalmarUnion_SequenceGameInitComplete()
 	if isHidden then Controls.MainGrid:SetHide(false) end
 	Controls.LabelText:LocalizeAndSetToolTip("TXT_KEY_JFD_KALMAR_UNION_CITY_VIEW_HELP", JFD_GetKalmarUnionList(activePlayerID))
 end
-Events.SequenceGameInitComplete.Add(JFD_KalmarUnion_SequenceGameInitComplete)
+--Events.SequenceGameInitComplete.Add(JFD_KalmarUnion_SequenceGameInitComplete)
 --==========================================================================================================================
 --==========================================================================================================================
