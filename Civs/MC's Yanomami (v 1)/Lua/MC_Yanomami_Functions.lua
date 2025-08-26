@@ -122,7 +122,9 @@ function ExtraCultureCapture(iPlayer, bCapital, iX, iY, iNewPlayer)
 	if pPlayer:GetCivilizationType() == iYanomamiCiv then
 		local pPlot = Map.GetPlot(iX, iY)
 		local pCity = pPlot:GetPlotCity()
-		DetectNearbyWonders(pCity, pPlot)
+		if pCity and pPlot then
+			DetectNearbyWonders(pCity, pPlot)
+		end
 	end
 end
 
