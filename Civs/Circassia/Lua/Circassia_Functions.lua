@@ -176,7 +176,7 @@ if bIsActive then
 	Controls.CircassiaButton:RegisterCallback(Mouse.eLClick, Circassia_DoButtonEffect)
 	GameEvents.PlayerDoTurn.Add(Circassia_AnnexationAbilityDoTurn)
 	IconHookup(52, 45, "UNIT_ACTION_ATLAS", Controls.CircassiaButtonImage)
-	Initialize();
+	--Initialize();
 end
 
 -- ===================================== --
