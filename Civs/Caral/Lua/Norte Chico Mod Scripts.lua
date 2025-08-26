@@ -3,6 +3,9 @@ print ("Norte Chico Scripts")
 -- Stuff
 WARN_NOT_SHARED = false; include( "SaveUtils" ); MY_MOD_NAME = "NorteChico";
 
+local iCiv = GameInfoTypes.CIVILIZATION_NORTE_CHICO_MOD
+local iRealMaxCivs = GameDefines.MAX_MAJOR_CIVS-1
+
 local iFish = GameInfoTypes.RESOURCE_FISH;
 local iCrab = GameInfoTypes.RESOURCE_CRAB;
 local iWhale = GameInfoTypes.RESOURCE_WHALE;
@@ -67,7 +70,7 @@ GameEvents.BuildFinished.Add(function(iPlayer, x, y, eImprovement)
 	local pPlot = Map.GetPlot(x, y);
 
 	if eImprovement == iPlantation then
-		if (pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_NORTE_CHICO_MOD) then
+		if (pPlayer:GetCivilizationType() == iCiv) then
 						
 			local CoastCheck = 0;
 			for pCity in pPlayer:Cities() do
@@ -159,7 +162,7 @@ function(iPlayer, iCityX, iCityY)
 	local pPlot = Map.GetPlot(iCityX, iCityY);
 	local pCity = pPlot:GetPlotCity();
 	if (pPlayer:IsAlive()) then
-		if (pPlayer:GetCivilizationType() == GameInfoTypes["CIVILIZATION_NORTE_CHICO_MOD"]) then
+		if (pPlayer:GetCivilizationType() == iCiv) then
 			if not (pPlayer:IsHuman()) then
 				if pCity:IsCapital() then
 					if not pPlayer:HasPolicy(pCaralAI) then
@@ -179,7 +182,7 @@ function(iPlayer)
 	local pTeam = pPlayer:GetTeam();
 
     if (pPlayer:IsAlive()) then	
-		if (pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_NORTE_CHICO_MOD) then
+		if (pPlayer:GetCivilizationType() == iCiv) then
 			if not (pPlayer:IsHuman()) then		
 
 				if Teams[pTeam]:GetAtWarCount(true) == 0 then
@@ -381,11 +384,11 @@ function CaralStartPlots(pPlayer)
 end	
 								
 function CaralFishScript()
-	for mPlayer=0, GameDefines.MAX_MAJOR_CIVS-1 do
+	for mPlayer=0, iRealMaxCivs do
 		local pPlayer = Players[mPlayer];
 		if pPlayer:IsAlive() then
 			if pPlayer:GetNumCities() < 1 then
-				if (pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_NORTE_CHICO_MOD) then
+				if (pPlayer:GetCivilizationType() == iCiv) then
 					print ("Caral Resource Shuffle")
 					CaralStartPlots(pPlayer)
 					CaralCheckFish(pPlayer)
@@ -395,14 +398,14 @@ function CaralFishScript()
 		end
 	end
 end
-Events.LoadScreenClose.Add(CaralFishScript)
+--Events.LoadScreenClose.Add(CaralFishScript)
 
 --Embark
 function CaralAndeanEmbark()
-	for mPlayer=0, GameDefines.MAX_MAJOR_CIVS-1 do
+	for mPlayer=0, iRealMaxCivs do
 		local pPlayer = Players[mPlayer];
 		if pPlayer:IsAlive() then
-			if (pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_NORTE_CHICO_MOD) then
+			if (pPlayer:GetCivilizationType() == iCiv) then
 				pPlayer:SetEmbarkedGraphicOverride("ART_DEF_UNIT_ANDEAN_EMBARK")
 			end
 		end
@@ -416,10 +419,10 @@ function(iTeam, iTech, bAdopted)
 	if (iTech == tSailing) then
 		local gPlayer = 0;
 		local pTeam = 999;
-		for iPlayer=0, GameDefines.MAX_MAJOR_CIVS-1 do
+		for iPlayer=0, iRealMaxCivs do
 			local pPlayer = Players[iPlayer]
 			if (pPlayer:IsAlive()) then
-				if (pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_NORTE_CHICO_MOD) then
+				if (pPlayer:GetCivilizationType() == iCiv) then
 					gPlayer = pPlayer;
 					pTeam = pPlayer:GetTeam();
 				end
