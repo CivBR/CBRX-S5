@@ -384,13 +384,13 @@ function DoSpawnGold(pPlayer, iX, iY)
 end
 
 GameEvents.UnitPrekill.Add(TrackDefeatedEnemies)
-GameEvents.UnitSetXY.Add(TrackAndCaptureGoodies)
-Events.LoadScreenClose.Add(RefreshGoodyHutLocations)
-GameEvents.UnitSetXY.Add(TrackAndCaptureBarbCamps)
-GameEvents.PlayerDoTurn.Add(TrackNewBarbCamps)
-Events.LoadScreenClose.Add(RefreshBarbCampLocations)
-GameEvents.CityBoughtPlot.Add(RemoveGoodiesAndBarbsExpandedTiles)
-GameEvents.PlayerCityFounded.Add(RemoveGoodiesAndBarbsSettledCity)
+--GameEvents.UnitSetXY.Add(TrackAndCaptureGoodies)
+--Events.LoadScreenClose.Add(RefreshGoodyHutLocations)
+--GameEvents.UnitSetXY.Add(TrackAndCaptureBarbCamps)
+--GameEvents.PlayerDoTurn.Add(TrackNewBarbCamps)
+--Events.LoadScreenClose.Add(RefreshBarbCampLocations)
+--GameEvents.CityBoughtPlot.Add(RemoveGoodiesAndBarbsExpandedTiles)
+--GameEvents.PlayerCityFounded.Add(RemoveGoodiesAndBarbsSettledCity)
 
 --========================================================================================================================
 -- AI PLAYER FUNCTIONS
