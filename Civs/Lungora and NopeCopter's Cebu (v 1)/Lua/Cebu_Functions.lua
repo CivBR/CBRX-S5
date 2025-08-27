@@ -538,7 +538,7 @@ Controls.UnitActionButton:RegisterCallback(Mouse.eLClick, CebuUnit_UnitActionBut
 IconHookup(37, 45, "UNIT_ACTION_ATLAS", Controls.UnitActionIcon)
 GameEvents.CanStartMission.Add(CheckIfCanPillage)
 GameEvents.PlayerDoTurn.Add(Cebu_AI_DoTurn)
-Initialize();
+--Initialize();
 
 
 -- Combat Strength from Plundering

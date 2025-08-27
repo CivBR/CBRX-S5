@@ -254,5 +254,5 @@ function Tang_UniqueResponses()
 end
 
 if bIsActive then
-	Events.SequenceGameInitComplete.Add(Tang_UniqueResponses)
+	--Events.SequenceGameInitComplete.Add(Tang_UniqueResponses)
 end

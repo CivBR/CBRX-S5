@@ -42,7 +42,7 @@ function CallToWarSpyEffect(pPlayer, iTeam)
 							if load(pPlayer, pCity:GetName()) == nil then
 								local pTitle = ("Defenses Neutralized")
 								local pDesc = ("Our spies have compromised all defenses in "..pCity:GetName()..". As long as a Call to War! lasts, "..pCity:GetName().." will be exposed.")
-								pPlayer:AddNotification(NotificationTypes.NOTIFICATION_GENERIC, pDesc, pTitle)
+								--pPlayer:AddNotification(NotificationTypes.NOTIFICATION_GENERIC, pDesc, pTitle)
 							end
 							save(pPlayer, pCity:GetName(), true)
 							local pNoDefense = true
@@ -98,7 +98,7 @@ function EndCallToWarSpyEffect(pPlayer, iTeam)
 	local pTitle = ("Call to War Ended")
 	local pDesc = ("Our spies must go back into hiding if they are not going to be compromised. Enemy defenses will return to normal.")
 	local pCity = pPlayer:GetCapitalCity()
-	pPlayer:AddNotification(NotificationTypes.NOTIFICATION_GENERIC, pDesc, pTitle)
+	--pPlayer:AddNotification(NotificationTypes.NOTIFICATION_GENERIC, pDesc, pTitle)
 end
 
 function CallToWarIterate(iPlayer)
@@ -177,7 +177,7 @@ for i = 0, GameDefines.MAX_MAJOR_CIVS - 1, 1 do
 		-- print("Beothuk Mythic Emblem lua loaded!")
 		GameEvents.ReligionFounded.Add(FreeAnishSpy)
 		GameEvents.MakePeace.Add(CallToWarStop)
-		GameEvents.DeclareWar.Add(CallToWarStart)
+		--GameEvents.DeclareWar.Add(CallToWarStart)
 		GameEvents.PlayerDoTurn.Add(CallToWarIterate)
         break
     end

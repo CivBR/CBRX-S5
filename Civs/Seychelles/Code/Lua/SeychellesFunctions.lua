@@ -363,6 +363,6 @@ if bIsActive then
 	GameEvents.PlayerDoTurn.Add(AIClaimTheSea_DoTurn)
 	Controls.UnitActionButton:RegisterCallback(Mouse.eLClick, ClaimTheSea_UnitActionButton);
 	IconHookup(0, 45, "UNIT_JWW_SEYCHELLES_CLAIM_ATLAS", Controls.UnitActionIcon)
-	Initialize();
+	--Initialize();
 end
 --===========================================================================

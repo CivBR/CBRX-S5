@@ -423,7 +423,7 @@ end
 if isRyukyuCivActive then
 	Controls.UnitActionButton:RegisterCallback(Mouse.eLClick, Yukatchu_UnitActionButton);
 	IconHookup(5, 45, "SAS_RYUKYU_ICON_ATLAS", Controls.UnitActionIcon)
-	Initialize();
+	--Initialize();
 end
 
 GameEvents.PlayerDoTurn.Add(AI_Yukatchu_DoTurn)

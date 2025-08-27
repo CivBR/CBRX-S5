@@ -94,7 +94,7 @@ function DetectDeclareWar(iAttackingTeam, iDefendingTeam)
 	local pDefendingTeam = Teams[iDefendingTeam]
 	local iDefender = pDefendingTeam:GetLeaderID()
 	local pDefender = Players[iDefender]
-	local pMysore = nil
+	local pMysore = false
 	local bAttacker = true
 	if pAttacker:GetCivilizationType() == iMysoreCiv then
 		pMysore = pAttacker
@@ -464,4 +464,4 @@ local function Initialize()
 	Events.LoadScreenClose.Add(MC_Mysore_RocketResupply_UI_UpdateUnitInfoPanel);
 	Events.SerialEventUnitInfoDirty.Add(MC_Mysore_RocketResupply_UI_SerialEventUnitInfoDirty);
 end
-Initialize();
+--Initialize();

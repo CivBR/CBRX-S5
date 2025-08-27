@@ -183,7 +183,7 @@ function BeneathTheRemains_ButtonDoTurn(playerID) -- for AI
 end
 
 local function Initialize()	
-	Events.LoadScreenClose.Add(BeneathTheRemains_UpdateUnitInfoPanel)
+	--Events.LoadScreenClose.Add(BeneathTheRemains_UpdateUnitInfoPanel)
 	Events.SerialEventUnitInfoDirty.Add(BeneathTheRemains_SerialEventUnitInfoDirty)
 end
 
@@ -192,7 +192,7 @@ if bIsActive then
 	Controls.XavanteButton:RegisterCallback(Mouse.eLClick, BeneathTheRemains_DoButtonEffect)
 	GameEvents.PlayerDoTurn.Add(BeneathTheRemains_ButtonDoTurn)
 	IconHookup(27, 45, "UNIT_ACTION_GOLD_ATLAS", Controls.XavanteButtonImage)
-	Initialize();
+	--Initialize();
 end
 --===========================================================================
 -- UB (Dzomori)
