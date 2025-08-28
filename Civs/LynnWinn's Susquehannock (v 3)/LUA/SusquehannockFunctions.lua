@@ -48,33 +48,10 @@ local bIsActive = JFD_IsCivilisationActive(iSusquehannock)
 -- Great Minquas Path UA (Trade Routes)
 --------------------------------------------------------------
 
-local iUATradePromo1 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_1"]
-local iUATradePromo2 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_2"]
-local iUATradePromo3 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_3"]
-local iUATradePromo4 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_4"]
-local iUATradePromo5 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_5"]
-local iUATradePromo6 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_6"]
-local iUATradePromo7 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_7"]
-local iUATradePromo8 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_8"]
-local iUATradePromo9 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_9"]
-local iUATradePromo10 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_10"]
-local iUATradePromo11 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_11"]
-local iUATradePromo12 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_12"]
-local iUATradePromo13 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_13"]
-local iUATradePromo14 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_14"]
-local iUATradePromo15 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_15"]
-local iUATradePromo16 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_16"]
-local iUATradePromo17 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_17"]
-local iUATradePromo18 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_18"]
-local iUATradePromo19 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_19"]
-local iUATradePromo20 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_20"]
-local iUATradePromo21 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_21"]
-local iUATradePromo22 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_22"]
-local iUATradePromo23 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_23"]
-local iUATradePromo24 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_24"]
-local iUATradePromo25 = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_25"]
-
-local tTradePromos = {iUATradePromo1,iUATradePromo2,iUATradePromo3,iUATradePromo4,iUATradePromo5,iUATradePromo6,iUATradePromo7,iUATradePromo8,iUATradePromo9,iUATradePromo10iUATradePromo11,iUATradePromo12,iUATradePromo13,iUATradePromo14,iUATradePromo15,iUATradePromo16,iUATradePromo17,iUATradePromo18,iUATradePromo19,iUATradePromo20,iUATradePromo21,iUATradePromo22,iUATradePromo23,iUATradePromo24,iUATradePromo25}
+local tTradePromos = {}
+for i = 1, 25, 1 do
+	tTradePromos[i] = GameInfoTypes["PROMOTION_TG_TRADE_ROUTE_PROMOTION_" .. i]
+end
 
 function Susquehanna_TradePromo(playerID)
 	local pPlayer = Players[playerID]
@@ -99,33 +76,12 @@ function Susquehanna_TradePromo(playerID)
 	-- print("TradeRouteCount: " .. iTradeRouteCount)
 	for pUnit in pPlayer:Units() do
 		if pUnit:IsCombatUnit() then
-			pUnit:SetHasPromotion(iUATradePromo1,false)
-			pUnit:SetHasPromotion(iUATradePromo2,false)
-			pUnit:SetHasPromotion(iUATradePromo3,false)
-			pUnit:SetHasPromotion(iUATradePromo4,false)
-			pUnit:SetHasPromotion(iUATradePromo5,false)
-			pUnit:SetHasPromotion(iUATradePromo6,false)
-			pUnit:SetHasPromotion(iUATradePromo7,false)
-			pUnit:SetHasPromotion(iUATradePromo8,false)
-			pUnit:SetHasPromotion(iUATradePromo9,false)
-			pUnit:SetHasPromotion(iUATradePromo10,false)
-			pUnit:SetHasPromotion(iUATradePromo11,false)
-			pUnit:SetHasPromotion(iUATradePromo12,false)
-			pUnit:SetHasPromotion(iUATradePromo13,false)
-			pUnit:SetHasPromotion(iUATradePromo14,false)
-			pUnit:SetHasPromotion(iUATradePromo15,false)
-			pUnit:SetHasPromotion(iUATradePromo16,false)
-			pUnit:SetHasPromotion(iUATradePromo17,false)
-			pUnit:SetHasPromotion(iUATradePromo18,false)
-			pUnit:SetHasPromotion(iUATradePromo19,false)
-			pUnit:SetHasPromotion(iUATradePromo20,false)
-			pUnit:SetHasPromotion(iUATradePromo21,false)
-			pUnit:SetHasPromotion(iUATradePromo22,false)
-			pUnit:SetHasPromotion(iUATradePromo23,false)
-			pUnit:SetHasPromotion(iUATradePromo24,false)
-			pUnit:SetHasPromotion(iUATradePromo25,false)
+			for _, iPromo in pairs(tTradePromos) do
+				pUnit:SetHasPromotion(iPromo, false)
+			end
 			if iTradeRouteCount > 0 then
-				pUnit:SetHasPromotion(tTradePromos[iTradeRouteCount],true)
+				local iPromoNum = math.min(iTradeRouteCount, 25)
+				pUnit:SetHasPromotion(tTradePromos[iPromoNum],true)
 			end
 		end
 	end
