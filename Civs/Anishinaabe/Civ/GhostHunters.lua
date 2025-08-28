@@ -28,6 +28,8 @@ local function tprint (tbl, indent)
   end
 end
 
+local iSpyBuilding = GameInfoTypes["BUILDING_CLANISHINAABESPY"]
+
 function CallToWarSpyEffect(pPlayer, iTeam)
 	local tSpies = pPlayer:GetEspionageSpies()
 	for k, spy in pairs(tSpies) do
@@ -58,12 +60,12 @@ function CallToWarSpyEffect(pPlayer, iTeam)
 								end
 							end
 							if pNoDefense == true then
-								pCity:SetNumRealBuilding(GameInfoTypes.BUILDING_CLANISHINAABESPY, 0)
+								pCity:SetNumRealBuilding(iSpyBuilding, 0)
 								-- print("Strength Value is "..pCity:GetStrengthValue())
 								local dampenSpirits = math.floor(pCity:GetStrengthValue() / 200)
-								pCity:SetNumRealBuilding(GameInfoTypes.BUILDING_CLANISHINAABESPY, dampenSpirits)
+								pCity:SetNumRealBuilding(iSpyBuilding, dampenSpirits)
 							else
-								pCity:SetNumRealBuilding(GameInfoTypes.BUILDING_CLANISHINAABESPY, 0)
+								pCity:SetNumRealBuilding(iSpyBuilding, 0)
 							end
 						end
 					end
@@ -77,8 +79,8 @@ function EndCallToWarSpyEffect(pPlayer, iTeam)
 	for i, pEnemy in pairs(Players) do
 		if pEnemy:GetTeam() == iTeam then
 			for pCity in pEnemy:Cities() do
-				if pCity:GetNumBuilding(GameInfoTypes.BUILDING_CLANISHINAABESPY) > 0 then
-					pCity:SetNumRealBuilding(GameInfoTypes.BUILDING_CLANISHINAABESPY, 0)
+				if pCity:GetNumBuilding(iSpyBuilding) > 0 then
+					pCity:SetNumRealBuilding(iSpyBuilding, 0)
 				else
 					save(pPlayer, pCity:GetName(), nil)
 					for pBldg in GameInfo.Buildings() do
@@ -101,9 +103,11 @@ function EndCallToWarSpyEffect(pPlayer, iTeam)
 	--pPlayer:AddNotification(NotificationTypes.NOTIFICATION_GENERIC, pDesc, pTitle)
 end
 
+local iCiv = GameInfoTypes["CIVILIZATION_CLANISHINAABE"]
+
 function CallToWarIterate(iPlayer)
 	local pPlayer = Players[iPlayer]
-	if pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_CLANISHINAABE then
+	if pPlayer:GetCivilizationType() == iCiv then
 		for i, pEnemy in pairs(Players) do
 			local iThem = pEnemy:GetTeam()
 			local iCTWturns = load(pPlayer, iThem)
@@ -133,7 +137,7 @@ end
 
 function CallToWarStart(iUs, iThem)
 	for i, pPlayer in pairs(Players) do
-		if pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_CLANISHINAABE then
+		if pPlayer:GetCivilizationType() == iCiv then
 			if pPlayer:GetTeam() == iUs then
 				-- print(iUs)
 				-- print(iThem)
@@ -145,7 +149,7 @@ function CallToWarStart(iUs, iThem)
 					local pTitle = ("Call to War!")
 					local pDesc = ("The time to strike is now! Place our spies in enemy cities to render their defenses useless!")
 					local pCity = pPlayer:GetCapitalCity()
-					pPlayer:AddNotification(NotificationTypes.NOTIFICATION_GENERIC, pDesc, pTitle)
+					--pPlayer:AddNotification(NotificationTypes.NOTIFICATION_GENERIC, pDesc, pTitle)
 				end
 			end
 		end
@@ -154,7 +158,7 @@ end
 
 function CallToWarStop(iUs, iThem)
 	for i, pPlayer in pairs(Players) do
-		if pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_CLANISHINAABE then
+		if pPlayer:GetCivilizationType() == iCiv then
 			if pPlayer:GetTeam() == iUs then
 				save(pPlayer, iThem, nil)
 				EndCallToWarSpyEffect(pPlayer, iThem)
@@ -163,17 +167,20 @@ function CallToWarStop(iUs, iThem)
 	end
 end
 
+local iReligBuilding = GameInfoTypes["BUILDING_CLANISHINAABEREL"]
+local iMaxCivs = GameDefines.MAX_MAJOR_CIVS - 1
+
 function FreeAnishSpy(iPlayer)
 	local pPlayer = Players[iPlayer]
-	if pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_CLANISHINAABE then
+	if pPlayer:GetCivilizationType() == iCiv then
 		local pCap = pPlayer:GetCapitalCity()
-		pCap:SetNumRealBuilding(GameInfoTypes.BUILDING_CLANISHINAABEREL, 1)
+		pCap:SetNumRealBuilding(iReligBuilding, 1)
 	end
 end
 
-for i = 0, GameDefines.MAX_MAJOR_CIVS - 1, 1 do
+for i = 0, iMaxCivs, 1 do
 	local pPlayer = Players[i]
-	if pPlayer:IsEverAlive() and pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_CLANISHINAABE then
+	if pPlayer:IsEverAlive() and pPlayer:GetCivilizationType() == iCiv then
 		-- print("Beothuk Mythic Emblem lua loaded!")
 		GameEvents.ReligionFounded.Add(FreeAnishSpy)
 		GameEvents.MakePeace.Add(CallToWarStop)
