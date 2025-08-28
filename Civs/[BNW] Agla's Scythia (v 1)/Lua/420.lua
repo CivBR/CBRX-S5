@@ -16,7 +16,7 @@ function JFD_IsCivilisationActive(civilisationID)
 	return false
 end
 
-
+local iHolySite = GameInfoTypes["IMPROVEMENT_HOLY_SITE"]
 		 
 function JFD_GetNumberWorkedDrugFarms(playerID, city)
 	local numWorkedDrugFarms = 0
@@ -26,7 +26,7 @@ function JFD_GetNumberWorkedDrugFarms(playerID, city)
 			local player = Players[playerID]
 			if player:GetCivilizationType() == civilizationAglaID and player:IsEverAlive() then
 				if city:IsWorkingPlot(plot) then	
-					if plot:GetImprovementType() == GameInfoTypes["IMPROVEMENT_HOLY_SITE"] then 
+					if plot:GetImprovementType() == iHolySite then 
 						numWorkedDrugFarms = numWorkedDrugFarms + 1
 					end
 				end
@@ -36,12 +36,14 @@ function JFD_GetNumberWorkedDrugFarms(playerID, city)
 	
 	return numWorkedDrugFarms
 end
-	
+
+local iWeedPriest = GameInfoTypes["BUILDING_AGLA_WEED_PRIEST"]
+
 function JFD_DrugFarmDrugsResource(playerID)
 	local player = Players[playerID]
 	if player:IsAlive() then
 		for city in player:Cities() do
-			city:SetNumRealBuilding(GameInfoTypes["BUILDING_AGLA_WEED_PRIEST"], JFD_GetNumberWorkedDrugFarms(playerID, city))
+			city:SetNumRealBuilding(iWeedPriest, JFD_GetNumberWorkedDrugFarms(playerID, city))
 		end
 	end
 end
