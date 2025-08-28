@@ -179,7 +179,7 @@ end
 GameEvents.UnitSetXY.Add(GT_WrigglingRider_UnitSetXY)
 
 local tFreshwaterBuildings = {}
-for row in DB.Query("SELECT * FROM Buildings WHERE Type IN SELECT BuildingType FROM Building_ProvidesAccesstoFreshWater") do
+for row in DB.Query("SELECT * FROM Buildings WHERE Type IN (SELECT BuildingType FROM Building_ProvidesAccesstoFreshWater)") do
 	tFreshwaterBuildings[row.ID] = true
 end
 
