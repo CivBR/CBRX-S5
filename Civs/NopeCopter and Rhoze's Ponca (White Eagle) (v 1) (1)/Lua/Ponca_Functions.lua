@@ -231,6 +231,8 @@ end
 -----------------------------------------------------------------------------
 -- Ponca can settle a free city in someone else's lands (Button Code)
 -----------------------------------------------------------------------------
+local iCoast, iOcean = GameInfoTypes["TERRAIN_COAST"], GameInfoTypes["TERRAIN_OCEAN"]
+local iJungle, iMarsh, iFloodplain, iForest = GameInfoTypes.FEATURE_JUNGLE, GameInfoTypes.FEATURE_MARSH, GameInfoTypes.FEATURE_FLOOD_PLAINS, GameInfoTypes.FEATURE_FOREST
 function NC_Ponca_IsFreeCityPossible(unit)
 	local pBool = false;
 	local pPlayer = Players[unit:GetOwner()]
@@ -249,8 +251,8 @@ function NC_Ponca_IsFreeCityPossible(unit)
 						
 						if otherCapital:IsHasBuilding(buildingPoncaPeaceDummyID) then
 							-- print("NC_Ponca_IsFreeCityPossible: Other civ is in a peace deal with Ponca")
-							if pPlot:GetTerrainType() == GameInfoTypes.TERRAIN_COAST or pPlot:GetTerrainType() == GameInfoTypes.TERRAIN_OCEAN then return pBool end
-							if not (pPlot:GetFeatureType() == GameInfoTypes.FEATURE_JUNGLE or pPlot:GetFeatureType() == GameInfoTypes.FEATURE_MARSH or pPlot:GetFeatureType() == GameInfoTypes.FEATURE_FLOOD_PLAINS or pPlot:GetFeatureType() == GameInfoTypes.FEATURE_FOREST or pPlot:GetFeatureType() == -1) then return pBool end
+							if pPlot:GetTerrainType() == iCoast or pPlot:GetTerrainType() == iOcean then return pBool end
+							if not (pPlot:GetFeatureType() == iJungle or pPlot:GetFeatureType() == iMarsh or pPlot:GetFeatureType() == iFloodplain or pPlot:GetFeatureType() == iForest or pPlot:GetFeatureType() == -1) then return pBool end
 							-- if not Players[unit:GetOwner()]:CanFound(pPlot:GetX(), pPlot:GetY()) then return pBool end
 							-- print("NC_Ponca_IsFreeCityPossible: Ponca can found a city here!")
 							pBool = true;
@@ -577,7 +579,7 @@ function NC_Ponca_UB_CityConstructed(playerID, cityID, buildingID, isGold, isFai
 			if adjacentPlot and adjacentPlot:GetWorkingCity() == pCity then
 				if (adjacentPlot:GetImprovementType() == -1 and adjacentPlot:CanHaveImprovement(improvementFarmID)) then
 					-- print("NC_Ponca_UB_CityConstructed: Plot should work, checking features")
-					if (adjacentPlot:GetFeatureType() == GameInfoTypes.FEATURE_FLOOD_PLAINS) or (adjacentPlot:GetFeatureType() == -1) then
+					if (adjacentPlot:GetFeatureType() == iFloodplain) or (adjacentPlot:GetFeatureType() == -1) then
 						-- if not (adjacentPlot:GetFeatureType() == GameInfoTypes.FEATURE_JUNGLE or adjacentPlot:GetFeatureType() == GameInfoTypes.FEATURE_MARSH or adjacentPlot:GetFeatureType() == GameInfoTypes.FEATURE_OASIS or adjacentPlot:GetFeatureType() == GameInfoTypes.FEATURE_FOREST) then
 						-- print("NC_Ponca_UB_CityConstructed: Plot can have farm, placing...")
 						adjacentPlot:SetImprovementType(improvementFarmID)
