@@ -65,6 +65,25 @@ end
 -- Plantation Production
 local iPlantation = GameInfoTypes.IMPROVEMENT_PLANTATION;
 
+local tSpeedStats = {}
+local iQuick = GameInfoTypes["GAMESPEED_QUICK"]
+local iStandard = GameInfoTypes["GAMESPEED_STANDARD"]
+local iEpic = GameInfoTypes["GAMESPEED_EPIC"]
+local iMarathon = GameInfoTypes["GAMESPEED_MARATHON"]
+
+tSpeedStats[iQuick] = {}
+tSpeedStats[iQuick]["Nets"] = 13
+tSpeedStats[iStandard] = {}
+tSpeedStats[iStandard]["Nets"] = 20
+tSpeedStats[iEpic] = {}
+tSpeedStats[iEpic]["Nets"] = 30
+tSpeedStats[iMarathon] = {}
+tSpeedStats[iQuick]["Nets"] = 60
+
+for iSpeed, tSubtable in pairs(tSpeedStats) do
+	tSubtable["Handicap"] = math.ceil(tSubtable["Nets"] / 4)
+end
+
 GameEvents.BuildFinished.Add(function(iPlayer, x, y, eImprovement) 
 	local pPlayer = Players[iPlayer];
 	local pPlot = Map.GetPlot(x, y);
@@ -86,23 +105,14 @@ GameEvents.BuildFinished.Add(function(iPlayer, x, y, eImprovement)
 										
 				if (load(pPlayer, "CaralPlantation" .. HsaveX .. "xy" .. HsaveY .. "bool") ~= true) then
 
-					local BetterNets = 0;
-					local WonderHandicap = 0;
-					if speed == GameInfo.GameSpeeds['GAMESPEED_QUICK'].ID then
-						BetterNets = 13;
-						WonderHandicap = 10;
-					elseif speed == GameInfo.GameSpeeds['GAMESPEED_STANDARD'].ID then
-						BetterNets = 20;
-						WonderHandicap = 15;
-					elseif speed == GameInfo.GameSpeeds['GAMESPEED_EPIC'].ID then
-						BetterNets = 30;
-						WonderHandicap = 23;
-					elseif speed == GameInfo.GameSpeeds['GAMESPEED_MARATHON'].ID then
-						BetterNets = 60;
-						WonderHandicap = 45;
-					else
-						BetterNets = 60;
-						WonderHandicap = 45;
+					local BetterNets = 60;
+					local WonderHandicap = 45;
+					for iThisSpeed, tSubtable in pairs(tSpeedStats) do
+							if speed == iThisSpeed then
+								BetterNets = tSubtable["Nets"]
+								WonderHandicap = tSubtable["Handicap"]
+								break
+							end
 					end
 
 					for pCity in pPlayer:Cities() do
@@ -216,6 +226,18 @@ function(iPlayer)
 
 end)
 
+local tBonusRes = {}
+local tLuxes = {}
+for row in DB.Query("SELECT * FROM Resources") do
+	if (row.Happiness == 0) then
+		if (row.AIObjective == 0) then
+			tBonusRes[row.ID] = true
+		end
+	else
+		tLuxes[row.ID] = true
+	end
+end
+
 --Fish Start
 function CaralBonusFish(pPlayer)
 	local Replace = 0;
@@ -223,7 +245,7 @@ function CaralBonusFish(pPlayer)
 		local pPlot = ncaDecompilePlotID(sKey)
 		if not pPlot:IsWater() and (pPlot:GetResourceType() ~= -1) then
 			local plotResource = pPlot:GetResourceType(); 
-			if (GameInfo.Resources[plotResource].Happiness == 0) and (GameInfo.Resources[plotResource].AIObjective == 0) then
+			if tBonusRes[plotResource] then
 				pPlot:SetResourceType(-1);	
 				Replace = Replace + 1;
 				print ("Removed 1 Bonus")
@@ -254,7 +276,7 @@ function CaralLuxuryFish(pPlayer)
 		local pPlot = ncaDecompilePlotID(sKey)
 		if not pPlot:IsWater() and (pPlot:GetResourceType() ~= -1) then
 			local plotResource = pPlot:GetResourceType(); 
-			if (GameInfo.Resources[plotResource].Happiness > 0) then
+			if tLuxes[plotResource] then
 				pPlot:SetResourceType(-1);
 				Replace = Replace + 1;
 				print ("Removed 1 Luxury")	
@@ -285,7 +307,7 @@ function CaralAddFish(pPlayer)
 		local pPlot = ncaDecompilePlotID(sKey)
 		if not pPlot:IsWater() and (pPlot:GetResourceType() ~= -1) then
 			local plotResource = pPlot:GetResourceType(); 
-			if (GameInfo.Resources[plotResource].Happiness == 0) and (GameInfo.Resources[plotResource].AIObjective == 0) then
+			if tBonusRes[plotResource] then
 				BonusCheck = BonusCheck + 1;
 			end
 		end
@@ -301,7 +323,7 @@ function CaralAddCrab(pPlayer)
 		local pPlot = ncaDecompilePlotID(sKey)
 		if not pPlot:IsWater() and (pPlot:GetResourceType() ~= -1) then
 			local plotResource = pPlot:GetResourceType(); 
-			if (GameInfo.Resources[plotResource].Happiness > 0) then
+			if tLuxes[plotResource] then
 				LuxuryCheck = LuxuryCheck + 1;
 			end
 		end
@@ -361,13 +383,16 @@ function CaralCheckCrab(pPlayer)
 		print ("Sea Resources Present Plus")	
 	end
 end
-	
+
+local iSettlerClass = GameInfoTypes["UNITCLASS_SETTLER"]
+
 function CaralStartPlots(pPlayer)
+	if not pPlayer:HasUnitOfClassType(iSettlerClass) then return end
 	for pUnit in pPlayer:Units() do
 		if pUnit:GetUnitClassType() == uSettler then
-			local uPlot = pUnit:GetPlot();
-			local plotX = uPlot:GetX();
-			local plotY = uPlot:GetY();
+			--local uPlot = pUnit:GetPlot();
+			local plotX = pUnit:GetX();
+			local plotY = pUnit:GetY();
 			local iRange = 3;
 			for iDX = -iRange, iRange do
 				for iDY = -iRange, iRange do
