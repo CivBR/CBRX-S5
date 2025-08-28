@@ -34,6 +34,7 @@ function JFD_IsCivilisationActive(civID)
 end
 local bIsActive = JFD_IsCivilisationActive(civilizationID)
 
+local rutStrategic = ResourceUsageTypes.RESOURCEUSAGE_STRATEGIC
 function ChonoPDT (playerID)
 	local player = Players[playerID]
 	if not player:IsAlive() then return end
@@ -42,7 +43,7 @@ function ChonoPDT (playerID)
 	local nUnused = 0
 	for pResource in GameInfo.Resources() do
 		local iResourceLoop = pResource.ID
-		if (Game.GetResourceUsageType(iResourceLoop) == ResourceUsageTypes.RESOURCEUSAGE_STRATEGIC) then
+		if (Game.GetResourceUsageType(iResourceLoop) == rutStrategic) then
 			local add = player:GetNumResourceAvailable(iResourceLoop, true)
 			if iResourceLoop == resIron then
 				add = 2*add
