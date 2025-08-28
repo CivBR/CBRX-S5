@@ -178,6 +178,11 @@ function GT_WrigglingRider_UnitSetXY(playerID, unitID, unitX, unitY)
 end
 GameEvents.UnitSetXY.Add(GT_WrigglingRider_UnitSetXY)
 
+local tFreshwaterBuildings = {}
+for row in DB.Query("SELECT * FROM Buildings WHERE Type IN SELECT BuildingType FROM Building_ProvidesAccesstoFreshWater") do
+	tFreshwaterBuildings[row.ID] = true
+end
+
 local improvementAquiferID = GameInfoTypes["IMPROVEMENT_GT_AQUIFER"]
 function GT_WrigglingRider_AquifierBuildFinished(playerID, x, y, improvementType)
 	if improvementType == improvementAquiferID then
@@ -188,8 +193,7 @@ function GT_WrigglingRider_AquifierBuildFinished(playerID, x, y, improvementType
 			local owner = Players[ownerID]
 			local city = plot:GetWorkingCity()
 			if not city then city = GetNearestCity(player, plot) end
-			for row in GameInfo.Building_ProvidesAccesstoFreshWater() do
-				local buildingID = GameInfo.Buildings[row.BuildingType].ID
+			for buildingID, _ in pairs(tFreshwaterBuildings) do
 				if not city:IsHasBuilding(buildingID) then
 					city:SetNumRealBuilding(buildingID, 1)
 				end
@@ -210,7 +214,7 @@ function GT_Nonor_UnitSetXY(playerID, unitID, unitX, unitY)
 		for adjacentPlot in PlotAreaSpiralIterator(plot, 4, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
 			local adjacentUnit = adjacentPlot:GetUnit()
 			if adjacentUnit then
-				if (adjacentUnit:GetUnitType() == unitNonorID or adjacentUnit:GetUnitType() == unitKhanID) then
+				if (adjacentUnit:GetUnitType() == unitNonorID) or (adjacentUnit:GetUnitType() == unitKhanID) then
 					unit:SetHasPromotion(promotionOnlyDefensive, false)
 				else
 					unit:SetHasPromotion(promotionOnlyDefensive, true)
@@ -316,7 +320,7 @@ function GT_Rouran_NonorSelection(playerID, unitID, x, y, a5, bool)
 		selectedUnit = nil;
 	end
 end
-Events.UnitSelectionChanged.Add(GT_Rouran_NonorSelection)
+--Events.UnitSelectionChanged.Add(GT_Rouran_NonorSelection)
 
 function UpdateButtonOnMove(playerID, unitID, iX, iY)
 	local player = Players[playerID]
@@ -331,7 +335,7 @@ end
 
 if isRouranActive then
 	GameEvents.PlayerDoTurn.Add(GT_Rouran_Nonor_DoTurn)
-	GameEvents.UnitSetXY.Add(UpdateButtonOnMove)
+	--GameEvents.UnitSetXY.Add(UpdateButtonOnMove)
 	IconHookup(18, 45, "UNIT_ACTION_ATLAS", Controls.NonorButtonImage)
 	buttonNonor:RegisterCallback(Mouse.eLClick, DoButtonEffect)
 	buttonNonor:SetHide(true)
@@ -404,9 +408,9 @@ GameEvents.UnitSetXY.Add(GT_Khan_UnitSetXY)
 local promotionOrtegeID = GameInfoTypes["PROMOTION_GT_ORTEGE"]
 function GT_Ortege_UnitSetXY(playerID, unitID, unitX, unitY)
 	local player = Players[playerID]
+	if not player:IsGoldenAge() then return end
 	local unit = player:GetUnitByID(unitID)
 	local plot = unit:GetPlot()
-	if not player:IsGoldenAge() then return end
 	if HasTrait(player, traitMongolID) then
 		if plot:GetImprovementType() == improvementOrtegeID then
 			if (unit:GetUnitCombatType() == unitCombatMounted) and (not unit:IsHasPromotion(promotionOrtegeID)) then
