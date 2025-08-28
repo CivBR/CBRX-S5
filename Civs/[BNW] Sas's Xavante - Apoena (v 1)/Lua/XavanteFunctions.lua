@@ -36,10 +36,12 @@ end
 --===========================================================================
 -- Known Civilizations who produce more Tourism than the Xavante provide Great Musician points to the Xavante (in capital)
 -----------------------------------------------------------------------------
+local iMaxCivs = GameDefines.MAX_MAJOR_CIVS - 1
+local specMusician = GameInfoTypes["SPECIALIST_MUSICIAN"]
 function JWW_Ratamahatta(iPlayer)
 	local pPlayer = Players[iPlayer]
 	if pPlayer:IsAlive() and (pPlayer:GetCivilizationType() == iXavante) then
-		for i = 0, GameDefines.MAX_MAJOR_CIVS - 1, 1 do
+		for i = 0, iMaxCivs, 1 do
 			if i and i ~= iPlayer then
 				local pNextPlayer = Players[i]
 				local pTeam = Teams[pPlayer:GetTeam()]
@@ -47,7 +49,7 @@ function JWW_Ratamahatta(iPlayer)
 					if pPlayer:GetTourism() < pNextPlayer:GetTourism() then
 						local iDiff = (pNextPlayer:GetTourism() - pPlayer:GetTourism())
 						local pCap = pPlayer:GetCapitalCity()
-						pCap:ChangeSpecialistGreatPersonProgressTimes100(GameInfoTypes["SPECIALIST_MUSICIAN"], (iDiff * 200)) --Difference in Tourism times 2 is how many points they get
+						pCap:ChangeSpecialistGreatPersonProgressTimes100(specMusician, (iDiff * 200)) --Difference in Tourism times 2 is how many points they get
 					end
 				end
 			end
@@ -57,10 +59,11 @@ end
 -----------------------------------------------------------------------------
 -- Whenever a Great Musician is expended in Xavante territory, recieve a lump sum of Golden Age points.
 -----------------------------------------------------------------------------
+local iMusician = GameInfoTypes["UNIT_MUSICIAN"]
 function JWW_Territory(iPlayer, iUnit, unitType, iX, iY, bDelay, iKiller)
 	if not bDelay then return end
 	if (iKiller ~= -1) then return end
-	if (unitType ~= GameInfoTypes["UNIT_MUSICIAN"]) then return end
+	if (unitType ~= iMusician) then return end
 	
 	local pPlayer = Players[iPlayer]
 	if pPlayer:IsAlive() and (pPlayer:GetCivilizationType() == iXavante) then
@@ -165,10 +168,11 @@ local function BeneathTheRemains_UpdateUnitInfoPanel()
 	Controls.XavanteButton:ChangeParent(ContextPtr:LookUpControl("/InGame/WorldView/UnitPanel/PrimaryStack"))
 end
 
+local iScoutClass = GameInfoTypes["UNITCLASS_SCOUT"]
 
 function BeneathTheRemains_ButtonDoTurn(playerID) -- for AI
 	local pPlayer = Players[playerID]
-	if pPlayer:HasUnitOfClassType(GameInfoTypes["UNIT_SCOUT"]) then
+	if pPlayer:HasUnitOfClassType(iScoutClass) then
 		if (not pPlayer:IsHuman()) then
 	        
 			for pUnit in pPlayer:Units() do
@@ -201,13 +205,14 @@ local iDzomori = GameInfoTypes["BUILDING_SAS_DZOMORI"]
 -----------------------------------------------------------------------------
 -- When Great Work of Music slot is filled, Plantation-based Resources yield +1 Food.
 -----------------------------------------------------------------------------
+local iHospitalClass = GameInfoTypes["BUILDINGCLASS_HOSPITAL"]
 function JWW_Arise(iPlayer)
 	local pPlayer = Players[iPlayer]
 	if pPlayer:IsAlive() and pPlayer:GetCivilizationType() == iXavante then
 		for pCity in pPlayer:Cities() do
 			local iFood = 0
 			if pCity:IsHasBuilding(iDzomori) then
-				if (pCity:GetBuildingGreatWork(GameInfoTypes["BUILDINGCLASS_HOSPITAL"], 1) ~= nil) then
+				if (pCity:GetBuildingGreatWork(iHospitalClass, 1) ~= nil) then
 					for i = 0, pCity:GetNumCityPlots(), 1 do
 						local pPlot = pCity:GetCityIndexPlot(i)
 						if pPlot:GetWorkingCity() == pCity then
