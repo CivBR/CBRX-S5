@@ -16,6 +16,7 @@
 -- UA: Kai Kai Lore (Faith boost for new citizens)
 -- Author: JFD
 --=====================================================================================================
+local iCiv = GameInfoTypes["CIVILIZATION_MC_RAPA_NUI"]
 local ArtistSp = GameInfoTypes.SPECIALIST_ARTIST
 local MusicianSp = GameInfoTypes.SPECIALIST_MUSICIAN
 local WriterSp = GameInfoTypes.SPECIALIST_WRITER
@@ -28,7 +29,7 @@ function JFD_RapaNuiFaith(iX, iY, oldPopulation, newPopulation)
         local city = Map.GetPlot(iX, iY):GetPlotCity()
         if (not city) then return end 
 		local player = Players[city:GetOwner()]
-        if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_MC_RAPA_NUI"] then
+        if player:GetCivilizationType() == iCiv then
                 local faithBoost = (newPopulation - 1)*5
                 player:ChangeFaith(faithBoost)
  		local CultureGPBoost = ( faithBoost / 10 ) * 100
@@ -55,7 +56,7 @@ GameEvents.SetPopulation.Add(JFD_RapaNuiFaith)
 function RapaNuiGrantGPPoints(iPlayer)
 	local pPlayer = Players[iPlayer];
 	if (pPlayer:IsEverAlive()) then
-		 if pPlayer:GetCivilizationType() == GameInfoTypes["CIVILIZATION_MC_RAPA_NUI"] then
+		 if pPlayer:GetCivilizationType() == iCiv then
 			for pCity in pPlayer:Cities() do
 				local iFaithPerTurn = pCity:GetFaithPerTurn();
 				local CultureGPBoostFPT = iFaithPerTurn * 10
