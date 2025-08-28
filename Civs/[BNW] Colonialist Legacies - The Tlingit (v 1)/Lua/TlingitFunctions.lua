@@ -26,10 +26,12 @@ function Tlingit_BuildingCheck(player, buildingID)
  
     return numBuilding
 end
- 
+
+local iCiv = GameInfoTypes["CIVILIZATION_CL_TLINGIT"]
+
 function Tlingit_BuildingBoost(playerID, cityX, cityY)
     local player = Players[playerID]
-    if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_CL_TLINGIT"] and player:IsAlive() then
+    if player:GetCivilizationType() == iCiv and player:IsAlive() then
         local plot = Map.GetPlot(cityX, cityY)
         local city = plot:GetPlotCity()
         local numOtherCities = player:GetNumCities() - 1
@@ -58,7 +60,7 @@ end
  
 function CL_Tlingit_DoubleTradeRoute(playerId)
     local pPlayer = Players[playerId]
-    if pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_CL_TLINGIT then
+    if pPlayer:GetCivilizationType() == iCiv then
         local routes = pPlayer:GetTradeRoutes()
         for pCity in pPlayer:Cities() do
             local totalSci = 0
@@ -125,7 +127,10 @@ local function YaaCulturePower(pPlayer, pUnit, CoastOnly)
         return closest
     end
 end
- 
+
+local iPromoTarget = GameInfoTypes.PROMOTION_CLFBYAADO
+local iPromoToReturnTo = GameInfoTypes.PROMOTION_CLFBYAA
+
 function CL_Tlingit_ListenSEUSD(playerId, unitId, newDamage, oldDamage)
     if newDamage > oldDamage then --filter out heals
         local pPlayer = Players[playerId]
@@ -133,7 +138,7 @@ function CL_Tlingit_ListenSEUSD(playerId, unitId, newDamage, oldDamage)
             if pUnit:GetID() == unitId then --if the unit is null, it died. WHich is what we want.
                 --we only want this to trigger on not-dead enemies
                 --to find and reset CLFBYAADO to CLFBYAA so that CL_Tlingit_ListenPT never triggers.
-                if not pUnit:IsHasPromotion(GameInfoTypes.PROMOTION_CLFBYAADO) then -- this is a possible target
+                if not pUnit:IsHasPromotion(iPromoTarget) then -- this is a possible target
                     local pPlot = pUnit:GetPlot()
                     for i = 0, 5 do
                         local pAdj = Map.PlotDirection(pPlot:GetX(), pPlot:GetY(), i);
@@ -141,9 +146,9 @@ function CL_Tlingit_ListenSEUSD(playerId, unitId, newDamage, oldDamage)
                             if pAdj:GetNumUnits() > 0 then
                                 for i = 0, pAdj:GetNumUnits() - 1 do
                                     local pSH = pAdj:GetUnit(i)
-                                    if pSH:IsHasPromotion(GameInfoTypes.PROMOTION_CLFBYAADO) then
-                                        pSH:SetHasPromotion(GameInfoTypes.PROMOTION_CLFBYAADO, false)
-                                        pSH:SetHasPromotion(GameInfoTypes.PROMOTION_CLFBYAA, true)
+                                    if pSH:IsHasPromotion(iPromoTarget) then
+                                        pSH:SetHasPromotion(iPromoTarget, false)
+                                        pSH:SetHasPromotion(iPromoToReturnTo, true)
                                     end
                                 end
                             end
@@ -159,11 +164,11 @@ Events.SerialEventUnitSetDamage.Add(CL_Tlingit_ListenSEUSD)
  
 function CL_Tlingit_ListenPT(playerId) -- all else has failed, we'll do this on the next turn
     local pPlayer = Players[playerId]
-    if pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_CL_TLINGIT then
+    if pPlayer:GetCivilizationType() == iCiv then
         for pUnit in pPlayer:Units() do
-            if pUnit:IsHasPromotion(GameInfoTypes.PROMOTION_CLFBYAADO) then -- unit killed someone
-                pUnit:SetHasPromotion(GameInfoTypes.PROMOTION_CLFBYAADO, false)
-                pUnit:SetHasPromotion(GameInfoTypes.PROMOTION_CLFBYAA, true)
+            if pUnit:IsHasPromotion(iPromoTarget) then -- unit killed someone
+                pUnit:SetHasPromotion(iPromoTarget, false)
+                pUnit:SetHasPromotion(iPromoToReturnTo, true)
                 local YaaCity = YaaCulturePower(pPlayer, pUnit, true)
                 if YaaCity ~= false then
                     YaaCity:ChangeJONSCultureStored(42)
@@ -174,15 +179,16 @@ function CL_Tlingit_ListenPT(playerId) -- all else has failed, we'll do this on 
     return --this event expects a return, so it perfoms better if you give it one
 end
 GameEvents.PlayerDoTurn.Add(CL_Tlingit_ListenPT)
- 
+
+local iMovesPromo = GameInfoTypes.PROMOTION_CLFBYAAMOVE
  
  function CL_Tlingit_YaaMovePower(playerId, unitId)
     local pPlayer = Players[playerId]
-    if pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_CL_TLINGIT then
+    if pPlayer:GetCivilizationType() == iCiv then
         local pUnit = pPlayer:GetUnitByID(unitId)
         local pPlot = pUnit:GetPlot()
         if (pPlot ~= nil) and (pPlot:IsCoastalLand()) then
-            if pUnit:IsHasPromotion(GameInfoTypes.PROMOTION_CLFBYAAMOVE) then
+            if pUnit:IsHasPromotion(iMovesPromo) then
                 if pUnit:GetMoves() == 0 then
                     if Game.Rand(100, 'Beachcoming') < 33 then --fixed lower case r
                         pUnit:SetMoves(60)
@@ -204,13 +210,18 @@ GameEvents.UnitSetXY.Add(CL_Tlingit_YaaMovePower)
 --------------------------------------
 -- This part was not managed by Kaduseon, and is taken from
 -- the original source as written by Neirai
+
+local iNoow = GameInfoTypes.IMPROVEMENT_CLFB_NOOW
+local iNoowPromo = GameInfoTypes.PROMOTION_CLFBNOOW
+local yieldF, yieldC, yieldFaith, yieldG, yieldP, yieldS = YieldTypes.YIELD_FOOD, YieldTypes.YIELD_CULTURE, YieldTypes.YIELD_FAITH, YieldTypes.YIELD_GOLD, YieldTypes.YIELD_PRODUCTION, YieldTypes.YIELD_SCIENCE
+
 function CL_Tlingit_NoowUniqueImprovement(playerId)
     local pPlayer = Players[playerId]
-    if pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_CL_TLINGIT then
+    if pPlayer:GetCivilizationType() == iCiv then
         for plotLoop = 0, Map.GetNumPlots() - 1, 1 do
             local pPlot = Map.GetPlotByIndex(plotLoop)
             if pPlot ~= nil then
-                if pPlot:GetImprovementType() == GameInfoTypes.IMPROVEMENT_CLFB_NOOW then
+                if pPlot:GetImprovementType() == iNoow then
                     if not pPlot:IsImprovementPillaged() then
                         for i = 0, pPlot:GetNumUnits() - 1 do
                             local pUnit = pPlot:GetUnit(i)
@@ -219,17 +230,17 @@ function CL_Tlingit_NoowUniqueImprovement(playerId)
                                     pPlot:SetOwner(pUnit:GetOwner(), pPlayer:GetCapitalCity())
                                 end
  
-                                pUnit:SetHasPromotion(GameInfoTypes.PROMOTION_CLFBNOOW, true) --fix extra space
+                                pUnit:SetHasPromotion(iNoowPromo, true) --fix extra space
                                 local pOwner = Players[pPlot:GetOwner()]
                                 local NoowCity = YaaCulturePower(pOwner, pUnit, false)
                                 if NoowCity ~= false then
                                     local NWords = "Noow: "
-                                    local NFood = pPlot:GetYield(YieldTypes.YIELD_FOOD)
-                                    local NCult = pPlot:GetYield(YieldTypes.YIELD_CULTURE)
-                                    local NFaith = pPlot:GetYield(YieldTypes.YIELD_FAITH)
-                                    local NGold = pPlot:GetYield(YieldTypes.YIELD_GOLD)
-                                    local NProd = pPlot:GetYield(YieldTypes.YIELD_PRODUCTION)
-                                    local NSci = pPlot:GetYield(YieldTypes.YIELD_SCIENCE)
+                                    local NFood = pPlot:GetYield(yieldF)
+                                    local NCult = pPlot:GetYield(yieldC)
+                                    local NFaith = pPlot:GetYield(yieldFaith)
+                                    local NGold = pPlot:GetYield(yieldG)
+                                    local NProd = pPlot:GetYield(yieldP)
+                                    local NSci = pPlot:GetYield(yieldS)
                                     if NFood ~= 0 then
                                         NoowCity:ChangeFood(NFood)
                                         NWords = NWords.."[COLOR_POSITIVE_TEXT] +"..NFood.."[ICON_FOOD] Food[NEWLINE][ENDCOLOR]"
@@ -274,8 +285,8 @@ GameEvents.PlayerDoTurn.Add(CL_Tlingit_NoowUniqueImprovement)
 function CL_Tlingit_NoowPromoReset(playerId)
     local pPlayer = Players[playerId]
     for pUnit in pPlayer:Units() do
-        if pUnit:GetPlot():GetImprovementType() ~= GameInfoTypes.IMPROVEMENT_CLFB_NOOW then
-            pUnit:SetHasPromotion(GameInfoTypes.PROMOTION_CLFBNOOW, false)
+        if pUnit:GetPlot():GetImprovementType() ~= iNoow then
+            pUnit:SetHasPromotion(iNoowPromo, false)
         end
     end
 end
@@ -284,7 +295,7 @@ GameEvents.PlayerDoTurn.Add(CL_Tlingit_NoowPromoReset)
 -- This part was managed by Kaduseon.
 function CL_Tlingit_NoowBuildUniqueImprovement(playerID, plotX, plotY, improvementID)
     -- this method just sets ownership of the tile
-    if (improvementID == GameInfoTypes["IMPROVEMENT_CLFB_NOOW"]) then
+    if (improvementID == iNoow) then
         local pPlayer = Players[playerID]
         local plot = Map.GetPlot(plotX, plotY)
  
