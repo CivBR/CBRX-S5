@@ -108,6 +108,7 @@ if bIsActive then
 	GameEvents.CityConstructed.Add(PehmyRiverProduction)
 end
 
+local iNumDir = DirectionTypes.NUM_DIRECTION_TYPES - 1
 function ItelmenRiverCountUUPDT (playerID)
 	local player = Players[playerID]
 	if not player:IsAlive() then return end
@@ -131,7 +132,7 @@ function ItelmenRiverCountUUPDT (playerID)
 	end
 	for unit in player:Units() do
 		if unit:GetUnitType() == unitKamma then
-			for direction = 0, DirectionTypes.NUM_DIRECTION_TYPES - 1, 1 do
+			for direction = 0, iNumDir, 1 do
 				local aplot = Map.PlotDirection(unit:GetX(), unit:GetY(), direction)
 				if aplot:IsUnit() and aplot:GetFeatureType() == feaForest then
 					local iNumUnits = aplot:GetNumUnits()
