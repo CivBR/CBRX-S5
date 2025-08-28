@@ -214,6 +214,8 @@ local tDartblowerDebuffs = {
     [3] = GameInfoTypes.PROMOTION_MC_DARTBLOWER_MARKED
 }
 
+local iListener1 = GameInfoTypes.PROMOTION_MC_YANOMAMI_LISTENER
+local iListener2 = GameInfoTypes.PROMOTION_MC_YANOMAMI_LISTENER_2
 
 function DartblowerListener(iPlayer, iUnit, iNewDamage, iOldDamage)
     if iNewDamage > iOldDamage then --filter out heals
@@ -221,7 +223,7 @@ function DartblowerListener(iPlayer, iUnit, iNewDamage, iOldDamage)
 		if pPlayer:IsBarbarian() then
         for pUnit in pPlayer:Units() do
             if pUnit:GetID() == iUnit then
-                if not pUnit:IsHasPromotion(GameInfoTypes.PROMOTION_MC_YANOMAMI_LISTENER_2) then -- this is a possible the target
+                if not pUnit:IsHasPromotion(iListener2) then -- this is a possible the target
                     local pPlot = pUnit:GetPlot()
                     local x = pPlot:GetX()
                     local y = pPlot:GetY()
@@ -232,9 +234,9 @@ function DartblowerListener(iPlayer, iUnit, iNewDamage, iOldDamage)
                             if pAdj:GetNumUnits() > 0 then
                                 for i = 0, pAdj:GetNumUnits() - 1 do
                                     local pDartBlower = pAdj:GetUnit(i)
-                                            if pDartBlower:IsHasPromotion(GameInfoTypes.PROMOTION_MC_YANOMAMI_LISTENER_2) then
-                                                pDartBlower:SetHasPromotion(GameInfoTypes.PROMOTION_MC_YANOMAMI_LISTENER_2, false) -- do this first so infinite loops don't happen
-                                                pDartBlower:SetHasPromotion(GameInfoTypes.PROMOTION_MC_YANOMAMI_LISTENER, true)                                                
+                                            if pDartBlower:IsHasPromotion(iListener2) then
+                                                pDartBlower:SetHasPromotion(iListener2, false) -- do this first so infinite loops don't happen
+                                                pDartBlower:SetHasPromotion(iListener1, true)                                                
                                                 pUnit:SetHasPromotion(tDartblowerDebuffs[3], true)
 											end
                                         return --don't bother to keep looping if you found the right target
