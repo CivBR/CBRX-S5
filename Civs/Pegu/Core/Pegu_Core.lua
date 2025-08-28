@@ -76,7 +76,7 @@ function ER_PeguVector(playerID)
 		for _, v in ipairs(pPlayer:GetTradeRoutesToYou()) do
 			local pOrigin = Players[v.FromCity:GetOwner()]
 			local iOriginType = pOrigin:GetCivilizationType()
-			if (iOriginType ~= GameInfoTypes.CIVILIZATION_ER_PEGU)then
+			if (iOriginType ~= iCiv) then
 				local bUnique = true
 				--Counting minors with tMinorCivs
 				--Every minor has the same civilizationType. UA's first part only says civs not CS's
