@@ -7,6 +7,7 @@
 --~~~                      with more experience and the Amphibious promo.                               ~~~
 --~~~          UB: Heiau - Replaces the Temple. Gives a random specialist when built.                   ~~~
 --~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\\ ///~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--[[
 local iHawaii = GameInfoTypes.CIVILIZATION_POLYNESIA
 
 --=================================================================================================
@@ -268,3 +269,4 @@ function SpecificCityInfoDirty_Heiau(iPlayer, iCity, iUpdateType)
 	end
 end
 Events.SpecificCityInfoDirty.Add(SpecificCityInfoDirty_Heiau)
+--]]
