@@ -36,13 +36,15 @@ function JFD_GetNumAdjacentPlains(playerID, city)
     return iAdjacentPlains     
 end
 
+local iPlainsBuilding = GameInfoTypes["BUILDING_SCYTHIAN_PLAINS"]
+
 function JFD_ScottishCultureFromHills(playerID)
 	local player = Players[playerID]
 	if player:GetCivilizationType() == civilisationID and player:IsEverAlive() then
 		for city in player:Cities() do
 			--ER Edit: OG Code gave +1 Faith per 2 tiles not per 3 tiles.
 			local iBonus = math.floor(JFD_GetNumAdjacentPlains(playerID, city) / 3)
-			city:SetNumRealBuilding(GameInfoTypes["BUILDING_SCYTHIAN_PLAINS"], iBonus)
+			city:SetNumRealBuilding(iPlainsBuilding, iBonus)
 		end
 	end
 end
