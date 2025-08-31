@@ -261,6 +261,7 @@ end
 -- C15_GreatBasketUI
 --Check all of a player's buildings when CultureOverview is updated (swapping Great Works around), and update the ~~Logia~~ ~~Emerlad~~ Orange bonus buildings accordingly
 -----------------------------------
+--[[
 function C15_GreatBasketUI()
 	if not bPopup then
 		return
@@ -311,3 +312,4 @@ end
 if bIsActive then
 	Events.SerialEventGameMessagePopupProcessed.Add(C15_Greatbasket_ClearCurrentPopup)
 end
+--]]

@@ -134,6 +134,7 @@ local iUA = GameInfoTypes["BUILDING_JWW_LOTEL"]
 -- Enemy Naval units within city limits have chance to swap sides
 -----------------------------------------------------------------------------
 local iSea = GameInfoTypes["DOMAIN_SEA"]
+local iMaxCivs = GameDefines.MAX_MAJOR_CIVS - 1
 
 function JWW_EnemyChanceToSwitchSides(iPlayer)
 	local pPlayer = Players[iPlayer]
@@ -141,7 +142,7 @@ function JWW_EnemyChanceToSwitchSides(iPlayer)
 		for pCity in pPlayer:Cities() do
 			if pCity:IsHasBuilding(iUA) then
 				local pTeam = Teams[pPlayer:GetTeam()]
-				for iPlayer = 0, GameDefines.MAX_MAJOR_CIVS - 1, 1 do
+				for iPlayer = 0, iMaxCivs, 1 do
 					local pOtherPlayer = Players[iPlayer]
 					if pOtherPlayer ~= pPlayer then
 						local iOtherTeam = pOtherPlayer:GetTeam()
@@ -203,6 +204,7 @@ end
 --===========================================================================
 local iSCGCruiser = GameInfoTypes["UNIT_JWW_SCG_CRUISER"]
 local iDestroyerClass = GameInfoTypes["UNITCLASS_DESTROYER"]
+local iNumDir = DirectionTypes.NUM_DIRECTION_TYPES - 1
 -----------------------------------------------------------------------------
 -- Units killed by UU grant Population in nearest city, and have a chance to swap sides
 -----------------------------------------------------------------------------
@@ -214,7 +216,7 @@ function JWW_IfDedNextToUUThenSwitchSides(iPlayer, iUnit, eUnit, iPlotX, iPlotY,
 		if pByPlayer ~= nil then
 			if (pPlayer ~= pByPlayer) and pByPlayer:HasUnitOfClassType(iDestroyerClass) then
 				local pUnit = pPlayer:GetUnitByID(iUnit)
-				for direction = 0, DirectionTypes.NUM_DIRECTION_TYPES - 1, 1 do
+				for direction = 0, iNumDir, 1 do
 					local pAdjacentPlot = Map.PlotDirection(pUnit:GetX(), pUnit:GetY(), direction)
 					if pAdjacentPlot and pAdjacentPlot:IsUnit() and not pAdjacentPlot:IsOwned() then
 						for i = 0, pAdjacentPlot:GetNumUnits() - 1 do
@@ -252,7 +254,7 @@ function JWW_CanClaimTheSea(unit)
 	if pPlot ~= nil then
 		if (not pPlot:IsCity()) then
 			if not pPlot:GetTerrainType() == iCoast or (not pPlot:GetTerrainType() == iOcean) then return pBool end
-			for direction = 0, DirectionTypes.NUM_DIRECTION_TYPES - 1, 1 do
+			for direction = 0, iNumDir, 1 do
 				local pAdjacentPlot = Map.PlotDirection(unit:GetX(), unit:GetY(), direction)
 				if (not pAdjacentPlot:IsOwned()) or (pPlot:GetOwner() ~= pAdjacentPlot:GetOwner()) then
 					pBool = true;
@@ -268,7 +270,7 @@ function JWW_ClaimTheSea(pActivePlayer, pUnit)
 	local playerID = Game.GetActivePlayer()
 	local pPlayer = Players[Game.GetActivePlayer()]
 	if JWW_CanClaimTheSea(pUnit) then
-		for direction = 0, DirectionTypes.NUM_DIRECTION_TYPES - 1, 1 do
+		for direction = 0, iNumDir, 1 do
 			local pAdjacentPlot = Map.PlotDirection(pUnit:GetX(), pUnit:GetY(), direction)
 			if pAdjacentPlot and (pAdjacentPlot:GetTerrainType() == iCoast or pAdjacentPlot:GetTerrainType() == iOcean) then
 				local pCity = Neirai_GetNearestCity(pPlayer, pAdjacentPlot)
@@ -334,15 +336,16 @@ end
 
 function AIClaimTheSea_DoTurn(playerID)
 	local aPlayer = Players[playerID]
-	local aTeam = Teams[aPlayer:GetTeam()]
 	if aPlayer:IsHuman() then return end
+	local aTeam = Teams[aPlayer:GetTeam()]
+	if aTeam:GetAtWarCount(true) > 0 then return end
 	if (aPlayer:GetCivilizationType() == iSeychelles) and aPlayer:HasUnitOfClassType(iDestroyerClass) then
 		for aUnit in aPlayer:Units() do
 			if aUnit:GetUnitType() == iSCGCruiser then
 				if JWW_CanClaimTheSea(aUnit) then
-					if aTeam:IsAtWar() == false then
+					--if aTeam:GetAtWarCount(true) == 0 then
 						if JFD_GetRandom(1, 10) == 1 then
-							for direction = 0, DirectionTypes.NUM_DIRECTION_TYPES - 1, 1 do
+							for direction = 0, iNumDir, 1 do
 								local pAdjacentPlot = Map.PlotDirection(aUnit:GetX(), aUnit:GetY(), direction)
 								if pAdjacentPlot and (pAdjacentPlot:GetTerrainType() == iCoast or pAdjacentPlot:GetTerrainType() == iOcean) then
 									local pCity = Neirai_GetNearestCity(aPlayer, pAdjacentPlot)
@@ -351,7 +354,7 @@ function AIClaimTheSea_DoTurn(playerID)
 							end
 							aUnit:Kill()
 						end						
-					end
+					--end
 				end
 			end
 		end

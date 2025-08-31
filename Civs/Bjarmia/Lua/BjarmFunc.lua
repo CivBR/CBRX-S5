@@ -74,6 +74,8 @@ function BjarmiaUURangeIncrement(unit)
 	return
 end
 
+local iNumDir = DirectionTypes.NUM_DIRECTION_TYPES - 1
+
 function BjarmiaPrekillUURangeIncrease (playerID, unitID, unitType, iDeathX, iDeathY, isDelay, killerPlayerID)
 	if (killerPlayerID == -1) or (killerPlayerID == playerID) then return end
 	local kplayer = Players[killerPlayerID]
@@ -90,7 +92,7 @@ function BjarmiaPrekillUURangeIncrease (playerID, unitID, unitType, iDeathX, iDe
 				BjarmiaUURangeIncrement(pUnit)
 			end
 		end
-		for direction = 0, DirectionTypes.NUM_DIRECTION_TYPES - 1, 1 do
+		for direction = 0, iNumDir, 1 do
 			local aplot = Map.PlotDirection(uplot:GetX(), uplot:GetY(), direction)
 			if aplot and aplot:IsUnit() then
 				for i = 0, aplot:GetNumUnits() - 1, 1 do
@@ -104,6 +106,8 @@ function BjarmiaPrekillUURangeIncrease (playerID, unitID, unitType, iDeathX, iDe
 	end
 end
 GameEvents.UnitPrekill.Add(BjarmiaPrekillUURangeIncrease)
+
+local iMaxCivs = GameDefines.MAX_CIV_PLAYERS - 1
 
 function BjarmiaGoldenAgeBeginsUASpawnFurs (playerID, _, isNewGA)
 	if not isNewGA then return end
@@ -122,7 +126,7 @@ function BjarmiaGoldenAgeBeginsUASpawnFurs (playerID, _, isNewGA)
 			tTradePartners[v.FromID] = 1
 		end
 	end
-	for i = 0, GameDefines.MAX_CIV_PLAYERS - 1, 1 do
+	for i = 0, iMaxCivs, 1 do
 		local oplayer = Players[i]
 		if tTradePartners[i] == 1 then
 			nTradePartners = nTradePartners + 1

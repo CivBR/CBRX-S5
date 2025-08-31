@@ -210,6 +210,7 @@ end
 GameEvents.UnitPrekill.Add(GT_Ternate_SeventyTwoIslands_ProphetExpended)
 
 --[WORKS]
+local domainSea = DomainTypes["DOMAIN_SEA"]
 function GT_Ternate_SeventyTwoIslands_PlayerDoTurn(playerID)
 	local player = Players[playerID]
 	local tRoutes = {player:GetTradeRoutes(), player:GetTradeRoutesToYou()}
@@ -223,7 +224,7 @@ function GT_Ternate_SeventyTwoIslands_PlayerDoTurn(playerID)
 				TernatePrint("GT_Ternate_SeventyTwoIslands_PlayerDoTurn: detecting from and to cities")
 				if fromCity:GetOwner() == playerID then
 					TernatePrint("GT_Ternate_SeventyTwoIslands_PlayerDoTurn: origin city is ternaten")
-					if HasTrait(player, traitTernateID) and v.Domain == DomainTypes["DOMAIN_SEA"] then
+					if HasTrait(player, traitTernateID) and v.Domain == domainSea then
 						TernatePrint("GT_Ternate_SeventyTwoIslands_PlayerDoTurn: Iterating ITRs coming from Ternate")
 						local religionID = DMS_GetMajorityReligion(player)
 						if toCity:GetPressurePerTurn(religionID) > 0 and (v.FromPressure > 0 and v.FromReligion == religionID) then
@@ -301,7 +302,7 @@ function GT_Arumbai_PlayerDoTurn(playerID)
 			local numAlliedCS = GT_GetNumAlliedCS(player)
 			TernatePrint("GT_Arumbai_PlayerDoTurn: detecting allied city-states")
 			if Players[v.fromID] == player and HasTrait(player, traitTernateID) then
-				if v.Domain == DomainTypes.DOMAIN_SEA then
+				if v.Domain == domainSea then
 					TernatePrint("GT_Arumbai_PlayerDoTurn: Ternate has sea trade route")
 					if numAlliedCS < 8 then
 						toCity:SetNumRealBuilding(buildingArumbaiPressureID, numAlliedCS)
@@ -391,7 +392,7 @@ function GT_Arumbai_TradeRouteEndsYield(playerID)
 			local fromCity = v.FromCity
 			local toCity = v.ToCity
 			if HasTrait(player, traitTernateID) then
-				if v.TurnsLeft < 2 and v.Domain == DomainTypes.DOMAIN_SEA then
+				if v.TurnsLeft < 2 and v.Domain == domainSea then
 					TernatePrint("GT_Arumbai_TradeRouteEndsYield: trade route is maritime")
 					local capital = player:GetCapitalCity()
 					local numAlliedCS = GT_GetNumAlliedCS(player)

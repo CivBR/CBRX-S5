@@ -73,8 +73,8 @@ function Guaycuru_UpdateCampsPerTurn(playerID)
 end
 
 if bIsActive then
-	Events.SequenceGameInitComplete.Add(Guaycuru_CountCampsAtGameStart)
-	GameEvents.PlayerDoTurn.Add(Guaycuru_UpdateCampsPerTurn)
+	--Events.SequenceGameInitComplete.Add(Guaycuru_CountCampsAtGameStart)
+	--GameEvents.PlayerDoTurn.Add(Guaycuru_UpdateCampsPerTurn)
 end
 
 -- ================================ --
@@ -316,7 +316,7 @@ function Guaycuru_EncampmentXY(playerID, unitID, iX, iY)
 end
 
 if bIsActive then
-	GameEvents.UnitSetXY.Add(Guaycuru_EncampmentXY)
+	--GameEvents.UnitSetXY.Add(Guaycuru_EncampmentXY)
 end
 
 -- ================================ --

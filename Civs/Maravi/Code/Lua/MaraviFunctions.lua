@@ -449,6 +449,6 @@ if bIsActive then
 	GameEvents.PlayerDoTurn.Add(JWW_AITransformRuinsIntoCity_DoTurn)
 	Controls.UnitActionButton:RegisterCallback(Mouse.eLClick, TransformRuinsIntoCity_UnitActionButton);
 	IconHookup(0, 45, "JWW_MARAVI_GULE_WAMKULU_ATLAS", Controls.UnitActionIcon)
-	Initialize();
+	--Initialize();
 end
 --===========================================================================

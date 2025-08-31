@@ -14,6 +14,7 @@ vSpeed[2] = 1
 vSpeed[3] = 0.67
 vSpeed[4] = 0.4 -- Assumes using SuperQuick mod
 
+local iCiv = GameInfoTypes.CIVILIZATION_CLANISHINAABE
 local iMidew = GameInfoTypes.UNIT_CLMIDEW
 local iMaxCivID = (GameDefines.MAX_MAJOR_CIVS - 1)
 local tUnitsCreated = {}
@@ -48,6 +49,7 @@ g_Tabs = {
 }
 
 local g_AtWarEnemies = InstanceManager:new( "MidewTargets", "Base", Controls.MidewTargetsStack);
+local iWhite = GameInfo.Colors.COLOR_WHITE.ID
 
 function MidewRefresh(pPopupUnit, iPlotOwner)
 	--print("MidewRefresh() was triggered")
@@ -70,7 +72,7 @@ function MidewRefresh(pPopupUnit, iPlotOwner)
 			--print(civID)
 			local color = pPlayer:GetPlayerColors()
 			if (color == nil) then
-				color = GameInfo.Colors.COLOR_WHITE.ID
+				color = iWhite
 			end
 			--print(civName.." is added to the list")
 			table.insert(midewTargets, {
@@ -144,7 +146,7 @@ for iPlayer = 0, iMaxCivID do
 				tUnitsCreated["P"..iPlayer.."U"..iUnit ] = 1
 			end
 		end
-		if pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_CLANISHINAABE then
+		if pPlayer:GetCivilizationType() == iCiv then
 			--MidewRefresh()
 		end
 	end
@@ -174,6 +176,7 @@ ContextPtr:SetShowHideHandler(CLMidewShowHideHandler)
 --==========================================================================================================================
 -- Main Code
 --==========================================================================================================================
+local iPantheon = ReligionTypes.RELIGION_PANTHEON
 
 function AIDetermineMidewTarget(pPlayer, pPlotOwner)
 	local pTarget = nil
@@ -188,7 +191,7 @@ function AIDetermineMidewTarget(pPlayer, pPlotOwner)
 						if Teams[pPlayer:GetTeam()]:IsAtWar(pTeam) then -- we only care about the ones we're at war with!
 							local iRel = pOther:GetReligionCreatedByPlayer()
 							local iCities = 0
-							if iRel ~= nil and iRel > ReligionTypes.RELIGION_PANTHEON then
+							if iRel ~= nil and iRel > iPantheon then
 								iCities = Game.GetNumCitiesFollowing(iRel)
 							end
 							if iCities > iReligionSize then --Traditionalist AI Pontiac attacks the enemy with the most pronounced religion
@@ -391,7 +394,7 @@ end
 
 function MidewIntoleranceEarn(iPlayer)
 	local pPlayer = Players[iPlayer]
-	if pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_CLANISHINAABE then
+	if pPlayer:GetCivilizationType() == iCiv then
 		local iOrtho = GetReligion(pPlayer)
 		if not (iOrtho) then return end
 		local tReligions = {-1, 0, iOrtho}
@@ -417,16 +420,16 @@ function MidewIntoleranceEarn(iPlayer)
 		--print("Current level of Intolerance for "..pPlayer:GetName().." is "..iMPoints..". "..iMidewTH.." points are needed for the next Midew.")
 		if iMPoints > iMidewTH then
 			pCap = pPlayer:GetCapitalCity()
-			pPlayer:InitUnit(GameInfoTypes.UNIT_CLMIDEW, pCap:GetX(), pCap:GetY(), UNITAI_INQUISITOR)
+			pPlayer:InitUnit(iMidew, pCap:GetX(), pCap:GetY(), UNITAI_INQUISITOR)
 			save(pPlayer, "MidewCount", iMidewsBorn + 1)
 			save(pPlayer, "MidewPoints", iMPoints - iMidewTH)
 		end
 	end
 end
 
-for i = 0, GameDefines.MAX_MAJOR_CIVS - 1, 1 do
+for i = 0, iMaxCivID, 1 do
 	local pPlayer = Players[i]
-	if pPlayer:IsEverAlive() and pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_CLANISHINAABE then
+	if pPlayer:IsEverAlive() and pPlayer:GetCivilizationType() == iCiv then
 		--print("Beothuk Mythic Emblem lua loaded!")
         GameEvents.PlayerDoTurn.Add(MidewIntoleranceEarn)
 		Events.SerialEventUnitDestroyed.Add(UnitDestroyed)

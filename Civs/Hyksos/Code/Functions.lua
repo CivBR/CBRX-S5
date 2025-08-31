@@ -31,16 +31,17 @@ local isCivHyksosActive		 = JFD_IsCivilisationActive(civilizationHyksosID)
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
+local iSciCultDummy = GameInfoTypes["BUILDING_TCM_DUMMY_HYKSOS_SCIENCE_AND_CULTURE"]
 function CultureAndScienceFromResistance(playerID)
 	local player = Players[playerID]
-	if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_TCM_HYKSOS"] then
+	if player:GetCivilizationType() == civilizationHyksosID then
 		local resistance = 0
 		for city in player:Cities() do
 			resistance = math.ceil((city:GetResistanceTurns() * 0.8) + resistance)
 		end
 		local capital = player:GetCapitalCity()
 		if capital then
-			capital:SetNumRealBuilding(GameInfoTypes["BUILDING_TCM_DUMMY_HYKSOS_SCIENCE_AND_CULTURE"], resistance)
+			capital:SetNumRealBuilding(iSciCultDummy, resistance)
 		end
 	end
 end
@@ -68,7 +69,7 @@ end
 
 function CultureFromCityCapture(iOldOwner, bIsCapital, iX, iY, iNewOwner, iPop, bConquest)
 	local player = Players[iNewOwner]
-	if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_TCM_HYKSOS"] then 
+	if player:GetCivilizationType() == civilizationHyksosID then 
 		local plot = Map.GetPlot(iX, iY)
 		if not(load(plot, "tcmHyksosHaveAlreadyCapturedThis?") == true) then
 			local loadedCulture = load(plot, "tcmCultureThisCityHasGenerated")
@@ -88,13 +89,13 @@ GameEvents.CityCaptureComplete.Add(CultureFromCityCapture)
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
+local iMekter = GameInfoTypes["TXT_KEY_BUILDING_TCM_MEKTER"]
 function MekterExperience(ownerId, cityId, buildingType, bGold, bFaithOrCulture)
 	local player = Players[ownerId]
 	local city = player:GetCityByID(cityId)
 	local plot = city:Plot()
 	--I forgot how this gameevent works so I'm improvising here bear with me bruh
-	local potato = GameInfo.Buildings[buildingType].Description
-	if potato == "TXT_KEY_BUILDING_TCM_MEKTER" then
+	local buildingType == iMekter then
 		if city:IsOccupied() then
 			if not(load(plot, "tcmHyksosHaveAlreadyBuiltThisHere") == true) then
 				for unit in player:Units() do
@@ -122,7 +123,7 @@ GameEvents.CityConstructed.Add(MekterExperience)
 function mekterExperienceClean(unitOwnerId, unitId, unitType, unitX, unitY, bDelay, eKillingPlayer)
 	if bDelay then
 		local player = Players[unitOwnerId]
-		if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_TCM_HYKSOS"] then
+		if player:GetCivilizationType() == civilizationHyksosID then
 			local unit = player:GetUnitByID(unitId)
 			save(unit, "tcmHyksosExperienceFromMekterGained", nil)
 			save(unit, "tcmHyksosCityHadMekter", nil)
@@ -133,7 +134,7 @@ GameEvents.UnitPrekill.Add(mekterExperienceClean)
 
 function mekterExperienceUpgrade(playerId, unitId, newUnitId, bGoodyHut)
 	local player = Players[playerId]
-	if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_TCM_HYKSOS"] then
+	if player:GetCivilizationType() == civilizationHyksosID then
 		local unit = player:GetUnitByID(unitId)
 		local newUnit = player:GetUnitByID(newUnitId)
 
@@ -150,12 +151,12 @@ GameEvents.UnitUpgraded.Add(mekterExperienceUpgrade)
 
 function unitTrainedWithMekter(playerID, unitID)
 	local player = Players[playerID]
-	if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_TCM_HYKSOS"] then
+	if player:GetCivilizationType() == civilizationHyksosID then
 		local unit = player:GetUnitByID(unitID)
 		local plot = unit:GetPlot()
 		local city = plot:GetPlotCity()
 		if city then 
-			if city:IsHasBuilding(GameInfoTypes["BUILDING_TCM_MEKTER"]) then
+			if city:IsHasBuilding(iMekter) then
 				save(unit, "tcmHyksosCityHadMekter", true)
 			end
 		end
@@ -165,12 +166,14 @@ Events.SerialEventUnitCreated.Add(unitTrainedWithMekter)
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
+local iYesFort = GameInfoTypes["UNIT_TCM_HEQA_KHASUT_FORT"]
+local iNoFort = GameInfoTypes["UNIT_TCM_HEQA_KHASUT_NOT_FORT"]
 function chariotBuildFort(playerID, unitID, unitX, unitY)
 	local player = Players[playerID]
 	local unit = player:GetUnitByID(unitID)
 	local plot = unit:GetPlot()
 	if not(unit:IsEmbarked()) then
-		if unit:GetUnitType() == GameInfoTypes["UNIT_TCM_HEQA_KHASUT_FORT"] and plot then
+		if unit:GetUnitType() == iYesFort and plot then
 			--Why do I need to know if the unit is in a city? Because this will not only fire when it moves (As intended), but also when the
 			--unit is created. And if they are instantly converted to the "UNIT_TCM_HEQA_KHASUT_NOT_FORT" version (Or vice versa) of the unit
 			--on the same second they are created, no experience from buildings, traits, policies, etc... will be awarded to the unit. So the
@@ -191,12 +194,12 @@ function chariotBuildFort(playerID, unitID, unitX, unitY)
 					local numMoves = unit:GetMoves()
 					--Remove movements so the unit is not duplicated while moving at the same time it is converted.
 					unit:SetMoves(0)
-					newUnit = player:InitUnit(GameInfoTypes["UNIT_TCM_HEQA_KHASUT_NOT_FORT"], unit:GetX(), unit:GetY())
+					newUnit = player:InitUnit(iNoFort, unit:GetX(), unit:GetY())
 					newUnit:Convert(unit)
 					newUnit:SetMoves(numMoves)
 				end
 			end
-		elseif unit:GetUnitType() == GameInfoTypes["UNIT_TCM_HEQA_KHASUT_NOT_FORT"] and plot then
+		elseif unit:GetUnitType() == iNoFort and plot then
 			local garrisonedCity = plot:GetPlotCity()
 			if not(garrisonedCity) then
 				local addFortBuild = false
@@ -212,7 +215,7 @@ function chariotBuildFort(playerID, unitID, unitX, unitY)
 				if addFortBuild == true then
 					local numMoves = unit:GetMoves()
 					unit:SetMoves(0)
-					newUnit = player:InitUnit(GameInfoTypes["UNIT_TCM_HEQA_KHASUT_FORT"], unit:GetX(), unit:GetY())
+					newUnit = player:InitUnit(iYesFort, unit:GetX(), unit:GetY())
 					newUnit:Convert(unit)
 					newUnit:SetMoves(numMoves)
 				end
@@ -220,7 +223,7 @@ function chariotBuildFort(playerID, unitID, unitX, unitY)
 		end
 	end
 end
-GameEvents.UnitSetXY.Add(chariotBuildFort)
+--GameEvents.UnitSetXY.Add(chariotBuildFort)
 
 function buildFort(playerID, plotX, plotY, improvementID) 
 	local player = Players[playerID]
@@ -282,7 +285,7 @@ function buildFort(playerID, plotX, plotY, improvementID)
 		end
 	end
 end
-GameEvents.BuildFinished.Add(buildFort)
+--GameEvents.BuildFinished.Add(buildFort)
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------

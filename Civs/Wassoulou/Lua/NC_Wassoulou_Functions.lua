@@ -195,36 +195,40 @@ end
 -- UA: Capturing a city with two or more outgoing trade routes grants you an extra Trade Route slot
 ----------------------------------------------------------------------------------------------------------------------------
 
--- Create a table of every city owned by a civ the player is at war with on game start, counting up the number of trade routes each city HasStateReligion
+function UpdateTradeRouteTableForPlayer(pOtherPlayer)
+	for city in pOtherPlayer:Cities() do	
+		local cityTradeCount = GetNumTradeRoutesFromCity(city)
+		tTradeRoutesOfCivsAtWar[city:Plot():GetPlotIndex()] = cityTradeCount
+	end
+end
+
+-- Create a table of every city owned by a civ the player is at war with on game start, counting up the number of trade routes each city has
 
 local tTradeRoutesOfCivsAtWar = {}
 
+-- nope asked if there was a way to improve this function so I took a crack at it myself –THP
 function NC_Wassoulou_CountEnemyRoutesOnGameStart()
 	print("NC_Wassoulou_CountEnemyRoutesOnGameStart: Running...")
-	for i = 0, iPracticalNumCivs, 1 do -- TODO: Is there a better way to do this
-		
-		local playerID = i -- Just to make it easier to read the code
-		local pPlayer = Players[playerID]
+	local tEnemyTeams = {}
+	for playerID, pPlayer in pairs(Players) do
 		if pPlayer and pPlayer:IsAlive() and pPlayer:GetCivilizationType() == civilizationID then
 		
 			local iTeam = pPlayer:GetTeam()
+			local pTeam = Teams[iTeam]
+			local iNumWars = pTeam:GetAtWarCount(true)
+			local iCountedWars = 0
 			
-			for j = 0, iPracticalNumCivs, 1 do -- TODO: Is there a better way to do this
-		
-				local pOtherPlayer = Players[j]
-				if pOtherPlayer and pOtherPlayer:IsAlive() then
-				
-					local pOtherTeam = Teams[pOtherPlayer:GetTeam()]
-					
+			for otherTeamID, pOtherTeam in pairs(Teams) do
 					if pOtherTeam:IsAtWar(iTeam) then
-						
-						for city in pOtherPlayer:Cities() do
-						
-							local cityTradeCount = GetNumTradeRoutesFromCity(city)
-							tTradeRoutesOfCivsAtWar[city:Plot():GetPlotIndex()] = cityTradeCount -- TODO: Does this work
-						end
-						
+						iCountedWars = iCountedWars + 1
+						tEnemyTeams[otherTeamID] = pOtherTeam
+						if iCountedWars >= iNumWars then break end
 					end
+				end
+			end
+			for otherPlayerID, pOtherPlayer in pairs(Players) do
+				if tEnemyTeams[pOtherPlayer:GetTeam()] then
+					UpdateTradeRouteTableForPlayer(pOtherPlayer)
 				end
 			end
 		end
@@ -241,21 +245,13 @@ function NC_Wassoulou_UA_PlayerDoTurn(playerID)
 
 	local iTeam = pPlayer:GetTeam()
 			
-	for i = 0, iPracticalNumCivs, 1 do -- TODO: Is there a better way to do this
-
-		local pOtherPlayer = Players[i]
+	for otherPlayerID, pOtherPlayer in pairs(Players) do -- TODO: Is there a better way to do this
 		if pOtherPlayer and pOtherPlayer:IsAlive() then
 		
 			local pOtherTeam = Teams[pOtherPlayer:GetTeam()]
 			
 			if pOtherTeam:IsAtWar(iTeam) then
-				
-				for city in pOtherPlayer:Cities() do
-				
-					local cityTradeCount = GetNumTradeRoutesFromCity(city)
-					tTradeRoutesOfCivsAtWar[city:Plot():GetPlotIndex()] = cityTradeCount -- TODO: Does this work
-				end
-				
+				UpdateTradeRouteTableForPlayer(pOtherPlayer)
 			end
 		end
 	end	
@@ -275,21 +271,13 @@ function NC_Wassoulou_UA_DeclareWar(fromTeamID, toTeamID)
 		print("NC_Wassoulou_UA_DeclareWar: From player is Wassoulou")
 		local otherPlayerID = toPlayerTeam:GetLeaderID()
 		local pOtherPlayer = Players[otherPlayerID]
-		for city in pOtherPlayer:Cities() do
-				
-			local cityTradeCount = GetNumTradeRoutesFromCity(city)
-			tTradeRoutesOfCivsAtWar[city:Plot():GetPlotIndex()] = cityTradeCount -- TODO: Does this work
-		end
+		UpdateTradeRouteTableForPlayer(pOtherPlayer)
 	end
 	if toPlayerHasTrait then
 		print("NC_Wassoulou_UA_DeclareWar: To player is Wassoulou")
 		local otherPlayerID = fromPlayerTeam:GetLeaderID()
 		local pOtherPlayer = Players[otherPlayerID]
-		for city in pOtherPlayer:Cities() do
-				
-			local cityTradeCount = GetNumTradeRoutesFromCity(city)
-			tTradeRoutesOfCivsAtWar[city:Plot():GetPlotIndex()] = cityTradeCount -- TODO: Does this work
-		end
+		UpdateTradeRouteTableForPlayer(pOtherPlayer)
 	end
 end
 

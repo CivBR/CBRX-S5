@@ -21,6 +21,9 @@ function Game.GetRandom(lower, upper)
 	return Game.Rand((upper + 1) - lower, "") + lower
 end
 
+local iNumDir = DirectionTypes.NUM_DIRECTION_TYPES - 1
+local iMaxCivs = GameDefines.MAX_MAJOR_CIVS -1
+
 function PotiguaraPhusaConvertCSUnitsPDT (playerID)
 	local player = Players[playerID]
 	if not player:IsAlive() then return end
@@ -28,7 +31,7 @@ function PotiguaraPhusaConvertCSUnitsPDT (playerID)
 	for unit in player:Units() do
 		if unit:GetUnitType() == unitPhusa and unit:IsHasPromotion(promConvert) then
 			local uplot = unit:GetPlot()
-			for direction = 0, DirectionTypes.NUM_DIRECTION_TYPES - 1, 1 do
+			for direction = 0, iNumDir, 1 do
 				local aplot = Map.PlotDirection(uplot:GetX(), uplot:GetY(), direction)
 				if aplot and aplot:IsUnit() then
 					for i = 0, aplot:GetNumUnits() - 1, 1 do
@@ -61,7 +64,7 @@ function PotiguaraTileClaimYields (playerID, cityID, plotX, plotY, bGold, bFaith
 			end
 		end
 	end
-	for direction = 0, DirectionTypes.NUM_DIRECTION_TYPES - 1, 1 do
+	for direction = 0, iNumDir, 1 do
 		local aplot = Map.PlotDirection(newplot:GetX(), newplot:GetY(), direction)
 		if aplot and aplot:IsUnit() then
 			for i = 0, aplot:GetNumUnits() - 1, 1 do
@@ -99,7 +102,7 @@ function PotiguaraCityTrainedExtraUU_UBXP (playerID, cityID, unitID, bGold, bFai
 			end
 		end
 		local tEnemies = {}
-		for i = 0, GameDefines.MAX_MAJOR_CIVS -1 do
+		for i = 0, iMaxCivs do
 			local pOther = Players[i]
 			if pOther:IsEverAlive() and i ~= playerID and not (pOther:IsMinorCiv() or pOther:IsBarbarian()) then
 				if Teams[pOther:GetTeam()]:IsAtWar(player:GetTeam()) then
@@ -107,7 +110,7 @@ function PotiguaraCityTrainedExtraUU_UBXP (playerID, cityID, unitID, bGold, bFai
 				end
 			end
 		end
-		for i = 0, GameDefines.MAX_MAJOR_CIVS -1 do
+		for i = 0, iMaxCivs do
 			local pOther = Players[i]
 			if pOther:IsEverAlive() and i ~= playerID and not (pOther:IsMinorCiv() or pOther:IsBarbarian()) then
 				if tEnemies[i] ~= true and Teams[pOther:GetTeam()]:IsHasMet(player:GetTeam()) then
@@ -144,7 +147,7 @@ function PotiguaraUBSpawnShrimpCityConstructed (playerID, cityID, buildingType, 
 		else
 			local tSeasAdj = {}
 			local tFreshAdj = {}
-			for direction = 0, DirectionTypes.NUM_DIRECTION_TYPES - 1, 1 do
+			for direction = 0, iNumDir, 1 do
 				local pPlot = Map.PlotDirection(cplot:GetX(), cplot:GetY(), direction)
 				if pPlot and (pPlot:GetOwner() == -1 or pPlot:GetOwner() == playerID) and (not pPlot:IsCity()) and (not pPlot:IsMountain()) and pPlot:GetResourceType() == -1 then
 					if pPlot:IsWater() then
@@ -224,7 +227,7 @@ function RecursiveRevealAdjWoodedTiles (plot, playerID)
 	plot:SetRevealed(teamID, true)
 	plot:UpdateFog()
 	tRevealedPlots[plot:GetPlotIndex()] = true
-	for direction = 0, DirectionTypes.NUM_DIRECTION_TYPES - 1, 1 do
+	for direction = 0, iNumDir, 1 do
 		local aplot = Map.PlotDirection(plot:GetX(), plot:GetY(), direction)
 		if aplot and tRevealedPlots[aplot:GetPlotIndex()] ~= true and (aplot:GetFeatureType() == feaForest or aplot:GetFeatureType() == feaJungle) then
 			RecursiveRevealAdjWoodedTiles(aplot, playerID)

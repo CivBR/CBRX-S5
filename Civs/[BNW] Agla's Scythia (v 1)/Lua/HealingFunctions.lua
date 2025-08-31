@@ -53,6 +53,17 @@ local unitCarroccioID			 = GameInfoTypes["UNIT_AGLA_ENAREE"]
 local promotionCarroccioID		  = GameInfoTypes["PROMOTION_AGLA_ENAREE"]
 local promotionCityPenaltyID	  = GameInfoTypes["PROMOTION_CITY_PENALTY"]
 local promotionCityPenaltySmallID = GameInfoTypes["PROMOTION_SMALL_CITY_PENALTY"]
+
+local tCityPenaltyUnits, tSmallCityPenaltyUnits = {}, {}
+for row in DB.Query("SELECT * FROM Unit_FreePromotions WHERE PromotionType = 'PROMOTION_CITY_PENALTY'") do
+	local unitType = GameInfoTypes[row.UnitType]
+	tCityPenaltyUnits[unitType] = true
+end
+for row in DB.Query("SELECT * FROM Unit_FreePromotions WHERE PromotionType = 'PROMOTION_SMALL_CITY_PENALTY'") do
+	local unitType = GameInfoTypes[row.UnitType]
+	tSmallCityPenaltyUnits[unitType] = true
+end
+
 function JFD_PapalStateInnocent_Carroccio_PlayerDoTurn(playerID)
 	local player = Players[playerID]
 	if (not player:IsAlive()) then return end
@@ -60,13 +71,13 @@ function JFD_PapalStateInnocent_Carroccio_PlayerDoTurn(playerID)
 	if (not player:GetCapitalCity()) then return end
 	local faithReward = 5
 	for unit in player:Units() do
-		local unitType = GameInfo.Units[unit:GetUnitType()].Type
-		for row in GameInfo.Unit_FreePromotions("UnitType = '" .. unitType .. "' AND PromotionType = 'PROMOTION_CITY_PENALTY'") do
+		local unitType = unit:GetUnitType()
+		if tCityPenaltyUnits[unitType] then
 			if (not unit:IsHasPromotion(promotionCityPenaltyID)) then
 				unit:SetHasPromotion(promotionCityPenaltyID, true)
 			end
 		end
-		for row in GameInfo.Unit_FreePromotions("UnitType = '" .. unitType .. "' AND PromotionType = 'PROMOTION_SMALL_CITY_PENALTY'") do
+		if tSmallCityPenaltyUnits[unitType] then
 			if (not unit:IsHasPromotion(promotionCityPenaltySmallID)) then
 				unit:SetHasPromotion(promotionCityPenaltySmallID, true)
 			end

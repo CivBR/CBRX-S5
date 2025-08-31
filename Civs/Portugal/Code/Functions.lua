@@ -5,12 +5,14 @@ include("InfoTooltipInclude.lua")
 --==========================================================================================================================
 -- Turns Experience from naval units into Gold
 --==========================================================================================================================
+local iCiv = GameInfoTypes["CIVILIZATION_TCM_AVIS_PORTUGAL"]
+local domainSea = DomainTypes["DOMAIN_SEA"]
 function experienceToGold(playerID)
 	local player = Players[playerID]
-	if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_TCM_AVIS_PORTUGAL"] then
+	if player:GetCivilizationType() == iCiv then
 		local totalGoldAwarded = 0
 		for unit in player:Units() do 
-			if unit:GetDomainType() == DomainTypes["DOMAIN_SEA"] then
+			if unit:GetDomainType() == domainSea then
 				local savedExp = load(unit, "PortugalNavalExperience")
 				local exp = unit:GetExperience()
 				if savedExp == nil then
@@ -36,9 +38,9 @@ GameEvents.PlayerDoTurn.Add(experienceToGold)
 function portugalExperienceClean(unitOwnerId, unitId, unitType, unitX, unitY, bDelay, eKillingPlayer)
 	if bDelay then
 		local player = Players[unitOwnerId]
-		if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_TCM_AVIS_PORTUGAL"] then
+		if player:GetCivilizationType() == iCiv then
 			local unit = player:GetUnitByID(unitId)
-			if unit:GetDomainType() == DomainTypes["DOMAIN_SEA"] then
+			if unit:GetDomainType() == domainSea then
 				save(unit, "PortugalNavalExperience", nil)
 				save(unit, "tcmTravellingBoat", nil)
 			end
@@ -47,9 +49,9 @@ function portugalExperienceClean(unitOwnerId, unitId, unitType, unitX, unitY, bD
 end
 function portugalExperienceUpgrade(playerId, unitId, newUnitId, bGoodyHut)
 	local player = Players[playerId]
-	if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_TCM_AVIS_PORTUGAL"] then
+	if player:GetCivilizationType() == iCiv then
 		local unit = player:GetUnitByID(unitId)
-		if unit:GetDomainType() == DomainTypes["DOMAIN_SEA"] then
+		if unit:GetDomainType() == domainSea then
 			local newUnit = player:GetUnitByID(newUnitId)
 			local savedExp = load(unit, "PortugalNavalExperience")
 			save(newUnit, "PortugalNavalExperience", savedExp)
@@ -66,7 +68,7 @@ GameEvents.UnitUpgraded.Add(portugalExperienceUpgrade)
 function cultureFromPurchases(ownerId, cityId, buildingType, bGold, bFaithOrCulture)
 	if bGold then
 		local player = Players[ownerId]
-		if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_TCM_AVIS_PORTUGAL"] then
+		if player:GetCivilizationType() == iCiv then
 			local city = player:GetCityByID(cityId)
 			local plot = city:Plot()
 			local building = GameInfo.Buildings[buildingType].Description
@@ -85,20 +87,20 @@ GameEvents.CityConstructed.Add(cultureFromPurchases)
 --==========================================================================================================================
 -- Yields experience for researching technologies
 --==========================================================================================================================
+local tNavalTechs = {}
+for row in DB.Query("SELECT * FROM Technologies WHERE Type IN (SELECT TechType FROM Technology_Flavors WHERE FlavorType = 'FLAVOR_NAVAL')") do
+	tNavalTechs[row.ID] = true
+end
+
 function experienceFromResearch(eTeam, eTech, iChange)
 	local team = Teams[eTeam]
 	local playerID = team:GetLeaderID()
 	local player = Players[playerID]
-	if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_TCM_AVIS_PORTUGAL"] then
-		for techFlavor in GameInfo.Technology_Flavors() do
-			if GameInfoTypes[techFlavor.TechType] == eTech then
-				if techFlavor.FlavorType == "FLAVOR_NAVAL" then
-					for unit in player:Units() do
-						if unit:GetDomainType() == DomainTypes["DOMAIN_SEA"] and unit:IsCombatUnit() then
-							unit:ChangeExperience(10)
-						end
-					end
-					break
+	if player:GetCivilizationType() == iCiv then
+		if tNavalTechs[eTech] then
+			for unit in player:Units() do
+				if unit:GetDomainType() == domainSea and unit:IsCombatUnit() then
+					unit:ChangeExperience(10)
 				end
 			end
 		end
@@ -110,9 +112,9 @@ GameEvents.TeamTechResearched.Add(experienceFromResearch)
 --==========================================================================================================================
 function experienceFromExploring(playerID, unitID, unitX, unitY)
 	local player = Players[playerID]
-	if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_TCM_AVIS_PORTUGAL"] then
+	if player:GetCivilizationType() == iCiv then
 		local unit = player:GetUnitByID(unitID)
-		if unit:GetDomainType() == DomainTypes["DOMAIN_SEA"] and unit:IsCombatUnit() then
+		if unit:GetDomainType() == domainSea and unit:IsCombatUnit() then
 			local plot = unit:GetPlot()
 			if plot then
 				if load(plot, "tcmPortugalHasExploredThisPlot?") ~= true then
@@ -133,12 +135,12 @@ GameEvents.UnitSetXY.Add(experienceFromExploring)
 --==========================================================================================================================
 --Nau movement share
 --==========================================================================================================================
+local iNau, iNauClass = GameInfoTypes["UNIT_PORTUGUESE_NAU"], GameInfo.Units["UNIT_PORTUGUESE_NAU"].Class
 function nauMovementShare(playerID)
 	local player = Players[playerID]
-	local unitClass = GameInfo.Units["UNIT_PORTUGUESE_NAU"].Class
-	if player:GetUnitClassCount(GameInfoTypes[unitClass]) > 0 then
+	if player:HasUnitOfClassType(iNauClass) then
 		for unit in player:Units() do
-			if unit:GetUnitType() == GameInfoTypes["UNIT_PORTUGUESE_NAU"] then
+			if unit:GetUnitType() == iNau then
 				local plot = unit:GetPlot()
 				local iNumUnits = plot:GetNumUnits()
 				for iVal = 0,(iNumUnits - 1) do
@@ -159,19 +161,20 @@ GameEvents.PlayerDoTurn.Add(nauMovementShare)
 --==========================================================================================================================
 -- Nau heal in city-state territory
 --==========================================================================================================================
+local iHealPromo = GameInfoTypes["PROMOTION_TCM_HEAL_ON_CITY_STATE"]
 function nauHealInCityState(playerID, unitID, unitX, unitY)
 	local player = Players[playerID]
 	local unit = player:GetUnitByID(unitID)
-	if unit:GetUnitType() == GameInfoTypes["UNIT_PORTUGUESE_NAU"] then
+	if unit:GetUnitType() == iNau then
 		local plot = unit:GetPlot()
 		if plot then
 			local otherPlayerID = plot:GetOwner()
 			if otherPlayerID then
 				local otherPlayer = Players[otherPlayerID]
 				if otherPlayer and otherPlayer:IsMinorCiv() then
-					unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_HEAL_ON_CITY_STATE"], true)
+					unit:SetHasPromotion(iHealPromo, true)
 				else
-					unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_HEAL_ON_CITY_STATE"], false)
+					unit:SetHasPromotion(iHealPromo, false)
 				end
 			end
 		end
@@ -182,30 +185,35 @@ GameEvents.UnitSetXY.Add(nauHealInCityState)
 --==========================================================================================================================
 --Feitoria garrisoned unit bonus
 --==========================================================================================================================
+local domainLand = DomainTypes["DOMAIN_LAND"]
+local sFeitoriaPrereq = GameInfo.Builds["BUILD_FEITORIA"].PrereqTech
+local iFeitoriaTech = GameInfoTypes[sFeitoriaPrereq]
+local iFeitoria = GameInfoTypes["IMPROVEMENT_FEITORIA"]
+local iEnterCS = GameInfoTypes["PROMOTION_TCM_ENTER_CITY_STATE"]
+local iFeitGold, iFeitXP = GameInfoTypes["BUILDING_TCM_AVIS_PORTUGAL_FEITORIA_GOLD"], GameInfoTypes["BUILDING_TCM_AVIS_PORTUGAL_FEITORIA_EXP"]
 function garrisonedOnFeitoria(playerID)
 	local player = Players[playerID]
-	if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_TCM_AVIS_PORTUGAL"] then
-		local requiredTech = GameInfo.Builds["BUILD_FEITORIA"].PrereqTech
+	if player:GetCivilizationType() == iCiv then
 		local teamTechs = Teams[player:GetTeam()]:GetTeamTechs()
-		if teamTechs:HasTech(GameInfoTypes[requiredTech]) then
+		if teamTechs:HasTech(iFeitoriaTech) then
 			local totalGarrisonedUnits = 0
 			for unit in player:Units() do
-				if unit:GetDomainType() == DomainTypes["DOMAIN_LAND"] and unit:IsCombatUnit() then
+				if unit:GetDomainType() == domainLand and unit:IsCombatUnit() then
 					local plot = unit:GetPlot()
-					if plot and plot:GetImprovementType() == GameInfoTypes["IMPROVEMENT_FEITORIA"] then
+					if plot and plot:GetImprovementType() == iFeitoria then
 						totalGarrisonedUnits = totalGarrisonedUnits + 1
-						unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ENTER_CITY_STATE"], true)
+						unit:SetHasPromotion(iEnterCS, true)
 					elseif plot then
-						unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ENTER_CITY_STATE"], false)
+						unit:SetHasPromotion(iEnterCS, false)
 					end
 				end
 			end
 			local capital = player:GetCapitalCity()
 			if capital then
-				capital:SetNumRealBuilding(GameInfoTypes["BUILDING_TCM_AVIS_PORTUGAL_FEITORIA_GOLD"], totalGarrisonedUnits)
+				capital:SetNumRealBuilding(iFeitGold, totalGarrisonedUnits)
 			end
 			for city in player:Cities() do
-				city:SetNumRealBuilding(GameInfoTypes["BUILDING_TCM_AVIS_PORTUGAL_FEITORIA_EXP"], totalGarrisonedUnits)
+				city:SetNumRealBuilding(iFeitXP, totalGarrisonedUnits)
 			end
 		end
 	end
@@ -215,16 +223,15 @@ GameEvents.PlayerDoTurn.Add(garrisonedOnFeitoria)
 function feitoriaApplyPromotionSameTurn(playerID, unitID, unitX, unitY)
 	local player = Players[playerID]
 	local unit = player:GetUnitByID(unitID)
-	if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_TCM_AVIS_PORTUGAL"] then
-		if unit:GetDomainType() == DomainTypes["DOMAIN_LAND"] and unit:IsCombatUnit() then
-			local requiredTech = GameInfo.Builds["BUILD_FEITORIA"].PrereqTech
+	if player:GetCivilizationType() == iCiv then
+		if unit:GetDomainType() == domainLand and unit:IsCombatUnit() then
 			local teamTechs = Teams[player:GetTeam()]:GetTeamTechs()
-			if teamTechs:HasTech(GameInfoTypes[requiredTech]) then
+			if teamTechs:HasTech(iFeitoriaTech) then
 				local plot = unit:GetPlot()
-				if plot and plot:GetImprovementType() == GameInfoTypes["IMPROVEMENT_FEITORIA"] then
-					unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ENTER_CITY_STATE"], true)
+				if plot and plot:GetImprovementType() == iFeitoria then
+					unit:SetHasPromotion(iEnterCS, true)
 				elseif plot then
-					unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ENTER_CITY_STATE"], false)
+					unit:SetHasPromotion(iEnterCS, false)
 				end
 			end
 		end
@@ -233,10 +240,10 @@ end
 GameEvents.UnitSetXY.Add(feitoriaApplyPromotionSameTurn)
 --==========================================================================================================================
 --==========================================================================================================================
+local iWinery = GameInfoTypes['TXT_KEY_BUILDING_TCM_WINERY']
 function spawnWine(ownerId, cityId, buildingType, bGold, bFaithOrCulture)
-	local player = Players[ownerId]
-	local building = GameInfo.Buildings[buildingType].Description
-	if building == 'TXT_KEY_BUILDING_TCM_WINERY' then 
+	local player = Players[ownerId]	
+	if buildingType == iWinery then 
 		if player:GetCivilizationType() == GameInfoTypes["CIVILIZATION_PORTUGAL"] then
 			local city = player:GetCityByID(cityId)
 			local plot = city:Plot()
@@ -271,7 +278,7 @@ function spawnWine(ownerId, cityId, buildingType, bGold, bFaithOrCulture)
 		end
 	end
 end
-GameEvents.CityConstructed.Add(spawnWine)
+--GameEvents.CityConstructed.Add(spawnWine)
 
 function extraWine(playerID)
 	local player = Players[playerID]
@@ -313,7 +320,7 @@ function extraWine(playerID)
 		end
 	end
 end
-GameEvents.PlayerDoTurn.Add(extraWine)
+--GameEvents.PlayerDoTurn.Add(extraWine)
 --==========================================================================================================================
 local promotionID = GameInfoTypes["PROMOTION_TCM_DOUBLE_XP"]
 
@@ -343,7 +350,7 @@ function unit1(playerID)
 		end
 	end
 end
-GameEvents.PlayerDoTurn.Add(unit1)
+--GameEvents.PlayerDoTurn.Add(unit1)
 
 function unit2(playerID, unitID, unitX, unitY)
 	local player = Players[playerID]
@@ -365,7 +372,7 @@ function unit2(playerID, unitID, unitX, unitY)
 		end
 	end
 end
-GameEvents.UnitSetXY.Add(unit2)
+--GameEvents.UnitSetXY.Add(unit2)
 --==========================================================================================================================
 local happyDummy = GameInfoTypes["BUILDING_TCM_PORTUGAL_HAPPY_DUMMY"]
 local foodDummy = GameInfoTypes["BUILDING_TCM_PORTUGAL_FOOD_DUMY"]
@@ -394,7 +401,7 @@ function continentHappiness(playerID)
 		end
 	end
 end
-GameEvents.PlayerDoTurn.Add(continentHappiness)
+--GameEvents.PlayerDoTurn.Add(continentHappiness)
 --==========================================================================================================================
 -- UI FUNCTIONS
 -- This code was adapted from JFD's Sardinia-Piedmont, thus it has his name all around.
@@ -506,4 +513,4 @@ function scienceForBuilding(ownerId, cityId, buildingType, bGold, bFaithOrCultur
 		end
 	end
 end
-GameEvents.CityConstructed.Add(scienceForBuilding)
+--GameEvents.CityConstructed.Add(scienceForBuilding)

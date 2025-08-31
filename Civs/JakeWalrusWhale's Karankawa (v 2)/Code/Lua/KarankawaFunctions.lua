@@ -58,6 +58,8 @@ local iPlains = GameInfoTypes["TERRAIN_PLAINS"]
 local iJungle = GameInfoTypes["FEATURE_JUNGLE"]
 local iMarsh = GameInfoTypes["FEATURE_MARSH"]
 local iForest = GameInfoTypes["FEATURE_FOREST"]
+
+local iNumDir = DirectionTypes.NUM_DIRECTION_TYPES - 1
 -----------------------------------------------------------------------------
 -- TODO: This is inefficient
 local iEmbarkTech = GameInfoTypes["TECH_OPTICS"]
@@ -115,7 +117,7 @@ function NC_Karankawa_UA_UnitPrekill(playerID, unitID, unitType, iX, iY, bDelay,
 			nearHollyOrOysters = true
 			pResPlot = pPlot
 		else
-			for direction = 0, DirectionTypes.NUM_DIRECTION_TYPES - 1, 1 do
+			for direction = 0, iNumDir, 1 do
 				local pAdjPlot = Map.PlotDirection(pUnit:GetX(), pUnit:GetY(), direction)
 				if (pAdjPlot:GetResourceType() == iHolly or pAdjPlot:GetResourceType() == iOysters) then
 					nearHollyOrOysters = true
@@ -127,14 +129,14 @@ function NC_Karankawa_UA_UnitPrekill(playerID, unitID, unitType, iX, iY, bDelay,
 			
 		-- Grant yields if unit kill was near Holly or Oysters
 		if nearHollyOrOysters then
-			for direction = 0, DirectionTypes.NUM_DIRECTION_TYPES - 1, 1 do --Heal all units adj to Holly/Oyster resource that's nearby
+			for direction = 0, iNumDir, 1 do --Heal all units adj to Holly/Oyster resource that's nearby
 				local pAdjResPlot = Map.PlotDirection(pResPlot:GetX(), pResPlot:GetY(), direction)
 				if pAdjResPlot:IsUnit() then
 					local pUnit = pAdjResPlot:GetUnit(0)
 					if pUnit and (pUnit:GetOwner() == killerID) then
 						if pUnit:GetCurrHitPoints() < 100 then
 							pUnit:SetDamage((100 - pUnit:GetCurrHitPoints()) - healAmount)
-							Events.AddPopupTextEvent(HexToWorld(ToHexFromGrid(Vector2(pUnit:GetX(), pUnit:GetY()))), "[COLOR_POSITIVE_TEXT]+" .. healAmount .. " from [ICON_RES_JWW_HOLLY]/[ICON_RES_JWW_OYSTERS]![ENDCOLOR]", 0)
+							--Events.AddPopupTextEvent(HexToWorld(ToHexFromGrid(Vector2(pUnit:GetX(), pUnit:GetY()))), "[COLOR_POSITIVE_TEXT]+" .. healAmount .. " from [ICON_RES_JWW_HOLLY]/[ICON_RES_JWW_OYSTERS]![ENDCOLOR]", 0)
 						end
 					end
 				end

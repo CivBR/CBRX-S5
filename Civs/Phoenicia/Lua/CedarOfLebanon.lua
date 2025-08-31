@@ -83,6 +83,13 @@ end
 -- The following is adapted from the CityView.lua
 ----------------------------------------------------------------    
 
+local specWriter = GameInfo.Specialists.SPECIALIST_WRITER.ID
+local specArtist = GameInfo.Specialists.SPECIALIST_ARTIST.ID
+local specMusician = GameInfo.Specialists.SPECIALIST_MUSICIAN.ID
+local specScientist = GameInfo.Specialists.SPECIALIST_SCIENTIST.ID
+local specMerchant = GameInfo.Specialists.SPECIALIST_MERCHANT.ID
+local specEngineer = GameInfo.Specialists.SPECIALIST_ENGINEER.ID
+
 function GetGreatPersonModifier(pPlayer, pTargetCity, iType)
 	-- Generic GP mods
 	local iPlayerMod = pPlayer:GetGreatPeopleRateModifier()
@@ -96,8 +103,8 @@ function GetGreatPersonModifier(pPlayer, pTargetCity, iType)
 	local iGoldenAgeMod = 0
 	local bGoldenAge = (pPlayer:GetGoldenAgeTurns() > 0)
 	
-	-- GP mods by type	
-	if (iType == GameInfo.Specialists.SPECIALIST_WRITER.ID) then
+	-- GP mods by type		
+	if (iType == specWriter) then
 		--print("is " .. GameInfo.Specialists[iType].Description)
 		iPlayerMod = iPlayerMod + pPlayer:GetGreatWriterRateModifier()
 		iPolicyMod = iPolicyMod + pPlayer:GetPolicyGreatWriterRateModifier()
@@ -107,7 +114,7 @@ function GetGreatPersonModifier(pPlayer, pTargetCity, iType)
 		if (bGoldenAge and pPlayer:GetGoldenAgeGreatWriterRateModifier() > 0) then
 		iGoldenAgeMod = iGoldenAgeMod + pPlayer:GetGoldenAgeGreatWriterRateModifier()
 		end
-	elseif (iType == GameInfo.Specialists.SPECIALIST_ARTIST.ID) then
+	elseif (iType == specArtist) then
 		--print("is " .. GameInfo.Specialists[iType].Description)
 		iPlayerMod = iPlayerMod + pPlayer:GetGreatArtistRateModifier()
 		iPolicyMod = iPolicyMod + pPlayer:GetPolicyGreatArtistRateModifier()
@@ -117,7 +124,7 @@ function GetGreatPersonModifier(pPlayer, pTargetCity, iType)
 		if (bGoldenAge and pPlayer:GetGoldenAgeGreatArtistRateModifier() > 0) then
 		iGoldenAgeMod = iGoldenAgeMod + pPlayer:GetGoldenAgeGreatArtistRateModifier()
 		end
-	elseif (iType == GameInfo.Specialists.SPECIALIST_MUSICIAN.ID) then
+	elseif (iType == specMusician) then
 		--print("is " .. GameInfo.Specialists[iType].Description)
 		iPlayerMod = iPlayerMod + pPlayer:GetGreatMusicianRateModifier()
 		iPolicyMod = iPolicyMod + pPlayer:GetPolicyGreatMusicianRateModifier()
@@ -127,21 +134,21 @@ function GetGreatPersonModifier(pPlayer, pTargetCity, iType)
 		if (bGoldenAge and pPlayer:GetGoldenAgeGreatMusicianRateModifier() > 0) then
 		iGoldenAgeMod = iGoldenAgeMod + pPlayer:GetGoldenAgeGreatMusicianRateModifier()
 		end
-	elseif (iType == GameInfo.Specialists.SPECIALIST_SCIENTIST.ID) then
+	elseif (iType == specScientist) then
 		--print("is " .. GameInfo.Specialists[iType].Description)
 		iPlayerMod = iPlayerMod + pPlayer:GetGreatScientistRateModifier()
 		iPolicyMod = iPolicyMod + pPlayer:GetPolicyGreatScientistRateModifier()
 		if (pWorldCongress ~= nil and pWorldCongress:GetScienceyGreatPersonRateModifier() ~= 0) then
 		iWorldCongressMod = iWorldCongressMod + pWorldCongress:GetScienceyGreatPersonRateModifier()
 		end
-	elseif (iType == GameInfo.Specialists.SPECIALIST_MERCHANT.ID) then
+	elseif (iType == specMerchant) then
 		--print("is " .. GameInfo.Specialists[iType].Description)
 		iPlayerMod = iPlayerMod + pPlayer:GetGreatMerchantRateModifier()
 		iPolicyMod = iPolicyMod + pPlayer:GetPolicyGreatMerchantRateModifier()
 		if (pWorldCongress ~= nil and pWorldCongress:GetScienceyGreatPersonRateModifier() ~= 0) then
 		iWorldCongressMod = iWorldCongressMod + pWorldCongress:GetScienceyGreatPersonRateModifier()
 		end
-	elseif (iType == GameInfo.Specialists.SPECIALIST_ENGINEER.ID) then
+	elseif (iType == specEngineer) then
 		--print("is " .. GameInfo.Specialists[iType].Description)
 		iPlayerMod = iPlayerMod + pPlayer:GetGreatEngineerRateModifier()
 		iPolicyMod = iPolicyMod + pPlayer:GetPolicyGreatEngineerRateModifier()

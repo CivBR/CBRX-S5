@@ -4,6 +4,8 @@ print ("Sumer Scripts")
 
 local isBNW = (GameInfoTypes.UNITCOMBAT_SUBMARINE ~= nil)
 
+local iCiv = GameInfoTypes.CIVILIZATION_AKKADIAN_MOD
+
 -- Pop
 GameEvents.PlayerCityFounded.Add(
 function(iPlayer, iCityX, iCityY)
@@ -12,7 +14,7 @@ function(iPlayer, iCityX, iCityY)
 	local pPlot = Map.GetPlot(iCityX, iCityY);
 	local pCity = pPlot:GetPlotCity();
 	if (pPlayer:IsAlive()) then
-		if (pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_AKKADIAN_MOD) then
+		if (pPlayer:GetCivilizationType() == iCiv) then
 			if not isBNW then
 				if ((Teams[pTeam]:GetCurrentEra()) >= 2) then
 					pCity:ChangePopulation(2, true);
@@ -37,7 +39,7 @@ local uVulture = GameInfoTypes.UNIT_AKKADIAN_MOD_VULTURE;
 
 function VultureTrainedBonus(playerID, cityID, unitID)
 	local pPlayer = Players[playerID];
-	if (pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_AKKADIAN_MOD) then
+	if (pPlayer:GetCivilizationType() == iCiv) then
 		local pUnit = pPlayer:GetUnitByID(unitID)
 		if (pUnit:GetUnitType() == uVulture) then
 			local BaseXP = pUnit:GetExperience()
@@ -51,7 +53,7 @@ GameEvents.CityTrained.Add(VultureTrainedBonus)
 function VultureStartingBonus (arg0, currPlayer)
 	for i, pPlayer in pairs(Players) do
 		if pPlayer:IsEverAlive() then
-			if (pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_AKKADIAN_MOD) then
+			if (pPlayer:GetCivilizationType() == iCiv) then
 				for pUnit in pPlayer:Units() do
 					if (pUnit:GetUnitType() == uVulture) then
 						local BaseXP = pUnit:GetExperience()
@@ -68,9 +70,10 @@ end
 Events.LoadScreenClose.Add(VultureStartingBonus)
 
 -- Ziggurat Faith
+local specScientist = GameInfoTypes.SPECIALIST_SCIENTIST
 local tSpecialists = {}
 for tSpecialist in GameInfo.Specialists() do
-	if tSpecialist.ID == GameInfoTypes.SPECIALIST_SCIENTIST then
+	if tSpecialist.ID == specScientist then
 		table.insert(tSpecialists, tSpecialist.ID)
 	end
 end
@@ -92,7 +95,7 @@ end
 
 function PlayerDoTurn_ResetSpecialists(iPlayer)
 	local pPlayer = Players[iPlayer]
-	if (pPlayer:GetCivilizationType() ~= GameInfoTypes.CIVILIZATION_AKKADIAN_MOD) then return end
+	if (pPlayer:GetCivilizationType() ~= iCiv) then return end
 	for pCity in pPlayer:Cities() do
 		ResetSpecialists(pCity)
 	end
@@ -108,7 +111,7 @@ function SpecificCityInfoDirty_ResetSpecialists(iPlayer, iCity, iUpdateType)
 	local pPlayer = Players[iPlayer]
 	if not(pPlayer:IsTurnActive()) then	return end
 	
-	if (pPlayer:GetCivilizationType() ~= GameInfoTypes.CIVILIZATION_AKKADIAN_MOD) then return end
+	if (pPlayer:GetCivilizationType() ~= iCiv) then return end
 	
 	local pCity = pPlayer:GetCityByID(iCity)
 	ResetSpecialists(pCity)
@@ -123,7 +126,7 @@ function RemoveZigguratDisplay()
 	local pPlayer = Players[iPlayer] 
     if (pPlayer:IsAlive()) then
 		if (pPlayer:IsHuman()) then
-			if (pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_AKKADIAN_MOD) then
+			if (pPlayer:GetCivilizationType() == iCiv) then
 				for pCity in pPlayer:Cities() do
 					if (pCity:GetNumBuilding(bZigguratDummy) > 0) then
 						pCity:SetNumRealBuilding(bZigguratDummy, 0);
@@ -141,7 +144,7 @@ function AddZigguratDisplay()
 	local pPlayer = Players[iPlayer]
     if (pPlayer:IsAlive()) then
 		if (pPlayer:IsHuman()) then
-			if (pPlayer:GetCivilizationType() == GameInfoTypes.CIVILIZATION_AKKADIAN_MOD) then
+			if (pPlayer:GetCivilizationType() == iCiv) then
 				if (pCity ~= nil) then
 					if (pCity:GetNumBuilding(bZigguratDummy) > 0) then
 						pCity:SetNumRealBuilding(bZigguratDummy, 0);

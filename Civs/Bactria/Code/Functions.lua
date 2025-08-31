@@ -38,12 +38,14 @@ function cityCapturedCounter(iOldOwner, bIsCapital, iX, iY, iNewOwner, iPop, bCo
 end
 GameEvents.CityCaptureComplete.Add(cityCapturedCounter)
 
+local iDummyBuilding = GameInfoTypes["BUILDING_TCM_DUMMY_BACTRIA"]
+
 function happinessFromSettling(iPlayer, iCityX, iCityY)
 	local player = Players[iPlayer]
 	if player:GetCivilizationType() == civilizationID then
 		local capital = player:GetCapitalCity()
 		local recordedCities = load(player, "tcmRecordedNumCities") if recordedCities == nil then recordedCities = 0 end
-		capital:SetNumRealBuilding(GameInfoTypes["BUILDING_TCM_DUMMY_BACTRIA"], recordedCities)
+		capital:SetNumRealBuilding(iDummyBuilding, recordedCities)
 		for city in player:Cities() do
 			local numResistance = city:GetResistanceTurns()
 			city:ChangeResistanceTurns(-numResistance)
@@ -52,18 +54,20 @@ function happinessFromSettling(iPlayer, iCityX, iCityY)
 end
 GameEvents.PlayerCityFounded.Add(happinessFromSettling)
 
+local yieldFood = YieldTypes.YIELD_FOOD
+
 function producedUnit(ownerId, cityId, unitId, bGold, bFaithOrCulture)
 	local player = Players[ownerId]
 	if player:GetCivilizationType() == civilizationID then
 		local unit = player:GetUnitByID(unitId)
-		local unitType = unit:GetUnitType()
-		local unitClass = GameInfo.Units[unitType].Class
+		--local unitType = unit:GetUnitType()
+		local unitClass = unit:GetUnitClassType()
 		if load(player, "tcmHasThePowerOf" .. unitClass) == true then
 			unit:ChangeExperience(15)
 		end
 		if unitType == unitTypeID then
 			local city = player:GetCityByID(cityId)
-			local food = math.floor(city:GetBaseYieldRate(YieldTypes.YIELD_FOOD) * 0.27)
+			local food = math.floor(city:GetBaseYieldRate(yieldFood) * 0.27)
 			unit:ChangeExperience(food)
 		end
 	end
@@ -72,24 +76,26 @@ GameEvents.CityTrained.Add(producedUnit)
 --=====================================================================================================================================================================
 --Elephantarch
 --=====================================================================================================================================================================
+local tElephantPromos = {}
+for iTableNum = 1, 5, 1 do
+	tElephantPromos[iTableNum] = GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_" .. iTableNum]
+end
+
 function elepantarchcharge(playerID, unitID, unitX, unitY)
 	local player = Players[playerID]
 	local unit = player:GetUnitByID(unitID)
 	if unit:GetUnitType() == unitTypeID then
-		if unit:IsHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_4"]) then
-			unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_5"], true)
-			unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_4"], false)
-		elseif unit:IsHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_3"]) then
-			unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_4"], true)
-			unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_3"], false)
-		elseif unit:IsHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_2"]) then
-			unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_3"], true)
-			unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_2"], false)
-		elseif unit:IsHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_1"]) then
-			unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_2"], true)
-			unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_1"], false)
-		else
-			unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_1"], true)
+		local bHasAnyPromo = false
+		for iNum, iPromo in pairs(tElephantPromos) do
+			if iNum < 5 then
+				bHasAnyPromo = true
+				unit:SetHasPromotion(iPromo, false)
+				unit:SetHasPromotion(tElephantPromos[iNum + 1], true)
+				break
+			end
+		end
+		if not bHasAnyPromo then
+			unit:SetHasPromotion(tElephantPromos[1], true)
 		end
 		save(player,"hadElephantarchCharge", true)
 	end
@@ -133,11 +139,9 @@ function phrouria(playerID)
 	end
 	if load(player,"hadElephantarchCharge") == true then
 		for unit in player:Units() do
-			unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_1"], false)
-			unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_2"], false)
-			unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_3"], false)
-			unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_4"], false)
-			unit:SetHasPromotion(GameInfoTypes["PROMOTION_TCM_ELEPHANT_CHARGE_5"], false)
+			for iNum, iPromo in pairs(tElephantPromos) do
+				unit:SetHasPromotion(iPromo, false)
+			end
 		end
 		save(player,"hadElephantarchCharge", false)
 	end
@@ -146,18 +150,20 @@ GameEvents.PlayerDoTurn.Add(phrouria)
 --=====================================================================================================================================================================
 --Event
 --=====================================================================================================================================================================
+--local iDefeatBarbKing = GameInfoTypes["POLICY_TCM_BACTRIA_DEFEAT_BARB_KING"]
+--local iGG = GameInfoTypes["UNIT_GREAT_GENERAL"]
 function eventKillUsurper(unitOwnerId, unitId, unitType, unitX, unitY, bDelay, eKillingPlayer)
 	local player = Players[unitOwnerId]
 	local bactria = Players[eKillingPlayer]
 	if bactria and bactria:GetCivilizationType() == civilizationID and player:IsBarbarian() then
-		if bactria:HasPolicy(GameInfoTypes["POLICY_TCM_BACTRIA_DEFEAT_BARB_KING"]) then
+		if bactria:HasPolicy(iDefeatBarbKing) then
 			local unit = player:GetUnitByID(unitId)
-			if unit:GetUnitType() == GameInfoTypes["UNIT_GREAT_GENERAL"] then
+			if unit:GetUnitType() == iGG then
 				bactria:ChangeGoldenAgeTurns(15)
-				bactria:SetHasPolicy(GameInfoTypes["POLICY_TCM_BACTRIA_DEFEAT_BARB_KING"], false)
+				bactria:SetHasPolicy(iDefeatBarbKing, false)
 			end
 		end
 	end
 end
-GameEvents.UnitPrekill.Add(eventKillUsurper)
+--GameEvents.UnitPrekill.Add(eventKillUsurper)
 --=====================================================================================================================================================================

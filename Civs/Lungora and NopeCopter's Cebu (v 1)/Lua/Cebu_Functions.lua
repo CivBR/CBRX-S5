@@ -249,6 +249,8 @@ local iPillagerClass = GameInfoTypes["UNITCLASS_PIKEMAN"]
 local pActivePlayer = Players[Game.GetActivePlayer()]
 local domainLandID = GameInfoTypes["DOMAIN_LAND"]
 
+local iCoast, iOcean = GameInfoTypes["TERRAIN_COAST"], GameInfoTypes["TERRAIN_OCEAN"]
+
 function Cebu_IsButtonPossible(pUnit)
 	local pUnitOwner = Players[pUnit:GetOwner()]
 	if (pUnitOwner:GetCivilizationType() == civilizationID) or (pUnit:IsHasPromotion(promotionMangubatID)) then
@@ -261,7 +263,7 @@ function Cebu_IsButtonPossible(pUnit)
 		-- if pUnitOwner ~= pPlotOwner then
 		if pUnit:GetBaseCombatStrength() < 1 then return false end
 		
-		if (pUnit:GetDomainType() == domainLandID and (pPlot:GetTerrainType() == GameInfoTypes.TERRAIN_COAST or pPlot:GetTerrainType() == GameInfoTypes.TERRAIN_OCEAN)) then
+		if (pUnit:GetDomainType() == domainLandID and (pPlot:GetTerrainType() == iCoast or pPlot:GetTerrainType() == iOcean)) then
 			-- print("Cebu_IsButtonPossible: Land unit on sea tile, false unless Mangubat (TEST THIS FOR REGULAR UNITS)")
 			if (not pUnit:IsHasPromotion(promotionMangubatID)) then return false end
 		end
@@ -305,7 +307,7 @@ function Cebu_DoButtonEffect(pPlayer, pUnit)
 		
 		local improvementWaterMod = 1
 		local plotTerrain = pPlot:GetTerrainType()
-		if (plotTerrain == GameInfoTypes.TERRAIN_COAST) or (plotTerrain == GameInfoTypes.TERRAIN_OCEAN) then
+		if (plotTerrain == iCoast) or (plotTerrain == iOcean) then
 			pPlot:SetImprovementType(-1)
 			improvementWaterMod = 2
 		end

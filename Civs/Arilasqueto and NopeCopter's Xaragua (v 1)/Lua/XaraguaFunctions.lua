@@ -168,7 +168,7 @@ local tNaturalWonders = {}
 -- Adapted from TopHat's France, but hopefully not horribly bugged
 function GetTraitPlayerFromTeam(teamID, traitID)
 	local iTeam = 0
-	for iPlayer = 0, GameDefines.MAX_MAJOR_CIVS-1, 1 do
+	for iPlayer = 0, iPracticalNumCivs, 1 do
 		local pPlayer = Players[iPlayer]
 		if pPlayer and pPlayer:GetCivilizationType() == civilizationID then -- TODO: If this doesn't work, bypass HasTrait entirely here
 			iTeam = pPlayer:GetTeam()
@@ -403,18 +403,20 @@ function ASQ_Xaragua_UUUnit_UpdateUnitInfoPanel()
 	Controls.UnitActionButton:ChangeParent(ContextPtr:LookUpControl("/InGame/WorldView/UnitPanel/PrimaryStack"))
 end
 
+local iMusicianClass = GameInfoTypes["UNITCLASS_MUSICIAN"]
+
 function ASQ_Xaragua_UU_AI_DoTurn(playerID)
 	-- print("ASQ_Xaragua_UU_AI_DoTurn: Running...")
 	local pPlayer = Players[playerID]
 	if (pPlayer:GetCivilizationType() == civilizationID) then
 		-- print("ASQ_Xaragua_UU_AI_DoTurn: Civilization is ASQ_Xaragua_UU")
-		if (not pPlayer:IsHuman()) then
+		if (not pPlayer:IsHuman()) and pPlayer:HasUnitOfClassType(iMusicianClass) then
 			-- print("ASQ_Xaragua_UU_AI_DoTurn: ASQ_Xaragua_UU is AI player")
 			for pUnit in pPlayer:Units() do
 				if ASQ_Xaragua_UU_IsButtonPossible(pUnit) then
 				
 					local iRand = JFD_GetRandom(1, 4)
-					if iRand == 4 then	
+					if iRand == 4 then
 						-- print("ASQ_Xaragua_UU_AI_DoTurn: Decided to send off unit")
 						ASQ_Xaragua_UU_DoButtonEffect(pPlayer, pUnit)
 					end
@@ -510,7 +512,7 @@ function C15_AreitoUI()
 	local iPlayer = Game.GetActivePlayer()
 	ASQ_Xaragua_PlayerCheck(iPlayer)
 end
-Events.SerialEventCityInfoDirty.Add(C15_AreitoUI)	
+--Events.SerialEventCityInfoDirty.Add(C15_AreitoUI)	
 
 -----------------------------------
 --C15_Areito_SetCurrentPopup
@@ -523,7 +525,7 @@ function C15_Areito_SetCurrentPopup(popupInfo)
 		bPopup = true
 	end
 end
-Events.SerialEventGameMessagePopup.Add(C15_Areito_SetCurrentPopup)
+--Events.SerialEventGameMessagePopup.Add(C15_Areito_SetCurrentPopup)
 -----------------------------------
 --C15_Areito_Popup
 -----------------------------------
@@ -535,7 +537,7 @@ function C15_Areito_Popup( popupInfo )
 	local iPlayer = Game.GetActivePlayer()
 	ASQ_Xaragua_PlayerCheck(iPlayer)
 end
-Events.SerialEventGameMessagePopup.Add(C15_Areito_Popup)
+--Events.SerialEventGameMessagePopup.Add(C15_Areito_Popup)
 -----------------------------------
 --C15_Areito_ClearCurrentPopup
 --When a popup is closed, delete bPopup so it doesn't keep refreshing ~~Logia~~ Emerlad buildings when CultureOverview isn't open

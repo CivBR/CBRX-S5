@@ -9,7 +9,7 @@
 --~~~             UB: Mala'e - Replaces the Granary. For every sea tile adjacent to the city, receive   ~~~
 --~~~                          +1 food in the city. Fish and Crab resources provide +1 food when worked ~~~
 --~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\\ ///~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+--[[
 --=====================================================================================================
 -- UA: The Friendly Isles
 -- Author: JFD
@@ -144,3 +144,4 @@ GameEvents.PlayerDoTurn.Add(JFD_OutriggerEmbarkation)
             end
     end
     GameEvents.PlayerDoTurn.Add(JFD_MalaeFood)
+--]]
