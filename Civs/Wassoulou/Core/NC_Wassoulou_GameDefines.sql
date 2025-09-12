@@ -101,36 +101,36 @@ VALUES	('PROMOTION_NC_WASSOULOU_MOVEMENT_1',	0,				  'TXT_KEY_PROMOTION_NC_WASSO
 ------------------------------------------------------------------------------------------------------------------------
 INSERT INTO Units 	
 		(Type, 							Class, PrereqTech, Combat, RangedCombat, Cost, FaithCost, RequiresFaithPurchaseEnabled, Moves, CombatClass, Domain, DefaultUnitAI, MilitarySupport, MilitaryProduction, Pillage, ObsoleteTech, IgnoreBuildingDefense, GoodyHutUpgradeUnitClass, AdvancedStartCost, XPValueAttack, XPValueDefense, MoveRate, Description, 								Help, 											Strategy, 											Civilopedia, 								UnitArtInfo, 							UnitFlagAtlas,							  UnitFlagIconOffset,	 IconAtlas,							 PortraitIndex)
-SELECT	'UNIT_NC_BOLO',	Class, PrereqTech, Combat, RangedCombat, Cost, FaithCost, RequiresFaithPurchaseEnabled, Moves, CombatClass, Domain, DefaultUnitAI, MilitarySupport, MilitaryProduction, Pillage, ObsoleteTech, IgnoreBuildingDefense, GoodyHutUpgradeUnitClass, AdvancedStartCost, XPValueAttack, XPValueDefense, MoveRate, 'TXT_KEY_UNIT_NC_BOLO',	'TXT_KEY_UNIT_NC_BOLO_HELP', 	'TXT_KEY_UNIT_NC_BOLO_STRATEGY', 	'TXT_KEY_UNIT_NC_BOLO_TEXT',	'ART_DEF_UNIT_NC_BOLO',	'NC_WASSOULOU_UNIT_FLAG_ATLAS',   0,					 'NC_WASSOULOU_ICON_ATLAS',	 3
-FROM Units WHERE Type = 'UNIT_MUSKETMAN';	
+SELECT	'UNIT_NC_BOLO',	Class, PrereqTech, Combat, RangedCombat, Cost, FaithCost, RequiresFaithPurchaseEnabled, Moves, CombatClass, Domain, DefaultUnitAI, MilitarySupport, MilitaryProduction, Pillage, ObsoleteTech, IgnoreBuildingDefense, GoodyHutUpgradeUnitClass, AdvancedStartCost, XPValueAttack, XPValueDefense, MoveRate, 'TXT_KEY_UNIT_NC_BOLO',	'TXT_KEY_UNIT_NC_BOLO_HELP', 	'TXT_KEY_UNIT_NC_BOLO_STRATEGY', 	'TXT_KEY_UNIT_NC_BOLO_TEXT',	'ART_DEF_UNIT_NC_BOLO',	'NC_WASSOULOU_UNIT_FLAG_ATLAS',   0,					 'NC_WASSOULOU_ICON_ATLAS',	 2
+FROM Units WHERE Type = 'UNIT_RIFLEMAN';	
 ------------------------------------------------------------------------------------------------------------------------
 -- Unit_AITypes
 ------------------------------------------------------------------------------------------------------------------------
 INSERT INTO Unit_AITypes 	
 		(UnitType, 						UnitAIType)
 SELECT	'UNIT_NC_BOLO',	UnitAIType
-FROM Unit_AITypes WHERE UnitType = 'UNIT_MUSKETMAN';
+FROM Unit_AITypes WHERE UnitType = 'UNIT_RIFLEMAN';
 ------------------------------------------------------------------------------------------------------------------------	
 -- Unit_ClassUpgrades
 ------------------------------------------------------------------------------------------------------------------------		
 INSERT INTO Unit_ClassUpgrades 	
 		(UnitType, 						UnitClassType)
 SELECT	'UNIT_NC_BOLO',	UnitClassType
-FROM Unit_ClassUpgrades WHERE UnitType = 'UNIT_MUSKETMAN';
+FROM Unit_ClassUpgrades WHERE UnitType = 'UNIT_RIFLEMAN';
 ------------------------------------------------------------------------------------------------------------------------
 -- Unit_Flavors
 ------------------------------------------------------------------------------------------------------------------------
 INSERT INTO Unit_Flavors
 		(UnitType, 						FlavorType, Flavor)
 SELECT	'UNIT_NC_BOLO',	FlavorType, Flavor + 5
-FROM Unit_Flavors WHERE UnitType = 'UNIT_MUSKETMAN';
+FROM Unit_Flavors WHERE UnitType = 'UNIT_RIFLEMAN';
 ------------------------------------------------------------------------------------------------------------------------
 -- Unit_FreePromotions
 ------------------------------------------------------------------------------------------------------------------------
 INSERT INTO Unit_FreePromotions 	
 		(UnitType, 						PromotionType)
 SELECT	'UNIT_NC_BOLO',	PromotionType
-FROM Unit_FreePromotions WHERE UnitType = 'UNIT_MUSKETMAN';	
+FROM Unit_FreePromotions WHERE UnitType = 'UNIT_RIFLEMAN';	
 
 INSERT INTO Unit_FreePromotions 	
 		(UnitType, 						PromotionType)
@@ -141,7 +141,7 @@ VALUES	('UNIT_NC_BOLO',	'PROMOTION_NC_WASSOULOU_BOLO');
 INSERT INTO UnitGameplay2DScripts 	
 		(UnitType, 						SelectionSound, FirstSelectionSound)
 SELECT	'UNIT_NC_BOLO',	SelectionSound, FirstSelectionSound
-FROM UnitGameplay2DScripts WHERE UnitType = 'UNIT_MUSKETMAN';	
+FROM UnitGameplay2DScripts WHERE UnitType = 'UNIT_RIFLEMAN';	
 
 --=======================================================================================================================	
 -- LEADERS
@@ -248,15 +248,15 @@ VALUES 	('LEADER_NC_WASSOULOU',	'RESPONSE_AI_DOF_BACKSTAB', 			 			'TXT_KEY_LEAD
 		('LEADER_NC_WASSOULOU',	'RESPONSE_GREETING_NEUTRAL_HELLO', 					'TXT_KEY_LEADER_NC_WASSOULOU_GREETING_NEUTRAL_HELLO%', 		 			500),
 		('LEADER_NC_WASSOULOU',	'RESPONSE_GREETING_POLITE_HELLO', 					'TXT_KEY_LEADER_NC_WASSOULOU_GREETING_POLITE_HELLO%', 		 			500),
 		('LEADER_NC_WASSOULOU',	'RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING', 	'TXT_KEY_LEADER_NC_WASSOULOU_HOSTILE_AGGRESSIVE_MILITARY_WARNING%', 		500),
-		('LEADER_NC_WASSOULOU',	'RESPONSE_LUXURY_TRADE', 							'TXT_KEY_LEADER_NC_WASSOULOU_LUXURY_TRADE%', 		  						500),
 		('LEADER_NC_WASSOULOU',	'RESPONSE_OPEN_BORDERS_EXCHANGE', 					'TXT_KEY_LEADER_NC_WASSOULOU_OPEN_BORDERS_EXCHANGE%', 		  			500),
-		('LEADER_NC_WASSOULOU',	'RESPONSE_PLOT_BUYING_SERIOUS_WARNING', 			'TXT_KEY_LEADER_NC_WASSOULOU_PLOT_BUYING_SERIOUS_WARNING%', 				500),
 		('LEADER_NC_WASSOULOU',	'RESPONSE_REQUEST', 								'TXT_KEY_LEADER_NC_WASSOULOU_REQUEST%', 		  							500),
 		('LEADER_NC_WASSOULOU',	'RESPONSE_TOO_SOON_FOR_DOF', 						'TXT_KEY_LEADER_NC_WASSOULOU_TOO_SOON_FOR_DOF%', 							500),
 		('LEADER_NC_WASSOULOU',	'RESPONSE_TOO_SOON_NO_PEACE', 			 			'TXT_KEY_LEADER_NC_WASSOULOU_TOO_SOON_NO_PEACE%', 			  			500),
 		('LEADER_NC_WASSOULOU',	'RESPONSE_RESPONSE_TO_BEING_DENOUNCED',  			'TXT_KEY_LEADER_NC_WASSOULOU_RESPONSE_TO_BEING_DENOUNCED%',   			500),
 		('LEADER_NC_WASSOULOU',	'RESPONSE_WORK_AGAINST_SOMEONE', 		 			'TXT_KEY_LEADER_NC_WASSOULOU_DENOUNCE%', 					  				500),
-		('LEADER_NC_WASSOULOU',	'RESPONSE_WORK_WITH_US', 				 			'TXT_KEY_LEADER_NC_WASSOULOU_DEC_FRIENDSHIP%', 			  	  			500);
+		('LEADER_NC_WASSOULOU',	'RESPONSE_WORK_WITH_US', 				 			'TXT_KEY_LEADER_NC_WASSOULOU_DEC_FRIENDSHIP%', 			  	  			500),
+		('LEADER_NC_WASSOULOU',	'RESPONSE_INFLUENTIAL_ON_AI', 		 				'TXT_KEY_LEADER_NC_WASSOULOU_INFLUENTIAL_ON_AI%', 					  				500),
+		('LEADER_NC_WASSOULOU',	'RESPONSE_INFLUENTIAL_ON_HUMAN', 				 	'TXT_KEY_LEADER_NC_WASSOULOU_INFLUENTIAL_ON_HUMAN%', 			  	  			500);
 ------------------------------------------------------------------------------------------------------------------------ 
 -- Leader_Traits
 ------------------------------------------------------------------------------------------------------------------------ 
@@ -277,7 +277,7 @@ VALUES	('TRAIT_NC_WASSOULOU', 		'TXT_KEY_TRAIT_NC_WASSOULOU',	'TXT_KEY_TRAIT_NC_
 ------------------------------------------------------------------------------------------------------------------------ 	
 INSERT INTO Civilizations 	
 		(Type, 									DerivativeCiv,						SoundtrackTag,  MapImage, 							DawnOfManQuote, 								DawnOfManImage,					Description,								ShortDescription,								Adjective,										Civilopedia,												CivilopediaTag,										DefaultPlayerColor,						ArtDefineTag, ArtStyleType, ArtStyleSuffix, ArtStylePrefix, IconAtlas,							PortraitIndex,	AlphaIconAtlas)
-SELECT	'CIVILIZATION_NC_WASSOULOU',	'TXT_KEY_CIV_TAL_NC_WASSOULOU_DESC',	'Songhai', 		'NC_MapWassoulou512.dds',	'TXT_KEY_CIV_DAWN_NC_WASSOULOU_TEXT',	'NC_DOM_Wassoulou.dds',	'TXT_KEY_CIV_NC_WASSOULOU_DESC', 	'TXT_KEY_CIV_NC_WASSOULOU_SHORT_DESC',	'TXT_KEY_CIV_NC_WASSOULOU_ADJECTIVE',	'TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_TEXT_1',		'TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU',	'PLAYERCOLOR_NC_WASSOULOU',		ArtDefineTag, ArtStyleType, ArtStyleSuffix, ArtStylePrefix, 'NC_WASSOULOU_ICON_ATLAS',	0,				'NC_WASSOULOU_ALPHA_ATLAS'
+SELECT	'CIVILIZATION_NC_WASSOULOU',	'TXT_KEY_CIV_TAL_NC_WASSOULOU_DESC',	'Songhai', 		'wassoulou_map.dds',	'TXT_KEY_CIV_DAWN_NC_WASSOULOU_TEXT',	'wass_dom.dds',	'TXT_KEY_CIV_NC_WASSOULOU_DESC', 	'TXT_KEY_CIV_NC_WASSOULOU_SHORT_DESC',	'TXT_KEY_CIV_NC_WASSOULOU_ADJECTIVE',	'TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_TEXT_1',		'TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU',	'PLAYERCOLOR_NC_WASSOULOU',		ArtDefineTag, ArtStyleType, ArtStyleSuffix, ArtStylePrefix, 'NC_WASSOULOU_ICON_ATLAS',	0,				'NC_WASSOULOU_ALPHA_ATLAS'
 FROM Civilizations WHERE Type = 'CIVILIZATION_SONGHAI';
 ------------------------------------------------------------------------------------------------------------------------ 
 -- Civilization_CityNames
@@ -358,7 +358,7 @@ VALUES	('CIVILIZATION_NC_WASSOULOU',	'BUILDINGCLASS_ARMORY', 	'BUILDING_NC_DYULA
 ------------------------------------------------------------------------------------------------------------------------ 	
 INSERT INTO Civilization_UnitClassOverrides 
 		(CivilizationType, 						UnitClassType, 				UnitType)
-VALUES	('CIVILIZATION_NC_WASSOULOU',	'UNITCLASS_MUSKETMAN', 	'UNIT_NC_BOLO');
+VALUES	('CIVILIZATION_NC_WASSOULOU',	'UNITCLASS_RIFLEMAN', 	'UNIT_NC_BOLO');
 ------------------------------------------------------------------------------------------------------------------------ 
 -- Civilization_Religions
 ------------------------------------------------------------------------------------------------------------------------ 	
