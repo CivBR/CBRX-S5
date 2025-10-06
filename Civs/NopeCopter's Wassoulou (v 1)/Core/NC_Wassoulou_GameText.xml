@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_NC_WASSOULOU_ADJECTIVE">
+			<Text>Wassoulou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NC_WASSOULOU_DESC">
+			<Text>Wassoulou Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NC_WASSOULOU_SHORT_DESC">
+			<Text>Wassoulou</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_CIV_TAL_NC_WASSOULOU_DESC">
+			<Text>Wassoulou</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_TEXT_1">
+			<Text>The Wassoulou Empire, also referred to as the Samorian state, Mandinka Empire, or Samori's Empire, was a short-lived West African state that existed from roughly 1878 until 1898. Its core territories covered what is now southwestern Mali and upper Guinea, with its capital in Bissandugu; it expanded further south into Northern Sierra Leone and east into northern Ivory Coast before its downfall. Though the state did not have an official name, scholars often refer to it as 'Samori's state' or a version thereof. At the time, the inhabitants commonly called the state Samoridugu, roughly translating to 'Samori's home'. The term Wassoulou Empire became widely used in the 20th century, including in the empire's former territory, although this name originates from a colonial officer who conflated the names of Samori Ture's empire and the historical region of Wassoulou the empire was centered in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_HEADING_2">
+			<Text>Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_TEXT_2">
+			<Text>The death of Umar Tall, founder of the Toucouleur Empire, in 1864 functionally split his empire between his sons and opened political space for local rulers to re-assert their independence. Samori Ture was one of the most prominent of this generation of leaders. After taking control of a small warband, he managed to extend his influence over all of the Toron region either by force or diplomacy, building alliances with the powerful Konate family of Gbodou and the leaders of Bissandugu. This first expansionist phase, lasting from 1866 to 1873, saw Samori's army and influence grow dramatically as members of his mother's Camara clan and numerous other volunteers were attracted by his success. In 1875 the Bate Empire, a theocratic state ruled by the Kaba dynasty of Kankan, sent commissioners to Ture asking for an alliance against his pagan neighbors, particularly the Condé clan based in Gbérédou. Samori accepted, sealing the pact with a meeting at Tintioule. With his Kaba allies, Ture conquered Kouroussa, Norassoba, Baro and other important towns. He also established diplomatic relations with Aguibou Tall (son of Umar Tall) of Dinguiraye in 1878, then an alliance with the almamy of the Imamate of Futa Jallon Ibrahima Sory Dara in 1879. The army captured the Bure gold mining district on the border of Mali and Guinea to become more financially stable and continue trade, and by 1878 Ture had declared himself Faama (Emperor), with Bissandugu as his capital. He took up the Islamic title of Almamy in 1884.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_HEADING_3">
+			<Text>Colonial Conflicts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_TEXT_3">
+			<Text>During the late 19th century Scramble for Africa European colonization of Africa began to speed up, and Samori's state came into regular conflict with France. In late 1881 Gustave Borgnis-Desbordes, commander of the French garrison at Kita in present-day Mali, sent an envoy to Samori Ture to announce that Kiniéran was now a French protectorate. Unimpressed, Ture sacked the town on February 21, 1882. A French relief column arrived too late, but pursued the army, which turned and fought at Samayah on the 26th. The sofas traditional frontal charges became a slaughter when faced with the latest French weaponry, but Samori quickly pivoted by adopting effective guerilla tactics and hit-and-run cavalry attacks. They harassed the French back to the Niger. This victory won Ture a reputation as the African leader who could stand up to the invading toubab, massively boosting his prestige and recruitment, as well as providing a blueprint for future engagements. In the aftermath of Samaya, some of the leaders of Bamako began making overtures to Ture. The French, eager to possess this key strategic town on the Niger, rushed a force to establish a fort there on February 1, 1883. Kebe Brema, Samori's brother, led a force to Bamako to lure the French out of their defenses. They fought two battles at Woyo Wayanko creek in early April, with Kebe Brema winning the first but eventually being forced to retreat. In 1885 Ture sent men to Freetown in Sierra Leone to propose that the empire become a British protectorate. The British rejected the offer in order to avoid conflict with France, but allowed increased trade in the form of selling more rifles to Samori's army. When an 1885 French expedition attempted to seize the Buré gold fields by capturing Niagassola, Ture counter-attacked. Dividing his army into three columns, he quickly forced them to withdraw. The French were compelled to negotiate the Treaty of Kenieba Koura, signed on March 28, 1886. This pact recognized the Niger River as far upstream as Siguiri as the border between the French and Samoridugu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_HEADING_4">
+			<Text>War With Kenedougou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_TEXT_4">
+			<Text>At roughly the same time, the frontier on the Bagoe river between Samoridugu and the Kenedougou Kingdom was descending into violence as forces from both sides raided into the other, and Tieba Traore's army sought to spark a rebellion in the Wassoulou region. With famine and instability widespread, when Samori's forces started forcing conversion to Islam and destroying local sacred sites in 1885, the populace rebelled. Rebels massacred sofa garrisons at Siondougou and Fulala.  Samori sent Keme Brema to deal with the situation, and he brutally put down the rebellion. By the end of the 1887 dry season, the last holdouts had been starved into submission. As the Wassoulou region came back under his control, Samori signed the treaty of Bissandugu with the French. The terms were similar to the treaty signed the year before. With the French now supposed allies, he turned his full force against Kenedougou, beginning a siege of their capital Sikasso in April that would last 15 months. The siege marked the Empire's high water mark and the beginning of its decline. The Tata of Sikasso was one of the most well-developed defensive systems in West Africa at the time, and Samori had no artillery. His supply lines relied on porters to bring food and ammunition from Bissandugu through still-hostile Bambara territory. Roads became quagmires during the rainy season, and dysentery struck the army, devastating the men and killing Kebe Brema among other important leaders. Meanwhile the French, far from acting as allies, had built a fort at Siguiri and were blocking all trade with the Sahel or Senegal, devastating the economy. When a rumor began that Samori himself was dead, another massive rebellion broke out. By the end of the 1888 rainy season, he was forced to abandon the siege. His starving, desperate troops again brutally sacked Wassoulou, massacring any rebels they found.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_HEADING_5">
+			<Text>Decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_TEXT_5">
+			<Text>In February 1889 Samori and the French signed yet another treaty, this time at Niako, that pushed colonial control further south. The Empire was vulnerable after the debacle at Sikasso, and the British stopped selling them breech loading guns in accordance with the Brussels Conference Act of 1890. On March 10, 1891, a French force under Colonel Louis Archinard set out from Nyamina for a surprise attack on Kankan. He expected to subdue Samori in a few weeks with a lightning campaign. Knowing his fortifications could not stop French artillery, Ture began a war of manoeuvre and scorched earth. Archinard had little trouble capturing Kankan on April 11 and then a deserted Bissandougou, but Ture had left little worth taking. Archinard's replacement, Colonel Humbert, arrived in Kankan in January 1892 and led a small, well-supplied force of picked men on another attack on Bissandugu. The French installed garrisons at Bissandugu and Kerouane. Samori convened another council at Frankonedou on May 9, 1892 where they decided to move east and rebase the empire in Kabadougou, devastating each area before evacuating it to delay French pursuit. During the first months of 1893 the French, although unable to corner Ture's armies in Guinea, did manage to capture Faranah and block resupply routes to Liberia and Sierra Leone, the army's primary source of modern weaponry. This left Samori reliant on a longer route through the Gold Coast. His vassals in Kissidougou and the rest of the western- and southernmost parts of the empire surrendered. Samori Ture's empire in the Manding region was now gone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_HEADING_6">
+			<Text>Second Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_WASSOULOU_TEXT_6">
+			<Text>Samori moved his base out of Kabadougou toward the Bandama and Comoe River to Dabakala in February 1895. His objective, and the key to the whole region, was the ancient Dyula trading city of Kong. The French sought to secure the city by putting together a column led by Col. Monteil in August 1894, but it did not leave Grand Bassam, however, until February 1895. Its passage sparked a popular resistance movement. Monteil stumbled onto the sofas on March 2; in a battle on the 14th, the French were forced to retreat and abandon Kong, which pledged fealty to Samori in April. The new empire in the east would enjoy nearly two years without significant French intervention. Ture accorded the city of Kong numerous privileges, but the local Dyula merchants' commerce with the coast, dominated by the French, had slowed since their absorption into Samoridugu. When Samori, looking to push further east into the Gold Coast to secure new sources of guns, retreated rather than fight a French force, they sought to take advantage of his weakness by intercepting arms caravans and opening channels to invite the French back. When the discontent eventually broke into open revolt, Samori destroyed the city on May 23, 1897. The force that the sofas had encountered was part of France's efforts to control Bouna, and to keep Samori and the British apart. Capt. Paul Braulot came south from the Niger bend to attempt to negotiate another protectorate but was rebuffed, as Ture wanted only to live apart from the French. In April 1897, Governor William Edward Maxwell tried to intimidate Saranken Mori, Samori's son and the commander in the region, into abandoning Bouna. When this failed, a force of the Southern Nigeria Regiment under Henderson marched on the town but were defeated at Dokita, then later routed, and Henderson was captured at Wa. Knowing this setback would prompt an aggressive British response, the French again sent Braulot, at the head of an armed column, to try to acquire Bouna by negotiation. Saranken Mori initially accepted. But when Braulot arrived at Bouna, he was killed and his column destroyed outside the city on August 20, 1897, restarting the war between Samori and the French. The fall of the Kenedougou capital of Sikasso on May 1, 1898 permitted French colonial forces to launch a concentrated assault against Ture. He was forced to migrate once again, this time towards Liberia. Hoping to live off the land while marching, a combination of the unfamiliar mountainous territory of western Ivory Coast, hostile locals, and colonial attacks turned the campaign into a disaster. Thousands died of starvation. Using information from sofa deserters, the French captain Henri Gouraud surprised Ture's forces at Guelemou on September 29, 1898, and captured the Almamy without a fight. With his capture, Samoridugu ceased to exist.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_01">
+			<Text>Bissandugu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_02">
+			<Text>Kankan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_03">
+			<Text>Kérouane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_04">
+			<Text>Kabadougou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_05">
+			<Text>Odienné</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_06">
+			<Text>Madina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_07">
+			<Text>Sanankoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_08">
+			<Text>Boussédou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_09">
+			<Text>Kouroussa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_10">
+			<Text>Norassoba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_11">
+			<Text>Baro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_12">
+			<Text>Siguiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_13">
+			<Text>Dinguiraye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_14">
+			<Text>Tintioule</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_15">
+			<Text>Kenieba Koura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_16">
+			<Text>Kissidougou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_17">
+			<Text>Faranah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_18">
+			<Text>Bougouni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_19">
+			<Text>Bafagha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_20">
+			<Text>Kiniéran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_21">
+			<Text>Damisa-Koro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_22">
+			<Text>Beyla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_23">
+			<Text>Macenta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_24">
+			<Text>Niagassola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_25">
+			<Text>Siondougou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_26">
+			<Text>Fulala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_27">
+			<Text>Niako</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_28">
+			<Text>Kong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_29">
+			<Text>Korhogo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_30">
+			<Text>Seguela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_31">
+			<Text>Dabakala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_32">
+			<Text>Bouna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_33">
+			<Text>Bonduku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_34">
+			<Text>Bori-Bana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_35">
+			<Text>Wa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_WASSOULOU_36">
+			<Text>Guelemou</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_0">
+			<Text>Kaba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_1">
+			<Text>Karamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_2">
+			<Text>Mori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_3">
+			<Text>Kebe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_4">
+			<Text>Konate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_5">
+			<Text>Babatu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_6">
+			<Text>Fanyinama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_7">
+			<Text>Ahmed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_8">
+			<Text>Karamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_WASSOULOU_9">
+			<Text>Siaka</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU">
+			<Text>Samori Ture</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_NAME">
+			<Text>Samori Ture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_1">
+			<Text>Samori Ture was a Malinke and a Soninke Muslim cleric, military strategist, and founder of a massive empire that stretched across present-day north and eastern Guinea, north-eastern Sierra Leone, southern Mali, northern Côte d'Ivoire and part of southern Burkina Faso. A deeply religious Muslim of the Maliki school of religious jurisprudence of Sunni Islam, he organized his empire and justified its expansion with Islamic principles. Ture resisted French colonial rule in West Africa from 1882 until his capture in 1898.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_2">
+			<Text>Samori Ture was born in Manyambaladugu, the son of a Dyula weaver and merchant. The family moved to Sanankoro soon after his birth. Ture grew up as West Africa was being transformed through growing contacts and trade with the Europeans in commodities, artisan goods and products. European trade made some African trading states rich. The trade in firearms changed traditional West African patterns of warfare and heightened the severity of conflicts, increasing the number of fatalities. Ture was a troublesome youth, leading a group of local boys who would steal fruit from fields. To put him on a better path, his father bought him some merchandise and sent him off to become a merchant trading kola nuts from the coast for cloth. In 1853 Sanankoro was raided by the Cissé clan and Samori's mother was captured by the prince Sere Brahima, whose older brother Sere Bourlaye was king in Madina. He went to Madina to exchange himself for his mother, and served seven years as a warrior for the Cissé. In their service he learned to handle firearms, the arts of war, and discipline, and converted to Islam. Brave and intelligent, he moved quickly up the ranks.  Sere Bourlaye died in 1859. Soon afterwards Sere Brahima, who succeeded him, freed Samori and his mother, and they returned to Sanankoro.  According to tradition, he remained "seven years, seven months, seven days" before leaving with his mother.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_3">
+			<Text>Rise to Power</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_3">
+			<Text>At the time, the Manding region had many war bands that were indistinguishable from bandits. Unable to settle into a peaceful life, Samori joined one of these groups but, with his reputation as a warrior, came into conflict with the incumbent leader. After being whipped for insubordination, he left for another band of which he soon took control.  His force would set up outside villages, feeding themselves by extorting passing peasants until the village accepted Samori's authority, then they moved on.  Their first serious obstacle was the fortified village of Tere, defended by Sere Brema's governor in the region. Samori failed both to capture it and to bribe the governor, Dianka, into switching sides. Still, he managed to capture all of the Toron region either by force or diplomacy, building alliances with the powerful Konate family of Gbodou and the leaders of Bissandougou, and taking the village of Faranfina by a ruse.  This first expansionist phase, lasting from 1866 to 1873, saw Samori's army and influence grow dramatically as members of his mother's Camara clan and numerous other volunteers were attracted by his success.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_4">
+			<Text>Early Expansion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_4">
+			<Text>Samori's 1873 capture of Bissandougou represented a declaration of war against Nantenin Famoudou Kourouma, pagan king of Saboudou, who kept his capital at Worokoro. Samori was beaten in their first battle and fell back into the heart of his lands.  The night before battle beneath the walls of Bissandougou, Samori went to negotiate with Jamoro Adjigbe Diakite, one of Kourouma's most powerful lieutenants, offering a large bribe to switch sides. The next morning, the lieutenant's troops fired on Samori's without having loaded bullets into their guns, then turned and helped route Kourouma, who was captured and beheaded. After his victory in the battle of Saman-saman, in 1875 the Bate Empire, a theocratic state ruled by the Kaba dynasty of Kankan, sent commissioners to Ture in Bissandougou. Karamo Mori Kaba asked for an alliance against his pagan neighbors. After clearing the immediate environs of Kankan, Samori and the Kaba launched a successful 10-month siege of Koumban upstream of Kankan on the left bank of the Milo. Rather than facing down the important center of Kouroussa he marched down the banks of the Niger River, conquering or negotiating with various chiefs. The final step was the city of Norassoba, which fell after a 9 month siege and joined the Samori's alliance, and one of Ture's griots managed to negotiate the peaceful submission of Dioma's capital of Dielibakoro.  After the treaty of Dielibakoro Samori looked to the gold fields of Buré, annexing Fodekaria (Balimana), as well as the Wassoulou region which would eventually give its name to the entire empire. To protect his arms caravans, Samori formed a non-aggression pact with Aguibou Tall of Dinguiraye in 1878, then an alliance with the almamy of the Imamate of Futa Jallon. By this point, he was importing breech-loading rifles via the port of Freetown in the British colony of Sierra Leone. He opened regular contacts with the colonial administration there. By 1878 he was strong enough to proclaim himself Faama (military leader) of his Wassoulou Empire. While Samori had been conquering in the north of his empire in the years 1875-8, Sere Brema Cissé's nephew Morlaye had pushed into the Sankaran region, exploiting Samori's relative lack of influence there but attacking some of his allies.  The situation now reached a head, and diplomatic outreach came to nothing. Kankan refused to offer troops in support of his efforts, and so Samori left his brother Keme Brema to besiege Kankan while he marched to face the Cissé. He captured Morlaye at Sirinkoro, and then defeated the army sent to rescue him. Soon he had trapped Sere Brema in Worokoro, which soon fell. Kankan's ruler, meanwhile, was eventually forced to flee after a long siege, and his family was removed from power. With this great trading center secure, the Wassoulou Empire extended through the territory of present-day Guinea and southern Mali, from what is now Sierra Leone to northern Côte d'Ivoire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_5">
+			<Text>Initial Battles with the French</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_5">
+			<Text>The French began to expand into the heart of West Africa in the late 1870s, pushing eastward from Senegal to ultimately reach the upper reaches of the Nile in what is now Sudan. Their drive south-east to link up with their bases in Côte d'Ivoire put them directly in conflict with Samori Ture. The commander Gustave Borgnis-Desbordes sent an envoy to Samori Ture to announce that the city Kiniéran was now a French protectorate. Unimpressed, Ture sacked the town on February 21, 1882. A French relief column arrived too late, but pursued the Wassoulou army, which turned and fought at Samaya on the 26th. The sofas' traditional frontal charges became a slaughter when faced with the latest French weaponry, but Samori quickly pivoted by adopting effective guerilla tactics and hit-and-run cavalry attacks. They harassed the French back to the Niger. This victory won Ture a reputation as the African leader who could stand up to the invading toubab, massively boosting his prestige and recruitment, as well as providing a blueprint for future engagements. In the aftermath of Samaya, some of the leaders of Bamako began making overtures to Ture. The French, eager to possess this key strategic town on the Niger, rushed a force to establish a fort there on February 1, 1883.  Kebe Brema, Samori's brother, led a force to Bamako to lure the French out of their defenses. They fought two battles at Woyo Wayanko creek in early April, with Kebe Brema winning the first but eventually being forced to retreat. In January 1885 Ture sent an embassy to Freetown, offering to put his kingdom under British protection. While the British did not want to risk angering the French, they allowed Ture to buy large numbers of modern repeating rifles. When a French expedition under Colonel Combes attempted to seize the Buré gold fields by capturing Niagassola, Ture counter-attacked. Dividing his army into three mobile columns, he worked his way around the French lines of communication and quickly forced them to withdraw. Already embroiled in conflict with Mahmadu Lamine and the Toucouleur Empire, the French were compelled to negotiate the Treaty of Kenieba Koura, signed on March 28, 1886. This pact recognized French hegemony over the left bank of the Niger as far upstream as Siguiri, and Samori's control of Bure and the Manding region.  As part of the agreement, Samori's eldest son and heir Djaoulen-Karamo was sent on a diplomatic/fact finding/goodwill mission to France.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_6">
+			<Text>War with Kenedougou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_6">
+			<Text>While Samori had been nominally fighting for Islam since the alliance with the Imamate of Fula Djallon in 1879, in July 1884 he convened a council to officially proclaim Islam as the state religion, crack down on animist practices, and formally take the title of Almamy. At roughly the same time, the frontier on the Bagoe river between Samori's lands and the Kenedougou Kingdom was descending into violence as forces from both sides raided into the other, and Tieba Traore's army sought to spark a rebellion in the Wassoulou region. With famine and instability widespread, when Samori's forces started forcing conversion to Islam and destroying local sacred sites in 1885, the populace rebelled. Rebels massacred sofa garrisons at Siondougou and Fulala. Samori sent Keme Brema to deal with the situation, and he brutally put down the rebellion. By the end of the 1887 dry season, the last holdouts had been starved into submission. As the Wassoulou region came back under his control, Samori looked to shore up his northern flank. On March 23, 1887, he signed the treaty of Bissandougou with the French. The terms were similar to the treaty signed the year before, although Samori did accept a French protectorate that he saw as unenforceable, as the colonial army was engaged in a campaign to take Segou. With the French now supposed allies, he turned his full force against Kenedougou, beginning a siege of their capital Sikasso in April that would last 15 months. The siege marked the high water mark of Tore's power and the beginning of his decline. The Tata of Sikasso was one of the most well-developed defensive systems in West Africa at the time, and Samori had no artillery. Roads became quagmires during the rainy season, and dysentery struck the army, devastating the men and killing Kebe Brema among other important leaders. Meanwhile, the French, far from acting as allies, had built a fort at Siguiri and were blocking all trade with the Sahel or Senegal.  As the siege dragged on, anyone living near the road to Bissandougou was forced into service as porters or had their food appropriated by the soldiers. When a rumor began that Samori himself was dead, another massive rebellion broke out. By the end of the 1888 rainy season, he was forced to abandon the siege.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_7">
+			<Text>Fall of the Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_7">
+			<Text>In February 1889 Samori and the French signed yet another treaty, this time at Niako, that pushed colonial control further south. The Almamy was in a relatively weak position after the debacle at Sikasso, and the French were still focused on Segou. They soon broke some of the verbal promises that had been made at Niako relative to the return of fugitives and rebels. In another blow, the British had stopped selling breechloading guns in accordance with the Brussels Conference Act of 1890. On March 10, 1891, a French force under Colonel Louis Archinard set out from Nyamina for a surprise attack on Kankan, rendering all the previous treaties moot.  He expected to subdue Samori in a few weeks with a lightning campaign.  Knowing his fortifications could not stop French artillery, Ture began a war of manoeuvre and scorched earth.  Despite victories against isolated French columns, he failed to push the French from the core of his kingdom. Archinard had little trouble capturing Kankan on April 11 and then a deserted Bissandougou, but Ture had left little worth taking. They set up a garrison in Kankan, where they reinstalled Daye Kaba as a puppet ruler.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_8">
+			<Text>Heading East</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_8">
+			<Text>Samori organized a great assembly in August 1891 in Missamaghana, inviting his son in law Mangbe-Amadou Ture of the Kabadougou Kingdom, also called Kabassarana. The empire was put on a war footing, collecting metal to melt into bullets, stocking granaries, recruiting soldiers, and so on.  While the best-armed troops resisted the French using French-made repeater rifles, those armed with the bolt-action chassepot conquered new territory to the east to use as a strategic reserve, and men with flintlocks served as the home guard or internal security. With this system, Samori could fall back into territory already conquered and organized, leaving no food for the French, for the next seven years. Archinard's replacement Col. Pierre Humbert arrived in Kankan in January 1892 and led a small, well-supplied force of picked men on an attack on Bissandougou. The sofas fought defensive battles at the Soumbe and Diamanko creeks the 11th and 12th, taking heavy casualties but doing serious damage to the French and nearly capturing the enemy artillery, but could not save the once-again abandoned city. The French kept chasing Samori's army south, facing ambushes, guerilla warfare, and scorched earth the whole way, installing garrisons at Bissandougou and Kerouane. At another council at Frankonedou on May 9, 1892, Samori and his allies decided to rebase the empire in Kabadougou, devastating each area before evacuating it to delay French pursuit. During the first months of 1893 the French, although unable to corner Ture's armies in Guinea, did manage to capture Faranah and block resupply routes to Liberia and Sierra Leone, Wassoulou's primary source of modern weaponry. This left Samori reliant on a longer route through the Gold Coast.  The Wassoulou vassals in Kissidougou and the rest of the western- and southernmost parts of the empire surrendered, and the French looked to rebuild profitable colonies in the wartorn lands rather than push further. Samori Ture's empire in the Manding region was now gone, but he still commanded some 12000 infantry, 2000 cavalry, and had a moving retinue of some 120,000 people as he pushed east.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_9">
+			<Text>The Second Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_9">
+			<Text>Encouraged by Babemba Traore, who had succeeded his brother Tieba as faama of Kenedougou, the Bambara country again rose in revolt in 1894, blocking Samori's access to Sahelian horses. He moved his base out of Kabadougou toward the Bandama and Comoe River to Dabakala in February 1895. His objective, and the key to the whole region, was the ancient Dyula trading city of Kong. The city had nominally accepted French protection during Louis-Gustave Binger's visit in 1892, and the colonial leaders sought to formalize this relationship by putting together a column led by Col. Monteil in August 1894. The force did not leave Grand Bassam, however, until February 1895, and its arrival sparked a popular resistance movement.  Monteil stumbled onto the sofas on March 2, to the surprise of both sides; in a battle on the 14th, the French were forced to retreat and abandon Kong, which pledged fealty to Samori in April.  He would enjoy nearly two years to consolidate his new empire without significant French intervention.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_10">
+			<Text>Defeat and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_10">
+			<Text>The fall of the Kenedougou capital of Sikasso on May 1, 1898, permitted French colonial forces to launch a concentrated assault against Ture. He soon was forced to migrate once again, this time towards Liberia. Hoping to live off the land while marching, a combination of the unfamiliar mountainous territory of western Ivory Coast, hostile locals, and colonial attacks turned the campaign into a disaster. Thousands died of starvation.  Using information from sofa deserters, the French captain Henri Gouraud surprised Ture's forces at Guelemou on September 29, 1898, and captured the Almamy without a fight. Samori Ture was brought to Kayes, and on December 22, 1898, was condemned to exile, despite his wish to return to southern Guinea. His wife Saranken Konate, who had often ruled as regent during his absences from Bissandougou, refused to accompany him.  Emotionally devastated, he was taken to Saint-Louis, Senegal on January 4, 1899. He attempted suicide the night before he was scheduled to be deported to Gabon but survived and finally embarked on February 5. The prison camp where Samori Ture spent his last years, the small island of Missanga in the middle of the Ogooué River near Ndjolé, was known as the 'dry guillotine' due to the death rate among prisoners. He died there of pneumonia on June 2, 1900.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_HEADING_11">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TEXT_11">
+			<Text>In the first decades of colonial domination in southern Mali and northeastern Guinea, the French framed their conquest as having delivered the locals from the violence and insecurity of the Samori years, and therefore that the communities owed their lives and allegiance to them. During the interwar period, however, African intellectuals began to rehabilitate Ture's memory. He became a hero and rallying cry for anti-colonial parties in Guinea and Mali, but was also used by their opponents.  Since independence, Samori Ture has been generally remembered as a hero and martyr of African resistance to European colonialism. In some communities in southern Mali that suffered brutal repression under his rule, however, he is remembered as a tyrant. Samori's great-grandson, Ahmed Sékou Touré, was elected as the first President of Guinea after it became independent. Today, his tomb is at the Camayanne Mausoleum, within the gardens of Conakry Grand Mosque.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_LIVED">
+			<Text>1828 - 1900 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_SUBTITLE">
+			<Text>Leader of Wassoulou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_WASSOULOU_TITLES_1">
+			<Text>Faama</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_NC_WASSOULOU_TEXT">
+			<Text>Praise be upon you, Faama Samori Ture, last great ruler of the Mande! Born to a merchant family, you grew from the leader of a small war band to the head of a your own empire through your ties with the Dyula merchant class and your strategic prowess. But your new empire would face a test greater than any you could have imagined when the French arrived, hoping to claim your lands as their own. While many were crushed, you, Samori, adapted - by adopting the weapons, the tactics, and even the manufacturing of your opponents, and through a highly effective espionage network, you held the French at bay for years. But alas, your military genius could only get you so far. As rebellions wracked your state, you were forced to rely on scorched-earth tactics, eventually seeing your capital fall. But even then, you were not defeated, as you were able to build a second empire around the trade center of Kong and hold for a few more years before finally being defeated. Still, despite your ultimate failure, your efforts were not forgotten, and your legacy continued to inspire your people into and beyond the colonial era.[NEWLINE][NEWLINE]Mighty Faama, the time has come to rebuild your empire once more. Open lands wait to be united under your rule, but hungry conquerors are already eyeing up your home, ready to strike. Will you be able to fend off the invaders without succumbing to stagnation? Will you be able to adapt and evolve to face a changing world and triumph over all challenges? Will you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_FIRSTGREETING_1">
+			<Text>Why, a stranger approaches! I am Samori Ture, the faama of the Mande. If you are someone of faith, I welcome you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_DEFEATED_1">
+			<Text>Very well - I know when I am beaten. My dream will be carried on by others in my stead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_ATTACKED_HOSTILE_1">
+			<Text>Let us see how long that false confidence of yours lasts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_DEC_FRIENDSHIP_1">
+			<Text>It would surely be wrong for us to fight, brothers that we are. Instead, we should surely sign a Declaration of Friendship to show we stand together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_DENOUNCE_1">
+			<Text>You are a heathen and a scoundrel, and the world should know you are not to be trusted.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_DENOUNCE_FRIEND_1">
+			<Text>You were a useful pawn for a time, but that time has run out.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_DOW_GENERIC_1">
+			<Text>It is time I drove you out of my realm for good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_EXPANSION_SERIOUS_WARNING_1">
+			<Text>These lands you pilfer are under my protection. Cease your reckless settling at once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_GREETING_HOSTILE_HELLO_1">
+			<Text>Why have you shown your face here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_GREETING_NEUTRAL_HELLO_1">
+			<Text>Greetings. Have you come to trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_GREETING_POLITE_HELLO_1">
+			<Text>Hello, my brother! What brings you here today? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Do you seek war? Your soldiers are behaving as if you do. Are you sure you wish to challenge me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_OPEN_BORDERS_EXCHANGE_1">
+			<Text>For the mutual prosperity of our people, surely we should mutually open our borders to allow free trade and movement, don't you agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_REQUEST_1">
+			<Text>If you would be so kind.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Empty words from an empty ruler.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_TOO_SOON_FOR_DOF_1">
+			<Text>I appreciate the sentiment, but not yet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_TOO_SOON_NO_PEACE_1">
+			<Text>Not until I have shown you your place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are playing the kora and buying your ivory. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_WASSOULOU_INFLUENTIAL_ON_HUMAN_1">
+			<Text>I'm glad to see that your people are playing the kora and buying our ivory. They have wonderful taste.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_NC_WASSOULOU_SHORT">
+			<Text>The African Telegraph</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NC_WASSOULOU">
+			<Text>Capturing a City with two or more outgoing Trade Routes grants you an extra Trade Route slot. [ICON_SPY] Spies in enemy Cities increase Experience gain for your Units near the City.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASSOULOU_BOLO">
+			<Text>Bolo Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASSOULOU_BOLO_HELP">
+			<Text>Marks a Bolo or former Bolo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASSOULOU_SPY_ADJACENCY">
+			<Text>Wassoulou Spy Adjacency Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASSOULOU_SPY_ADJACENCY_ACTIVE">
+			<Text>Wassoulou Spy Adjacency Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASSOULOU_SPY_ADJACENCY_HELP">
+			<Text>Bonus Experience while near a City with a Wassoulou [ICON_SPY] Spy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASSOULOU_MOVEMENT">
+			<Text>Bolo Bonus Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_WASSOULOU_MOVEMENT_HELP">
+			<Text>+1 [ICON_MOVES] Movement.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_NC_DYULA_GUNSMITH">
+			<Text>Dyula Gunsmith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_DYULA_GUNSMITH_HELP">
+			<Text>Replaces Armory. +10 base Experience, +5 for every International Trade Route to or from this City. Gets a burst of [ICON_PRODUCTION] Production towards units every time a Technology is discovered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_DYULA_GUNSMITH_STRATEGY">
+			<Text>While the Dyula Gunsmith provides less base Experience than the Armory it replaces, it also generates bonus Experience for every International Trade Route connected to the city it's in, which can add up to a massive Experience bonus to trained units if used correctly. What's more, the Dyula Gunsmith provides a large bonus to Unit production when a Technology is researched (or stolen), making it even easier to pump out large numbers of well-prepared troops. Use the Dyula Gunsmith to turn key cities into military production powerhouses to fuel your conquests.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_DYULA_GUNSMITH_TEXT">
+			<Text>Samori built a well-organised and centrally controlled arms industry in his empire focused on providing cutting-edge military technology to the soldiers. By 1873 he had gathered local smiths in Bissandugu to build and repair firearms, and created a command hierarchy for them that was integrated with the military. In 1886 he sent Musa Kaba to France, accompanying Samori's son Dyaule-Karamogho, with instructions to conduct industrial espionage on French arsenals. With this information, as well as some rifles stolen from French forces in Kayes, he built a domestic arms industry. Entire villages were set aside as manufacturing centers, allowing for assembly line production with hundreds of smiths specializing in various parts. These were standardized, and so could be used to repair various rifles. By 1889, the smiths had produced working copies of the Gras, Mauser and Kropatschek rifles. 12 guns were produced a week and roughly 200–300 cartridges a day. While this was a groundbreaking and potentially revolutionary solution to one of Samori's key challenges, namely access to modern weaponry without having to draw down the human or capital reserves of the empire, the domestic arms industry did not fully resolve the problem. Despite the large-scale organization, the blacksmiths were never able to provide the quantity of guns necessary to supply the entire army. Samoridugu also did not have the technology to build blast furnaces, and without this the casting of artillery was impossible, and making quality gun barrels was also very difficult. Importation from British Sierra Leone remained a critical source of weaponry for Samori Ture.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_NC_WASSOULOU_TRADE_ROUTE_DUMMY">
+			<Text>Wassoulou Trade Route Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_WASSOULOU_TRADE_ROUTE_DUMMY_HELP">
+			<Text>+1 Trade Route slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_WASSOULOU_XP_DUMMY">
+			<Text>Wassoulou XP Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_WASSOULOU_XP_DUMMY_HELP">
+			<Text>Bonus XP for each International Trade Route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_WASSOULOU_SPY_MARKER">
+			<Text>Wassoulou Spy Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_WASSOULOU_SPY_MARKER_HELP">
+			<Text>Marks a city with a Wassoulou Spy.</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_UNIT_NC_BOLO">
+			<Text>Bolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_BOLO_HELP">
+			<Text>Replaces the Rifleman. Gains +1 [ICON_MOVES] Movement when gaining a Level. Capturing a City with a Bolo duplicates the unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_BOLO_STRATEGY">
+			<Text>The Bolo is a highly effective military unit which grows significantly more powerful as it fights. While effectively equal to the Musketman it replaces when first built, the Bolo permanently gains a movement point each time it levels up (past Level 3?), allowing it to storm through enemy defenses or rapidly relocate if you can keep it alive long enough. What's more, upon capturing an enemy city, a Bolo will also duplicate itself, creating another Bolo for free! Use your Bolos as the backbone of a conquering force to devastate enemy defenses, creating an army that grows more powerful the more victories it takes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_BOLO_TEXT">
+			<Text>The army with which Samori Ture confronted his new enemy was of a type unique to West Africa and perhaps to all of the continent. It had its origins in the warrior traditions of the Mandinka and the organizational abilities of the Muslim Dyula. But the old Mandinka "militia' was replaced by an organized standing army. Squads of 10 men were formed into permanent companies (or "bolos") of 200 men, each commanded by a mounted officer known as 'bolokuntigi'. Eventually, the Almamy augmented these forces with trained companies of 'sharpshooters' (known as "sofas") containing 150 men. These basic forces were mobilized and stationed throughout the Empire in field armies. The central nucleus (commanded by the Alamamy himself) was in an area known as the Foroba (or "great field”), near which Samori maintained 8,000-10,000 veteran troops, Surrounding this nucleus were up to five provinces, each with its own field army averaging 5,000 troops commanded by a 'general' known as a "Keletigi." These armies were recruited from many sources. Conquered warriors were given their freedom for enlisting in the army, but the heart of each army was always an elite of regular (and eventually trained and uniformed) Mandinka troops.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
