@@ -3834,3 +3834,23 @@ INSERT INTO
 	ArtDefine_UnitInfoMemberInfos
 VALUES
 	('ART_DEF_UNIT__SETTLER_PERSIA', 'ART_DEF_UNIT_MEMBER_AFRIMALE2', "1");
+
+
+--triggers for modded civs added after this mod loads
+CREATE TRIGGER trg_set_nummembers_to_1
+AFTER INSERT ON ArtDefine_UnitInfoMemberInfos
+WHEN NEW.NumMembers <> 1
+BEGIN
+    UPDATE ArtDefine_UnitInfoMemberInfos
+    SET NumMembers = 1
+    WHERE UnitInfoType = NEW.UnitInfoType;
+END;
+
+CREATE TRIGGER trg_set_scale_to_025
+AFTER INSERT ON ArtDefine_UnitMemberInfos
+WHEN NEW.Scale <> 0.25
+BEGIN
+    UPDATE ArtDefine_UnitMemberInfos
+    SET Scale = 0.25
+    WHERE Type = NEW.Type;
+END;
