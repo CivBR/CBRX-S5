@@ -90,6 +90,7 @@ function DoBoostGPP(iPlayer)
 			end
 		end
 		local pCapital = pPlayer:GetCapitalCity()
+		if not pCapital then return end
 		pCapital:SetNumRealBuilding(iGPPDummy, iCapitalTotal)
 	end
 end
