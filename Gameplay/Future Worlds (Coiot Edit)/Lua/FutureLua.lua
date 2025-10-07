@@ -178,7 +178,7 @@ GameEvents.CityConstructed.Add(CityBuiltTest)
 function CheckUploading(iPlotX, iPlotY, iOldPop, iNewPop)
 	local pCity = Map.GetPlot(iPlotX, iPlotY):GetPlotCity()
 
-	if pCity:GetNumRealBuilding(buildingBrainUploading) > 0 and iNewPop > 3 and iNewPop > iOldPop then
+	if pCity and pCity:GetNumRealBuilding(buildingBrainUploading) > 0 and iNewPop > 3 and iNewPop > iOldPop then
 		if JFD_GetRandom(1, 100) < 25 then
 			local iUploadedCitizens = pCity:GetNumRealBuilding(buildingBrainUploadingDummy)
 			pCity:ChangePopulation(-1, true)
