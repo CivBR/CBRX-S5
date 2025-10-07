@@ -172,6 +172,7 @@ end
 function ItelmenUAGrowthStuff (cityX, cityY, oldpop, newpop)
 	local plot = Map.GetPlot(cityX, cityY)
 	local city = plot:GetPlotCity()
+	if not city then return end
 	local player = Players[city:GetOwner()]
 	local playerID = player:GetID()
 	if not player:IsAlive() then return end
