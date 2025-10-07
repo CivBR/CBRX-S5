@@ -95,7 +95,7 @@ function MekterExperience(ownerId, cityId, buildingType, bGold, bFaithOrCulture)
 	local city = player:GetCityByID(cityId)
 	local plot = city:Plot()
 	--I forgot how this gameevent works so I'm improvising here bear with me bruh
-	local buildingType == iMekter then
+	if buildingType == iMekter then
 		if city:IsOccupied() then
 			if not(load(plot, "tcmHyksosHaveAlreadyBuiltThisHere") == true) then
 				for unit in player:Units() do
