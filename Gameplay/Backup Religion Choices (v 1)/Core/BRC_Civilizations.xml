@@ -42,11 +42,11 @@
 			<ReligionType>RELIGION_JUDAISM</ReligionType>
 		</Row>
 		<Row>
-			<CivilizationType>CIVILIZATION_URDNOT_REV_FRANCE</CivilizationType>
+			<CivilizationType>CIVILIZATION_US_FRANCE</CivilizationType>
 			<ReligionType>RELIGION_CHRISTIANITY</ReligionType>
 		</Row>
 		<Row>
-			<CivilizationType>CIVILIZATION_URDNOT_REV_FRANCE</CivilizationType>
+			<CivilizationType>CIVILIZATION_US_FRANCE</CivilizationType>
 			<ReligionType>RELIGION_PROTESTANT_CALVINISM</ReligionType>
 		</Row>
 		<Row>
@@ -323,11 +323,11 @@
 		</Row>
 		<Row>
 			<CivilizationType>CIVILIZATION_SENSHI_BUNUBA</CivilizationType>
-			<ReligionType>RELIGION_ANGLICANISM</ReligionType>
+			<ReligionType>RELIGION_CHRISTIAN_ANGLICANISM</ReligionType>
 		</Row>
 		<Row>
 			<CivilizationType>CIVILIZATION_SENSHI_NEW_SOUTH_WALES</CivilizationType>
-			<ReligionType>RELIGION_ANGLICANISM</ReligionType>
+			<ReligionType>RELIGION_CHRISTIAN_ANGLICANISM</ReligionType>
 		</Row>
 		<Row>
 			<CivilizationType>CIVILIZATION_MC_RAPA_NUI</CivilizationType>
