@@ -136,8 +136,7 @@ GameEvents.UnitSetXY.Add(experienceFromExploring)
 --Nau movement share
 --==========================================================================================================================
 local iNau = GameInfoTypes["UNIT_PORTUGUESE_NAU"] 
-local sNauClass = GameInfo.Units["UNIT_PORTUGUESE_NAU"].Class
-local iNauClass = GameInfoTypes[sNauClass]
+local iNauClass = GameInfoTypes["UNITCLASS_EE_CARRACK"]
 function nauMovementShare(playerID)
 	local player = Players[playerID]
 	if player:HasUnitOfClassType(iNauClass) then
