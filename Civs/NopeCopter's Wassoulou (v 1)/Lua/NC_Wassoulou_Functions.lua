@@ -195,16 +195,16 @@ end
 -- UA: Capturing a city with two or more outgoing trade routes grants you an extra Trade Route slot
 ----------------------------------------------------------------------------------------------------------------------------
 
+-- Create a table of every city owned by a civ the player is at war with on game start, counting up the number of trade routes each city has
+
+local tTradeRoutesOfCivsAtWar = {}
+
 function UpdateTradeRouteTableForPlayer(pOtherPlayer)
 	for city in pOtherPlayer:Cities() do	
 		local cityTradeCount = GetNumTradeRoutesFromCity(city)
 		tTradeRoutesOfCivsAtWar[city:Plot():GetPlotIndex()] = cityTradeCount
 	end
 end
-
--- Create a table of every city owned by a civ the player is at war with on game start, counting up the number of trade routes each city has
-
-local tTradeRoutesOfCivsAtWar = {}
 
 -- nope asked if there was a way to improve this function so I took a crack at it myself THP
 function NC_Wassoulou_CountEnemyRoutesOnGameStart()
