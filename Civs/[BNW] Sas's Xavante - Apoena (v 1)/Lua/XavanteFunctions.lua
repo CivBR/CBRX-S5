@@ -49,6 +49,7 @@ function JWW_Ratamahatta(iPlayer)
 					if pPlayer:GetTourism() < pNextPlayer:GetTourism() then
 						local iDiff = (pNextPlayer:GetTourism() - pPlayer:GetTourism())
 						local pCap = pPlayer:GetCapitalCity()
+						if not pCap then return end
 						pCap:ChangeSpecialistGreatPersonProgressTimes100(specMusician, (iDiff * 200)) --Difference in Tourism times 2 is how many points they get
 					end
 				end
