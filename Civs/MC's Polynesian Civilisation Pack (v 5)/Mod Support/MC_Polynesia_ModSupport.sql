@@ -199,9 +199,9 @@ VALUES  ('CIVILIZATION_MC_MAORI',		'PACIFIC',		'ANY'),
 -- Civilization_Religions
 ------------------------------
 UPDATE Civilization_Religions
-SET ReligionType = 'RELIGION_ANGLICANISM'
+SET ReligionType = 'RELIGION_CHRISTIAN_ANGLICANISM'
 WHERE CivilizationType = 'CIVILIZATION_MC_NGAI_TAHU'
-AND EXISTS (SELECT * FROM Religions WHERE Type = 'RELIGION_ANGLICANISM');
+AND EXISTS (SELECT * FROM Religions WHERE Type = 'RELIGION_CHRISTIAN_ANGLICANISM');
 --==========================================================================================================================
 -- ENLIGHTENMENT ERA
 --==========================================================================================================================
