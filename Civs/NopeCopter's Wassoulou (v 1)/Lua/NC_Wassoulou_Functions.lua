@@ -206,7 +206,7 @@ end
 
 local tTradeRoutesOfCivsAtWar = {}
 
--- nope asked if there was a way to improve this function so I took a crack at it myself –THP
+-- nope asked if there was a way to improve this function so I took a crack at it myself Â–THP
 function NC_Wassoulou_CountEnemyRoutesOnGameStart()
 	print("NC_Wassoulou_CountEnemyRoutesOnGameStart: Running...")
 	local tEnemyTeams = {}
@@ -219,11 +219,10 @@ function NC_Wassoulou_CountEnemyRoutesOnGameStart()
 			local iCountedWars = 0
 			
 			for otherTeamID, pOtherTeam in pairs(Teams) do
-					if pOtherTeam:IsAtWar(iTeam) then
-						iCountedWars = iCountedWars + 1
-						tEnemyTeams[otherTeamID] = pOtherTeam
-						if iCountedWars >= iNumWars then break end
-					end
+				if pOtherTeam:IsAtWar(iTeam) then
+					iCountedWars = iCountedWars + 1
+					tEnemyTeams[otherTeamID] = pOtherTeam
+					if iCountedWars >= iNumWars then break end
 				end
 			end
 			for otherPlayerID, pOtherPlayer in pairs(Players) do
