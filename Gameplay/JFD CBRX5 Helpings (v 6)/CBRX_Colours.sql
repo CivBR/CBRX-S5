@@ -161,10 +161,10 @@ Green = (SELECT Green FROM Civilization_CBRX_Colours WHERE SecondaryColor = Type
 Blue = (SELECT Blue FROM Civilization_CBRX_Colours WHERE SecondaryColor = Type)
 WHERE Type IN (SELECT SecondaryColor FROM Civilization_CBRX_Colours WHERE IsBackground = 1);
 
-UPDATE Civilizations
+/* UPDATE Civilizations
 SET IconAtlas = (CASE WHEN EXISTS (SELECT NewIconAtlas FROM Civilization_CBRX_Colours WHERE NewIconAtlas IS NOT NULL AND CivilizationType = Type) THEN (SELECT NewIconAtlas FROM Civilization_CBRX_Colours WHERE NewIconAtlas IS NOT NULL AND CivilizationType = Type) ELSE (SELECT IconAtlas FROM Civilizations WHERE Type = Type) END),
 PortraitIndex = (CASE WHEN EXISTS (SELECT NewPortraitIndex FROM Civilization_CBRX_Colours WHERE NewPortraitIndex <> -1 AND CivilizationType = Type) THEN (SELECT NewPortraitIndex FROM Civilization_CBRX_Colours WHERE NewPortraitIndex <> -1 AND CivilizationType = Type) ELSE (SELECT PortraitIndex FROM Civilizations WHERE Type = Type) END)
-WHERE Type IN (SELECT CivilizationType FROM Civilization_CBRX_Colours);
+WHERE Type IN (SELECT CivilizationType FROM Civilization_CBRX_Colours); */
 
 CREATE TRIGGER JFD_Civilization_CBRX_Colours_Civilizations
 AFTER INSERT ON Civilizations
@@ -190,13 +190,14 @@ BEGIN
 	Blue = (SELECT Blue FROM Civilization_CBRX_Colours WHERE SecondaryColor = Type)
 	WHERE Type IN (SELECT SecondaryColor FROM Civilization_CBRX_Colours WHERE IsBackground = 1 AND CivilizationType = NEW.Type);
 
-	UPDATE Civilizations
+	/* UPDATE Civilizations
 	SET IconAtlas = (CASE WHEN EXISTS (SELECT NewIconAtlas FROM Civilization_CBRX_Colours WHERE NewIconAtlas IS NOT NULL AND CivilizationType = Type) THEN (SELECT NewIconAtlas FROM Civilization_CBRX_Colours WHERE NewIconAtlas IS NOT NULL AND CivilizationType = Type) ELSE (SELECT IconAtlas FROM Civilizations WHERE Type = Type) END),
 	PortraitIndex = (CASE WHEN EXISTS (SELECT NewPortraitIndex FROM Civilization_CBRX_Colours WHERE NewPortraitIndex <> -1 AND CivilizationType = Type) THEN (SELECT NewPortraitIndex FROM Civilization_CBRX_Colours WHERE NewPortraitIndex <> -1 AND CivilizationType = Type) ELSE (SELECT PortraitIndex FROM Civilizations WHERE Type = Type) END)
-	WHERE Type IN (SELECT CivilizationType FROM Civilization_CBRX_Colours WHERE CivilizationType = NEW.Type);
+	WHERE Type IN (SELECT CivilizationType FROM Civilization_CBRX_Colours WHERE CivilizationType = NEW.Type); */
 END;
 --==========================================================================================================================
 
 --==========================================================================================================================
+
 
 
