@@ -89,7 +89,7 @@ GameEvents.CityCaptureComplete.Add(CultureFromCityCapture)
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
-local iMekter = GameInfoTypes["TXT_KEY_BUILDING_TCM_MEKTER"]
+local iMekter = GameInfoTypes["BUILDING_TCM_MEKTER"]
 function MekterExperience(ownerId, cityId, buildingType, bGold, bFaithOrCulture)
 	local player = Players[ownerId]
 	local city = player:GetCityByID(cityId)
