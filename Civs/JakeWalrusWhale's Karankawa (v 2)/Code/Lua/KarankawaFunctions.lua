@@ -28,12 +28,13 @@ end
 --===========================================================================
 -- TABLESAVERLOADER SUPPORT
 --===========================================================================
+include("CBRX_TSL_GlobalDefines.lua");
 include("TableSaverLoader016.lua");
-JWW_Karankawa = {}
-include("Karankawa_TSLSerializerV3.lua");
 
-JWW_Karankawa.DugoutPlots = JWW_Karankawa.DugoutPlots or {}
-DugoutPlots = JWW_Karankawa.DugoutPlots
+tableRoot = CBRX
+tableName = "CBRX"
+
+include("CBRX_TSL_TSLSerializerV3.lua");
 
 TableLoad(tableRoot, tableName)
 
