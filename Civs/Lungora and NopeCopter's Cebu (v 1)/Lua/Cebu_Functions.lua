@@ -6,13 +6,13 @@
 -- ======================== --
 
 -- Just stealing the includes from the code I'm referencing to be safe
-include("Cebu_GlobalDefines.lua");
+include("CBRX_TSL_GlobalDefines.lua");
 include("TableSaverLoader016.lua");
 
-tableRoot = NC_Cebu
-tableName = "NC_Cebu"
+tableRoot = CBRX
+tableName = "CBRX"
 
-include("Cebu_TSLSerializerV3.lua");
+include("CBRX_TSL_TSLSerializerV3.lua");
 
 TableLoad(tableRoot, tableName)
 
