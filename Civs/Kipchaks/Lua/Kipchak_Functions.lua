@@ -15,13 +15,13 @@ include("IconSupport.lua")
 -- ======================== --
 
 -- Just stealing the includes from the code I'm referencing to be safe
-include("Kipchaks_GlobalDefines.lua");
+include("CBRX_TSL_GlobalDefines.lua");
 include("TableSaverLoader016.lua");
 
-tableRoot = Lung_Kipchaks
-tableName = "Lung_Kipchaks"
+tableRoot = CBRX
+tableName = "CBRX"
 
-include("Kipchaks_TSLSerializerV3.lua");
+include("CBRX_TSL_TSLSerializerV3.lua");
 
 TableLoad(tableRoot, tableName)
 
@@ -208,7 +208,7 @@ local iPracticalNumCivs = (GameDefines.MAX_MAJOR_CIVS - 1)
 ------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------
--- UA: Units garrisoned in cities may become mercenaries, disappearing from your control to join a foreign civÅfs army and granting you money
+-- UA: Units garrisoned in cities may become mercenaries, disappearing from your control to join a foreign civ¬Åfs army and granting you money
 ------------------------------------------------------------------------------------------------------------------------
 local pActivePlayer = Players[Game.GetActivePlayer()]
 local domainLandID = GameInfoTypes["DOMAIN_LAND"]
