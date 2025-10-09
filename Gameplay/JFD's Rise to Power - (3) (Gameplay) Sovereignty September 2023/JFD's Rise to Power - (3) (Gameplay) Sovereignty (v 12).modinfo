@@ -340,8 +340,6 @@
     <File md5="FE26FD4806D2E7A222CA36BE7A02F67B" import="0">Core/Sovereignty_Triggers.sql</File>
     <File md5="E845CBD80BFC769624F670D7887F6392" import="0">Core/Sovereignty_WondersCP.sql</File>
     <File md5="EA41BA2AC23E5A1989159AD9B8818241" import="0">Credits.txt</File>
-    <File md5="984E19D8400E3ED7C25C771E4EB0F3DE" import="0">Lua/JFD_RTP_Sovereignty_GovernmentOverview.lua.bak</File>
-    <File md5="052D008A722FF85BDD909F234F80E9EC" import="0">Lua/JFD_RTP_Sovereignty_GovernmentOverview.xml.bak</File>
     <File md5="EA08D132969B5E86A8A60605929666FC" import="0">Lua/JFD_RTP_Sovereignty_TopPanel.lua</File>
     <File md5="BCD751EF9FE8738A87681C30B1DCB095" import="0">Lua/JFD_RTP_Sovereignty_TopPanel.xml</File>
     <File md5="51536C069F398C4ED473C2D120E54966" import="0">Lua/JFD_RTP_Sovereignty_ChooseGovernmentPopup.lua</File>
@@ -352,7 +350,6 @@
     <File md5="22CA9C2797894B6E9DC3EF5FCCFEE933" import="0">Lua/JFD_RTP_Sovereignty_GovernmentOverview.xml</File>
     <File md5="882BD1EDFD547096C34F6A733C3946E7" import="0">Lua/JFD_RTP_Sovereignty_Functions.lua</File>
     <File md5="4F3419F1BBB248705D8E3A7D70730B31" import="0">Lua/UI/FrontEnd/LoadScreen/LoadScreen.lua</File>
-    <File md5="A1B46754F7908183BF39C0442406933A" import="0">Lua/Utilities/JFD_Sovereignty_Utils.bak</File>
     <File md5="9984E587AEA19B4D1D3CD97387CD87E0" import="1">Lua/Utilities/JFD_Sovereignty_Utils.lua</File>
   </Files>
   <Actions>
@@ -387,6 +384,26 @@
   <EntryPoints>
     <EntryPoint type="InGameUIAddin" file="Lua/JFD_RTP_Sovereignty_Functions.lua">
       <Name>JFD_Sovereignty_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_RTP_Sovereignty_ChooseGovernmentPopup.lua">
+      <Name>JFD_RTP_Sovereignty_ChooseGovernmentPopup.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_RTP_Sovereignty_EndTurnButton.lua">
+      <Name>JFD_RTP_Sovereignty_EndTurnButton.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_RTP_Sovereignty_GovernmentOverview.lua">
+      <Name>JFD_RTP_Sovereignty_GovernmentOverview.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_RTP_Sovereignty_TopPanel.lua">
+      <Name>JFD_RTP_Sovereignty_TopPanel.lua</Name>
       <Description>
       </Description>
     </EntryPoint>
