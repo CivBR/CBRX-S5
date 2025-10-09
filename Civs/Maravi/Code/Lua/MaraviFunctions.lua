@@ -10,14 +10,21 @@ include("InstanceManager.lua")
 local iMaravi = GameInfoTypes["CIVILIZATION_JWW_MARAVI"]
 
 --TableSaverLoader (needed for Eye of Universe and its hints)
-include("TableSaverLoader016.lua")
-JWW_Maravi = {}
-include("JWWMaraviTSL.lua")
+include("CBRX_TSL_GlobalDefines.lua");
+include("TableSaverLoader016.lua");
 
-JWW_Maravi.NyauTracker = JWW_Maravi.NyauTracker or {}
-tNyauTracker = JWW_Maravi.NyauTracker
+tableRoot = CBRX
+tableName = "CBRX"
+
+include("CBRX_TSL_TSLSerializerV3.lua");
 
 TableLoad(tableRoot, tableName)
+
+function OnModLoaded() 
+	local bNewGame = not TableLoad(tableRoot, tableName)
+	TableSave(tableRoot, tableName)
+end
+OnModLoaded()
 
 local iPracticalNumCivs = (GameDefines.MAX_MAJOR_CIVS - 1)
 function JFD_IsCivilisationActive(civilizationID)
