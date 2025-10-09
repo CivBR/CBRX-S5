@@ -7,13 +7,13 @@
 
 -- Just stealing the includes from the code I'm referencing to be safe
 -- TODO: Actually add the TSL files to the mod
-include("Zazzau_GlobalDefines.lua");
+include("CBRX_TSL_GlobalDefines.lua");
 include("TableSaverLoader016.lua");
 
-tableRoot = NC_Zazzau
-tableName = "NC_Zazzau"
+tableRoot = CBRX
+tableName = "CBRX"
 
-include("Zazzau_TSLSerializerV3.lua");
+include("CBRX_TSL_TSLSerializerV3.lua");
 
 TableLoad(tableRoot, tableName)
 
