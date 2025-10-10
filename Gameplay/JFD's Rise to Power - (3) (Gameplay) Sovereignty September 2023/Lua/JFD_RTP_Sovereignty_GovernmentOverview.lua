@@ -1,3 +1,4 @@
+print("Sovereignty: Government Overview: beginning to load file")
 -------------------------------------------------
 -- SocialPolicy Chooser Popup
 -------------------------------------------------
@@ -1354,3 +1355,6 @@ function OnCloseRevolutionButtonClicked()
    Controls.RevolutionBox:SetHide(true)
 end
 Controls.CloseRevolutionButton:RegisterCallback( Mouse.eLClick, OnCloseRevolutionButtonClicked );
+
+print("Sovereignty: Government Overview: file should be loaded successfully! let's double-check that we're hiding ContextPtr now")
+ContextPtr:SetHide(true)
