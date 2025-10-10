@@ -1122,10 +1122,10 @@ end
 ----------------------------------------------------------------
 -- Updates the sort option structure
 function UpdateSortOptionState(sortOptions, selectedOption)
-	Current behavior is to only have 1 sort option enabled at a time
-	though the rest of the structure is built to support multiple in the future.
-	If a sort option was selected that wasn't already selected, use the default
-	direction.  Otherwise, toggle to the other direction.
+	-- Current behavior is to only have 1 sort option enabled at a time
+	-- though the rest of the structure is built to support multiple in the future.
+	-- If a sort option was selected that wasn't already selected, use the default
+	-- direction.  Otherwise, toggle to the other direction.
 	for i,v in ipairs(sortOptions) do
 		if(v == selectedOption) then
 			if(v.CurrentDirection == nil) then
@@ -1356,5 +1356,5 @@ function OnCloseRevolutionButtonClicked()
 end
 Controls.CloseRevolutionButton:RegisterCallback( Mouse.eLClick, OnCloseRevolutionButtonClicked );
 
-print("Sovereignty: Government Overview: file should be loaded successfully! let's double-check that we're hiding ContextPtr now")
-UIManager:DequeuePopup(ContextPtr)
+-- print("Sovereignty: Government Overview: file should be loaded successfully! let's double-check that we're hiding ContextPtr now")
+-- UIManager:DequeuePopup(ContextPtr)
