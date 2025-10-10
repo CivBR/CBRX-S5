@@ -94,7 +94,7 @@ Events.SerialEventGameMessagePopup.Add( OnPopupMessage );
 -------------------------------------------------------------------------------
 function InputHandler( uiMsg, wParam, lParam )
     ----------------------------------------------------------------
-    Key Down Processing
+    -- Key Down Processing
     ----------------------------------------------------------------
     if uiMsg == KeyEvents.KeyDown then
         if (wParam == Keys.VK_ESCAPE) then
