@@ -387,16 +387,6 @@
       <Description>
       </Description>
     </EntryPoint>
-    <EntryPoint type="InGameUIAddin" file="Lua/JFD_RTP_Sovereignty_ChooseGovernmentPopup.lua">
-      <Name>JFD_RTP_Sovereignty_ChooseGovernmentPopup.lua</Name>
-      <Description>
-      </Description>
-    </EntryPoint>
-    <EntryPoint type="InGameUIAddin" file="Lua/JFD_RTP_Sovereignty_EndTurnButton.lua">
-      <Name>JFD_RTP_Sovereignty_EndTurnButton.lua</Name>
-      <Description>
-      </Description>
-    </EntryPoint>
     <EntryPoint type="InGameUIAddin" file="Lua/JFD_RTP_Sovereignty_GovernmentOverview.lua">
       <Name>JFD_RTP_Sovereignty_GovernmentOverview.lua</Name>
       <Description>
