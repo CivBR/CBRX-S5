@@ -110,7 +110,7 @@ end
 --==========================================================================================================================
 --lets the AI use mrauk u faith purchases
 --print("Checkpoint 10")
-local function ASQ_ScotlandMary_AI_FaithPurchase(playerID)
+function ASQ_ScotlandMary_AI_FaithPurchase(playerID)
 	local pPlayer = Players[playerID]
 	local pTeam = Teams[pPlayer:GetTeam()]
 	if pPlayer:IsBarbarian() then return end
@@ -160,7 +160,7 @@ local function ASQ_ScotlandMary_AI_FaithPurchase(playerID)
 end
 GameEvents.PlayerDoTurn.Add(ASQ_ScotlandMary_AI_FaithPurchase)
 
-local function ScotlandMary_GetMainReligion(pPlayer)
+function ScotlandMary_GetMainReligion(pPlayer)
 	if pPlayer:HasCreatedReligion() then
 		return pPlayer:GetReligionCreatedByPlayer()
 	end
@@ -183,7 +183,7 @@ function GetStrongestMilitaryUnit(pPlayer, bIgnoreResources, ...)
 end
 
 local defineWLTKDTurns = GameDefines["CITY_RESOURCE_WLTKD_TURNS"]
-local function ScotlandMary_UA_Plot_DoEffect(playerID, pCity)
+function ScotlandMary_UA_Plot_DoEffect(playerID, pCity)
 	local pPlayer = Players[playerID]
 	local pCapital = pPlayer:GetCapitalCity()
 	local pMainReligion = ScotlandMary_GetMainReligion(pPlayer)
