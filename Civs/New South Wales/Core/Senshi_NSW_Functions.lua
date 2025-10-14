@@ -268,7 +268,8 @@ local function Senshi_NSW_CityCaptureComplete(oldOwnerID, isCapital, plotX, plot
 	if (not playerCapital) then return end
 
 	--UA
-	if city:GetGarrisonedUnit() and city:GetGarrisonedUnit() == unitRumCorpsID then
+	local garrison = city:GetGarrisonedUnit()
+	if garrison and (garrison:GetUnitType() == unitRumCorpsID) then
 		local resources = {}
 		local resourcesCount = 1
 		for row, _ in pairs(tRawResources) do
@@ -284,8 +285,8 @@ local function Senshi_NSW_CityCaptureComplete(oldOwnerID, isCapital, plotX, plot
 	
 	--pasture table: pastures captured
 	for loopPlot in PlotAreaSweepIterator(city:Plot(), 3, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
-		local plotID = loopPlot:GetPlotIndex()
-		if loopPlot:GetImprovementType() == improvementPastureID then
+		if loopPlot and (loopPlot:GetImprovementType() == improvementPastureID) then
+			local plotID = loopPlot:GetPlotIndex()
 			tPastures[oldOwnerID][plotID] = false
 			tPastures[newOwnerID][plotID] = true
 		end
