@@ -112,6 +112,7 @@ local observerTechs = {
 }
 
 local observerTHETechTHE = GameInfoTypes["TECH_CBR_OBSERVER"]
+local maxMaj = GameDefines.MAX_MAJOR_CIVS
 
 local fwModID = "d9ece224-6cd8-4519-a27a-c417b59cdf35"
 
@@ -132,10 +133,15 @@ function setTSLs()
 
 	if Game.CountKnownTechNumTeams(observerTHETechTHE) > 0 then
 		print("Observer has sentience, all done.")
+		if Game.CountKnownTechNumTeams(observerTHETechTHE) == 1 then
+			for teamID, pTeam in pairs(Teams) do
+				pTeam:GetTeamTechs():SetHasTech(observerTHETechTHE, true)
+			end
+		end
 		return
 	end
 
-	for currentPlayer = 0, GameDefines.MAX_MAJOR_CIVS - 1, 1 do
+	for currentPlayer = 0, maxMaj - 1, 1 do
 		local player = Players[currentPlayer]
 		if not player then return end
 
@@ -296,10 +302,15 @@ local function setTerrainChanges(playerID, plotX, plotY)
 
 	if Game.CountKnownTechNumTeams(observerTerrainChangesTechID) > 0 then
 		GameEvents.PlayerCityFounded.Remove(setTerrainChanges)
+		if Game.CountKnownTechNumTeams(observerTerrainChangesTechID) == 1 then
+			for teamID, pTeam in pairs(Teams) do
+				pTeam:GetTeamTechs():SetHasTech(observerTerrainChangesTechID, true)
+			end
+		end
 		return
 	end
 
-	for currentPlayer = 0, GameDefines.MAX_MAJOR_CIVS - 1, 1 do
+	for currentPlayer = 0, maxMaj - 1, 1 do
 		local player = Players[currentPlayer]
 		if player:IsAlive() then
 			if (not player:GetCapitalCity()) then
@@ -309,7 +320,7 @@ local function setTerrainChanges(playerID, plotX, plotY)
 	end	
 	
 	local playerObserverID = -1
-	for currentPlayer = 0, GameDefines.MAX_MAJOR_CIVS - 1, 1 do
+	for currentPlayer = 0, maxMaj - 1, 1 do
 		local player = Players[currentPlayer]
 		if player:IsAlive() then
 			if player:GetCivilizationType() == civilizationObserverID then
@@ -344,3 +355,4 @@ end
 if Game.CountKnownTechNumTeams(observerTerrainChangesTechID) == 0 then
 	GameEvents.PlayerCityFounded.Add(setTerrainChanges)
 end
+
