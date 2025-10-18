@@ -203,7 +203,7 @@ function ASQ_Umhaill_UA_UnitPrekill(unitOwnerId, unitId, unitType, unitX, unitY,
 		local player = Players[unitOwnerId]
 		local enemyPlayer = Players[eKillingPlayer]
 		-- Use this to make sure that the effect doesn't trigger if the unit is disbanded or expended for something. It MUST be killed.
-		if enemyPlayer and enemyPlayer ~= player then
+		if enemyPlayer and enemyPlayer ~= -1 and enemyPlayer ~= player then
 			if player:GetCivilizationType() == civilizationID then
 				-- print("ASQ_Umhaill_UA_UnitPrekill: Dead unit player is Umhaill")
 				local unit = player:GetUnitByID(unitId)
