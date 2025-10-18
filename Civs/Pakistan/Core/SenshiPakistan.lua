@@ -104,6 +104,7 @@ function C15_Senshi_Pakistan_DoTurn(playerID)
 	local iReligion = C15_YourReligion(pPlayer)
 	local bReligion = iReligion > 0
 	local bUnitClass = pPlayer:GetUnitClassCount(iUUClass) > 0
+	--[[ -- this iterator is skippable b/c the CBR doesn't have city-states
 	if bUnitClass and bReligion then
 		local bActive = Game.GetActivePlayer() == playerID
 		for pUnit in pPlayer:Units() do
@@ -122,7 +123,7 @@ function C15_Senshi_Pakistan_DoTurn(playerID)
 				end
 			end
 		end
-	end
+	end --]]
 	
 	if tLeaders[pPlayer:GetLeaderType()] or bUnitClass or pPlayer:CountNumBuildings(iHappinessDummy) > 0 or pPlayer:CountNumBuildings(iUB) > 0 or pPlayer:CountNumBuildings(iPressureDummy) > 0 then
 		for pCity in pPlayer:Cities() do
