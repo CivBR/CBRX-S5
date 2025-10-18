@@ -8,6 +8,7 @@ include("RiverConnections.lua")
 
 local civilizationID = GameInfoTypes["CIVILIZATION_RHO_ITELMEN"]
 local buildPehmy = GameInfoTypes["BUILDING_RHO_PEHMY"]
+local classCrossbowman = GameInfoTypes["UNITCLASS_CROSSBOWMAN"]
 local unitKamma = GameInfoTypes["UNIT_RHO_KAMMA"]
 local buildKist = GameInfoTypes["BUILDING_RHO_KIST"]
 local dumPehmyprod = GameInfoTypes["BUILDING_RHO_PEHMYPROD_DUMMY"]
@@ -130,6 +131,7 @@ function ItelmenRiverCountUUPDT (playerID)
 	if player:IsHuman() and nRiversInEmpire > 0 then
 		Events.GameplayAlertMessage(Locale.ConvertTextKey("You receive {1_Num} [ICON_PEACE] Faith and {2_Num} [ICON_CULTURE] Culture from the number of different rivers you have settled.", nRiversInEmpire, 3*nRiversInEmpire))
 	end
+	if not player:HasUnitOfClassType(classCrossbowman) then return end -- skip iteration if we'll never pass the first check
 	for unit in player:Units() do
 		if unit:GetUnitType() == unitKamma then
 			for direction = 0, iNumDir, 1 do
