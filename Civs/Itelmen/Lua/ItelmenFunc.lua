@@ -132,6 +132,7 @@ function ItelmenRiverCountUUPDT (playerID)
 		Events.GameplayAlertMessage(Locale.ConvertTextKey("You receive {1_Num} [ICON_PEACE] Faith and {2_Num} [ICON_CULTURE] Culture from the number of different rivers you have settled.", nRiversInEmpire, 3*nRiversInEmpire))
 	end
 	if not player:HasUnitOfClassType(classCrossbowman) then return end -- skip iteration if we'll never pass the first check
+	local team = Teams[player:GetTeam()]
 	for unit in player:Units() do
 		if unit:GetUnitType() == unitKamma then
 			for direction = 0, iNumDir, 1 do
@@ -141,8 +142,7 @@ function ItelmenRiverCountUUPDT (playerID)
 					if iNumUnits > 0 then
 						for i = 0, iNumUnits - 1 do
 							local aplotunit = aplot:GetUnit(i)
-							local team = Teams[player:GetTeam()]
-							if aplotunit:IsBarbarian() or (aplotunit:GetUnitCombatType() == combatGun and Teams[Players[aplotunit:GetOwner()]:GetTeam()]:IsAtWar(team) ) then
+							if aplotunit:IsBarbarian() or (aplotunit:GetUnitCombatType() == combatGun and team:IsAtWar(Players[aplotunit:GetOwner()]:GetTeam()) ) then
 								aplotunit:SetHasPromotion(promKammaslowed, true)
 							end
 						end
