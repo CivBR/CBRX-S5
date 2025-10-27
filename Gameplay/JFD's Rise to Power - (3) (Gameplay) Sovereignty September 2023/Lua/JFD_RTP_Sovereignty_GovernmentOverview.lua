@@ -7,6 +7,7 @@ include( "IconSupport" );
 include( "InstanceManager" );
 include( "CommonBehaviors" );
 include( "FLuaVector" );
+include("JFD_Sovereignty_Utils.lua")
 
 local g_IsCBRTestActive = Game.IsCBRTesterActive()
 
