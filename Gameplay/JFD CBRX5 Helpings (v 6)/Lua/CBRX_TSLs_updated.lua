@@ -312,7 +312,7 @@ local function setTerrainChanges(playerID, plotX, plotY)
 
 	for currentPlayer = 0, maxMaj - 1, 1 do
 		local player = Players[currentPlayer]
-		if player:IsAlive() then
+		if player:IsAlive() and not player:IsHuman() then
 			if (not player:GetCapitalCity()) then
 				return
 			end
@@ -355,4 +355,5 @@ end
 if Game.CountKnownTechNumTeams(observerTerrainChangesTechID) == 0 then
 	GameEvents.PlayerCityFounded.Add(setTerrainChanges)
 end
+
 
