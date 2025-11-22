@@ -77,6 +77,7 @@ local tTourismDummies = {
 ------------------------------------------------------------------------------------------------------------------------
 function AddJungleDummies(iPlayer)
 	local pPlayer = Players[iPlayer]
+	if pPlayer:GetCivilizationType() ~= iYanomamiCiv then return end
 	for pCity in pPlayer:Cities() do
 		for i, v in pairs(tTourismDummies) do
 			pCity:SetNumRealBuilding(v, 0)
